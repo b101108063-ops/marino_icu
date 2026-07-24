@@ -30,6 +30,7 @@ jobs:
 
       - name: Download PaperMod theme
         run: |
+          mkdir -p themes
           curl -sL https://github.com/adityatelange/hugo-PaperMod/archive/refs/heads/master.tar.gz | tar xz
           mv hugo-PaperMod-master themes/PaperMod
 
