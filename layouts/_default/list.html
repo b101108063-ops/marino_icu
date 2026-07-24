@@ -5,22 +5,16 @@
 </header>
 
 <div class="list-container" style="margin-top:2rem;">
-    {{ $all := where site.Pages "Section" "marino_icu" }}
-    {{ range $all }}
-        {{ if eq .File.LogicalName "_index" }}
-            {{ .Scratch.Set "indexPage" . }}
-        {{ else }}
-            {{ $ch := .Params.chapter }}
-            {{ $num := trim $ch "CH" | printf "%02s" . }}
-            {{ .Scratch.SetInMap "sorted" $num . }}
+    {{ range seq 1 53 }}
+        {{ $n := . }}
+        {{ $ch := printf "CH%02d" $n }}
+        {{ range where $.Site.Pages "Params.chapter" $ch }}
+            <a href="{{ .Permalink }}" class="list-item">
+                <span class="ch-num">{{ .Params.chapter }}</span>
+                <span class="section-title">{{ .Title }}</span>
+                <span class="arrow">➔</span>
+            </a>
         {{ end }}
-    {{ end }}
-    {{ range sort (.Scratch.Get "sorted") "key" }}
-        <a href="{{ .Permalink }}" class="list-item">
-            <span class="ch-num">{{ .Params.chapter }}</span>
-            <span class="section-title">{{ .Title }}</span>
-            <span class="arrow">➔</span>
-        </a>
     {{ end }}
 </div>
 
