@@ -5,13 +5,19 @@
 </header>
 
 <div class="list-container" style="margin-top:2rem;">
-    {{ $pages := where site.Pages "Section" "marino_icu" }}
-    {{ range $pages.ByTitle }}
-        <a href="{{ .Permalink }}" class="list-item">
-            <span class="ch-num">{{ .Params.chapter }}</span>
-            <span class="section-title">{{ .Title }}</span>
-            <span class="arrow">➔</span>
-        </a>
+    {{ $allPages := where site.Pages "Section" "marino_icu" }}
+    {{ range seq 1 53 }}
+        {{ $n := . }}
+        {{ $ch := printf "CH%02d" $n }}
+        {{ range $allPages }}
+            {{ if eq .Params.chapter $ch }}
+                <a href="{{ .Permalink }}" class="list-item">
+                    <span class="ch-num">{{ .Params.chapter }}</span>
+                    <span class="section-title">{{ .Title }}</span>
+                    <span class="arrow">➔</span>
+                </a>
+            {{ end }}
+        {{ end }}
     {{ end }}
 </div>
 
