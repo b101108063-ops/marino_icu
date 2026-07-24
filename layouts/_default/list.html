@@ -8,13 +8,14 @@
     {{ range seq 1 53 }}
         {{ $n := . }}
         {{ $ch := printf "CH%02d" $n }}
-        {{ $found := where $.Site.RegularPages "Params.chapter" $ch }}
-        {{ range $found }}
+        {{ range where $.Site.RegularPages "Params.chapter" $ch }}
+            {{ if ne .File.LogicalName "_index" }}
             <a href="{{ .Permalink }}" class="list-item">
                 <span class="ch-num">{{ .Params.chapter }}</span>
                 <span class="section-title">{{ .Title }}</span>
                 <span class="arrow">➔</span>
             </a>
+            {{ end }}
         {{ end }}
     {{ end }}
 </div>
