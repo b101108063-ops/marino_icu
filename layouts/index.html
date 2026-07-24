@@ -6,9 +6,10 @@
 
 <div class="bookshelf-container">
     <div class="book-card">
-        <h2 class="book-card-title">Marino's ICU Book</h2>
+        <h2 class="book-card-title">Marino's ICU Book (4th Edition)</h2>
         <div class="book-card-actions">
-            <a href="{{ "content/" | absURL }}" class="book-action-btn primary">📖 章節清單</a>
+            <a href="{{ "marino_icu/" | absURL }}" class="book-action-btn primary">📖 章節清單</a>
+            <a href="{{ "search/" | absURL }}" class="book-action-btn secondary">🔍 搜尋</a>
         </div>
     </div>
 </div>
@@ -21,5 +22,7 @@
 .book-action-btn{flex:1;display:flex;align-items:center;justify-content:center;padding:0.9rem 1.2rem;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1rem;transition:all 0.2s;box-sizing:border-box}
 .book-action-btn.primary{background:#3a86ff;color:#fff}
 .book-action-btn.primary:hover{background:#2563eb;transform:translateY(-2px)}
+.book-action-btn.secondary{background:#242526;color:#3a86ff;border:1px solid #38393a}
+.book-action-btn.secondary:hover{background:#3a86ff;color:#fff;border-color:#3a86ff;transform:translateY(-2px)}
 </style>
 {{ end }}
