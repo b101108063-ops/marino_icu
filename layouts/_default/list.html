@@ -8,7 +8,7 @@
     {{ range seq 1 53 }}
         {{ $n := . }}
         {{ $ch := printf "CH%02d" $n }}
-        {{ range where $.Site.Pages "Params.chapter" $ch }}
+        {{ range where $.Site.RegularPages "Params.chapter" $ch }}
             <a href="{{ .Permalink }}" class="list-item">
                 <span class="ch-num">{{ .Params.chapter }}</span>
                 <span class="section-title">{{ .Title }}</span>
