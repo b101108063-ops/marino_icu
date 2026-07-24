@@ -6,11 +6,15 @@
 
 <div class="list-container" style="margin-top:2rem;">
     {{ $pages := where site.Pages "Section" "marino_icu" }}
+    {{ $sorted := slice }}
     {{ range $pages }}
-        {{ $ch := .Params.chapter | default .File.LogicalName }}
-        <a href="{{ .Permalink }}" class="list-item">
-            <span class="ch-num">{{ $ch }}</span>
-            <span class="section-title">{{ .Title }}</span>
+        {{ $num := .Params.chapter | default "CH00" | replaceRE "CH" "" | int }}
+        {{ $sorted = $sorted | append (dict "page" . "num" $num) }}
+    {{ end }}
+    {{ range sort $sorted "num" }}
+        <a href="{{ .page.Permalink }}" class="list-item">
+            <span class="ch-num">{{ .page.Params.chapter }}</span>
+            <span class="section-title">{{ .page.Title }}</span>
             <span class="arrow">➔</span>
         </a>
     {{ end }}
