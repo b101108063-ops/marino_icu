@@ -1,11 +1,11 @@
 {{ define "main" }}
 <header class="page-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;">
     <h1>Marino ICU Book 章節清單</h1>
-    <a href="{{ "search/" | absURL }}" class="book-search-btn">🔍 筆記搜尋</a>
+    <a href="{{ "search/" | absURL }}" class="book-search-btn">🔍 搜尋</a>
 </header>
 
 <div class="list-container" style="margin-top:2rem;">
-    {{ $pages := where site.RegularPages "Section" "content" }}
+    {{ $pages := where site.RegularPages "Type" "in" (slice "page" "content") }}
     {{ $sorted := sort $pages "File.LogicalName" }}
     {{ range $sorted }}
         <a href="{{ .Permalink }}" class="list-item">
