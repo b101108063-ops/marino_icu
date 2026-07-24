@@ -7,9 +7,15 @@
 <div class="list-container" style="margin-top:2rem;">
     {{ $all := where site.Pages "Section" "marino_icu" }}
     {{ range $all }}
-        {{ .Scratch.Set "ch" .Params.chapter }}
+        {{ if eq .File.LogicalName "_index" }}
+            {{ .Scratch.Set "indexPage" . }}
+        {{ else }}
+            {{ $ch := .Params.chapter }}
+            {{ $num := trim $ch "CH" | printf "%02s" . }}
+            {{ .Scratch.SetInMap "sorted" $num . }}
+        {{ end }}
     {{ end }}
-    {{ range sort $all "Params.chapter" "asc" }}
+    {{ range sort (.Scratch.Get "sorted") "key" }}
         <a href="{{ .Permalink }}" class="list-item">
             <span class="ch-num">{{ .Params.chapter }}</span>
             <span class="section-title">{{ .Title }}</span>
