@@ -7,7 +7,7 @@
 <div class="list-container" style="margin-top:2rem;">
     {{ $all := where site.Pages "Section" "marino_icu" }}
     {{ range $all }}
-        {{ .Scratch.Set "num" (replace .Params.chapter "CH" "" | int) }}
+        {{ .Scratch.Set "ch" .Params.chapter }}
     {{ end }}
     {{ range sort $all "Params.chapter" "asc" }}
         <a href="{{ .Permalink }}" class="list-item">
