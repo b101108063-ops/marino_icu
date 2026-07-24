@@ -5,18 +5,17 @@
 </header>
 
 <div class="list-container" style="margin-top:2rem;">
-    {{ $pages := where site.Pages "Section" "marino_icu" }}
-    {{ $sorted := slice }}
-    {{ range $pages }}
-        {{ $num := .Params.chapter | default "CH00" | replaceRE "CH" "" | int }}
-        {{ $sorted = $sorted | append (dict "page" . "num" $num) }}
-    {{ end }}
-    {{ range sort $sorted "num" }}
-        <a href="{{ .page.Permalink }}" class="list-item">
-            <span class="ch-num">{{ .page.Params.chapter }}</span>
-            <span class="section-title">{{ .page.Title }}</span>
-            <span class="arrow">➔</span>
-        </a>
+    {{ range seq 1 53 }}
+        {{ $n := . }}
+        {{ $ch := printf "CH%02d" $n }}
+        {{ $page := where site.Pages "Params.chapter" $ch }}
+        {{ range $page }}
+            <a href="{{ .Permalink }}" class="list-item">
+                <span class="ch-num">{{ .Params.chapter }}</span>
+                <span class="section-title">{{ .Title }}</span>
+                <span class="arrow">➔</span>
+            </a>
+        {{ end }}
     {{ end }}
 </div>
 
