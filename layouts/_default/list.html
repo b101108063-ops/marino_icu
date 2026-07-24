@@ -7,8 +7,10 @@
 <div class="list-container" style="margin-top:2rem;">
     {{ $pages := where site.Pages "Section" "marino_icu" }}
     {{ range $pages }}
+        {{ $ch := .Params.chapter | default .File.LogicalName }}
         <a href="{{ .Permalink }}" class="list-item">
-            <span class="section-title">📖 {{ .Title }}</span>
+            <span class="ch-num">{{ $ch }}</span>
+            <span class="section-title">{{ .Title }}</span>
             <span class="arrow">➔</span>
         </a>
     {{ end }}
@@ -17,9 +19,10 @@
 <style>
 .book-search-btn{background:#3a86ff;color:white;padding:0.6rem 1.2rem;border-radius:6px;text-decoration:none;font-weight:bold;font-size:0.95rem;transition:background 0.2s;}
 .book-search-btn:hover{background:#2563eb;}
-.list-container{display:flex!important;flex-direction:column!important;gap:10px!important;margin-top:2rem!important;max-width:800px;margin-left:auto;margin-right:auto;}
-.list-item{display:flex!important;align-items:center!important;justify-content:space-between!important;padding:1rem 1.5rem!important;background:#242526!important;color:#e5e7eb!important;text-decoration:none!important;border-radius:8px!important;border:1px solid #38393a!important;font-size:1.05rem!important;font-weight:500!important;box-sizing:border-box!important;transition:all 0.2s ease-in-out;}
+.list-container{display:flex!important;flex-direction:column!important;gap:10px!important;margin-top:2rem!important;max-width:900px;margin-left:auto;margin-right:auto;}
+.list-item{display:grid!important;grid-template-columns:60px 1fr 30px!important;align-items:center!important;padding:1rem 1.5rem!important;background:#242526!important;color:#e5e7eb!important;text-decoration:none!important;border-radius:8px!important;border:1px solid #38393a!important;font-size:1.05rem!important;font-weight:500!important;box-sizing:border-box!important;transition:all 0.2s ease-in-out;}
 .list-item:hover{background:#2a2b2c!important;border-color:#3a86ff!important;transform:translateX(4px);}
+.ch-num{color:#3a86ff;font-weight:bold;font-size:0.95rem;}
 .arrow{color:#3a86ff;font-weight:bold;}
 </style>
 {{ end }}
