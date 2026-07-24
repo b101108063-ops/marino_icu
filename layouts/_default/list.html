@@ -5,9 +5,8 @@
 </header>
 
 <div class="list-container" style="margin-top:2rem;">
-    {{ $pages := where site.RegularPages "Type" "in" (slice "page" "content") }}
-    {{ $sorted := sort $pages "File.LogicalName" }}
-    {{ range $sorted }}
+    {{ $section := site.GetPage "marino_icu" }}
+    {{ range $section.RegularPages }}
         <a href="{{ .Permalink }}" class="list-item">
             <span class="section-title">📖 {{ .Title }}</span>
             <span class="arrow">➔</span>
