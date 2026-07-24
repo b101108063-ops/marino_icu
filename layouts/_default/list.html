@@ -5,19 +5,16 @@
 </header>
 
 <div class="list-container" style="margin-top:2rem;">
-    {{ $allPages := where site.Pages "Section" "marino_icu" }}
-    {{ range seq 1 53 }}
-        {{ $n := . }}
-        {{ $ch := printf "CH%02d" $n }}
-        {{ range $allPages }}
-            {{ if eq .Params.chapter $ch }}
-                <a href="{{ .Permalink }}" class="list-item">
-                    <span class="ch-num">{{ .Params.chapter }}</span>
-                    <span class="section-title">{{ .Title }}</span>
-                    <span class="arrow">➔</span>
-                </a>
-            {{ end }}
-        {{ end }}
+    {{ $all := where site.Pages "Section" "marino_icu" }}
+    {{ range $all }}
+        {{ .Scratch.Set "num" (replace .Params.chapter "CH" "" | int) }}
+    {{ end }}
+    {{ range sort $all "Params.chapter" "asc" }}
+        <a href="{{ .Permalink }}" class="list-item">
+            <span class="ch-num">{{ .Params.chapter }}</span>
+            <span class="section-title">{{ .Title }}</span>
+            <span class="arrow">➔</span>
+        </a>
     {{ end }}
 </div>
 
