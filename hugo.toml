@@ -1,0 +1,38 @@
+baseURL = 'https://b101108063-ops.github.io/marino_icu/'
+locale = 'en-us'
+theme = "PaperMod"
+title = "Marino ICU Book"
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+
+[markup.goldmark.parser.attribute]
+title = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "首頁"
+    url = "/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "marino"
+    name = "Marino ICU"
+    url = "/marino_icu/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "search"
+    name = "搜尋"
+    url = "/search/"
+    weight = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[outputFormats.JSON]
+  mediatype = "application/json"
+  baseName = "index"
+  isPlainText = true
+  riqueza = true

@@ -1,0 +1,42 @@
+{{ define "main" }}
+<main class="main">
+<article class="post-single">
+  <header class="post-header">
+    <div class="note-breadcrumb" style="font-size:0.85rem;color:#3a86ff;margin-bottom:0.4rem;font-weight:600;text-transform:uppercase;letter-spacing:0.5px;">
+      📚 Marino's ICU Book
+    </div>
+    <h1 class="post-title" style="margin-bottom:0.2rem;">{{ .Params.specialty | default "Critical Care Medicine" }}</h1>
+    <div class="post-subtitle" style="font-size:1.35rem;color:#9ca3af;font-weight:500;border-bottom:1px solid #38393a;padding-bottom:1rem;margin-bottom:1rem;">
+      {{ .Params.title }}
+    </div>
+  </header>
+  <div class="post-content">{{ .Content }}</div>
+</article>
+</main>
+<style>
+.post-content>h1:first-child{display:none!important}
+.post-content{font-size:1.02rem;line-height:1.7;color:#e5e7eb;overflow-wrap:break-word;word-break:break-word}
+.post-content h2{font-size:1.4rem;color:#60a5fa;border-left:4px solid #3a86ff;padding-left:12px;margin-top:2.2rem;margin-bottom:1rem;font-weight:600}
+.post-content h3{font-size:1.2rem;color:#93c5fd;margin-top:1.8rem;margin-bottom:0.8rem;font-weight:600}
+.post-content ul{list-style-type:disc;padding-left:1.5rem;margin-bottom:1.2rem}
+.post-content li{margin-bottom:0.5rem;line-height:1.6}
+.table-wrapper{width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1.8rem 0;background:#242526;border-radius:8px;border:1px solid #38393a}
+.post-content table{display:table;width:100%;border-collapse:collapse;margin:0;font-size:0.95rem}
+.post-content th,.post-content td{padding:12px 16px;text-align:left;border-bottom:1px solid #38393a;color:#e5e7eb;min-width:100px}
+.post-content th{background:#2a2b2c;color:#3a86ff;font-weight:bold}
+.post-content tr:last-child td{border-bottom:none}
+.post-content tr:hover{background:#2a2b2c}
+@media screen and (max-width:768px){
+.post-single{padding:0 4px}
+.post-content th,.post-content td{padding:10px 12px;font-size:0.88rem}
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded",function(){
+document.querySelectorAll('.post-content table').forEach(function(t){
+var w=document.createElement('div');w.className='table-wrapper';t.parentNode.insertBefore(w,t);w.appendChild(t)});
+var h=document.querySelector('.post-content h1, .post-content h2');
+if(h&&h.innerText.trim()==="{{ .Title }}".trim())h.style.display='none'
+});
+</script>
+{{ end }}

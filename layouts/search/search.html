@@ -1,0 +1,112 @@
+{{ define "main" }}
+<header class="page-header">
+    <h1>🔍 醫療筆記全站搜尋</h1>
+</header>
+
+<div class="search-container">
+    <input type="text" id="search-input" placeholder="請輸入關鍵字（例如疾病名稱、藥物、症狀）..." autocomplete="off">
+    
+    <!-- 抓取全站所有筆記，並針對 Tintinalli 讀取 title_tc 作為分類顯示 -->
+    <div id="search-database" style="display: none;">
+        {{- range site.RegularPages -}}
+            {{- if ne .Layout "search" -}}
+                {{- $path := .RelPermalink -}}
+                {{- $bookName := "" -}}
+                {{- $categoryName := "" -}}
+                
+                {{- if in $path "huppert" -}}
+                    {{- $bookName = "Huppert's Notes" -}}
+                    {{- if in $path "part1" -}} {{- $categoryName = "Part 1: Cardiology" -}}
+                    {{- else if in $path "part2" -}} {{- $categoryName = "Part 2: Pulmonology" -}}
+                    {{- else if in $path "part3" -}} {{- $categoryName = "Part 3: Critical Care Medicine" -}}
+                    {{- else if in $path "part4" -}} {{- $categoryName = "Part 4: Gastroenterology" -}}
+                    {{- else if in $path "part5" -}} {{- $categoryName = "Part 5: Endocrinology" -}}
+                    {{- else if in $path "part6" -}} {{- $categoryName = "Part 6: Nephrology" -}}
+                    {{- else if in $path "part7" -}} {{- $categoryName = "Part 7: Hematology and Oncology" -}}
+                    {{- else if in $path "part8" -}} {{- $categoryName = "Part 8: Infectious Diseases" -}}
+                    {{- else if in $path "part9" -}} {{- $categoryName = "Part 9: Rheumatology" -}}
+                    {{- else if in $path "part10" -}} {{- $categoryName = "Part 10: General Medicine" -}}
+                    {{- else if in $path "part11" -}} {{- $categoryName = "Part 11: Dermatology" -}}
+                    {{- else if in $path "part12" -}} {{- $categoryName = "Part 12: Neurology" -}}
+                    {{- else if in $path "part13" -}} {{- $categoryName = "Part 13: Psychiatry" -}}
+                    {{- else if in $path "appendix" -}} {{- $categoryName = "Appendices & Abbreviations" -}}
+                    {{- end -}}
+                {{- else if in $path "tintinalli" -}}
+                    {{- $bookName = "Tintinalli's Emergency Medicine" -}}
+                    {{- $categoryName = .Params.title_tc -}}
+                {{- end -}}
+                
+                <div data-title="{{ .Title }}" 
+                     data-book="{{ $bookName }}"
+                     data-category="{{ $categoryName }}"
+                     data-permalink="{{ .Permalink }}"
+                     data-content="{{ .Plain | htmlUnescape }}"></div>
+            {{- end -}}
+        {{- end -}}
+    </div>
+
+    <div id="search-results" class="search-results-grid"></div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const searchInput = document.getElementById("search-input");
+    const searchResults = document.getElementById("search-results");
+    const dbElements = document.querySelectorAll("#search-database div");
+
+    const searchData = Array.from(dbElements).map(el => ({
+        title: el.getAttribute("data-title"),
+        book: el.getAttribute("data-book"),
+        category: el.getAttribute("data-category"),
+        permalink: el.getAttribute("data-permalink"),
+        content: el.getAttribute("data-content").toLowerCase()
+    }));
+
+    if (!searchInput) return;
+
+    searchInput.addEventListener("input", function (e) {
+        const query = e.target.value.toLowerCase().trim();
+        searchResults.innerHTML = "";
+
+        if (query === "") return;
+
+        const matches = searchData.filter(item => 
+            item.title.toLowerCase().includes(query) || 
+            item.content.includes(query) ||
+            item.book.toLowerCase().includes(query) ||
+            item.category.toLowerCase().includes(query)
+        );
+
+        if (matches.length === 0) {
+            searchResults.innerHTML = '<p style="color: #999; text-align: center; margin-top: 2rem;">找不到相關筆記</p>';
+            return;
+        }
+
+        matches.forEach(item => {
+            const a = document.createElement("a");
+            a.href = item.permalink;
+            a.className = "search-result-item";
+            
+            a.innerHTML = `
+                <div style="font-size: 0.85rem; color: #3a86ff; margin-bottom: 4px; font-weight: normal;">
+                    📚 ${item.book} &rsaquo; ${item.category}
+                </div>
+                <div style="font-size: 1.05rem; font-weight: bold; color: #e5e7eb;">
+                    📖 ${item.title}
+                </div>
+            `;
+            searchResults.appendChild(a);
+        });
+    });
+});
+</script>
+
+<style>
+    .search-container { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+    #search-input { width: 100%; padding: 1rem 1.2rem; font-size: 1.1rem; border: 2px solid #38393a !important; border-radius: 8px; box-sizing: border-box; outline: none; background-color: #242526 !important; color: #e5e7eb !important; }
+    #search-input:focus { border-color: #3a86ff !important; }
+    .search-results-grid { display: flex; flex-direction: column; gap: 12px; margin-top: 1.5rem; }
+    .search-result-item { display: block; padding: 1rem 1.2rem; background-color: #242526 !important; text-decoration: none; border-radius: 8px; border: 1px solid #38393a !important; transition: all 0.2s; box-sizing: border-box; }
+    .search-result-item:hover { background-color: #2a2b2c !important; border-color: #3a86ff !important; transform: translateX(4px); }
+</style>
+{{ end }}

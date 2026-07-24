@@ -1,0 +1,45 @@
+{{ define "main" }}
+<header class="page-header" style="text-align: center; margin-bottom: 2rem;">
+    <h1>📚 醫療筆記書櫃</h1>
+</header>
+
+<div class="bookshelf-container">
+    
+    <!-- 第一本書卡片：Tintinalli -->
+    <div class="book-card">
+        <h2 class="book-card-title">Tintinalli's Emergency Medicine, 8th Edition</h2>
+        <div class="book-card-actions">
+            {{ $tintinalli := site.GetPage "tintinalli" }}
+            {{ if $tintinalli }}
+                <a href="{{ $tintinalli.Permalink }}" class="book-action-btn primary">📖 Tintinalli 選單</a>
+            {{ end }}
+            
+        </div>
+    </div>
+
+    <!-- 第二本書卡片：Huppert -->
+    <div class="book-card" style="margin-top: 2rem;">
+        <h2 class="book-card-title">Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine</h2>
+        <div class="book-card-actions">
+            {{ $huppert := site.GetPage "huppert" }}
+            {{ if $huppert }}
+                <a href="{{ $huppert.Permalink }}" class="book-action-btn primary">📖 Huppert 選單</a>
+            {{ end }}
+            
+        </div>
+    </div>
+
+</div>
+
+<style>
+    .bookshelf-container { max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1.5rem; }
+    .book-card { background-color: #1e1f20; border: 1px solid #38393a; border-radius: 10px; padding: 1.8rem; display: flex; flex-direction: column; gap: 1.2rem; }
+    .book-card-title { font-size: 1.25rem; font-weight: bold; color: #3a86ff; margin: 0; line-height: 1.4; }
+    .book-card-actions { display: flex; gap: 12px; }
+    .book-action-btn { flex: 1; display: flex; align-items: center; justify-content: center; padding: 0.9rem 1.2rem; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1rem; transition: all 0.2s ease-in-out; box-sizing: border-box; }
+    .book-action-btn.primary { background-color: #3a86ff; color: #ffffff; border: 1px solid #3a86ff; }
+    .book-action-btn.primary:hover { background-color: #2563eb; transform: translateY(-2px); }
+    .book-action-btn.secondary { background-color: #242526; color: #3a86ff; border: 1px solid #38393a; }
+    .book-action-btn.secondary:hover { background-color: #3a86ff; color: #ffffff; border-color: #3a86ff; transform: translateY(-2px); }
+</style>
+{{ end }}
