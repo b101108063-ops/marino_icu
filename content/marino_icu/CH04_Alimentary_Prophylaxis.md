@@ -13,223 +13,223 @@ title: "Alimentary Prophylaxis"
 
 消毒措施幾乎僅專注於皮膚，但還有另一個更大的表面可能遭受微生物侵襲：gastrointestinal (GI) tract 的黏膜內襯。GI tract 的管腔位於體外，黏膜表面作為微生物入侵的屏障，如同皮膚一般。然而，皮膚是多層結構並有 keratinized 覆蓋層，而 GI mucosa（「我們的內在皮膚」）僅由單層 columnar epithelial cells 組成，厚度僅 0.1 mm，卻作為屏障，阻擋約 100 至 400 兆棲居於腸道中的微生物。
 
-本章節介紹 alimentary tract 作為重症病人感染來源的重要性，并描述適用於該部位的消毒措施。同時也收錄了關於胃部 stress-related mucosal injury 的章節，以及預防此病況造成麻煩性出血的方法。
+本章節介紹 alimentary tract 作為重症病人感染來源的重要性，並描述適用於該部位的消毒措施。同時也收錄了關於胃部 stress-related mucosal injury 的章節，以及預防此病況造成麻煩性出血的方法。
 
 ---
 
 ## Microbial Invasion From the Bowel
 
-### The Intestinal Microbiome
+### 腸道微生物組（The Intestinal Microbiome）
 
-Bacteria are aquatic in nature, and the moisture-rich environment in the alimentary tract is ideal for microbial proliferation. The GI tract is home to about 70,000 distinct bacterial genomes, with an estimated population of 100–400 × 10¹² organisms and a total mass of about 2 kg. The stomach is the least populated region of the alimentary tract, with fewer than 1,000 organisms per mL of gastric secretions. Overall, about 99% of the microorganisms in the GI tract are located in the large bowel.
+Bacteria 天生需要水分生存，而 alimentary tract 中富含水分的環境是微生物增殖的理想場所。GI tract 約容納 70,000 種不同的 bacterial genomes，估計總菌數約為 100–400 × 10¹² 個，總質量約為 2 公斤。胃是 alimentary tract 中菌數最少的區域，每毫升胃液中含菌數少於 1,000 個。整體而言，GI tract 中約 99% 的 microorganisms 位於大腸。
 
-The microbial population in the bowel is present almost from birth and functions as a collective "ecosystem" known as a microbiome. The intestinal microbiome is protected from invaders by the actions of **gastric acid**, which eradicates pathogens ingested in contaminated food products or transmitted via the fecal-oral route.
+腸道中的微生物群體幾乎從出生就存在，並作為一個集體「生態系統」運作，稱為 microbiome。腸道 microbiome 受 **gastric acid** 的保護作用所庇護，能消滅經由受污染食品摄入或透過糞口途徑傳播的病原體。
 
-### Protective Effects of the Microbiome
+### 微生物組的保護作用（Protective Effects of the Microbiome）
 
-The intestinal microbiome has a symbiotic relationship with the host organism and is instrumental in protecting against microbial invasion from the bowel. This is achieved by the following mechanisms:
+腸道 microbiome 與宿主生物體之間存在共生關係，對於防止腸道微生物入侵至關重要。具體透過以下機制達成：
 
-1. **Preventing colonization:** Resident microbes prevent colonization with pathogenic organisms by attaching to the intestinal mucosa and occupying all available spaces.
+1. **預防定居（Preventing colonization）：** 原本棲居的微生物透過附著於腸道黏膜並占據所有可用空間，來防止致病生物的定居。
 
-2. **Providing essential fuels:** Microbial production of short-chain fatty acids provides essential fuels for the mucosal cells in the bowel, which helps to maintain the mucosal barrier.
+2. **提供必要的燃料（Providing essential fuels）：** 微生物產生的 short-chain fatty acids 為腸道黏膜細胞提供必要的燃料，有助於維持黏膜屏障。
 
-3. **Supporting immune function:** Microbial products contribute to the proper functioning of the gut-associated lymphoid tissue (GALT), which traps and destroys microbes that breach the mucosal barrier.
+3. **支持免疫功能（Supporting immune function）：** 微生物產物有助於 gut-associated lymphoid tissue (GALT) 的正常運作，GALT 能捕捉並摧毀突破黏膜屏障的微生物。
 
-Disruption of the microbiome, a condition known as **dysbiosis**, impairs each of these mechanisms and promotes pathogenic invasion from the bowel. The movement of pathogens across the bowel wall is known as **translocation**, and it is a principal source of sepsis and **multiorgan failure** in critically ill patients.
+微生物組的破壞稱為 **dysbiosis**，會損害上述每種機制，並促進致病生物的入侵。病原體穿越腸壁的過程稱為 **translocation**，這是重症病人 sepsis 和 **multiorgan failure** 的主要來源。
 
-### Multiorgan Failure
+### 多重器官衰竭（Multiorgan Failure）
 
-The leading cause of death in critically ill patients is **multiorgan failure**, a condition characterized by systemic inflammation (fever, leukocytosis, etc.) that persists or progresses and is accompanied by progressive dysfunction in two or more major organs. The bowel is believed to be the source of this life-threatening condition.
+重症病人死亡的首要原因是 **multiorgan failure**，其特徵是全身性炎症（發燒、leukocytosis 等）持續或進展，並伴隨兩個或更多主要器官的進行性功能障礙。腸道被認為是這種危及生命病況的源頭。
 
-#### The Motor of Multiorgan Failure
+#### 多重器官衰竭的「引擎」（The Motor of Multiorgan Failure）
 
-The inciting event in **multiorgan failure** can be a derangement of the intestinal microbiome (**dysbiosis**) or a period of splanchnic hypoperfusion. Both conditions lead to disruption of the gut mucosal barrier, which then permits enteric pathogens and/or proinflammatory mediators to gain access to the systemic circulation. This initiates a systemic inflammatory response (e.g., fever, leukocytosis), which is accompanied by hemodynamic changes (sympathetic nervous system activation with splanchnic vasoconstriction) that promote further disruption of the gut mucosal barrier. The result is a self-sustaining process that continually drives systemic inflammation and eventually produces inflammatory injury in multiple organs. According to this scenario, the bowel is the "motor" of **multiorgan failure**.
+**multiorgan failure** 的觸發事件可能是腸道 microbiome 的紊亂（**dysbiosis**）或內臟灌流不足（splanchnic hypoperfusion）。這兩種情況都會導致腸道黏膜屏障受損，使腸道病原體和/或促炎性介質進入體循環。這會引發全身性炎症反應（例如發燒、leukocytosis），伴隨血流動力學變化（交感神經系統活化伴隨內臟血管收縮），進一步促進腸道黏膜屏障的破壞。最終形成一個自我持續的過程，不斷驅動全身性炎症，並最終導致多個器官的炎症性損傷。按照這個模式，腸道是 **multiorgan failure** 的「引擎」。
 
-### Gastric Acid as an Antiseptic Agent
+### 胃酸作為防腐劑（Gastric Acid as an Antiseptic Agent）
 
-Gastric acid is often misperceived as a digestive aid. Although an acid environment in the stomach does facilitate the absorption of iron and calcium, patients with achlorhydria (the absence of **gastric acid**ity) are not troubled by nutrient malabsorption. The principal function of **gastric acid** is not to facilitate digestion, but to serve as an antimicrobial defense against ingested pathogens.
+胃酸常被誤解為消化輔助劑。雖然胃中的酸性環境確實有助於鐵和鈣的吸收，但患有 achlorhydria（胃酸缺失）的病人並不會受到營養吸收不良的困擾。**gastric acid** 的主要功能不是促進消化，而是作為對抗摄入病原體的抗菌防禦機制。
 
-#### Historical Note
+#### 歷史回顧（Historical Note）
 
-The benefits of antisepsis were first recognized in the mid-nineteenth century by British surgeon Joseph Lister, who discovered that a chemical agent used to treat sewage could also reduce the number of suppurative wound infections. Lister's observations were published in 1867 in a treatise entitled *On the Antiseptic Principle in the Practice of Surgery*. In this treatise, Lister identifies the chemical agent he used:
+防腐的益處最早由英國外科醫生 Joseph Lister 於十九世紀中葉發現，他發現一種用於處理污水學的化學製劑也能減少化膿性傷口感染的數量。Lister 的觀察結果於 1867 年發表，題為《外科實踐中的防腐原則》（*On the Antiseptic Principle in the Practice of Surgery*）。在該論文中，Lister 說明了他使用的化學製劑：
 
-> "The material which I have employed is carbolic acid, a volatile compound which appears to exercise a peculiarly destructive influence upon low forms of life, and hence is the most powerful antiseptic with which we are at present acquainted."
+>「我使用的材料是 carbolic acid，一種揮發性化合物，似乎對低等生命形態具有特殊的破壞性影響，因此是我們目前所知最強效的防腐劑。」
 
-As indicated, the first antiseptic agent was an acid (carbolic acid, also known as phenol), so Joseph Lister not only discovered antisepsis, he also discovered the antimicrobial value of acidity.
+如上所述，第一種防腐劑是一種酸（carbolic acid，也就是 phenol），因此 Joseph Lister 不僅發現了防腐術，也發現了酸性的抗菌價值。
 
-#### Antimicrobial Effects
+#### 抗菌效果（Antimicrobial Effects）
 
-The influence of gastric pH on the growth of a pathogenic organism is significant. The pathogen Salmonella typhimurium thrives at a pH of 4, but there is a steady decline in survival at a pH of 3, and the organism is completely eradicated after one hour at a pH of 2. The pH of gastric secretions is 1–2, so **gastric acid**ity should be very effective in eradicating ingested pathogens.
+胃 pH 值對致病生物生長的影響是顯著的。病原體 Salmonella typhimurium 在 pH 4 時生長旺盛，但在 pH 3 時生存率穩步下降，在 pH 2 時一小時內完全被消滅。胃分泌物的 pH 值為 1–2，因此 **gastric acid** 應該能非常有效地消滅摄入的病原體。
 
-The role of **gastric acid**ity as an antimicrobial defense mechanism is demonstrated by the consequences of **gastric acid** suppression (by histamine H2 receptor antagonists or **proton pump inhibitor**s), which includes an increased risk of infectious gastroenteritis from Salmonella and Campylobacter species and an increased incidence of **Clostridium difficile** infections.
+**gastric acid** 作為抗菌防禦機制的作用，可以從胃酸抑制後的後果得到證明（使用 histamine H2 receptor antagonists 或 **proton pump inhibitors** 抑制胃酸），包括 Salmonella 和 Campylobacter 物種引起的傳染性胃腸炎風險增加，以及 **Clostridium difficile** 感染的發生率增加。
 
 ---
 
 ## Alimentary Decontamination
 
-### Oral Decontamination
+### 口腔去污（Oral Decontamination）
 
-The aspiration of mouth secretions into the upper airways is believed to be the inciting event in most cases of hospital-acquired pneumonia. The volume of saliva produced daily averages about 750 mL in adults, and each mL of saliva contains about one million microorganisms. Therefore, aspiration of 0.13% of the daily saliva volume will introduce a million microbes into the airways.
+將口腔分泌物吸入上呼吸道被認為是多數院內肺炎病例的觸發事件。成人每日唾液產量平均約為 750 mL，每毫升唾液約含一百萬個 microorganisms。因此，吸入每日唾液量的 0.13% 就會將一百萬個微生物引入呼吸道。
 
-#### Colonization of the Oropharynx
+#### 口咽部定居（Colonization of the Oropharynx）
 
-The oropharynx of seriously ill patients becomes colonized with pathogenic organisms, most notably aerobic gram-negative bacilli like Pseudomonas aeruginosa. This colonization is not environmentally driven but is directly related to the presence and severity of illness. Pathogenic colonization of the oropharynx is caused by a change in bacterial adherence to the surface epithelium. Epithelial cells have specialized adhesion proteins that bind specific groups or species of bacteria, and in the presence of a serious illness, there is a conformational change in these proteins that results in the ability to bind pathogens.
+重症病人的口咽部會被致病生物定居，最顯著的是好氧性 gram-negative bacilli，如 Pseudomonas aeruginosa。這種定居並非由環境驅動，而是與疾病的存在及嚴重程度直接相關。口咽部的致病定居是由於細菌對錶面上皮的黏附性改變所引起。上皮細胞具有專門的 adhesion proteins，能結合特定群組或物種的細菌，而在疾病存在的情況下，這些蛋白質會發生構象變化，導致它們能夠結合病原體。
 
-Colonization of the oropharynx with gram-negative bacilli is a prelude to pneumonia, since the same organisms are the most frequent cause of nosocomial pneumonias. This is the rationale for oral decontamination, which is currently reserved for patients who are intubated and receiving mechanical ventilation.
+口咽部被 gram-negative bacilli 定居是肺炎的前兆，因為這些生物是院內肺炎最常見的病因。這是口腔去污的理論基礎，目前主要用於插管並接受 mechanical ventilation 的病人。
 
-### Methods of Oral Decontamination
+### 口腔去污的方法（Methods of Oral Decontamination）
 
-| Method | Regimen |
+| 方法 | 療程 |
 |:-------|:--------|
-| **Chlorhexidine** | Apply a 0.12% **chlorhexidine** gluconate solution to the oral mucosa every 6 hours. Avoid the 2% **chlorhexidine** solution, which can cause an ulcerating mucositis. |
-| ****Selective Oral Decontamination** (**SOD**)** | Have pharmacy prepare a gel mixture of 2% **gentamicin**, 2% **colistin**, and 2% **vancomycin**. Apply this gel to the oral mucosa with a gloved finger every 6 hours. |
+| **Chlorhexidine** | 每 6 小時將 0.12% **chlorhexidine** gluconate 溶液塗抹於口腔黏膜。避免使用 2% **chlorhexidine** 溶液，因可能導致潰爛性黏膜炎。 |
+| ****Selective Oral Decontamination** (**SOD**)** | 由藥房配製含有 2% **gentamicin**、2% **colistin** 和 2% **vancomycin** 的凝膠混合物。每 6 小時用戴手套的手指將此凝膠塗抹於口腔黏膜。 |
 
 #### Chlorhexidine
 
-The popular skin antiseptic **chlorhexidine** has been adopted for use in decontaminating the oropharynx. A 0.12% solution of **chlorhexidine** gluconate is used as an oral rinse every 6 hours, and this regimen continues for as long as the patient is ventilator-dependent.
+流行的皮膚防腐劑 **chlorhexidine** 已採用於口腔去污。使用 0.12% **chlorhexidine** gluconate 溶液作為口腔漱口水，每 6 小時一次，此療程持續至病人脫離呼吸器為止。
 
-The benefit of oral decontamination with **chlorhexidine** has been difficult to establish. Some studies have shown a 30% relative reduction in the incidence of ventilator-associated pneumonia without an associated decrease in mortality. However, other studies have shown marginal or no benefit, and the pooled results of 11 clinical trials have shown an increase in mortality associated with **chlorhexidine**. Because of concerns about the potential for harm, the international guidelines on ventilator-associated pneumonia withdrew a recommendation for oral decontamination with **chlorhexidine**.
+口腔去污配合 **chlorhexidine** 的效益難以確定。部分研究顯示 ventilator-associated pneumonia 發生率相對降低 30%，但未伴隨死亡率的下降。然而，其他研究顯示邊際或無效益，且 11 項臨床試驗的合併結果顯示 **chlorhexidine** 與死亡率增加相關。由於擔心潛在的危害，關於 ventilator-associated pneumonia 的國際指南已撤銷對 **chlorhexidine** 口腔去污的建議。
 
-An additional problem with **chlorhexidine** is its limited spectrum of activity; **chlorhexidine** is effective primarily against gram-positive organisms while gram-negative organisms are the predominant microbes in the oropharynx of critically ill patients.
+**chlorhexidine** 的另一個問題是其抗菌範圍有限；**chlorhexidine** 主要對 gram-positive organisms 有效，而重症病人口咽部的主要微生物是 gram-negative organisms。
 
 #### **Selective Oral Decontamination** (**SOD**)
 
-The principle behind **SOD** is to eradicate colonization with pathogens while preserving the normal microbial population of the oropharynx. A mixture of 2% **gentamicin**, 2% **colistin**, and 2% **vancomycin** is applied as a paste to the oral mucosa four times daily. This regimen is designed to eradicate staphylococci, gram-negative aerobic bacilli, and Candida species but has little activity against anaerobic organisms.
+**SOD** 的原理是在消滅病原體定居的同時，保留口咽部正常的微生物群。將 2% **gentamicin**、2% **colistin** 和 2% **vancomycin** 的混合物作為 paste 塗抹於口腔黏膜，每日四次。此療程旨在消滅 staphylococci、gram-negative aerobic bacilli 和 Candida species，但對 anaerobic organisms 作用輕微。
 
-**Efficacy:** Several clinical studies have shown that **SOD** reduces the incidence of ventilator-associated pneumonia and also reduces the frequency of bacteremias involving gram-negative bacilli.
+**療效（Efficacy）：** 多項臨床研究顯示 **SOD** 可降低 ventilator-associated pneumonia 的發生率，並減少涉及 gram-negative bacilli 的菌血症頻率。
 
 ### **Selective Digestive Decontamination** (**SDD**)
 
-**SDD** is based on the same principle as **SOD** (prevent colonization with pathogens while preserving the normal microflora) but is applied to the entire alimentary tract.
+**SDD** 基於與 **SOD** 相同的原理（防止病原體定居，同時保留正常微生物群），但應用於整個 alimentary tract。
 
-#### **SDD** Regimen
+#### **SDD** 療程
 
-| Site | Regimen |
+| 部位 | 療程 |
 |:-----|:--------|
-| **Mouth** | A gel containing 2% **polymyxin**, 2% **tobramycin**, and 2% **amphotericin** is applied to the oral mucosa every 6 hours. |
-| **GI tract** | A 10 mL aliquot of a solution containing 100 mg **polymyxin** E, 80 mg **tobramycin**, and 500 mg **amphotericin** is delivered through a nasogastric tube every 6 hours. |
-| **Systemic** | Intravenous cefuroxime, 1.5 grams every 8 hours, is used for the first four days. |
+| **口腔** | 每 6 小時將含有 2% **polymyxin**、2% **tobramycin** 和 2% **amphotericin** 的凝膠塗抹於口腔黏膜。 |
+| **GI tract** | 每 6 小時透過 nasogastric tube 灌注 10 mL 含 100 mg **polymyxin** E、80 mg **tobramycin** 和 500 mg **amphotericin** 的溶液。 |
+| **全身性** | 靜脈注射 cefuroxime，1.5 克每 8 小時，持續四天。 |
 
-This nonabsorbable antibiotic combination is designed to eradicate staphylococci, gram-negative aerobic bacilli, and Candida species while sparing the normal microflora of the oropharynx and GI tract. The **SDD** regimen is intended for all patients who will stay in the ICU longer than 72 hours and is continued until discharge from the ICU.
+這種不被吸收的抗生素組合旨在消滅 staphylococci、gram-negative aerobic bacilli 和 Candida species，同時保留口咽部和 GI tract 的正常微生物群。**SDD** 療程適用於所有將在 ICU 停留超過 72 小時的病人，並持續至轉出 ICU 為止。
 
-#### Efficacy
+#### 療效
 
-Numerous clinical studies have shown that **SDD** reduces the incidence of ICU-acquired infections (including pneumonias, urinary tract infections, and bacteremias) and also significantly reduces the mortality rate. One observation that deserves mention comes from a clinical study where **SDD** eliminated vascular catheter-related bacteremias. This suggests that the bowel is the source of catheter-related bacteremias (not the skin).
+多項臨床研究顯示 **SDD** 可降低 ICU 獲得性感染的發生率（包括肺炎、泌尿道感染和菌血症），並顯著降低死亡率。一項值得注意的觀察來自一項臨床研究，其中 **SDD** 消滅了血管導管相關菌血症。這表明腸道是導管相關菌血症的來源（而非皮膚）。
 
-#### Why is **SDD** Ignored?
+#### 為何 **SDD** 被忽視？
 
-Despite numerous studies over the past 30 years showing that **SDD** is an effective method of reducing ICU-acquired infections, **SDD** is largely ignored. Much of this is the result of the fear that **SDD** will promote the emergence of antibiotic resistant organisms. However, none of the **SDD** studies has shown an increase in infections from antibiotic-resistant organisms, including a prospective study evaluating **SDD** over a 5-year period and a 16-year experience with **SDD**.
+儘管過去 30 年來的大量研究顯示 **SDD** 是降低 ICU 獲得性感染的有效方法，但 **SDD** 基本上被忽視。這很大程度上是因為擔心 **SDD** 會促進抗生素耐藥生物的出現。然而，沒有任何 **SDD** 研究顯示抗生素耐藥生物引起的感染增加，包括一項評估 **SDD** 超過 5 年的前瞻性研究和一項 **SDD** 16 年的經驗。
 
-### Probiotics
+### 益生菌（Probiotics）
 
-Probiotics are microbial preparations of normal but harmless inhabitants of the intestinal tract that are capable of preventing colonization with pathogenic organisms. The most common **probiotics** are strains of lactic acid bacteria, such as Lactobacillus and Bifidobacterium species, that are resistant to the bactericidal actions of **gastric acid** and bile salts and can successfully colonize the bowel when ingested.
+Probiotics 是腸道正常無害棲居者的微生物製劑，能夠防止致病生物的定居。最常見的 **probiotics** 是乳酸桿菌菌株，如 Lactobacillus 和 Bifidobacterium species，對 **gastric acid** 和膽汁鹽的 bactericidal 作用具有耐藥性，摄入後能夠成功定居於腸道。
 
-**Clinical Use:** The principal use of **probiotics** in the ICU is the prevention of **Clostridium difficile** infections during antibiotic therapy. This effect is time-limited; **probiotics** reduced the risk of C. difficile infections only when started within 2 days of antibiotic therapy.
+**臨床應用：** ICU 中 **probiotics** 的主要用途是在抗生素治療期間預防 **Clostridium difficile** 感染。此效果有时限；**probiotics** 僅在抗生素治療開始後 2 天內服用時才會降低 C. difficile 感染的風險。
 
 ---
 
 ## Stress-Related Mucosal Injury
 
-Stress-related mucosal injury is a term used for superficial erosions on the luminal surface of the stomach that are found in critically ill patients. These erosions can be confined to the mucosa, or they can bore deeper into the submucosa. The deeper erosions are called **stress ulcer**s and are more likely to cause troublesome bleeding.
+**stress-related mucosal injury** 是用於描述重症病人胃黏膜錶面淺表糜爛的術語。這些糜爛可局限於黏膜，也可能深入 submucosa。較深的糜爛稱為 **stress ulcer**，更容易引起麻煩性出血。
 
-### Pathogenesis
+### 發病機制（Pathogenesis）
 
-The surface epithelial cells in the stomach are covered with a layer of bicarbonate-rich mucus (pH = 7) that protects the cells from the acidity of gastric secretions and from proteolytic enzymes in the secretions. Gastric mucosal blood flow plays an important role in preserving the mucous layer by providing nutrients to support the functional integrity of the surface epithelial cells.
+胃的錶面上皮細胞覆蓋著一層富含 bicarbonate 的黏液（pH = 7），保護細胞免受胃分泌物的酸性侵害和分泌物中 proteolytic enzymes 的傷害。胃黏膜血流在維持黏液層方面起著重要作用，為錶面上皮細胞的功能完整性提供營養支持。
 
-Local ischemia is the inciting event in stress-related mucosal injury, while the presence of luminal acid is believed to aggravate the condition. Of interest, occult gastric hypoperfusion can be a frequent occurrence in critically ill patients who are not hypotensive, especially in those receiving mechanical ventilation.
+局部缺血是 stress-related mucosal injury 的觸發事件，而管腔內酸的存在被認為會加重病情。值得注意的是，隱匿性胃灌流不足在非低血壓的重症病人中可能經常發生，特別是那些接受 mechanical ventilation 的病人。
 
-### Stress Ulcer Bleeding
+### Stress Ulcer 出血
 
-Erosions are visible on the surface of the stomach in 75% to 100% of patients within 24 hours of admission to the ICU. These lesions often ooze blood from eroding into superficial capillaries, but "clinically significant" bleeding is infrequent.
+在入住 ICU 後 24 小時內，75% 至 100% 病人的胃錶面可見糜爛。這些病變常因侵蝕淺表毛細血管而滲血，但「臨床重要」出血並不常見。
 
-**Definition of Clinically Significant Bleeding:** Overt bleeding accompanied by at least one of the following:
-- A decrease in blood pressure (systolic, mean, or diastolic pressure) of 20 mm Hg or more
-- Initiation of vasopressor therapy, or a 20% increase in the vasopressor dose
-- A decrease in hemoglobin of at least 2 g/dL
-- Transfusion of 2 or more units of packed red blood cells
+**臨床重要出血的定義：** 顯性出血伴隨以下至少一項：
+- 血壓下降（收縮壓、平均壓或舒張壓）20 mm Hg 或以上
+- 開始使用血管加壓藥治療，或血管加壓藥劑量增加 20% 或以上
+- 血紅蛋白下降至少 2 g/dL
+- 輸注 2 個或更多單位的濃縮紅血球
 
-### Risk Stratification for Stress Ulcer Bleeding
+### Stress Ulcer 出血的風險分層（Risk Stratification for Stress Ulcer Bleeding）
 
-| Risk Level | Bleeding Rate | Prophylaxis? | Conditions |
+| 風險等級 | 出血率 | 預防性治療？ | 條件 |
 |:-----------|:-------------:|:------------:|:-----------|
-| **Highest Risk** | 8–10% | Yes | Mechanical ventilation greater than 24 hrs without enteral feedings; Chronic liver disease |
-| **High Risk** | 4–8% | Yes | Worrisome coagulopathy; At least 2 conditions from moderate risk level |
-| **Moderate Risk** | 2–4% | No | Mechanical ventilation greater than 24 hrs with enteral feedings; Acute kidney injury; Sepsis; Shock |
-| **Low Risk** | 1–2% | No | Acute liver failure; Anticoagulant therapy; Steroid therapy; Immunosuppressive therapy; Cancer; No risk factors |
+| **最高風險** | 8–10% | 需要 | Mechanical ventilation 超過 24 小時且無 enteral feedings；慢性肝病 |
+| **高風險** | 4–8% | 需要 | 令人擔憂的 coagulopathy；來自中度風險等級的至少 2 個條件 |
+| **中度風險** | 2–4% | 不需要 | Mechanical ventilation 超過 24 小時且有 enteral feedings；急性腎損傷；膿毒症；休克 |
+| **低風險** | 1–2% | 不需要 | 急性肝衰竭；抗凝治療；類固醇治療；免疫抑制治療；癌症；無風險因素 |
 
-**Key Points:**
-1. The risk of bleeding during mechanical ventilation is decreased considerably by **enteral tube feedings**.
-2. Corticosteroid therapy is **not** a significant risk factor for **stress ulcer** bleeding and does not require prophylactic therapy. Ditto for therapeutic anticoagulation.
+**要點：**
+1. Mechanical ventilation 期間的出血風險透過 **enteral tube feedings** 大幅降低。
+2. Corticosteroid 治療**不是** **stress ulcer** 出血的顯著風險因素，不需要預防性治療。治療性抗凝也是如此。
 
-### Prophylaxis for Stress Ulcer Bleeding
+### Stress Ulcer 出血的預防（Prophylaxis for Stress Ulcer Bleeding）
 
-Surveys indicate that a majority (greater than 80%) of ICU patients receive prophylactic therapy for **stress ulcer** bleeding, and about 70% of these patients do not need prophylaxis. This excessive use of **stress ulcer** prophylaxis is not only costly but can also be harmful.
+調查顯示大多數（大於 80%）ICU 病人接受 **stress ulcer** 出血的預防性治療，其中約 70% 的病人不需要預防。這種過度使用 **stress ulcer** 預防不僅昂貴，而且可能有害。
 
-#### Drugs Used for Prophylaxis
+#### 用於預防的藥物
 
-| Drug | Type | Route | Dosage |
+| 藥物 | 類型 | 途徑 | 劑量 |
 |:-----|:-----|:------|:-------|
-| Famotidine | H2 Blocker | PO, NG, IV | 20 mg every 12 hrs |
-| Pantoprazole | **PPI** | PO, NG, IV | 40 mg once daily |
-| Omeprazole | **PPI** | PO, NG | 40 mg once daily |
-| Lansoprazole | **PPI** | PO, NG | 30 mg once daily |
-| Sucralfate | Protectant | PO, NG | 1 g every 6 hrs |
+| Famotidine | H2 受體阻斷劑 | PO、NG、IV | 20 mg 每 12 小時 |
+| Pantoprazole | **PPI** | PO、NG、IV | 40 mg 每日一次 |
+| Omeprazole | **PPI** | PO、NG | 40 mg 每日一次 |
+| Lansoprazole | **PPI** | PO、NG | 30 mg 每日一次 |
+| Sucralfate | 保護劑 | PO、NG | 1 g 每 6 小時 |
 
-*A 50% dose reduction is recommended for **famotidine** when creatinine clearance is less than 50 mL/min.*
+*當 creatinine clearance 低於 50 mL/min 時，建議 **famotidine** 劑量減少 50%。*
 
-#### H2 Blockers
+#### H2 受體阻斷劑
 
-Histamine H2 receptor antagonists inhibit **gastric acid** secretion by binding to histamine H2 receptors on gastric parietal cells. Famotidine is currently the favored **H2 blocker** for **stress ulcer** prophylaxis. **H2 blocker**s are cleared by the kidneys, and reduced drug clearance from renal insufficiency can have neurotoxic effects. A 50% reduction in the daily dose is advised for patients with a creatinine clearance less than 50 mL/min.
+Histamine H2 receptor antagonists 透過與胃壁細胞上的組織胺 H2 受體結合來抑制 **gastric acid** 分泌。Famotidine 目前是 **stress ulcer** 預防的首選 **H2 受體阻斷劑**。**H2 blockers** 由腎臟清除，腎功能不全時藥物清除減少可能產生神經毒性。對於 creatinine clearance 低於 50 mL/min 的病人，建議每日劑量減少 50%。
 
 #### Proton Pump Inhibitors (**PPI**s)
 
-**PPI**s are potent acid-suppressing drugs that block the secretion of hydrogen ions by gastric parietal cells. These drugs are prodrugs that are converted to the active form within gastric parietal cells. Once activated, the drugs bind irreversibly to the membrane pump responsible for hydrogen ion secretion, resulting in complete inhibition of **gastric acid** secretion.
+**PPIs** 是強效的抑酸藥物，透過阻斷胃壁細胞分泌氫離子來發揮作用。這些藥物是前藥，在胃壁細胞內轉化為活性形式。活化後，藥物與負責氫離子分泌的膜泵不可逆結合，導致 **gastric acid** 分泌完全抑制。
 
-All **PPI**s are considered equivalent as prophylactic agents, but **pantoprazole** is the most popular **PPI** in ICU patients because it can be given intravenously. Unlike **H2 blocker**s, **PPI**s require no dose adjustment for renal insufficiency.
+所有 **PPIs** 作為預防製劑被認為效果相當，但 **pantoprazole** 是 ICU 病人中最受歡迎的 **PPI**，因為可以靜脈給藥。與 **H2 blockers** 不同，**PPIs** 腎功能不全時不需要調整劑量。
 
-****PPI**s AND CLOPIDOGREL:** **PPI**s interact with clopidogrel, an antiplatelet agent used for secondary prevention of acute coronary syndromes and stroke. **PPI**s can impede clopidogrel activation in the liver by competitive inhibition. This interaction has been implicated as a risk factor for the recurrence of acute coronary syndromes following percutaneous coronary intervention, but evidence of a causal link has been inconsistent.
+****PPIs** 與 CLOPIDOGREL：** **PPIs** 與 clopidogrel（一種用於二級預防急性冠狀動脈症候群和中風的抗血小板藥物）有交互作用。**PPIs** 可透過競爭性抑制在肝臟中阻礙 clopidogrel 的活化。此交互作用被認為是經皮冠狀動脈介入治療後急性冠狀體症候群復發的风险因素，但因果關係的證據並不一致。
 
-#### Risks of Gastric Acid Suppression
+#### 胃酸抑制的風險
 
-The risk of **gastric acid** suppression is related to loss of the antimicrobial activity of **gastric acid**ity.
+**gastric acid** 抑制的風險與 **gastric acid** 抗菌活性的喪失有關。
 
-**Clostridium Difficile Infection:** Patients who receive **PPI**s for **stress ulcer** prophylaxis are three times more likely to develop C. difficile enterocolitis. The association is stronger with **PPI**s than with **H2 blocker**s.
+**Clostridium Difficile 感染：** 接受 **PPIs** 預防 **stress ulcer** 的病人患 C. difficile 腸結腸炎的機率是正常人的三倍。這種關聯在 **PPIs** 比 **H2 blockers** 更強。
 
-**Pneumonia:** There is an association between **gastric acid** suppression and an increased risk of pneumonia, including community-acquired pneumonia and ventilator-associated pneumonia. Once again, the risk is greater with **PPI**s than with **H2 blocker**s.
+**肺炎：** **gastric acid** 抑制與肺炎風險增加之間存在關聯，包括社區獲得性肺炎和 ventilator-associated pneumonia。同樣地，**PPIs** 的風險比 **H2 blockers** 更大。
 
-#### Benefits vs. Risks
+#### 效益與風險的比较
 
-There is evidence that the benefit of **PPI**s in reducing **stress ulcer** bleeding is negated or counterbalanced by the adverse consequences of **PPI**s. Studies show that the composite incidence of **stress ulcer** bleeding plus the risks associated with **PPI**s (C. difficile infection, pneumonia, and myocardial ischemia) is no different in the placebo group and the treatment group. This means there is no net benefit from **stress ulcer** prophylaxis with **PPI**s.
+有證據表明 **PPIs** 在減少 **stress ulcer** 出血方面的效益被 **PPIs** 的不良後果所抵消或平衡。研究顯示，**stress ulcer** 出血加上 **PPIs** 相關風險（C. difficile 感染、肺炎和心肌缺血）的複合發生率在安慰劑組和治療組之間沒有差異。這意味著 **PPIs** 預防 **stress ulcer** 沒有淨效益。
 
 #### Sucralfate
 
-Sucralfate is an aluminum salt of sucrose sulfate that adheres to damaged areas of the gastric mucosa and forms a viscous covering that shields the denuded surface from luminal acids and pepsin proteolysis. Gastric acidity is maintained, which is the most desirable feature of prophylaxis with **sucralfate**. Of particular importance, pneumonia is less frequent when **sucralfate** is used instead of **gastric acid**-suppressing drugs.
+Sucralfate 是蔗糖硫酸酯的鋁鹽，能附著於胃黏膜的受損區域，形成黏稠覆蓋層，保護裸露的錶面免受管腔酸和 pepsin proteolysis 的侵害。胃酸性得以維持，這是 **sucralfate** 預防的最理想特點。特別重要的是，當使用 **sucralfate** 而不是 **gastric acid** 抑制藥物時，肺炎的發生頻率較低。
 
-Sucralfate has one undesirable feature that precludes its use in a majority of ICU patients: it cannot be used in conjunction with **enteral tube feedings**. Sucralfate must be given when the stomach is empty, which is not possible during enteral feedings without lengthy interruptions to allow gastric emptying.
+Sucralfate 有一個不理想的特點，阻止大多數 ICU 病人的使用：它不能與 **enteral tube feedings** 一起使用。Sucralfate 必須在胃空的時候服用，這在 enteral feedings 期間是不可能的，需要長時間中斷以允許胃排空。
 
-### The Case Against Stress Ulcer Prophylaxis
+### 反對 Stress Ulcer 預防的理由（The Case Against Stress Ulcer Prophylaxis）
 
-| Observation | Implication |
+| 觀察 | 意義 |
 |:-----------|:-----------|
-| Significant bleeding from **stress ulcer**s is infrequent | Routine prophylaxis may be unnecessary |
-| SUP has only a small treatment effect | Benefits are marginal |
-| There is no survival benefit with SUP | Does not improve outcomes |
-| The benefit of SUP is lost when the risks of **gastric acid** suppression are considered | Net harm possible |
+| **Stress ulcer** 的顯著出血並不常見 | 常規預防可能不必要 |
+| SUP 只有很小的治療效果 | 效益輕微 |
+| SUP 沒有生存效益 | 不能改善預後 |
+| 當考慮 **gastric acid** 抑制的風險時，SUP 的效益消失了 | 可能造成淨傷害 |
 
-### Enteral Feeding
+### 腸道營養（Enteral Feeding）
 
-Enteral tube feedings can protect against **stress ulcer** bleeding in two ways. First, enteral feeding has a trophic effect on the gastric mucosa that limits or prevents mucosal breakdown. Second, the presence of feeding solutions in the stomach will raise the pH of gastric contents. The prophylactic value of enteral feedings is revealed in studies that showed that the ability of **gastric acid**-suppressing drugs to reduce **stress ulcer** bleeding was lost when patients received a full regimen of **enteral tube feedings**. These results indicate that enteral feeding is all that is needed for **stress ulcer** prophylaxis.
+腸道營養可以透過兩種方式保護對抗 **stress ulcer** 出血。首先，腸道營養對胃黏膜有 trophic 效應，限制或防止黏膜 break down。其次，餵養溶液存在於胃中會提高胃內容物的 pH 值。腸道營養的預防價值在研究中被揭示，顯示當病人接受完整的 **enteral tube feedings** 時，**gastric acid** 抑制藥物減少 **stress ulcer** 出血的能力消失了。這些結果表明腸道營養是 **stress ulcer** 預防所需的全部。
 
 ---
 
 ## Key Takeaways
 
-1. The bowel is the "motor" of **multiorgan failure** in critically ill patients.
-2. Gastric acid is an antimicrobial defense mechanism, not just a digestive aid.
-3. Selective digestive decontamination (**SDD**) is effective but underutilized.
-4. Stress ulcer prophylaxis is overused; most ICU patients do not need it.
-5. The risks of **gastric acid** suppression (C. difficile infection, pneumonia) may outweigh the benefits.
-6. Enteral feeding provides **stress ulcer** prophylaxis.
+1. 腸道是重症病人 **multiorgan failure** 的「引擎」。
+2. Gastric acid 是一種抗菌防禦機制，而不僅僅是消化輔助劑。
+3. **SDD** 有效但未被充分利用。
+4. Stress ulcer 預防被過度使用；大多數 ICU 病人不需要它。
+5. **gastric acid** 抑制的風險（C. difficile 感染、肺炎）可能超過效益。
+6. 腸道營養提供 **stress ulcer** 預防。
 
 ---
 

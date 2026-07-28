@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Intravenous Fluids</title>
+  <title>靜脈注射液體</title>
   <style>
     * { box-sizing: border-box; }
     body { font-size: 15px; line-height: 1.7; background: #1a1a1a; color: #d0d0d0; margin: 0; padding: 1rem; }
@@ -33,7 +33,7 @@
 <body>
   <div class="page-header">
     <p class="site-title"><a href="/marino_icu/">Marino's ICU Book</a></p>
-    <h1 class="chapter-title">Intravenous Fluids</h1>
+    <h1 class="chapter-title">靜脈注射液體</h1>
     <a class="back-link" href="/marino_icu/">← Back to List</a>
   </div>
   <div class="main-content">
@@ -44,65 +44,67 @@
 <h2 id="introduction">Introduction</h2>
 <p>第一個靜脈注射液體是鴉片、酒和啤酒的混合物，於 1656 年透過鵝毛筆注入狗的靜脈。最早在 19 世紀初的霍亂大流行期間，人們才認識到靜脈注射液體的治療價值。若沒有無血液成分的靜脈注射液體（分為 <strong>crystalloid</strong> 或 <strong>colloid</strong> 兩類），重症患者的照護將不可能實現。</p>
 <hr>
-<h2 id="body-water-distribution">Body Water Distribution</h2>
-<h3 id="body-fluid-volumes-in-adults">Body Fluid Volumes in Adults</h3>
+<h2 id="身體水分分布body-water-distribution">身體水分分布（Body Water Distribution）</h2>
+<h3 id="成人體液區室容積">成人體液區室容積</h3>
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Compartment</th>
-          <th style="text-align: left">Derivation</th>
-          <th style="text-align: center">Male (75 kg)</th>
-          <th style="text-align: center">Female (60 kg)</th>
+          <th style="text-align: left">區室</th>
+          <th style="text-align: left">計算方式</th>
+          <th style="text-align: center">男性（75 kg）</th>
+          <th style="text-align: center">女性（60 kg）</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">Total Body Water</td>
-          <td style="text-align: left">0.6 × LBW (M) / 0.5 × LBW (F)</td>
+          <td style="text-align: left">全身水分（Total Body Water）</td>
+          <td style="text-align: left">0.6 × 瘦肉體重（男）/ 0.5 × 瘦肉體重（女）</td>
           <td style="text-align: center">45 L</td>
           <td style="text-align: center">30 L</td>
       </tr>
       <tr>
-          <td style="text-align: left">Intracellular Volume</td>
-          <td style="text-align: left">0.65 × TBW</td>
+          <td style="text-align: left">細胞內液容積（Intracellular Volume）</td>
+          <td style="text-align: left">0.65 × 全身水分</td>
           <td style="text-align: center">29 L</td>
           <td style="text-align: center">20 L</td>
       </tr>
       <tr>
-          <td style="text-align: left">Extracellular Volume</td>
-          <td style="text-align: left">0.35 × TBW</td>
+          <td style="text-align: left">細胞外液容積（Extracellular Volume）</td>
+          <td style="text-align: left">0.35 × 全身水分</td>
           <td style="text-align: center">16 L</td>
           <td style="text-align: center">10 L</td>
       </tr>
       <tr>
-          <td style="text-align: left">Interstitial Volume</td>
-          <td style="text-align: left">0.8 × ECV</td>
+          <td style="text-align: left">間質液容積（Interstitial Volume）</td>
+          <td style="text-align: left">0.8 × 細胞外液</td>
           <td style="text-align: center">13 L</td>
           <td style="text-align: center">8 L</td>
       </tr>
       <tr>
-          <td style="text-align: left">Plasma Volume</td>
-          <td style="text-align: left">0.2 × ECV</td>
+          <td style="text-align: left">血漿容積（Plasma Volume）</td>
+          <td style="text-align: left">0.2 × 細胞外液</td>
           <td style="text-align: center">3 L</td>
           <td style="text-align: center">2 L</td>
       </tr>
   </tbody>
 </table>
-<p><em>LBW = lean body weight, TBW = total body water, ECV = extracellular volume.</em></p>
-<h3 id="osmotic-forces">Osmotic Forces</h3>
-<p>The distribution of water between intracellular and extracellular compartments is determined by relative osmotic activity. Sodium is the most abundant solute in extracellular fluid and is the principal determinant of extracellular fluid volume.</p>
-<p><strong>Colloid Osmotic Pressure:</strong> Large molecules in plasma (especially <strong>albumin</strong>) create <strong>oncotic pressure</strong> that holds water in the intravascular compartment.</p>
+<blockquote>
+<p><em>瘦肉體重 = lean body weight（LBW），全身水分 = total body water（TBW），細胞外液容積 = extracellular volume（ECV）。</em></p>
+</blockquote>
+<h3 id="滲透力量osmotic-forces">滲透力量（Osmotic Forces）</h3>
+<p>水分在細胞內與細胞外區室之間的分布，取決於兩側相對的<strong>滲透活性</strong>（osmotic activity）。<strong>Sodium</strong> 是細胞外液中含量最高的溶質，也是細胞外液容積的主要決定因素。</p>
+<p><strong>膠體滲透壓（Colloid Osmotic Pressure）：</strong> 血漿中的大分子（尤其是 <strong>albumin</strong>）會產生<strong>膠體滲透壓</strong>（oncotic pressure），將水分留住於血管區室內。</p>
 <hr>
-<h2 id="crystalloid-fluids">Crystalloid Fluids</h2>
+<h2 id="crystalloid-溶液crystalloid-fluids">Crystalloid 溶液（Crystalloid Fluids）</h2>
 <h3 id="normal-saline">Normal Saline</h3>
-<p>0.9% sodium chloride (<strong>normal saline</strong>) has annual sales of 200 million liters in the United States.</p>
-<p><strong>Normal Saline is NOT Normal:</strong></p>
+<p>0.9% <strong>sodium chloride</strong>（<strong>normal saline</strong>）在美國的年銷售量高達 2 億公升。</p>
+<p><strong>Normal Saline 並非「正常」：</strong></p>
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Property</th>
+          <th style="text-align: left">特性</th>
           <th style="text-align: center">Normal Saline</th>
-          <th style="text-align: center">Plasma</th>
+          <th style="text-align: center">血漿</th>
       </tr>
   </thead>
   <tbody>
@@ -117,37 +119,39 @@
           <td style="text-align: center">103 mEq/L</td>
       </tr>
       <tr>
-          <td style="text-align: left">Osmolality</td>
+          <td style="text-align: left">滲透壓（Osmolality）</td>
           <td style="text-align: center">308 mOsm/L</td>
           <td style="text-align: center">290 mOsm/L</td>
       </tr>
       <tr>
-          <td style="text-align: left">pH</td>
+          <td style="text-align: left">pH 值</td>
           <td style="text-align: center">5.7</td>
           <td style="text-align: center">7.4</td>
       </tr>
   </tbody>
 </table>
-<p><strong>Key Point:</strong> The predominant effect of 0.9% saline infusions is to expand the interstitial volume (825 mL) rather than the plasma volume (275 mL).</p>
-<h3 id="the-evils-of-chloride">The Evils of Chloride</h3>
+<blockquote>
+<p><strong>重點：</strong> 0.9% saline 輸注的主要效果是擴增<strong>間質液容積</strong>（825 mL），而非血漿容積（275 mL）。</p>
+</blockquote>
+<h3 id="chloride-的危害">Chloride 的危害</h3>
 <ol>
-<li><strong>Hyperchloremic metabolic acidosis:</strong> Due to the high chloride concentration</li>
-<li><strong>Acute kidney injury:</strong> From chloride-mediated renal vasoconstriction</li>
+<li><strong>高氯性代謝性酸中毒（Hyperchloremic metabolic acidosis）：</strong> 由於 chloride 濃度過高所致</li>
+<li><strong>急性腎損傷（Acute kidney injury）：</strong> 來自 chloride 介導的腎血管收縮</li>
 </ol>
-<h3 id="crystalloid-fluid-comparisons">Crystalloid Fluid Comparisons</h3>
+<h3 id="crystalloid-溶液比較">Crystalloid 溶液比較</h3>
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Fluid</th>
-          <th style="text-align: center">Sodium (mEq/L)</th>
-          <th style="text-align: center">Chloride (mEq/L)</th>
-          <th style="text-align: center">Lactate (mEq/L)</th>
-          <th style="text-align: center">Osmolality (mOsm/L)</th>
+          <th style="text-align: left">溶液</th>
+          <th style="text-align: center">Sodium（mEq/L）</th>
+          <th style="text-align: center">Chloride（mEq/L）</th>
+          <th style="text-align: center">Lactate（mEq/L）</th>
+          <th style="text-align: center">滲透壓（mOsm/L）</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left"><strong>Plasma</strong></td>
+          <td style="text-align: left"><strong>血漿</strong></td>
           <td style="text-align: center">140</td>
           <td style="text-align: center">103</td>
           <td style="text-align: center">1–2</td>
@@ -184,162 +188,160 @@
   </tbody>
 </table>
 <h3 id="ringers-lactate">Ringer&rsquo;s Lactate</h3>
-<p>Ringer&rsquo;s lactate (RL) was developed by Alexis Hartmann in the 1930s. The sodium concentration is reduced to compensate for sodium from sodium lactate, and the chloride concentration (109 mEq/L) approximates plasma (103 mEq/L).</p>
-<p><strong>Lactate as a Buffer:</strong> Lactate is converted to glucose in the liver, which consumes hydrogen ions:</p>
+<p>Ringer&rsquo;s lactate（RL）由 Alexis Hartmann 於 1930 年代開發。Sodium 濃度經調整以補償 sodium lactate 所含的鈉離子，而 chloride 濃度（109 mEq/L）則接近血漿（103 mEq/L）。</p>
+<p><strong>Lactate 作為緩衝劑：</strong> Lactate 在肝臟中轉化為葡萄糖，同時消耗氫離子：</p>
 <p>$$2 \text{ Lactate } + 2H^+ \rightarrow \text{ Glucose}$$</p>
-<p>Each mmol of lactate generates 1 mmol of bicarbonate.</p>
-<h3 id="other-balanced-salt-solutions">Other Balanced Salt Solutions</h3>
-<p><strong>Normosol</strong>® and <strong>Plasma-Lyte</strong>® are identical in composition and offer advantages:</p>
+<p>每 1 mmol 的 lactate 可生成 1 mmol 的 <strong>bicarbonate</strong>。</p>
+<h3 id="其他均衡鹽溶液">其他均衡鹽溶液</h3>
+<p><strong>Normosol</strong>® 和 <strong>Plasma-Lyte</strong>® 兩者成分相同，具有以下優點：</p>
 <ul>
-<li>pH closer to plasma</li>
-<li>Non-lactate buffers</li>
-<li>Chloride concentration close to plasma</li>
-<li>Safe with blood transfusions</li>
+<li>pH 值更接近血漿</li>
+<li>非 lactate 緩衝系統</li>
+<li>Chloride 濃度接近血漿</li>
+<li>與血液輸注相容</li>
 </ul>
-<h3 id="hypertonic-saline">Hypertonic Saline</h3>
-<p>Hypertonic saline solutions (e.g., 7.5% NaCl) are more effective at expanding extracellular volume. Infusion of 250 mL produces a 1,235 mL increase in extracellular fluid.</p>
-<p><strong>Uses:</strong></p>
+<h3 id="高張鹽水hypertonic-saline">高張鹽水（Hypertonic Saline）</h3>
+<p>高張鹽水溶液（如 7.5% NaCl）在擴增細胞外液容積方面效果更佳。輸注 250 mL 可使細胞外液增加 1,235 mL。</p>
+<p><strong>適應症：</strong></p>
 <ul>
-<li>Limited-volume resuscitation of hemorrhagic shock</li>
-<li>Reducing intracranial pressure (ICP) in traumatic brain injury</li>
+<li>出血性休克的有限容量復甦</li>
+<li>外傷性腦損傷中降低<strong>顱內壓</strong>（ICP）</li>
 </ul>
-<h3 id="5-dextrose-solutions">5% Dextrose Solutions</h3>
-<p>5% <strong>dextrose</strong> solutions are no longer desirable because:</p>
+<h3 id="5-dextrose-溶液">5% Dextrose 溶液</h3>
+<p>5% <strong>dextrose</strong> 溶液已不再推薦使用，原因包括：</p>
 <ul>
-<li><strong>Volume effects:</strong> Infusion of 1 L results in only 350 mL increase in extracellular fluid</li>
-<li><strong>Enhanced lactate production:</strong> Up to 85% of glucose metabolism can lead to lactate production in hemodynamically compromised patients</li>
-<li><strong>Hyperglycemia:</strong> Deleterious in critically ill patients</li>
+<li><strong>容量效應差：</strong> 輸入 1 L 只會使細胞外液增加 350 mL</li>
+<li><strong>促進乳酸生成：</strong> 高達 85% 的葡萄糖代謝可在血流動力學受損的患者中產生乳酸</li>
+<li><strong>高血糖：</strong> 對重症患者有不良影響</li>
 </ul>
 <hr>
-<h2 id="colloid-fluids">Colloid Fluids</h2>
-<p>A <strong>colloid</strong> solution contains large solute molecules that do not pass readily from plasma to interstitial fluid, creating <strong>oncotic pressure</strong> that holds water in the vascular compartment.</p>
-<h3 id="volume-effects">Volume Effects</h3>
-<p>Infusion of 1 L of 5% <strong>albumin</strong> produces:</p>
+<h2 id="colloid-溶液colloid-fluids">Colloid 溶液（Colloid Fluids）</h2>
+<p><strong>Colloid</strong> 溶液含有大分子溶質，這些分子不易從血漿進入間質液，進而產生<strong>膠體滲透壓</strong>（oncotic pressure）將水分留在血管區室內。</p>
+<h3 id="容量效應">容量效應</h3>
+<p>輸入 1 L 的 5% <strong>albumin</strong> 可產生：</p>
 <ul>
-<li>700 mL increment in plasma volume</li>
-<li>300 mL increment in interstitial fluid volume</li>
+<li>血漿容積增加 700 mL</li>
+<li>間質液容積增加 300 mL</li>
 </ul>
-<p><strong>Colloids are approximately 3 times more effective than <strong>crystalloid</strong>s</strong> for expanding plasma volume.</p>
-<h3 id="colloid-fluid-comparisons">Colloid Fluid Comparisons</h3>
+<blockquote>
+<p><strong>Colloid 擴增血漿容積的效果約為 <strong>crystalloid</strong> 的 3 倍。</strong></p>
+</blockquote>
+<h3 id="colloid-溶液比較">Colloid 溶液比較</h3>
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Fluid</th>
-          <th style="text-align: center"><strong>COP</strong> (mm Hg)</th>
-          <th style="text-align: center">Duration of Effect</th>
+          <th style="text-align: left">溶液</th>
+          <th style="text-align: center"><strong>膠體滲透壓（COP）</strong>（mm Hg）</th>
+          <th style="text-align: center">作用持續時間</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="text-align: left">25% Albumin</td>
           <td style="text-align: center">70</td>
-          <td style="text-align: center">12 h</td>
+          <td style="text-align: center">12 小時</td>
       </tr>
       <tr>
           <td style="text-align: left">10% Dextran-40</td>
           <td style="text-align: center">40</td>
-          <td style="text-align: center">6 h</td>
+          <td style="text-align: center">6 小時</td>
       </tr>
       <tr>
           <td style="text-align: left">6% Hetastarch</td>
           <td style="text-align: center">30</td>
-          <td style="text-align: center">24 h</td>
+          <td style="text-align: center">24 小時</td>
       </tr>
       <tr>
           <td style="text-align: left">5% Albumin</td>
           <td style="text-align: center">20</td>
-          <td style="text-align: center">24 h</td>
+          <td style="text-align: center">24 小時</td>
       </tr>
       <tr>
-          <td style="text-align: left">Plasma</td>
+          <td style="text-align: left">血漿</td>
           <td style="text-align: center">28</td>
           <td style="text-align: center">—</td>
       </tr>
   </tbody>
 </table>
-<p><em><strong>COP</strong> = <strong>colloid</strong> osmotic pressure.</em></p>
-<h3 id="albumin-solutions">Albumin Solutions</h3>
-<p>Albumin is responsible for about 80% of plasma <strong>COP</strong>.</p>
-<p><strong>5% Albumin:</strong></p>
+<blockquote>
+<p><em><strong>COP</strong> = <strong>colloid</strong> osmotic pressure（膠體滲透壓）。</em></p>
+</blockquote>
+<h3 id="albumin-溶液">Albumin 溶液</h3>
+<p>Albumin 貢獻了約 80% 的血漿<strong>膠體滲透壓（COP）</strong>。</p>
+<p><strong>5% Albumin：</strong></p>
 <ul>
-<li><strong>COP</strong>: 20 mm Hg</li>
-<li>Plasma volume increment: ≥70% of infused volume</li>
-<li>Duration: Begins to dissipate at 6 h, lost after 12 h</li>
+<li><strong>COP</strong>：20 mm Hg</li>
+<li>血漿容積增加：≥ 輸注量的 70%</li>
+<li>作用時間：6 小時後開始消退，12 小時後完全消失</li>
 </ul>
-<p><strong>25% Albumin:</strong></p>
+<p><strong>25% Albumin：</strong></p>
 <ul>
-<li><strong>COP</strong>: 70 mm Hg (2.5× plasma)</li>
-<li>Produces 3–4× increment in plasma volume</li>
-<li>Not for resuscitation; shifts fluid from interstitium to plasma</li>
+<li><strong>COP</strong>：70 mm Hg（血漿的 2.5 倍）</li>
+<li>可使血漿容積增加 3–4 倍</li>
+<li>不適用於復甦；作用是將液體從間質移至血漿</li>
 </ul>
-<p><strong>Safety:</strong> Albumin solutions pose no danger in most patients. One possible exception is traumatic brain injury.</p>
-<h3 id="hydroxyethyl-starches-hes">Hydroxyethyl Starches (<strong>HES</strong>)</h3>
-<p><strong>HES</strong> is a polysaccharide with branched glucose polymers substituted by hydroxyl radicals.</p>
-<p><strong>Characteristics:</strong></p>
+<p><strong>安全性：</strong> Albumin 溶液在大多數患者中沒有危險。唯一可能的例外是創傷性腦損傷。</p>
+<h3 id="羥乙基澱粉hydroxyethyl-starcheshes">羥乙基澱粉（Hydroxyethyl Starches，HES）</h3>
+<p><strong>HES</strong> 是一種多醣，由分支的葡萄糖聚合物組成，其羥基被羥基自由基取代。</p>
+<p><strong>特性：</strong></p>
 <ul>
-<li>Molecular weight (MW): 130–450 kD</li>
-<li>Molar substitution ratio: 0.4–0.7</li>
-<li>Higher ratios = prolonged action but increased adverse effects</li>
+<li><strong>分子量（MW）：</strong> 130–450 kD</li>
+<li><strong>摩爾取代比率：</strong> 0.4–0.7</li>
+<li>取代比率越高 → 作用時間越長，但不良反應也越多</li>
 </ul>
-<p><strong>Adverse Effects:</strong></p>
+<p><strong>不良反應：</strong></p>
 <ol>
-<li><strong>Altered hemostasis:</strong> Especially with high molar substitution ratios</li>
-<li><strong>Nephrotoxicity:</strong> Association with <strong>acute kidney injury</strong> (controversial)</li>
-<li><strong>Hyperamylasemia:</strong> From amylase binding to <strong>HES</strong> molecules</li>
+<li><strong>凝血功能改變：</strong> 特別是高摩爾取代比率的製劑</li>
+<li><strong>腎毒性：</strong> 與<strong>急性腎損傷</strong>（AKI）的關聯（仍有爭議）</li>
+<li><strong>高澱粉酶血症：</strong> 來自澱粉酶與 HES 分子的結合</li>
 </ol>
-<h3 id="the-dextrans">The Dextrans</h3>
-<p>The <strong>dextran</strong>s are glucose polymers produced by bacteria. They are not popular due to perceived risk of adverse reactions.</p>
-<p><strong>Disadvantages:</strong></p>
+<h3 id="dextrans">Dextrans</h3>
+<p><strong>Dextrans</strong> 是由細菌產生的葡萄糖聚合物。由於擔心不良反應風險，目前使用不廣。</p>
+<p><strong>缺點：</strong></p>
 <ul>
-<li>Dose-related bleeding tendency</li>
-<li>Interference with blood cross-matching</li>
-<li>Hyperoncotic renal injury (rare)</li>
+<li>劑量相關的出血傾向</li>
+<li>干擾血液交叉配對</li>
+<li>高滲透壓性腎損傷（罕見）</li>
 </ul>
 <hr>
-<h2 id="the-colloidcrystalloid-conundrum">The Colloid–Crystalloid Conundrum</h2>
-<h3 id="early-focus-on-crystalloids">Early Focus on Crystalloids</h3>
-<p>Early studies showed that replacement of shed blood alone was almost universally fatal, while adding <strong>crystalloid</strong> fluid (Ringer&rsquo;s lactate) reduced mortality. This cemented the popularity of <strong>crystalloid</strong>s.</p>
-<h3 id="current-concerns">Current Concerns</h3>
-<p>Despite enhanced ability of <strong>colloid</strong>s to promote cardiac output, <strong>crystalloid</strong>s remain popular because:</p>
+<h2 id="colloidcrystalloid-的難題">Colloid–Crystalloid 的難題</h2>
+<h3 id="早期對-crystalloid-的重視">早期對 Crystalloid 的重視</h3>
+<p>早期研究顯示，僅補充流失的血液幾乎必然導致死亡，而加入 <strong>crystalloid</strong> 液體（Ringer&rsquo;s lactate）可降低死亡率。這確立了 <strong>crystalloid</strong> 的主流地位。</p>
+<h3 id="目前的疑慮">目前的疑慮</h3>
+<p>儘管 <strong>colloid</strong> 增強心輸出量的效果較佳，<strong>crystalloid</strong> 仍被廣泛使用，因為：</p>
 <ul>
-<li>Lack of proven survival benefit with <strong>colloid</strong>s</li>
-<li>Lower cost of <strong>crystalloid</strong>s</li>
+<li><strong>colloid</strong> 尚未證實能提高存活率</li>
+<li><strong>crystalloid</strong> 成本較低</li>
 </ul>
-<p>Arguments against <strong>crystalloid</strong>s:</p>
+<p>反對 <strong>crystalloid</strong> 的論點：</p>
 <ul>
-<li>Relatively large volumes needed (3× greater than <strong>colloid</strong>s)</li>
-<li>Attendant risk of fluid accumulation and edema</li>
+<li>需要較大劑量（為 <strong>colloid</strong> 的 3 倍）</li>
+<li>伴隨液體蓄積和水腫的風險</li>
 </ul>
-<h3 id="a-tailored-approach">A Tailored Approach</h3>
-<p>Different fluids are appropriate for different clinical situations:</p>
+<h3 id="量身訂製的策略">量身訂製的策略</h3>
+<p>不同臨床情況適用不同液體：</p>
 <ol>
-<li><strong>Life-threatening hypovolemia:</strong> Colloid fluid (e.g., 5% <strong>albumin</strong>)</li>
-<li><strong>Hypovolemia from dehydration:</strong> Crystalloid (e.g., Ringer&rsquo;s lactate)</li>
-<li><strong>Hypovolemia with hypo</strong>albumin<strong>emia:</strong> Hyperoncotic <strong>colloid</strong> (e.g., 25% <strong>albumin</strong>)</li>
+<li><strong>危及生命的低血容量：</strong> Colloid（如 5% <strong>albumin</strong>）</li>
+<li><strong>脫水導致的低血容量：</strong> Crystalloid（如 Ringer&rsquo;s lactate）</li>
+<li><strong>合併低白蛋白血症的低血容量：</strong> 高滲透壓 <strong>colloid</strong>（如 25% <strong>albumin</strong>）</li>
 </ol>
 <hr>
-<h2 id="key-takeaways">Key Takeaways</h2>
+<h2 id="重點摘要">重點摘要</h2>
 <ol>
-<li>Normal saline is not normal; the high chloride causes <strong>hyperchloremic metabolic acidosis</strong>.</li>
-<li>Isotonic <strong>crystalloid</strong>s expand interstitial volume more than plasma volume.</li>
-<li>Dextrose-containing fluids promote lactate formation and hyperglycemia.</li>
-<li>Colloids are superior to <strong>crystalloid</strong>s for expanding plasma volume and promoting cardiac output.</li>
-<li>Albumin solutions support transport function and antioxidant activity.</li>
-<li><strong>HES</strong> solutions are associated with bleeding and renal risks.</li>
-<li>The <strong>colloid</strong>-<strong>crystalloid</strong> controversy is misguided; different fluids suit different situations.</li>
+<li>Normal saline 並非「正常」；高 chloride 會導致<strong>高氯性代謝性酸中毒</strong>。</li>
+<li>等張 <strong>crystalloid</strong> 擴增間質液容積的效果優於血漿容積。</li>
+<li>含 dextrose 的液體會促進乳酸形成並導致高血糖。</li>
+<li><strong>Colloid</strong> 在擴增血漿容積和促進心輸出量方面優於 <strong>crystalloid</strong>。</li>
+<li>Albumin 溶液支持轉運功能和抗氧化活性。</li>
+<li><strong>HES</strong> 溶液與出血和腎臟風險相關。</li>
+<li><strong>Colloid</strong>–<strong>crystalloid</strong> 之爭並無定論；不同液體適用於不同情況。</li>
 </ol>
 <hr>
-<h2 id="references">References</h2>
+<h2 id="參考文獻">參考文獻</h2>
 <ol>
-<li>
-<p>Imm A, Carlson RW. Fluid resuscitation in circulatory shock. <em>Crit Care Clin</em> 1993; 9:313–333.</p>
-</li>
-<li>
-<p>Myburgh JA, Mythen MG. Resuscitation fluids. <em>N Engl J Med</em> 2013; 369:1243–1251.</p>
-</li>
-<li>
-<p>Reddy S, Weinberg L, Young P. Crystalloid fluid therapy. <em>Critical Care</em> 2016; 20:59.</p>
-</li>
+<li>Imm A, Carlson RW. Fluid resuscitation in circulatory shock. <em>Crit Care Clin</em> 1993; 9:313–333.</li>
+<li>Myburgh JA, Mythen MG. Resuscitation fluids. <em>N Engl J Med</em> 2013; 369:1243–1251.</li>
+<li>Reddy S, Weinberg L, Young P. Crystalloid fluid therapy. <em>Critical Care</em> 2016; 20:59.</li>
 </ol>
 
   </div>

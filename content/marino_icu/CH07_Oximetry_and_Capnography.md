@@ -17,134 +17,141 @@ title: "Oximetry and Capnography"
 
 ## Oximetry: Methodology
 
-### Light Absorption by Hemoglobin
+### 血紅蛋白的光吸收特性（Light Absorption by Hemoglobin）
 
-Hemoglobin changes its structural configuration when it participates in a chemical reaction, and each configuration has a distinct pattern of light absorption. Four different forms are relevant:
+Hemoglobin 參與化學反應時會改變其結構構型，每種構型都有獨特的光吸收特徵。有四種不同的形式具有臨床意義：
 
-- **Oxygenated hemoglobin (HbO₂):** Absorbs infrared light more effectively
-- **Deoxygenated hemoglobin (Hb):** Absorbs red light more effectively
-- **Methemoglobin (metHb):** Absorbs both wavelengths similarly
-- **Carb**oxyhemoglobin** (COHb):** Absorbs light similarly to oxygenated hemoglobin
+- **Oxygenated hemoglobin (HbO₂)：** 較有效吸收紅外光
+- **Deoxygenated hemoglobin (Hb)：** 較有效吸收紅光
+- **Methemoglobin (metHb)：** 對兩種波長的吸收程度相近
+- **Carboxyhemoglobin (COHb)：** 光吸收特性類似 oxygenated hemoglobin
 
-Two wavelengths of light (660 nm and 940 nm) are used to identify oxygenated and **deoxygenated hemoglobin**.
+臨床上利用兩種波長的光（**660 nm** 和 **940 nm**）來區分 oxygenated 與 **deoxygenated hemoglobin**。
 
-### Pulse Oximetry
+### 血氧飽和度監測儀（Pulse Oximetry）
 
-When a light beam passes through a pulsating artery, the phasic changes in arterial blood volume create pulsatile variations in the intensity of the transmitted light beam. Restricting analysis to the systolic fraction focuses the analysis on arterial blood, reducing errors from venous blood and other tissues.
+當光束穿過搏動的 artery 時，arterial blood volume 的相位變化會造成穿透光束強度的搏動性變化。將分析限定在收縮期部分，可將焦點置於 arterial blood，減少來自靜脈血和其他組織的誤差。
 
-The fingertip probe contains two light-emitting diodes that emit monochromatic light at wavelengths of 660 nm and 940 nm. These pass through the finger and are sensed by a photodetector. The pulse oximeter saturation (SpO₂) is expressed as:
+Fingertip probe 內含兩個發光二極體（LED），發射波長 **660 nm** 和 **940 nm** 的單色光。這些光線穿過手指後由光偵測器接收。**Pulse oximeter** saturation（SpO₂）的計算公式為：
 
 $$\text{SpO}_2 = \frac{\text{HbO}_2}{\text{Hb} + \text{HbO}_2} \times 100$$
 
-### Forehead Pulse Oximetry
+### 額頭式血氧飽和度監測（Forehead Pulse Oximetry）
 
-The forehead is appealing because the arterial circulation is less prone to vasoconstriction than digital arteries. Unlike fingertip **oximetry** (transmission), forehead **oximetry** relies on light reflectance. Elastic headbands are used to reduce interference from venous pulsations.
+額頭是理想位置，因為 arterial circulation 較不容易發生血管收縮，優於手指动脉。不同於 fingertip **oximetry**（穿透式），額頭 **oximetry** 採用**反射式**光偵測。臨床上使用彈性頭帶來減少靜脈搏動的干擾。
 
-### CO-Oximetry
+### 一氧化碳血氧飽和度儀（CO-Oximetry）
 
-Standard pulse oximeters do not detect carb**oxyhemoglobin** or **methemoglobin**. This requires additional wavelengths available in devices called "**CO-oximeter**s" that generate up to 8 wavelengths of light.
+標準 **pulse oximeter** 無法偵測 **carboxyhemoglobin** 或 **methemoglobin**。這需要稱為「**CO-oximeter**」的設備所提供之額外波長，可產生多達 **8 種波長**的光線。
 
-### Accuracy
+### 準確度（Accuracy）
 
-The accuracy of a single SpO₂ measurement is 3–4%, and serial measurements are 2–3%. The SpO₂ is usually higher than the arterial O₂ saturation (SaO₂). Discrepancies are greater in subjects with dark skin pigmentation.
+單次 SpO₂ 測量的準確度為 **3–4%**，連續測量為 **2–3%**。SpO₂ 通常高於 arterial O₂ saturation（**SaO₂**）。在深色皮膚色素沉著的人中，差異更大。
 
 ---
 
 ## Oximetry: Applications
 
-### Target SpO₂
+### 目標 SpO₂
 
-The target SpO₂ is 90–94% for most patients and 88–92% for patients with hypercapnic respiratory failure. A change in SpO₂ of 3–4% is considered significant.
+- 大多數患者的目標 SpO₂ 為 **90–94%**
+- 有 **hypercapnic respiratory failure** 的患者為 **88–92%**
+- SpO₂ 變化 **3–4%** 即視為具有臨床意義
 
-### Venous Oximetry
+### 靜脈血氧監測（Venous Oximetry）
 
-Oximetry can measure the O₂ saturation in venous blood from the pulmonary artery (**mixed venous blood**) or superior vena cava (central venous blood). Specialized **oximetry** catheters contain fiberoptic bundles that emit two wavelengths of light from the tip.
+Oxymetry 可測量肺动脉（**mixed venous blood**）或上腔靜脈（central venous blood）抽取的靜脈血 O₂ saturation。專用 **oximetry** 導管內含光纖束，從尖端發射兩種波長的光線。
 
-### Venous O₂ Saturation
+### 靜脈 O₂ Saturation
 
-The venous O₂ saturation (SvO₂) reflects the balance between systemic O₂ delivery (DO₂) and O₂ consumption (VO₂):
+靜脈 O₂ saturation（**SvO₂**）反映 systemic O₂ delivery（DO₂）與 O₂ consumption（VO₂）之間的平衡：
 
 $$\text{SvO}_2 = 1 - \frac{\text{VO}_2}{\text{DO}_2}$$
 
-The normal SvO₂ is 70–75%. A decrease indicates decreased O₂ delivery relative to consumption.
+- **正常 SvO₂：70–75%**
+- SvO₂ 下降表示 O₂ delivery 低於 consumption
 
-### Central Venous O₂ Saturation (ScvO₂)
+### 中心靜脈 O₂ Saturation（ScvO₂）
 
-The ScvO₂ measured by central venous **oximetry** catheters is slightly lower than the SvO₂ in healthy subjects but higher in critically ill patients. Changes in ScvO₂ generally mirror those in SvO₂.
+由 central venous **oximetry** 導管測得的 ScvO₂，在健康人中略低於 SvO₂，但在重症患者中則高於 SvO₂。ScvO₂ 的變化趨勢與 SvO₂ 大致相符。
 
-### Dual Oximetry
+### 雙重血氧監測（Dual Oximetry）
 
-Adding SpO₂ from **pulse **oximetry**** to SvO₂ monitoring enhances interpretive value. The difference (SpO₂ – SvO₂) is roughly equivalent to O₂ extraction from capillary blood:
+將 **pulse oximetry** 的 SpO₂ 與 SvO₂ 監測相結合，可增強解讀價值。兩者的差值（SpO₂ – SvO₂）大致相當於 capillary blood 的 O₂ extraction：
 
-- Normal (SpO₂ – SvO₂): 25%
-- Greater than 25%: O₂ delivery reduced
-- Greater than 50%: Threat to aerobic metabolism
+| SpO₂ – SvO₂ 差值 | 臨床意義 |
+|:------------------|:---------|
+| **正常：25%** | O₂ delivery 與 consumption 平衡 |
+| **> 25%** | O₂ delivery 下降 |
+| **> 50%** | 威脅 aerobic metabolism |
 
 ---
 
 ## Capnography: Methodology
 
-### Infrared Capnography
+### 紅外線 Capnography
 
-The quantitative method of monitoring exhaled CO₂ is based on the ability of CO₂ to absorb light in the infrared spectrum. An infrared CO₂ probe is placed between the ventilator and the patient and emits a continuous infrared light beam through the respired gas.
+呼出 CO₂ 的定量監測方法是基於 CO₂ 吸收紅外光譜範圍內光線的能力。紅外線 CO₂ 探頭放置於呼吸器與患者之間，發射連續的紅外線光束穿過呼吸氣體。
 
-### The Capnogram
+### Capnogram 的四個階段
 
-The capnogram has four phases:
-- **Phase I:** Anatomic dead space with negligible CO₂
-- **Phase II:** Rapid rise as alveolar gas enters
-- **Phase III:** Plateau indicating alveolar emptying
-- **Phase IV:** Onset of inhalation
+| 階段 | 內容 | 特徵 |
+|:-----|:-----|:-----|
+| **Phase I** | Anatomical dead space | CO₂ 含量可忽略 |
+| **Phase II** | 快速上升期 | Alveolar gas 進入 |
+| **Phase III** | 平臺期 | Alveolar emptying |
+| **Phase IV** | 吸氣開始 | 曲線下降 |
 
-A slowly rising Phase II indicates increased alveolar dead space (as in COPD).
+> **臨床提示：** Phase II 緩慢上升表示 alveolar dead space 增加（如 **COPD**）。
 
 ---
 
 ## Capnography: Applications
 
-### Procedural Sedation
+### 程序性鎮靜（Procedural Sedation）
 
-Capnography has proven superior to **oximetry** for detecting hypoventilation during procedural sedation. Monitoring PETCO₂ is recommended for all procedural sedation.
+Capnography 在偵測程序性鎮靜期間的 **hypoventilation** 方面優於 **oximetry**。建議對所有程序性鎮靜患者監測 **PETCO₂**。
 
-### Endotracheal Intubation
+### 氣管內插管（Endotracheal Intubation）
 
-Verification of tracheal placement with exhaled CO₂ detection is a "standard of care" because:
-- Unrecognized esophageal intubation is reported in one of every 18 emergency intubations
-- Clinical assessment does not always differentiate tracheal from esophageal intubation
+以呼出 CO₂ 偵測確認氣管放置位置是「**standard of care**」，原因如下：
 
-### Changes in Cardiac Output
+- 未被偵測的食道插管發生率：每 18 次緊急插管中有 1 次
+- 臨床評估無法完全區分氣管與食道插管
 
-PETCO₂ monitoring might be valuable for detecting cardiac output responses to interventions. Changes in PETCO₂ are predictive of fluid responsiveness in mechanically ventilated patients.
+### 心輸出量變化（Changes in Cardiac Output）
 
-### Cardiopulmonary Resuscitation
+**PETCO₂** 監測可能可用於偵測干預措施對心輸出量的反應。**PETCO₂** 的變化可用於預測機械通氣患者的液體反應性。
 
-Return of spontaneous circulation is unlikely if the PETCO₂ is 10 mm Hg or less after 20 minutes of cardiopulmonary resuscitation.
+### 心肺復甦（Cardiopulmonary Resuscitation）
 
-### PaCO₂ – PETCO₂ Difference
+若心肺復甦 20 分鐘後 **PETCO₂** ≤ **10 mm Hg**，恢復自發循環的可能性極低。
 
-The PETCO₂ will decrease relative to the PaCO₂ in conditions associated with increased dead space ventilation.
+### PaCO₂ – PETCO₂ 差值
 
-### Conditions that Alter the PaCO₂ – PETCO₂ Relationship
+當 dead space ventilation 增加時，**PETCO₂** 會相對於 **PaCO₂** 下降。
 
-| PETCO₂ Less than PaCO₂ | PETCO₂ Greater than PaCO₂ |
-|:------------------------|:---------------------------|
-| Leaky ventilator circuit | Pneumonia |
-| Excessive lung inflation | Obstructive lung disease |
-| Pulmonary edema | Pulmonary embolism |
-| Acute decrease in cardiac output | Hypermetabolism |
-| Pulmonary embolism | Metabolic acidosis |
+### 影響 PaCO₂ – PETCO₂ 關係的臨床情境
+
+| **PETCO₂ < PaCO₂** | **PETCO₂ > PaCO₂** |
+|:--------------------|:--------------------|
+| 呼吸器管路漏氣 | Pneumonia |
+| 肺部過度擴張 | 阻塞性肺疾病 |
+| 肺水腫 | Pulmonary embolism |
+| 急性心輸出量下降 | Hypermetabolism |
+| Pulmonary embolism | 代謝性酸中毒 |
 | | Hyperoxia |
 
 ---
 
 ## Key Takeaways
 
-1. Pulse **oximetry** measures SpO₂ with 3–4% accuracy.
-2. The target SpO₂ is 90–94% for most patients.
-3. SvO₂ reflects the balance between O₂ delivery and consumption.
-4. Capnography is superior to **oximetry** for detecting hypoventilation.
-5. PETCO₂ can indicate cardiac output changes and prognosis during CPR.
-6. The PaCO₂ – PETCO₂ difference increases with dead space ventilation.
+1. **Pulse oximetry** 測量 SpO₂，準確度為 3–4%。
+2. 大多數患者的目標 SpO₂ 為 **90–94%**。
+3. **SvO₂** 反映 O₂ delivery 與 consumption 之間的平衡。
+4. **Capnography** 在偵測 hypoventilation 方面優於 **oximetry**。
+5. **PETCO₂** 可反映心肺復甦期間的心輸出量變化及預後。
+6. Dead space ventilation 增加時，PaCO₂ – PETCO₂ 差值擴大。
 
 ---
 
