@@ -9,283 +9,297 @@ title: "The Indwelling Vascular Catheter"
 > See, and then reason and compare and control. But see first.  
 > — Sir William Osler
 
+## 導讀摘要
+
+本章節聚焦於**留置血管導管**（indwelling vascular catheter）的日常照護與主要併發症的處置。內容涵蓋：導管敷料更換原則、沖洗與鎖定（flushing/locking）技術、導管阻塞的處理（包含血栓性與非血栓性阻塞的鑑別與 declotting 流程），以及三大主要併發症——**血栓形成**（thrombosis）、**血管穿孔**（vascular perforation）與**導管相關感染**（catheter-related infection）。最後提供膿毒血症的診斷方法（配對血液培養）、致病菌排名、經驗性抗生素選擇與導管管理策略。
+
+---
+
 ## Introduction
 
-The ubiquitous presence of indwelling vascular catheters requires attention to their maintenance and vigilance for their troublesome complications. This chapter begins by describing the routine care and maintenance of indwelling catheters, including how to restore patency in an occluded catheter, and then focuses on the major complications of indwelling catheters: thrombosis, vascular perforation, and catheter-related infections.
+留置血管導管的廣泛使用，使其維護與併發症的警覺成為臨床不可忽視的課題。本章首先說明留置導管的日常照護與維護，包含如何恢復阻塞導管的通暢性，隨後深入探討留置導管的主要併發症：**血栓形成**（thrombosis）、**血管穿孔**（vascular perforation）與**導管相關感染**（catheter-related infections）。
 
 ---
 
-## Routine Catheter Care
+## 常規導管照護（Routine Catheter Care）
 
-### Protective Dressings
+### 保護性敷料（Protective Dressings）
 
-Catheter insertion sites should be covered with a sterile dressing for the life of the catheter. There are three types of dressings:
+導管穿刺部位應以無菌敷料覆蓋，覆蓋時間至導管拔除為止。臨床上有三種敷料類型：
 
-1. **Sterile gauze pads**, which are secured to the skin with hypo-allergenic tape.
-2. **Transparent polyurethane dressings**, which are permeable to O₂, CO₂, and water vapor but trap moisture that collects on the underlying skin. These dressings have a skin adhesive that produces a seal around the catheter insertion site and are commonly known as "occlusive" dressings.
-3. **Chlorhexidine gluconate-impregnated sponge dressings**, which can be placed over the catheter insertion site and then covered with the transparent dressing.
+1. **無菌紗布墊**（Sterile gauze pads），以低過敏性膠帶固定於皮膚上。
+2. **透明聚氨酯敷料**（Transparent polyurethane dressings），可讓 O₂、CO₂ 與水蒸氣通透，但會阻擋水分並使其積聚於下方皮膚。此類敷料含有皮膚黏合劑，可於導管穿刺處形成封閉，為臨床常見的「封閉性」（occlusive）敷料。
+3. **氯己定葡萄糖酸鹽浸潤海綿敷料**（Chlorhexidine gluconate-impregnated sponge dressings），可放置於導管穿刺部位，再以透明敷料覆蓋。
 
-The transparent occlusive dressings are favored because they allow routine inspection of the catheter insertion site and also provide a seal that isolates the insertion site. However, the skin adhesive on these dressings does not work well when the skin is wet, so gauze dressings are preferred when the skin is difficult to keep dry.
+透明封閉性敷料廣獲青睞，原因在於其便於常規檢視導管穿刺處，同時提供封閉隔離效果。然而，此類敷料的黏合劑在皮膚潮濕時效果不佳，因此皮膚難以保持乾燥時，紗布敷料為首選。
 
-Sterile gauze dressings and occlusive dressings are considered equivalent in preventing catheter colonization and infection. Chlorhexidine-impregnated dressings provide the best protection against catheter infections, but they are currently recommended only in settings where catheter-related infections are problematic.
+無菌紗布敷料與封閉性敷料在預防導管菌落形成與感染方面效果相當。**氯己定浸潤敷料**（Chlorhexidine-impregnated dressings）對導管感染的防護效果最佳，但目前僅建議用於導管相關感染問題較嚴重的單位。
 
-### Dressing Changes
+### 敷料更換（Dressing Changes）
 
-The occlusive transparent dressings should be changed at least every 7 days, or when the adhesive seal is disrupted. In addition, occlusive dressings can paradoxically promote colonization and infection when moisture or blood accumulates under the dressing, and evidence of such should prompt a dressing change. Gauze dressings should be changed at least every 48 hours, or when the dressing is no longer dry.
+透明封閉性敷料應**至少每 7 天更換一次**，或當黏合密封層受損時即需更換。此外，當敷料下有水分或血液積聚時，封閉性敷料反而可能促進菌落形成與感染，此時應立即更換。紗布敷料應**至少每 48 小時更換一次**，或當敷料不再乾燥時即更換。
 
-### Replacing Catheters
+### 導管更換原則（Replacing Catheters）
 
-Routine or scheduled replacement of catheters is not advised because it does not reduce the incidence of catheter-related infections and actually increases the risk of catheter-associated complications (both mechanical and infectious).
+**不建議常規或定期更換導管**，因為此舉無法降低導管相關感染率，反而增加機械性與感染性併發症的風險。
 
-**Peripheral Vein Catheters:** Peripheral vein catheters are replaced when there is evidence of:
-- Localized phlebitis (painful erythema around the insertion site, which can extend centrally along the course of the vein)
-- Extravasation of the infusate
-- Catheter obstruction that cannot be relieved
+**周邊靜脈導管（Peripheral Vein Catheters）**：周邊靜脈導管出現以下情況時應予以更換：
+- **局部靜脈炎**（phlebitis）：穿刺部位周圍出現疼痛性紅斑，並可沿靜脈走向向中心延伸
+- **輸液外滲**（extravasation）
+- **無法解除的導管阻塞**
 
-The phlebitis is typically the result of mechanical or chemical irritation of the target vessel and does not represent infection unless there is purulence emanating from the puncture site.
+靜脈炎通常為目標血管受到機械性或化學性刺激所引起，若穿刺處無化膿現象，則不代表感染。
 
-**Central Venous Catheters:** Central venous catheters are replaced when there is evidence of infection (either purulence at the insertion site or confirmed **catheter-related septicemia**). Catheter replacement is not necessary when there is erythema at the catheter insertion site without other signs of infection, since erythema alone is not predictive of catheter-related infection.
+**中央靜脈導管（Central Venous Catheters）**：中央靜脈導管出現以下情況時應更換：
+- **感染跡象**（穿刺處化膿或確診**導管相關敗血症**（catheter-related septicemia））
 
-### Flushing Catheters
+若穿刺處僅有紅斑而無其他感染跡象，則無需更換導管，因為單純紅斑並非**導管相關感染**（catheter-related infection）的可靠預測因子。
 
-Vascular catheters that are used intermittently are at risk of developing an occlusive thrombosis when not in use. To prevent this, the catheters are flushed at regular intervals, and the flush solution is left in the lumen of the catheter when it is not in use (known as "locking" the catheter).
+### 導管沖洗（Flushing Catheters）
 
-Flush solutions have traditionally contained heparin (in concentrations ranging from 10 to 1,000 units/mL in isotonic saline), but these solutions are concerning because of the risk of heparin-induced thrombocytopenia. Isotonic saline has proven as effective as heparinized saline as a flushing and locking solution, and preservative-free saline is now recommended as the preferred solution for flushing and locking venous catheters. However, this is not the case for arterial catheters, where 1.4% sodium citrate is a suitable alternative to heparinized saline for maintaining catheter patency.
+間歇性使用的血管導管，在不使用時容易形成阻塞性血栓。為預防此情況，導管需定期沖洗，且在非使用狀態下將沖洗液留置於導管腔內（即所謂「鎖定」（locking）導管）。
 
-### Recommendations for Routine Catheter Care
+傳統沖洗溶液含有**heparin**（濃度範圍 10–1,000 units/mL，溶於等張生理食鹽水），但因有誘發**heparin 引起的血小板減少症**（heparin-induced thrombocytopenia）的風險而備受關注。等張生理食鹽水作為沖洗與鎖定溶液，已被證實與含 heparin 溶液同樣有效，且目前建議以**不含防腐劑的生理食鹽水**作為靜脈導管沖洗與鎖定的首選溶液。然而，**arterial catheters** 的情況不同，**1.4% sodium citrate** 是維持導管通暢、替代含 heparin 溶液的合適選擇。
 
-| Recommendation | Details |
-|:---------------|:--------|
-| **Dressing Changes** | Adhesive transparent dressings should be changed at least every 7 days, or when moisture or blood accumulates under the dressing, or the adhesive seal is disrupted. Gauze dressings should be changed at least every 48 hrs, or when visibly soiled. |
-| **Flushing** | Preservative-free 0.9% saline is preferred to heparinized saline for flushing venous catheters. |
-| **Replacing Catheters** | Routine or scheduled replacement of catheters is not necessary and can create complications. |
+### 常規導管照護建議摘要
 
----
-
-## Occluded Catheters
-
-### Causes of Occlusion
-
-Occlusion of indwelling vascular catheters is common and can be the result of:
-- **Thrombus formation** (60% of cases)
-- **Mechanical factors** (e.g., constriction from a suture)
-- **Catheter malposition**
-- **Insoluble precipitates** from drugs or minerals in the infusate
-
-The occlusion can be partial or complete and can appear as sluggish flow, loss of flow, or frequent triggering of alarms on infusion pumps (indicating excessive infusion pressures). Aspiration of blood through the catheter becomes difficult or is not possible. Note that small-barrel syringes are preferred for aspiration through a catheter because they generate smaller negative pressures and are less likely to collapse the lumen of the catheter.
-
-### Restoring Patency
-
-Short, peripheral vein catheters that become occluded are typically replaced, but for long catheters that are more difficult to replace (e.g., central venous catheters), every effort should be made to restore patency. Advancing a guidewire through the catheter to restore patency is not advised, since this can dislodge an obstructing mass and create an embolus. Chemical dissolution of the obstructing mass is the standard method of restoring patency.
-
-#### Thrombotic Occlusion
-
-Since thrombosis is the most common cause of catheter occlusion, the initial attempt to restore patency should involve the local instillation of a thrombolytic agent. Alteplase (recombinant tissue plasminogen activator) is currently the favored thrombolytic agent for restoring catheter patency. The regimen can restore patency in 80–90% of occluded catheters. There are reports of angioedema associated with this regimen, but no reports of abnormal bleeding.
-
-### Protocol for Declotting Central Venous Catheters
-
-| Step | Action |
-|:-----|:-------|
-| 1 | Instill 2 mL (2 mg) of drug solution into the occluded catheter and cap the hub of the catheter. |
-| 2 | Wait 30 minutes and attempt to withdraw blood from the catheter. |
-| 3 | If the occlusion persists, wait another 90 minutes (total dwell time = 120 min) and attempt to withdraw blood. |
-| 4 | If the occlusion persists, prepare a second dose of **alteplase** (2 mg) and repeat steps 1–3. |
-| 5 | If patency is restored, withdraw 5 mL of blood through the catheter to remove any residual clot. |
-| 6 | If this regimen does not restore patency, consider the non-thrombotic sources of obstruction. |
-
-*Drug: Alteplase (recombinant tissue plasminogen activator). Preparation: Cathflo Activase (Genentech, Inc.) available as powder in 2 mg vials. Add 2 mL sterile water to each vial for a drug concentration of 1 mg/mL.*
-
-### Non-Thrombotic Catheter Occlusion
-
-| Precipitate Type | Clearing Agent |
-|:----------------|:--------------|
-| Alkaline precipitates | Alkaline solution (sodium bicarbonate or sodium hydroxide) |
-| Acidic precipitates | Acid (hydrochloric acid) |
-| Lipid residues | 70% ethanol |
+| 建議項目 | 詳情 |
+|:---------|:-----|
+| **敷料更換** | 黏合式透明敷料至少每 7 天更換，或當敷料下有水分/血液積聚、黏合密封層受損時即更換。紗布敷料至少每 48 小時更換，或當明顯髒污時即更換。 |
+| **沖洗** | 沖洗靜脈導管時，**不含防腐劑的 0.9% 生理食鹽水**優於含 heparin 的沖洗液。 |
+| **導管更換** | 不需要常規或定期更換導管，此舉反而可能造成併發症。 |
 
 ---
 
-## Non-Infectious Complications
+## 導管阻塞（Occluded Catheters）
 
-### Catheter-Related Thrombosis
+### 阻塞原因（Caus）
 
-Indwelling catheters can trigger localized thrombus formation by injuring the vascular endothelium or by platelet adhesion to the catheter. Catheter-related thrombosis is especially prevalent with peripherally inserted central catheters (PICCs), but the thrombosis is clinically silent in more than 95% of cases. There is an increased risk of **catheter-related thrombosis** in cancer patients, especially those with long-term, tunneled catheters for chemotherapy.
+留置血管導管阻塞臨床上相當常見，可能原因包括：
 
-#### Upper Extremity Thrombosis
+- **血栓形成**（Thrombus formation）（約佔 60%）
+- **機械性因素**（如縫線壓迫）
+- **導管位置不當**（Catheter malposition）
+- **藥物或礦物質所形成的不溶性沉澱物**
 
-Deep vein thrombosis (**DVT**) is not limited to the lower extremities; about 5% of cases involve the deep veins above the elbow, and as many as 90% of these are attributed to the presence of a catheter. The other risk factor for this type of **DVT** is malignancy.
+阻塞可為部分性或完全性，臨床表現包括：流速緩慢、流速消失、或输液泵頻繁警報（表示輸液壓力過高）。經導管抽吸血液變得困難或不可能。**注意：小容量注射筒（small-barrel syringes）較適合用於導管抽吸，因為其產生的負壓較小，較不易造成導管管腔塌陷。**
 
-Upper extremity **DVT** can be clinically silent, and the only consequence may be difficulty aspirating blood through the involved catheter. Complete thrombotic obstruction eventually produces swelling of the upper arm, which can be accompanied by discomfort, paresthesias, arm weakness, and engorgement of the superficial veins around the shoulder (Urschel's sign). The thrombosis can also propagate into the superior vena cava, but the **superior vena cava syndrome** is a rare consequence of catheter-associated **DVT**. Fewer than 10% of upper extremity **DVT**s are associated with symptomatic pulmonary emboli.
+### 恢復通暢（Restoring Patency）
 
-**Diagnosis:** Compression ultrasonography is the diagnostic test of choice for upper extremity **DVT**. A positive test (i.e., clot-filled veins are not compressible) has a sensitivity of 97% and a specificity of 96%. D-dimer levels are not reliable as a screening test for **DVT** because critically ill patients often have elevated D-dimer levels.
+短小的周邊靜脈導管一旦阻塞，通常直接更換即可；但更換困難的長導管（如中央靜脈導管），應盡力設法恢復通暢。**不建議**以導絲（guidewire）通過導管來恢復通暢，因為此舉可能將阻塞物質推離而造成栓塞。以化學方式溶解阻塞物質，是恢復通暢的標準方法。
 
-**Management:** Removal of the offending catheter is not mandatory in upper extremity **DVT** and is recommended only when arm swelling is severe or painful, or when anticoagulant therapy is contraindicated.
+#### 血栓性阻塞（Thrombotic Occlusion）
 
-#### Lower Extremity Thrombosis
+由於血栓是導管阻塞最常見的原因，恢復通暢的初始嘗試應採用**血栓溶解劑**（thrombolytic agent）局部灌注。**Alteplase**（recombinant tissue plasminogen activator）是目前恢復導管通暢的首選血栓溶解劑，據報導可恢復約 80–90% 阻塞導管的通暢性。此療法有出現血管性水腫（angioedema）的案例報告，但未見異常出血的報告。
 
-Femoral vein catheters are considered high-risk for **catheter-related thrombosis**, especially when left in place for several days. However, the reported incidence of symptomatic **DVT** with these catheters is only 1.6%, and there is no documented correlation between the duration of catheter use and the appearance of **DVT**. Therefore, the risk of **DVT** with these catheters is overstated.
+### 中央靜脈導管解血栓程序
 
-### Vascular Perforation
+| 步驟 | 處置 |
+|:-----|:-----|
+| 1 | 將 2 mL（2 mg）藥物溶液灌注至阻塞導管，並封住導管接頭。 |
+| 2 | 等待 30 分鐘後，嘗試從導管抽吸血液。 |
+| 3 | 若阻塞持續，再等待 90 分鐘（總滯留時間 = 120 分鐘），再次嘗試抽吸。 |
+| 4 | 若阻塞仍持續，製備第二劑 **alteplase**（2 mg），重複步驟 1–3。 |
+| 5 | 若通暢恢復，自導管抽吸 5 mL 血液，以去除殘餘血栓。 |
+| 6 | 若此療程無法恢復通暢，應考慮非血栓性阻塞因素。 |
 
-#### Superior Vena Cava Perforation
+*藥物：Alteplase（recombinant tissue plasminogen activator）。製備： Cathflo Activase（Genentech, Inc.），粉末劑型，2 mg/瓶，加入 2 mL 無菌水配製，藥物濃度為 1 mg/mL。*
 
-Left-sided central venous catheters that are advanced into the superior vena cava (SVC) do not always make the acute turn downward toward the right atrium. When this occurs, the tip of the catheter abuts the lateral wall of the SVC. If the catheter remains in this position, the tip of the catheter can erode through the vessel wall, resulting in leakage of blood and intravenous fluids into the mediastinum and pleural space.
+### 非血栓性導管阻塞（Non-Thrombotic Catheter Occlusion）
 
-The symptoms from SVC perforation (substernal chest pain, cough, and dyspnea) are nonspecific, and suspicion of perforation is often prompted by the sudden appearance of mediastinal widening and a pleural effusion on the chest x-ray.
-
-**Diagnosis:** The pleural effusions can be largely composed of intravenous fluids that escape through the perforation; as such, a thoracentesis can support the diagnosis of SVC perforation if the pleural fluid is similar in composition to the intravenous infusion fluid. The perforation is confirmed by injecting radiocontrast dye through the catheter and noting the presence of dye in the mediastinum or pleural space.
-
-**Management:** When vena cava perforation is first suspected, infusion through the catheter should be stopped immediately. If the diagnosis is confirmed, the catheter should be removed (this does not provoke mediastinal bleeding). Antibiotic therapy is not necessary unless there is evidence of infection in the pleural fluid.
-
-#### Cardiac Tamponade
-
-The most life-threatening complication of central venous catheters is **cardiac tamponade** from a catheter tip that perforates the right atrium. Fortunately, this complication is rare. The first sign of tamponade is usually the abrupt onset of dyspnea, which can progress to cardiovascular collapse within an hour. The diagnosis requires ultrasound evidence of a pericardial effusion with diastolic collapse of the right heart, and immediate **pericardiocentesis** is necessary to reduce the pericardial pressure and allow the right heart to fill. Emergency thoracotomy may also be necessary if there is a large tear in the wall of the heart. The mortality rate in this condition varies from 40% to 100% in published reports.
+| 沉澱物類型 | 清除劑 |
+|:----------|:-------|
+| 鹼性沉澱物 | 鹼性溶液（sodium bicarbonate 或 sodium hydroxide） |
+| 酸性沉澱物 | 酸性溶液（hydrochloric acid） |
+| 脂肪殘留物 | 70% ethanol |
 
 ---
 
-## Catheter-Related Bloodstream Infections
+## 非感染性併發症（Non-Infectious Complications）
 
-### Pathogenesis
+### 導管相關血栓（ catheter-related thrombosis）
 
-Indwelling vascular catheters (with the exception of short, peripheral vein catheters) are the leading source of nosocomial bloodstream infections, and septicemia from indwelling catheters has a mortality rate of 12–25% in ICU patients. The average rate of infections involving central venous access catheters is 4.6 per 1,000 catheter days.
+留置導管可因傷害血管內皮或使血小板附著於導管上，而引發局部血栓形成。**導管相關血栓**在周邊置入的中央導管（Peripherally Inserted Central Catheters，PICCs）患者中特別常見，但**超過 95% 的血栓臨床上無症狀**。癌症患者（尤其是長期使用隧道式化療導管者）發生**導管相關血栓**的風險較高。
 
-#### Sources of Microbial Colonization
+#### 上肢血栓（Upper Extremity Thrombosis）
 
-1. **Contaminated infusates** (e.g., blood products) — this occurs rarely.
-2. **Contamination of the internal lumen** through break points in the infusion system, such as catheter hubs — this may be a prominent route of infection for catheters inserted through subcutaneous tunnels.
-3. **Migration of skin microbes** along the subcutaneous tract of an indwelling catheter — this is considered the principal route of infection for percutaneous (non-tunneled) catheters.
-4. **Attachment of microorganisms** from circulating blood to the intravascular portion of the catheter — the catheter is not considered the primary source of infection in this situation.
+深層靜脈血栓（**DVT**）不僅限於下肢：約 5% 的 DVT 病例涉及肘部以上的深層靜脈，其中高達 90% 與導管的存在有關。此類 **DVT** 的另一危險因子為**惡性腫瘤**。
 
-### Biofilms
+上肢 **DVT** 可無臨床症狀，唯一表現可能是抽吸導管血液時出現困難。血栓完全阻塞後，會逐漸出現上臂腫脹，並可能伴隨不適、感覺異常（paresthesias）、手臂無力，以及肩部周圍淺層靜脈充血（Urschel's sign）。血栓亦可向上延伸至**上腔靜脈**（superior vena cava），但**上腔靜脈症候群**（superior vena cava syndrome）為導管相關 **DVT** 的罕見後果。症狀性肺栓塞（symptomatic pulmonary emboli）與上肢 **DVT** 的關聯不到 10%。
 
-Microbes have a propensity to congregate on inert surfaces. Once in contact with a surface, they release adhesive molecules (called adhesins) that firmly attach them to the surface. They then begin secreting an extracellular matrix (known as slime) that consists of polysaccharides, proteins, fibrin, and extracellular DNA. This extracellular matrix creates a protective environment called a **biofilm** that allows microbes to thrive and proliferate without being damaged by the surrounding environment. Phagocytic cells are unable to ingest organisms that are embedded in a **biofilm**, and antibiotic concentrations that eradicate free-living bacteria must be 100 to 1,000 times higher to eradicate bacteria in **biofilm**s.
+**診斷：** **壓迫式超聲波檢查**（Compression ultrasonography）是診斷上肢 **DVT** 的首選工具，陽性結果（即可壓縮的靜脈因血栓填塞而無法被壓縮）的敏感度達 97%，特異度達 96%。D-dimer 臨界值作為 **DVT** 的篩檢工具並不可靠，因為加護病房患者常見 D-dimer 升高。
 
-**Clinical Significance:** Biofilms play an important role in catheter-related infections:
-- Examination of indwelling vascular catheters with scanning electron microscopy has revealed extensive **biofilm** formation on the surface of the catheters, including those that were in place for only one day.
-- Coagulase-negative staphylococci, which are the leading cause of catheter-related infections, readily adhere to polymer surfaces and produce slime.
+**治療：** 移除肇事導管並非絕對必要，僅當手臂腫脹嚴重或疼痛劇烈、或無法接受抗凝治療時，才建議移除導管。
 
-The ubiquitous presence of **biofilm**s on indwelling vascular catheters means that antibiotic therapy is not the optimal treatment for **catheter-related bloodstream infection**s. Several anti-**biofilm** strategies are being evaluated, but nothing has reached clinical testing at this time.
+#### 下肢血栓（Lower Extremity Thrombosis）
 
-### Clinical Features
+股靜脈導管（Femoral vein catheters）被視為**導管相關血栓**的高風險導管，尤其是留置數天時。然而，據報導此類導管的**有症狀 DVT** 發生率僅 1.6%，且導管使用時間與 **DVT** 出現之間並無文獻證實的相關性。因此，**此類導管造成 DVT 的風險可能被過度估計。**
 
-Catheter-related infections do not appear in the first 48 hours after catheter insertion (which presumably is the time required for colonization of the catheter tip). When they do appear, the clinical manifestations are non-specific:
+### 血管穿孔（Vascular Perforation）
 
-1. **Fever and leukocytosis** are common manifestations but are signs of inflammation and are not evidence of infection.
-2. **Erythema around the catheter insertion site** has no predictive value for identifying catheter-related infections.
-3. **Purulent drainage** from the catheter insertion site is evidence of infection, but it can be an exit-site infection without invasion of the bloodstream.
+#### 上腔靜脈穿孔（Superior Vena Cava Perforation）
 
-Because of the non-specific nature of these clinical findings, the diagnosis of catheter-related infections is not possible on clinical grounds alone.
+左側中央靜脈導管置入**上腔靜脈**（SVC）後，並非總能順利轉向下方進入右心房。當此情況发生时，導管尖端會頂住 SVC 的外側壁。若導管維持此位置，尖端可能侵蝕穿透血管壁，導致血液與靜脈輸液泄漏至縱膈與胸膜腔。
 
-### Diagnosis
+**SVC 穿孔的症狀**（胸骨後疼痛、咳嗽、呼吸困難）並無特異性，臨床上常因胸部 X 光突然出現縱膈增寬與胸膜積液而提高警覺。
 
-The diagnosis of **catheter-related septicemia** requires a positive blood culture from a site other than the catheter, plus some evidence that the catheter is the source of the positive blood culture. The recommended culture methods are summarized below.
+**診斷：** 胸膜積液可能含有大量滲漏的靜脈輸液；因此，若胸腔穿刺液（thoracentesis）的成分與靜脈輸液相似，可支持 SVC 穿孔的診斷。確認診斷的方式是經導管注入放射性對比劑，若發現對比劑滲入縱膈或胸膜腔，即可確診。
 
-### Recommended Culture Methods for the Diagnosis of Catheter-Related Infection
+**治療：** 一旦懷疑上腔靜脈穿孔，應**立即停止經導管输液**。若確診，應移除導管（此舉不會引發縱膈出血）。除非胸膜液有感染證據，否則不需抗生素治療。
 
-| Culture Method | Diagnostic Criteria | Accuracy |
-|:--------------|:-------------------|:--------:|
-| **Differential Quantitative Blood Cultures** | Same organism in peripheral blood and catheter blood, and colony count from catheter blood ≥3 times greater than colony count from peripheral blood. | 94% |
-| **Differential Time to Positive Cultures** | Same organism in peripheral blood and catheter blood, and onset of growth in catheter blood at least 2 hours before onset of growth in peripheral blood. | 91% |
+#### 心臟填塞（Cardiac Tamponade）
 
-### Quantitative Culture Method
-
-This method uses paired blood cultures (one drawn through the catheter and one from a peripheral venipuncture site) and is based on the expectation that if the catheter is the source of a bloodstream infection, blood drawn through the catheter will have a higher growth density than the peripheral blood. The diagnosis is confirmed if the same organism is isolated from catheter blood and peripheral blood, and the colony count in catheter blood is at least 3 times greater than the colony count in peripheral blood.
-
-### Timed Culture Method
-
-This method also uses paired blood cultures and is based on the expectation that if the catheter is the source of a bloodstream infection, the blood withdrawn through the catheter will show microbial growth at an earlier time than peripheral blood. The diagnosis is confirmed if the same organism is isolated from the catheter blood and peripheral blood, and growth is detected at least 2 hours earlier in the catheter blood.
-
-### How Many Lumens to Culture?
-
-Central venous catheters typically have three lumens (and can have four), and each lumen is a potential source of septicemia. However, the recommended practice is to obtain catheter-derived blood cultures from a single lumen. Studies show that 38% of catheter-related infections would be missed if single-lumen cultures were used. At the present time, the diagnostic approach to catheter-related infection is optimal when blood cultures are drawn through each lumen of the catheter.
-
-### The Top Ten Pathogens in Catheter-Related Septicemia
-
-| Rank | Organism | Percentage |
-|:----:|:---------|:----------:|
-| 1 | Coagulase-negative staphylococci | 16% |
-| 2 | **Staphylococcus aureus** | 13% |
-| 3 | **Enterococcus** faecalis | 8.4% |
-| 4 | Klebsiella pneumoniae | 8.4% |
-| 5 | **Enterococcus** faecium | 7% |
-| 6 | **Candida** albicans | 6% |
-| 7 | Escherichia coli | 5.4% |
-| 8 | Other **Candida** spp. | 5% |
-| 9 | Enterobacter spp. | 4.4% |
-| 10 | Pseudomonas aeruginosa | 4% |
-
-*Data from the National Healthcare Safety Network.*
-
-### Management
-
-#### Empiric Antibiotic Therapy
-
-Empiric antibiotics are recommended for all ICU patients with suspected catheter-related infection and should be started immediately after cultures are obtained.
-
-| Organism | Antibiotic | Comment |
-|:---------|:-----------|:--------|
-| Staphylococci | Vancomycin | If MRSA isolates with MIC greater than 2 mg/mL are prevalent, use **daptomycin**. |
-| Enterococci | Vancomycin | If **vancomycin** resistance is a concern, use **daptomycin**. |
-| Gram-negative bacilli | Carbapenem or **Cefepime** or **Piperacillin-Tazobactam** | Add aminoglycoside for neutropenia or concern for multidrug-resistant organisms. |
-| **Candida** species | Echinocandin | Indications: femoral catheter, TPN, hematologic malignancy, prolonged antibiotic therapy, recent transplant, or **Candida** spp. elsewhere. |
-
-*Echinocandins include caspofungin, micafungin, and anidulafungin.*
-
-#### Catheter Management
-
-Most cases of suspected catheter-related infections are not confirmed by culture results. Therefore, catheters should be left in place pending culture results.
-
-**Indications for Catheter Removal:**
-1. Hemodynamic instability or progressive multiorgan dysfunction.
-2. Evidence of **endocarditis** or septic thrombophlebitis.
-3. Infections with **Staphylococcus aureus**, **Candida** species, Pseudomonas species, or multidrug-resistant gram-negative bacilli.
-4. Persistent bacteremia for more than 96 hours despite appropriate antimicrobial therapy.
-
-Catheters should not be replaced over a guidewire but should be removed and reinserted at a new venipuncture site. Guidewire replacement may be the best option if there is very limited venous access.
-
-#### Antibiotic Lock Therapy
-
-Instilling concentrated antibiotic solutions into indwelling catheters and allowing an extended dwell time will enhance the ability to disrupt **biofilm**s and eradicate persistent organisms. The antibiotic "lock" solution contains the same antibiotic used systemically, in a concentration of 2–5 mg/mL in heparinized saline. This solution is injected into each lumen of the indwelling catheter and allowed to dwell for 24 hours, and is replaced every 24 hours for the duration of the systemic antibiotic therapy.
-
-#### Duration of Antimicrobial Treatment
-
-1. If the infection involves a microbe with limited pathogenicity (e.g., **coagulase-negative staphylococci**) and there is a favorable response to antimicrobial therapy within 72 hours, then no more than 7 days of treatment is necessary.
-2. For cases of Staph aureus bacteremia, the accepted practice is to look for evidence of **endocarditis** with transesophageal ultrasound. If there is no evidence of **endocarditis**, antibiotic therapy can be limited to 14 days if the catheter has been removed, the patient is not immunocompromised, and there are no intravascular prosthetic devices in place. Evidence of **endocarditis** mandates 4–6 weeks of antimicrobial therapy.
-3. For infections caused by enterococci or gram-negative bacilli, 7–14 days of antibiotic therapy is advised, regardless of whether the catheter is replaced or retained.
-
-### Persistent Sepsis
-
-Continued signs of sepsis or persistent septicemia after 72 hours of antimicrobial therapy should prompt a search for **suppurative thrombophlebitis** or **endocarditis**.
-
-#### Suppurative Thrombophlebitis
-
-The thrombi that form around indwelling vascular catheters can trap microbes from a colonized catheter. These microbes can then proliferate and transform the thrombus into an intravascular abscess. This condition is known as **suppurative thrombophlebitis**, and the most common offending organism is **Staphylococcus aureus**.
-
-The diagnosis requires evidence of thrombosis in the cannulated blood vessel (by ultrasound) and persistent septicemia with no other apparent source. Treatment includes catheter removal and systemic antibiotic therapy for 4–6 weeks. Surgical excision of the infected thrombus is usually not necessary and is reserved for cases of refractory septicemia.
-
-#### Endocarditis
-
-Nosocomial **endocarditis** is uncommon, with a reported incidence of 2–3 cases annually in university teaching hospitals. Vascular catheters are implicated in 30 to 50% of cases, and staphylococci (mostly S. aureus) are the offending organisms in up to 75% of cases.
-
-Typical manifestations of **endocarditis** (e.g., new or changing cardiac murmur) can be absent in as many as two-thirds of patients with nosocomial **endocarditis** involving **Staphylococcus aureus**. This is why a search for **endocarditis** (with transesophageal ultrasound) is advised for all patients with S. aureus bacteremia.
+中央靜脈導管最危及生命的併發症，是導管尖端穿透右心房所導致的**心臟填塞**（cardiac tamponade）。所幸此併發症相當罕見。心臟填塞的首要徵象通常是**突發的呼吸困難**，可在 1 小時內進展至心血管崩潰。診斷需超聲波顯示**心包膜積液**（pericardial effusion）合併右心舒張期塌陷（diastolic collapse），並需立即執行**心包穿刺術**（pericardiocentesis）以降低心包膜壓力、使右心得以充盈。若心臟壁有大裂口，可能需緊急開胸術。此疾病的死亡率在文獻報告中為 **40% 至 100%**。
 
 ---
 
-## Key Takeaways
+## 導管相關血流感染（ catheter-related Bloodstream Infections）
+
+### 致病機轉（Pathogenesis）
+
+留置血管導管（短暫周邊靜脈導管除外）是院內血流感染的最主要來源，敗血症死亡率在 ICU 患者中達 **12–25%**。中央靜脈導管相關感染的發生率平均為 **4.6 例/1,000 導管天**。
+
+#### 微生物移生（Microbial Colonization）來源
+
+1. **受污染的輸液**（如血液製品）——此情況罕見。
+2. **內腔污染**——因輸液系統連接點（如導管接頭）受損而造成，這可能是皮下隧道式導管感染的重要途徑。
+3. **皮膚微生物沿導管皮下路徑遷移**——這被認為是非隧道式（percutaneous）導管感染的主要途徑。
+4. **循環血液中的微生物附著於導管血管內部分**——此情況下導管不被視為感染的主要來源。
+
+### 生物膜（Biofilms）
+
+微生物具有附著於惰性表面的特性。一旦接觸表面，微生物會釋放黏附分子（稱為 adhesins），使其牢固附著於表面。隨後開始分泌細胞外基質（又稱 slime），其成分包含多醣、蛋白質、纖維素與細胞外 DNA。此細胞外基質形成一個保護性環境，稱為**生物膜**（biofilm），使微生物能夠在不受周圍環境損害的情況下生長增殖。吞噬細胞無法攝取嵌入**生物膜**中的微生物，且要殺死**生物膜**內細菌所需的抗生素濃度，比殺死游離细菌所需濃度高出 **100 至 1,000 倍**。
+
+**臨床重要性：** **生物膜**在導管相關感染中扮演關鍵角色：
+- 掃描式電子顯微鏡檢查留置血管導管，發現導管表面有廣泛的**生物膜**形成，**即使僅留置一天的導管亦然**。
+- **凝固酶陰性葡萄球菌**（Coagulase-negative staphylococci）是導管相關感染的首要致病菌，容易黏附於高分子材料表面並產生 slime。
+
+由於留置血管導管普遍存在**生物膜**，**抗生素治療並非導管相關血流感染的最佳治療方式**。目前有多種抗菌膜策略正在評估中，但尚無任何方法進入臨床試驗階段。
+
+### 臨床表現（Clinical Features）
+
+導管相關感染不會在導管置入後 **48 小時內**出現（此時間可能是導管尖端移生所需的時間）。臨床表徵不具特異性：
+
+1. **發燒與白血球增多**（Fever and leukocytosis）常見，但屬於發炎反應的表徵，**並非感染的證據**。
+2. **導管穿刺處周圍紅斑**對識別導管相關感染**沒有預測價值**。
+3. **穿刺處化膿性分泌物**是感染的證據，但也可能只是出口處感染，而未侵犯血流。
+
+由於這些臨床發現不具特異性，導管相關感染**無法僅憑臨床表現確診**。
+
+### 診斷（Diagnosis）
+
+**導管相關敗血症**（catheter-related septicemia）的診斷需要：
+1. 來自導管以外部位的血液培養為陽性
+2. 加上導管做為陽性血液培養來源的證據
+
+建議的培養方法摘要如下：
+
+### 導管相關感染診斷推薦培養方法
+
+| 培養方法 | 診斷標準 | 準確度 |
+|:---------|:---------|:------:|
+| **差異定量血液培養**（Differential Quantitative Blood Cultures） | 導管血與周邊血液培養出相同菌種，且導管血菌落數 ≥ 周邊血菌落數的 3 倍。 | 94% |
+| **差異陽性時間培養法**（Differential Time to Positive Cultures） | 導管血與周邊血液培養出相同菌種，且導管血生長時間比周邊血早 **≥ 2 小時**。 | 91% |
+
+### 定量培養法（Quantitative Culture Method）
+
+本方法使用配對血液培養（一份經導管抽取，一份經周邊靜脈穿刺抽取），原理為：如果導管是血流感染的來源，經導管抽取的血液，其生長密度會高於周邊血液。確診條件為：導管血與周邊血分離出相同菌種，且導管血菌落數至少為周邊血菌落數的 **3 倍**。
+
+### 定時培養法（Timed Culture Method）
+
+本方法同樣使用配對血液培養，原理為：如果導管是血流感染的來源，經導管抽取的血液會比周邊血液更早出現微生物生長。確診條件為：導管血與周邊血分離出相同菌種，且導管血生長時間比周邊血早 **至少 2 小時**。
+
+### 應培養多少個管腔？
+
+中央靜脈導管通常有三個管腔（有時可達四個），每個管腔都是敗血症的潛在來源。然而，建議的臨床實踐是**僅從單一管腔**取得導管血液培養。研究顯示，若僅做單管腔培養，約 **38%** 的導管相關感染會被漏診。**目前最佳做法是從導管的每個管腔抽取血液培養。**
+
+### 導管相關敗血症十大致病菌
+
+| 排名 | 致病菌 | 百分比 |
+|:----:|:-------|:------:|
+| 1 | 凝固酶陰性葡萄球菌（Coagulase-negative staphylococci） | 16% |
+| 2 | **金黃色葡萄球菌**（Staphylococcus aureus） | 13% |
+| 3 | **糞腸球菌**（Enterococcus）faecalis | 8.4% |
+| 4 | 肺炎克雷伯菌（Klebsiella pneumoniae） | 8.4% |
+| 5 | **糞腸球菌**（Enterococcus）faecium | 7% |
+| 6 | **白色念珠菌**（Candida）albicans | 6% |
+| 7 | 大腸桿菌（Escherichia coli） | 5.4% |
+| 8 | 其他**念珠菌**（Candida）spp. | 5% |
+| 9 | 腸桿菌屬（Enterobacter spp.） | 4.4% |
+| 10 | 綠膿桿菌（Pseudomonas aeruginosa） | 4% |
+
+*資料來源：National Healthcare Safety Network。*
+
+### 治療（Management）
+
+#### 經驗性抗生素治療（Empiric Antibiotic Therapy）
+
+所有懷疑有導管相關感染的 ICU 患者，均建議使用經驗性抗生素，且應在取得培養後**立即開始**。
+
+| 致病菌 | 抗生素 | 備註 |
+|:------|:-------|:-----|
+| 葡萄球菌（Staphylococci） | Vancomycin | 若 MRSA isolates 且 MIC > 2 mg/mL 盛行，則使用 **daptomycin**。 |
+| 腸球菌（Enterococci） | Vancomycin | 若有 **vancomycin** 抗藥性疑慮，則使用 **daptomycin**。 |
+| 革蘭氏陰性桿菌（Gram-negative bacilli） | Carbapenem 或 **Cefepime** 或 **Piperacillin-Tazobactam** | 若為嗜中性球減少症或有多重抗藥菌疑慮，加用 aminoglycoside。 |
+| **念珠菌**（Candida）species | Echinocandin | 適應症：股靜脈導管、TPN、血液惡性腫瘤、長期抗生素治療、近期器官移植、或體內其他地方有**念珠菌**感染。 |
+
+*Echinocandins 包括 caspofungin、micafungin 及 anidulafungin。*
+
+#### 導管管理（Catheter Management）
+
+大多數懷疑導管相關感染的案例，培養結果出來前往往未被確診。因此，**在培養結果出來前，導管應保留在原位。**
+
+**導管移除適應症：**
+1. 血流動力學不穩定或進行性多器官功能障礙。
+2. 有**心內膜炎**（endocarditis）或化膿性血栓靜脈炎（septic thrombophlebitis）的證據。
+3. 感染病原為**金黃色葡萄球菌**（Staphylococcus aureus）、**念珠菌**（Candida）species、綠膿桿菌（Pseudomonas species）或多重抗藥性革蘭氏陰性桿菌。
+4. 適當的抗菌治療超過 96 小時後，仍持續菌血症。
+
+**不應**以導絲更換導管，應移除導管並在新的穿刺部位重新置入。若靜脈通路極為有限，導絲更換才是可接受的選項。
+
+#### 抗生素鎖定治療（Antibiotic Lock Therapy）
+
+將高濃度抗生素溶液注入留置導管並延長滯留時間，可增强破坏**生物膜**及清除持久性病原的效果。抗生素「鎖」溶液含與全身性治療相同的抗生素，濃度為 **2–5 mg/mL**，溶於含 heparin 的鹽水中。將此溶液注入導管每個管腔，滯留 **24 小時**，每日更換，並持續至全身性抗生素療程結束。
+
+#### 抗菌治療療程（Duration of Antimicrobial Treatment）
+
+1. 若感染菌種致病力有限（如**凝固酶陰性葡萄球菌**），且抗菌治療 72 小時內有良好反應，則**治療不超過 7 天**即可。
+2. **金黃色葡萄球菌**菌血症的標準做法，是以經食道超聲波（transesophageal ultrasound）搜尋**心內膜炎**證據。若無心內膜炎跡象，且導管已移除、患者無免疫缺陷、體內無人工血管植入物，則抗生素治療可限於 **14 天**。若有**心內膜炎**證據，則需接受 **4–6 週**的抗菌治療。
+3. 腸球菌或革蘭氏陰性桿菌感染，不論導管是否更換或保留，均建議接受 **7–14 天**的抗生素治療。
+
+### 持續性敗血症（Persistent Sepsis）
+
+適當抗菌治療 **72 小時** 後，敗血症徵象持續或敗血症仍未緩解，應考慮**化膿性血栓靜脈炎**（suppurative thrombophlebitis）或**心內膜炎**（endocarditis）的可能。
+
+#### 化膿性血栓靜脈炎（Suppurative Thrombophlebitis）
+
+留置血管導管周圍形成的血栓，可困住來自移生導管的微生物。這些微生物隨後增殖，並將血栓轉化為**血管內膿瘡**，此即為**化膿性血栓靜脈炎**，最常見的致病菌為**金黃色葡萄球菌**（Staphylococcus aureus）。
+
+診斷需有血栓性血管超聲波檢查證據，加上無其他明顯來源的持續性菌血症。治療包括**導管移除**與**全身性抗生素治療 4–6 週**。通常不需外科切除感染血栓，此手術僅保留用於頑固性菌血症病例。
+
+#### 心內膜炎（Endocarditis）
+
+院內心內膜炎並不常見，大學附屬醫院每年約報告 2–3 例。血管導管約佔 30–50% 的致病因素，葡萄球菌（主要是 *S. aureus*）更高達 75% 的致病菌。
+
+多達 **三分之二** 的院內**金黃色葡萄球菌心內膜炎**患者，可能**沒有典型的心內膜炎表現**（如新的或改變的心臟雜音）。這正是所有 *S. aureus* 菌血症患者都建議以經食道超聲波搜尋**心內膜炎**的原因。
+
+---
+
+## 重點摘要（Key Takeaways）
 
 以下要點值得強調：
 
-1. Catheters should not be routinely replaced.
-2. Occluded catheters can often be salvaged with thrombolytic therapy (**alteplase**).
-3. Catheter-related thrombosis is common but usually silent.
-4. Biofilms make catheter-related infections difficult to treat with antibiotics alone.
-5. The diagnosis of catheter-related infection requires paired blood cultures from the catheter and a peripheral site.
-6. Catheters should be removed for **hemodynamic instability**, persistent bacteremia, or infection with S. aureus, **Candida**, or multidrug-resistant organisms.
-7. Blood cultures should be drawn from each lumen of multilumen catheters.
+1. **導管不應常規更換。**
+2. 阻塞的導管可透過血栓溶解治療（**alteplase**）挽救。
+3. **導管相關血栓**常見，但通常無症狀。
+4. **生物膜**使導管相關感染難以單靠抗生素治療。
+5. 導管相關感染的診斷，需從導管與周邊部位取得**配對血液培養**。
+6. 出現**血流動力學不穩定**、持續菌血症、或感染 **S. aureus**、**Candida** 或多重抗藥菌時，應移除導管。
+7. 多管腔導管的**每個管腔**都應抽取血液培養。
 
 ---
 
-## References
+## 參考文獻（References）
 
 1. Ullman AJ, Cooke ML, Mitchell M, et al. Dressings and securement devices for central venous catheters. *Cochrane Database Syst Rev* 2015; 9:CD010367.
 
