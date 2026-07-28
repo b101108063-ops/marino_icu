@@ -10,7 +10,7 @@ title: "Intravenous Fluids"
 
 ## Introduction
 
-The first intravenous fluid was a mixture of opium, wine and beer, infused through a goose quill into the vein of a dog in 1656. The therapeutic benefit of intravenous fluids was first recognized during the cholera epidemic in the early 19th century. The care of critically ill patients would not be possible without the use of asanguinous intravenous fluids, which are classified as **crystalloid** or **colloid** fluids.
+第一個靜脈注射液體是鴉片、酒和啤酒的混合物，於 1656 年透過鵝毛筆注入狗的靜脈。最早在 19 世紀初的霍亂大流行期間，人們才認識到靜脈注射液體的治療價值。若沒有無血液成分的靜脈注射液體（分為 **crystalloid** 或 **colloid** 兩類），重症患者的照護將不可能實現。
 
 ---
 

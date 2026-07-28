@@ -10,9 +10,9 @@ title: "The Pulmonary Artery Catheter"
 
 ## Introduction
 
-In 1970, a vascular catheter was introduced that would revolutionize the practice of bedside hemodynamic monitoring. It was a very long, centrally-placed catheter with a small inflatable balloon at its distal end. When inflated, the balloon allowed the flow of venous blood to carry the catheter through the right side of the heart and into one of the pulmonary arteries. This balloon flotation effect allowed a right heart catheterization to be performed at the bedside without fluoroscopic guidance. An added bonus was a temperature-sensitive thermistor on the catheter, which allowed measurements of **cardiac output** using the **thermodilution** technique.
+在 1970 年，一種血管導管被引入臨床，從此徹底改變了床旁 hemodynamic monitoring 的實踐模式。這是一種非常長的中央導管，末端有一個小型可充氣氣球。當氣球充氣時，靜脈血流的推動會將導管攜帶通過心臟右側，進入肺動脈。這種氣球漂浮效應使得右心導管檢查可以在床旁進行，無需螢光透視導引。導管上還附加了一個溫度感測 thermistor，可以用 **thermodilution** 技術測量 **cardiac output**。
 
-The **pulmonary artery** (PA) catheter provides a wealth of information that can be useful if applied appropriately. The benefit derived from the **PA catheter** will depend on your knowledge of cardiovascular physiology.
+**pulmonary artery** (PA) catheter 提供了豐富的資訊，如果應用得當將非常有價值。從 **PA catheter** 獲得的效益取決於您對心血管生理學的了解程度。
 
 ---
 

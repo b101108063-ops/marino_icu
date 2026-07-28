@@ -10,7 +10,7 @@ title: "Systemic Oxygenation"
 
 ## Introduction
 
-The management of critically ill patients is dominated by interventions that promote tissue oxygenation, yet it is not possible to monitor tissue O₂ levels in a clinical setting. Instead, tissue oxygenation is evaluated indirectly using global measures of systemic oxygen transport (O₂ delivery and O₂ uptake) along with a presumed marker of inadequate tissue oxygenation (the plasma **lactate** level).
+重症病患的治療主要以促進組織 oxygenation 的干預措施為主，然而在臨床環境中無法直接監測組織 O₂ 層級。取而代之的是，tissue oxygenation 是透過全身 oxygen transport 的整體指標（O₂ delivery 與 O₂ uptake）以及一個被認為是組織 oxygenation 不足的指標（血漿 **lactate** 濃度）來進行間接評估。
 
 ---
 

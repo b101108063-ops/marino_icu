@@ -10,7 +10,7 @@ title: "Oximetry and Capnography"
 
 ## Introduction
 
-The introduction of optical techniques for the noninvasive and continuous monitoring of **oxyhemoglobin** saturation in blood (**oximetry**) and carbon dioxide levels in exhaled gas (**capnography**) is the most useful innovation in critical care monitoring since the advent of intensive care units. Despite the ubiquity and promise of **pulse **oximetry**** and **capnography**, evidence shows that understanding of these techniques is far from satisfactory.
+光學技術的引入，用於非侵入性且持續監測血液中的 **oxyhemoglobin** 飽和度（**oximetry**）以及呼出氣體中的二氧化碳（**capnography**）濃度，是重症監護監測自加護病房問世以來最有用的創新。儘管 **pulse oximetry** 和 **capnography** 無所不在且前景可期，但證據顯示，人們對這些技術的了解遠遠不夠令人滿意。
 
 ---
 
