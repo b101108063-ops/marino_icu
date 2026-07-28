@@ -1,32 +1,43 @@
-{{ define "main" }}
-<header class="page-header" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;">
-    <h1>Marino ICU Book 章節清單</h1>
-    <a href="{{ "search/" | absURL }}" class="book-search-btn">🔍 搜尋</a>
-</header>
-
-<div class="list-container" style="margin-top:2rem;">
-    {{ range seq 1 53 }}
-        {{ $n := . }}
-        {{ $ch := printf "CH%02d" $n }}
-        {{ range where $.Site.RegularPages "Params.chapter" $ch }}
-            {{ if ne .File.LogicalName "_index" }}
-            <a href="{{ .Permalink }}" class="list-item">
-                <span class="ch-num">{{ .Params.chapter }}</span>
-                <span class="section-title">{{ .Title }}</span>
-                <span class="arrow">➔</span>
-            </a>
-            {{ end }}
-        {{ end }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marino ICU Book - 章節清單</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { font-size: 15px; line-height: 1.7; background: #1a1a1a; color: #d0d0d0; margin: 0; padding: 1rem; }
+    .page-header { background: #2a2a2a; padding: 1rem; border-radius: 8px 8px 0 0; margin-bottom: 0; }
+    .site-title { color: #888; font-size: 0.8rem; margin: 0 0 0.2rem 0; }
+    .site-title a { color: #60a5fa; text-decoration: none; }
+    .site-title a:hover { color: #93c5fd; }
+    .page-title { color: #ffffff; font-size: 1.2rem; font-weight: 600; margin: 0; }
+    .header-link { display: inline-block; color: #60a5fa; text-decoration: none; font-size: 13px; margin-top: 0.5rem; }
+    .header-link:hover { color: #93c5fd; }
+    .list-container { background: #2a2a2a; padding: 1rem 1.2rem; border-radius: 0 0 8px 8px; max-width: 800px; }
+    .list-item { display: grid; grid-template-columns: 60px 1fr 30px; align-items: center; padding: 0.8rem 1rem; background: #242526; border-radius: 6px; border: 1px solid #38393a; margin-bottom: 0.5rem; text-decoration: none; color: #e5e7eb; font-size: 0.95rem; transition: all 0.2s; }
+    .list-item:hover { background: #2a2b2c; border-color: #3a86ff; transform: translateX(4px); }
+    .ch-num { color: #3a86ff; font-weight: bold; }
+    .arrow { color: #3a86ff; text-align: right; }
+    .search-btn { background: #3a86ff; color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.9rem; display: inline-block; margin-bottom: 1rem; }
+    .search-btn:hover { background: #2563eb; }
+  </style>
+</head>
+<body>
+  <div class="page-header">
+    <p class="site-title"><a href="/marino_icu/">Marino's ICU Book</a></p>
+    <h1 class="page-title">章節清單</h1>
+    <a class="header-link" href="/marino_icu/">← Back to List</a>
+  </div>
+  <div class="list-container">
+    <a href="/marino_icu/search/" class="search-btn">🔍 搜尋</a>
+    {{ range .Site.RegularPages.ByWeight }}
+    <a href="{{ .Permalink }}" class="list-item">
+      <span class="ch-num">{{ .Params.chapter }}</span>
+      <span class="section-title">{{ .Title }}</span>
+      <span class="arrow">➔</span>
+    </a>
     {{ end }}
-</div>
-
-<style>
-.book-search-btn{background:#3a86ff;color:white;padding:0.6rem 1.2rem;border-radius:6px;text-decoration:none;font-weight:bold;font-size:0.95rem;transition:background 0.2s;}
-.book-search-btn:hover{background:#2563eb;}
-.list-container{display:flex!important;flex-direction:column!important;gap:10px!important;margin-top:2rem!important;max-width:900px;margin-left:auto;margin-right:auto;}
-.list-item{display:grid!important;grid-template-columns:60px 1fr 30px!important;align-items:center!important;padding:1rem 1.5rem!important;background:#242526!important;color:#e5e7eb!important;text-decoration:none!important;border-radius:8px!important;border:1px solid #38393a!important;font-size:1.05rem!important;font-weight:500!important;box-sizing:border-box!important;transition:all 0.2s ease-in-out;}
-.list-item:hover{background:#2a2b2c!important;border-color:#3a86ff!important;transform:translateX(4px);}
-.ch-num{color:#3a86ff;font-weight:bold;font-size:0.95rem;}
-.arrow{color:#3a86ff;font-weight:bold;}
-</style>
-{{ end }}
+  </div>
+</body>
+</html>
