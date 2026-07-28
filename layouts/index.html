@@ -3,32 +3,36 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Marino ICU Book</title>
+  <title>Marino ICU Book - 章節清單</title>
   <style>
     * { box-sizing: border-box; }
-    body { font-size: 15px; line-height: 1.7; background: #1a1a1a; color: #d0d0d0; margin: 0; padding: 1rem; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
-    .container { max-width: 500px; width: 100%; text-align: center; }
-    .book-card { background: #2a2a2a; border: 1px solid #38393a; border-radius: 10px; padding: 2rem; }
-    .book-title { color: #3a86ff; font-size: 1.4rem; font-weight: bold; margin: 0 0 0.5rem 0; }
-    .book-subtitle { color: #888; font-size: 1rem; margin: 0 0 1.5rem 0; }
-    .book-actions { display: flex; gap: 1rem; }
-    .btn { flex: 1; padding: 0.8rem 1rem; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 0.95rem; text-align: center; }
-    .btn-primary { background: #3a86ff; color: #fff; }
-    .btn-primary:hover { background: #2563eb; }
-    .btn-secondary { background: #242526; color: #3a86ff; border: 1px solid #38393a; }
-    .btn-secondary:hover { background: #3a86ff; color: #fff; }
+    body { font-size: 15px; line-height: 1.7; background: #1a1a1a; color: #d0d0d0; margin: 0; padding: 1rem; }
+    .page-header { background: #2a2a2a; padding: 1rem; border-radius: 8px 8px 0 0; }
+    .site-title { color: #888; font-size: 0.8rem; margin: 0 0 0.2rem 0; }
+    .page-title { color: #ffffff; font-size: 1.2rem; font-weight: 600; margin: 0; }
+    .search-btn { display: inline-block; background: #3a86ff; color: white; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-size: 0.85rem; margin-top: 0.5rem; }
+    .search-btn:hover { background: #2563eb; }
+    .list-container { background: #2a2a2a; padding: 1rem; border-radius: 0 0 8px 8px; max-width: 800px; }
+    .list-item { display: grid; grid-template-columns: 60px 1fr 30px; align-items: center; padding: 0.7rem 1rem; background: #242526; border-radius: 6px; border: 1px solid #38393a; margin-bottom: 0.5rem; text-decoration: none; color: #e5e7eb; font-size: 0.9rem; transition: all 0.2s; }
+    .list-item:hover { background: #2a2b2c; border-color: #3a86ff; transform: translateX(4px); }
+    .ch-num { color: #3a86ff; font-weight: bold; font-size: 0.85rem; }
+    .arrow { color: #3a86ff; text-align: right; }
   </style>
 </head>
 <body>
-  <div class="container">
-    <div class="book-card">
-      <h1 class="book-title">Marino's ICU Book</h1>
-      <p class="book-subtitle">The Little ICU Book, 4th Edition</p>
-      <div class="book-actions">
-        <a href="/marino_icu/marino_icu/" class="btn btn-primary">📖 章節清單</a>
-        <a href="/marino_icu/search/" class="btn btn-secondary">🔍 搜尋</a>
-      </div>
-    </div>
+  <div class="page-header">
+    <p class="site-title">Marino's ICU Book</p>
+    <h1 class="page-title">章節清單</h1>
+    <a href="/marino_icu/search/" class="search-btn">🔍 搜尋</a>
+  </div>
+  <div class="list-container">
+    {{ range .Site.RegularPages.ByWeight }}
+    <a href="{{ .Permalink }}" class="list-item">
+      <span class="ch-num">{{ .Params.chapter }}</span>
+      <span class="section-title">{{ .Title }}</span>
+      <span class="arrow">➔</span>
+    </a>
+    {{ end }}
   </div>
 </body>
 </html>
