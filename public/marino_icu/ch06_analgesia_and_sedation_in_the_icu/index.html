@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Analgesia and Sedation in the ICU</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { font-size: 15px; line-height: 1.7; background: #1a1a1a; color: #d0d0d0; margin: 0; padding: 1rem; }
+    .page-header { background: #2a2a2a; padding: 0.8rem 1rem; border-radius: 8px 8px 0 0; }
+    .site-title { color: #888; font-size: 0.8rem; margin: 0 0 0.2rem 0; }
+    .site-title a { color: #60a5fa; text-decoration: none; }
+    .site-title a:hover { color: #93c5fd; }
+    .chapter-title { color: #ffffff; font-size: 1rem; font-weight: 600; margin: 0 0 0.5rem 0; }
+    .back-link { display: inline-block; color: #60a5fa; text-decoration: none; font-size: 13px; margin-bottom: 0.5rem; }
+    .back-link:hover { color: #93c5fd; }
+    .main-content { background: #2a2a2a; padding: 1.2rem; border-radius: 0 0 8px 8px; max-width: 800px; }
+    h1 { font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem; color: #ffffff; }
+    h2 { font-size: 1.1rem; font-weight: 600; margin: 1.2rem 0 0.4rem 0; color: #60a5fa; border-bottom: 1px solid #333; padding-bottom: 0.2rem; }
+    h3 { font-size: 1rem; font-weight: 600; margin: 0.8rem 0 0.3rem 0; color: #93c5fd; }
+    h4 { font-size: 0.95rem; font-weight: 600; margin: 0.6rem 0 0.2rem 0; color: #c0c0c0; }
+    p { font-size: 15px; margin: 0.5rem 0; color: #d0d0d0; }
+    li { font-size: 15px; margin: 0.25rem 0; color: #d0d0d0; }
+    strong { color: #ffffff; font-weight: 600; }
+    hr { border: none; border-top: 1px solid #333; margin: 1rem 0; }
+    blockquote { background: #333; padding: 0.8rem; border-radius: 4px; margin: 1rem 0; border-left: 3px solid #f87171; }
+    table { width: 100%; border-collapse: collapse; margin: 1rem 0; overflow-x: auto; display: block; }
+    th, td { padding: 0.5rem; text-align: left; border: 1px solid #333; }
+    th { background: #333; color: #ffffff; }
+    tr:nth-child(even) { background: #252525; }
+  </style>
+</head>
+<body>
+  <div class="page-header">
+    <p class="site-title"><a href="/marino_icu/">Marino's ICU Book</a></p>
+    <h1 class="chapter-title">Analgesia and Sedation in the ICU</h1>
+    <a class="back-link" href="/marino_icu/">← Back to List</a>
+  </div>
+  <div class="main-content">
+    <blockquote>
+<p>To cure sometimes, to relieve often, and to comfort always.<br>
+— Edward Livingston Trudeau, MD</p>
+</blockquote>
+<h2 id="introduction">Introduction</h2>
+<p>Contrary to popular perception, the principal function of critical care is not to save lives (since this is impossible on a consistent basis), but rather to relieve pain and suffering. The ICU is the flagship of pain and suffering in hospitalized patients. In surveys of patients who have been discharged from the ICU, anxiety and unrelieved pain are the dominant recollections of the ICU stay.</p>
+<p>This chapter describes the pharmacological approach to pain and stress relief in the ICU, with a focus on intravenous drug regimens.</p>
+<hr>
+<h2 id="the-icu-experience">The ICU Experience</h2>
+<h3 id="pain-in-the-icu">Pain in the ICU</h3>
+<p>Unrelieved pain is the most frequently cited stressor in the ICU, and the frequency of painful experiences is equivalent in surgical and medical ICUs.</p>
+<h4 id="altered-pain-perception">Altered Pain Perception</h4>
+<p>The sensation of pain is magnified in critically ill patients, and this condition of hypernociception can transform a minor event into a painful experience. A common source of pain in ICU patients is the simple act of being turned in bed, and about 50% of patients experience pain at rest (usually in the lower back and legs) in the absence of a noxious stimulus. The heightened pain sensation in critically ill patients is attributed to systemic inflammation and prolonged immobility.</p>
+<h4 id="monitoring-pain">Monitoring Pain</h4>
+<p>Because pain is a subjective sensation, the patient&rsquo;s self-assessment is the most accurate measure of pain intensity.</p>
+<p><strong>Numerical Ranking Scale:</strong> When patients are capable of self-assessment, this is a horizontal scale with 10 equally spaced divider markings, numbered 1 (no pain) to 10 (maximum pain). A score greater than 3 indicates unacceptable pain.</p>
+<p><strong>Behavioral Pain Scale:</strong> When patients are not capable of self-assessment, physical signs can be used to assess pain.</p>
+<h3 id="the-behavioral-pain-scale">The Behavioral Pain Scale</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Category</th>
+          <th style="text-align: center">Score</th>
+          <th style="text-align: left">Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Facial Expression</strong></td>
+          <td style="text-align: center">1</td>
+          <td style="text-align: left">Relaxed</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: center">2</td>
+          <td style="text-align: left">Partially tightened</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: center">3</td>
+          <td style="text-align: left">Fully tightened</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: center">4</td>
+          <td style="text-align: left">Grimacing</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Upper Limbs</strong></td>
+          <td style="text-align: center">1</td>
+          <td style="text-align: left">No movement</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: center">2</td>
+          <td style="text-align: left">Partially bent</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: center">3</td>
+          <td style="text-align: left">Fully bent, fingers flexed</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: center">4</td>
+          <td style="text-align: left">Permanently retracted</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Compliance with Ventilation</strong></td>
+          <td style="text-align: center">1</td>
+          <td style="text-align: left">Tolerating ventilator</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: center">2</td>
+          <td style="text-align: left">Coughing, but tolerating</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: center">3</td>
+          <td style="text-align: left">Fighting ventilator</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: center">4</td>
+          <td style="text-align: left">Unable to control ventilation</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Interpretation:</strong></p>
+<ul>
+<li>Total score 3: No pain</li>
+<li>Total score 6 or higher: Unacceptable pain</li>
+</ul>
+<p><strong>Note:</strong> Vital signs have a poor correlation with pain intensity and should not be used as evidence of pain.</p>
+<hr>
+<h2 id="analgesia-with-opioids">Analgesia With Opioids</h2>
+<h3 id="definitions">Definitions</h3>
+<ol>
+<li><strong>Opiate:</strong> A natural chemical derivative of opium.</li>
+<li><strong>Opioid:</strong> A naturally-occurring or synthetic derivative of opium that acts by stimulating specific receptors (opioid receptors) in the central nervous system. Stimulation produces analgesia, sedation, euphoria, pupillary constriction, respiratory depression, bradycardia, constipation, nausea and vomiting, urinary retention, and pruritis.</li>
+<li><strong>Narcotic:</strong> An outdated term for an opioid.</li>
+</ol>
+<p>In addition to their analgesic effects, opioids produce mild sedation without amnesic effects. All opioids are metabolized in the liver, and metabolites are excreted in the urine.</p>
+<h3 id="commonly-used-intravenous-opioids">Commonly Used Intravenous Opioids</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Opioid</th>
+          <th style="text-align: left">Onset</th>
+          <th style="text-align: left">Bolus Dose</th>
+          <th style="text-align: left">Infusion Rate</th>
+          <th style="text-align: left">PCA Demand</th>
+          <th style="text-align: left">Lockout</th>
+          <th style="text-align: left">Lipid Solubility</th>
+          <th style="text-align: left">Active Metabolites</th>
+          <th style="text-align: left">Histamine Release</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Morphine</strong></td>
+          <td style="text-align: left">5–10 min</td>
+          <td style="text-align: left">2–4 mg q 1–2 hr</td>
+          <td style="text-align: left">2–30 mg/hr</td>
+          <td style="text-align: left">0.5–3 mg</td>
+          <td style="text-align: left">10–20 min</td>
+          <td style="text-align: left">Low</td>
+          <td style="text-align: left">Yes</td>
+          <td style="text-align: left">Yes</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Hydromorphone</strong></td>
+          <td style="text-align: left">5–15 min</td>
+          <td style="text-align: left">0.2–0.6 mg q 1–2 hr</td>
+          <td style="text-align: left">0.5–3 mg/hr</td>
+          <td style="text-align: left">0.1–0.5 mg</td>
+          <td style="text-align: left">5–15 min</td>
+          <td style="text-align: left">Moderate</td>
+          <td style="text-align: left">None</td>
+          <td style="text-align: left">Yes</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Fentanyl</strong></td>
+          <td style="text-align: left">1–2 min</td>
+          <td style="text-align: left">0.35–0.5 µg/kg q 0.5–1 hr</td>
+          <td style="text-align: left">0.7–10 µg/kg/hr</td>
+          <td style="text-align: left">15–75 µg</td>
+          <td style="text-align: left">3–10 min</td>
+          <td style="text-align: left">Very high (600x morphine)</td>
+          <td style="text-align: left">No</td>
+          <td style="text-align: left">No</td>
+      </tr>
+  </tbody>
+</table>
+<p><em>Dose adjustment for renal failure: Reduce morphine by 50%.</em></p>
+<h3 id="morphine">Morphine</h3>
+<p>Morphine is the principal alkaloid of opium. Disadvantages include:</p>
+<ul>
+<li>Active metabolites that accumulate in renal failure (morphine-6-glucuronide is more potent than the parent drug)</li>
+<li>Promotion of histamine release, which can cause hypotension</li>
+<li>The maintenance dose should be reduced by 50% in patients with renal failure</li>
+</ul>
+<h3 id="fentanyl">Fentanyl</h3>
+<p>Fentanyl is 600 times more lipid soluble than morphine, has a more rapid onset of action, and does not promote histamine release. It has no active metabolites. One disadvantage is its lipophilicity, which promotes accumulation in the brain with continued usage.</p>
+<h3 id="hydromorphone">Hydromorphone</h3>
+<p>Hydromorphone may produce more effective analgesia than morphine and does not require dose alteration in renal failure.</p>
+<h3 id="remifentanil">Remifentanil</h3>
+<p>Remifentanil is an ultra-short acting opioid that is 250 times more potent than morphine. It is metabolized by nonspecific esterases in plasma, so no dose adjustments are necessary in renal or hepatic failure. It has been used in patients with traumatic brain injury because its short duration allows frequent neurologic evaluations.</p>
+<h3 id="meperidine">Meperidine</h3>
+<p>Meperidine is no longer favored because its metabolite (normeperidine) accumulates in renal failure and can produce central nervous system excitation (agitation, myoclonus, delirium, seizures).</p>
+<h3 id="patient-controlled-analgesia-pca">Patient-Controlled Analgesia (PCA)</h3>
+<p>PCA uses an electronic infusion pump activated by the patient. When pain is sensed, the patient presses a button to receive a small intravenous bolus. After each bolus, the pump is disabled for a mandatory lockout interval to prevent overdosing.</p>
+<hr>
+<h2 id="adverse-effects-of-opioids">Adverse Effects of Opioids</h2>
+<h3 id="respiratory-depression">Respiratory Depression</h3>
+<p>Opioids produce a centrally-mediated, dose-dependent decrease in respiratory rate and tidal volume. Respiratory depression and hypoxemia are uncommon when opioids are given in usual doses. Patients with sleep apnea syndrome or chronic hypercapnia are particularly prone.</p>
+<h3 id="cardiovascular-effects">Cardiovascular Effects</h3>
+<p>Opioid analgesia is often accompanied by decreases in blood pressure and heart rate. These effects are usually mild and well-tolerated. Decreases in blood pressure can be pronounced in patients with hypovolemia or heart failure or when opioids are given with benzodiazepines.</p>
+<h3 id="intestinal-motility">Intestinal Motility</h3>
+<p>Opioids depress bowel motility via activation of opioid receptors in the GI tract. Impaired GI motility can promote reflux of enteral tube feedings into the oropharynx, creating a risk for aspiration pneumonia.</p>
+<h3 id="nausea-and-vomiting">Nausea and Vomiting</h3>
+<p>Opioids can promote vomiting via stimulation of the chemoreceptor trigger zone in the lower brainstem.</p>
+<hr>
+<h2 id="analgesia-with-non-opioids">Analgesia With Non-Opioids</h2>
+<p>Recent concerns about the rise in opioid dependency have prompted recommendations to reduce opioid use if possible.</p>
+<h3 id="intravenous-non-opioid-analgesics">Intravenous Non-Opioid Analgesics</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Drug</th>
+          <th style="text-align: left">Dosing</th>
+          <th style="text-align: left">Comments</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Acetaminophen</strong></td>
+          <td style="text-align: left">1 gram IV every 6 hr (max 4 g/day)</td>
+          <td style="text-align: left">No anti-inflammatory activity</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Ketorolac</strong></td>
+          <td style="text-align: left">30 mg IV every 6 hr</td>
+          <td style="text-align: left">Reduce dose 50% for renal failure, age 65 years or older, or weight less than 50 kg</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Ketamine</strong></td>
+          <td style="text-align: left">60–120 µg/kg/hr, with opioid</td>
+          <td style="text-align: left">Psychomimetic effects not prominent at these doses</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="acetaminophen">Acetaminophen</h3>
+<p>Intravenous acetaminophen was approved in 2010 for short-term treatment of pain and fever in postoperative patients unable to receive the drug orally or rectally. It has a documented opiate-sparing effect. The major disadvantage is lack of anti-inflammatory effect.</p>
+<h3 id="ketorolac">Ketorolac</h3>
+<p>Ketorolac is a nonsteroidal anti-inflammatory drug (NSAID) that produces analgesia without respiratory depression. It can be used alone for mild pain or in combination with an opioid for moderate-to-severe pain. Ketorolac co-administration can reduce the opioid dose by 25–50%. The risk of gastric mucosal injury and impaired renal function is associated with excessive dosing or prolonged exposure.</p>
+<h3 id="ketamine">Ketamine</h3>
+<p>Ketamine is a phencyclidine derivative with anesthetic and analgesic properties. Low doses (60–120 µg/kg/hr) have been used in combination with opioids without troublesome psychomimetic side effects. Notable effects include increases in blood pressure and heart rate (sympathomimetic), bronchodilation, and hypersalivation.</p>
+<h3 id="neuropathic-pain">Neuropathic Pain</h3>
+<p>For neuropathic pain, gabapentin (600 mg every 8 hrs) and carbamazepine (100 mg every 6 hrs) are recommended. Both must be given enterally.</p>
+<hr>
+<h2 id="anxiety-in-the-icu">Anxiety in the ICU</h2>
+<p>Anxiety and related disorders (agitation and delirium) are observed in as many as 85% of ICU patients.</p>
+<h3 id="definitions-1">Definitions</h3>
+<ol>
+<li><strong>Anxiety:</strong> Exaggerated feelings of fear or apprehension sustained by internal mechanisms more than external events.</li>
+<li><strong>Agitation:</strong> A state of anxiety accompanied by increased motor activity.</li>
+<li><strong>Delirium:</strong> An acute confusional state that may or may not have agitation as a component. There is also a hypoactive form characterized by lethargy.</li>
+</ol>
+<h3 id="the-richmond-agitation-sedation-scale-rass">The Richmond Agitation-Sedation Scale (RASS)</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center">Score</th>
+          <th style="text-align: left">Term</th>
+          <th style="text-align: left">Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">+4</td>
+          <td style="text-align: left">Combative</td>
+          <td style="text-align: left">Overly combative or violent; immediate danger to staff</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">+3</td>
+          <td style="text-align: left">Very agitated</td>
+          <td style="text-align: left">Pulls on or removes tube(s) or catheter(s), or aggressive behavior</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">+2</td>
+          <td style="text-align: left">Agitated</td>
+          <td style="text-align: left">Frequent non-purposeful movement or patient-ventilator asynchrony</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">+1</td>
+          <td style="text-align: left">Restless</td>
+          <td style="text-align: left">Anxious or apprehensive but movements not aggressive or vigorous</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">0</td>
+          <td style="text-align: left">Alert &amp; calm</td>
+          <td style="text-align: left">Alert and calm</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">-1</td>
+          <td style="text-align: left">Drowsy</td>
+          <td style="text-align: left">Not fully alert, but awakens for greater than 10 sec with eye contact to voice</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">-2</td>
+          <td style="text-align: left">Light sedation</td>
+          <td style="text-align: left">Briefly awakens (less than 10 sec) with eye contact to voice</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">-3</td>
+          <td style="text-align: left">Moderate sedation</td>
+          <td style="text-align: left">Any movement (but no eye contact) to voice</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">-4</td>
+          <td style="text-align: left">Deep sedation</td>
+          <td style="text-align: left">No response to voice, but movement to physical stimulation</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">-5</td>
+          <td style="text-align: left">Unarousable</td>
+          <td style="text-align: left">No response to voice or physical stimulation</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Optimal RASS score:</strong> 0 (alert and calm)</p>
+<hr>
+<h2 id="sedation">Sedation</h2>
+<p>Sedation is the process of relieving anxiety and establishing a state of calm. Several drugs are available, including benzodiazepines, propofol, dexmedetomidine, and haloperidol.</p>
+<h3 id="monitoring-sedation">Monitoring Sedation</h3>
+<p>The routine use of sedation scales is instrumental in achieving effective sedation. The Richmond Agitation-Sedation Scale (RASS) is recommended. Sedative drug infusions can be titrated to achieve a RASS score of -1 to -2 (light sedation).</p>
+<hr>
+<h2 id="benzodiazepines">Benzodiazepines</h2>
+<p>Benzodiazepines have been the traditional sedative agents used in the ICU but are gradually losing ground to other sedatives because of drug accumulation with prolonged use and an increased risk of delirium.</p>
+<h3 id="intravenous-benzodiazepines">Intravenous Benzodiazepines</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Property</th>
+          <th style="text-align: left">Midazolam</th>
+          <th style="text-align: left">Lorazepam</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Bolus Dose</strong></td>
+          <td style="text-align: left">0.01–0.05 mg/kg</td>
+          <td style="text-align: left">0.02–0.04 mg/kg</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Onset</strong></td>
+          <td style="text-align: left">3–5 min</td>
+          <td style="text-align: left">5–15 min</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Duration</strong></td>
+          <td style="text-align: left">1–2 hr</td>
+          <td style="text-align: left">2–6 hr</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Infusion</strong></td>
+          <td style="text-align: left">0.02–0.1 mg/kg/hr</td>
+          <td style="text-align: left">0.01–0.1 mg/kg/hr</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Lipid Solubility</strong></td>
+          <td style="text-align: left">+++</td>
+          <td style="text-align: left">++</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Concerns</strong></td>
+          <td style="text-align: left">Active metabolites</td>
+          <td style="text-align: left">Propylene glycol toxicity</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="midazolam">Midazolam</h3>
+<p>Midazolam is a short-acting drug favored for procedural sedation. Sedative effects are apparent within 5 minutes and last 1–2 hours. Midazolam is highly lipid soluble and will accumulate in the CNS when infused continuously. To avoid prolonged sedation from drug accumulation, midazolam infusions should be limited to 48 hours or less.</p>
+<h3 id="lorazepam">Lorazepam</h3>
+<p>Lorazepam has a rapid onset like midazolam, but the effect lasts longer (up to 6 hours). Continuous infusions can lead to drug accumulation, but this effect is less pronounced because lorazepam is less lipid soluble than midazolam and has no active metabolites.</p>
+<h3 id="propylene-glycol-toxicity">Propylene Glycol Toxicity</h3>
+<p>Propylene glycol is added to intravenous drug preparations to enhance solubility. Lorazepam has the highest concentration of propylene glycol. Excessive intake can produce a metabolic (lactic) acidosis, altered mentation, systemic inflammation, and renal failure. The risk emerges when the lorazepam infusion rate exceeds 0.1 mg/kg/hr or is greater than 10 mg/hr for longer than 48 hours.</p>
+<p><strong>Monitoring:</strong> An elevated osmolal gap (greater than 10 mosm/kg H₂O) correlates with propylene glycol accumulation.</p>
+<h3 id="advantages-of-benzodiazepines">Advantages of Benzodiazepines</h3>
+<ol>
+<li>Rapid onset makes them well-suited for acute management of anxiety and agitation.</li>
+<li>Dose-dependent anterograde amnesia eliminates memories of stressful experiences.</li>
+<li>Preferred for management of alcohol and opioid withdrawal.</li>
+</ol>
+<h3 id="disadvantages">Disadvantages</h3>
+<ol>
+<li>Drug accumulation with prolonged use.</li>
+<li>Associated with delirium in ICU patients.</li>
+</ol>
+<h3 id="preventive-measures">Preventive Measures</h3>
+<ol>
+<li>Daily interruption of benzodiazepine infusions (&ldquo;sedation holiday&rdquo;).</li>
+<li>Maintaining light sedation by titrating to a specific target on sedation scales.</li>
+<li>Avoiding benzodiazepines for prolonged sedation when possible.</li>
+</ol>
+<hr>
+<h2 id="sedation-with-rapid-arousal-agents">Sedation With Rapid-Arousal Agents</h2>
+<h3 id="propofol">Propofol</h3>
+<p>Propofol is a rapidly-acting, GABAergic sedative that produces sedation within 1–2 minutes with a drug effect lasting 5–8 minutes. Termination of an infusion can lead to arousal in only 10–15 minutes.</p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Property</th>
+          <th style="text-align: left">Value</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Loading Dose</strong></td>
+          <td style="text-align: left">5 µg/kg/min over 5 min</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Onset</strong></td>
+          <td style="text-align: left">1–2 min</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Maintenance</strong></td>
+          <td style="text-align: left">5–50 µg/kg/min</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Time to Arousal</strong></td>
+          <td style="text-align: left">10–15 min</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Respiratory Depression</strong></td>
+          <td style="text-align: left">Yes</td>
+      </tr>
+  </tbody>
+</table>
+<p>Propofol is suspended in a 10% lipid emulsion. Adverse effects include respiratory depression, hypotension, hypertriglyceridemia, and (rarely) necrotizing pancreatitis.</p>
+<p><strong>Propofol Infusion Syndrome:</strong> Characterized by systolic heart failure, lactic acidosis, rhhabdomyolysis, acute renal failure, and multiorgan failure. Typically occurs with high-dose infusions (greater than 80 µg/kg/min) for longer than 48 hours. Mortality rate is 30–35%.</p>
+<h3 id="dexmedetomidine">Dexmedetomidine</h3>
+<p>Dexmedetomidine is an alpha-2 adrenergic agonist with sedative, amnesic, and mild analgesic effects that does not depress ventilation.</p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Property</th>
+          <th style="text-align: left">Value</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Loading Dose</strong></td>
+          <td style="text-align: left">1 µg/kg over 10 min</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Onset</strong></td>
+          <td style="text-align: left">5–10 min</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Maintenance</strong></td>
+          <td style="text-align: left">0.2–1.5 µg/kg/hr</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Time to Arousal</strong></td>
+          <td style="text-align: left">6–10 min</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Respiratory Depression</strong></td>
+          <td style="text-align: left">No</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Cooperative Sedation:</strong> The sedation produced is unique because arousal is maintained despite deep levels of sedation. Patients can be aroused without reducing or halting the infusion.</p>
+<p><strong>Advantages:</strong></p>
+<ul>
+<li>No respiratory depression</li>
+<li>Lower incidence of delirium compared to benzodiazepines or propofol</li>
+<li>Drug of choice for ICU-related delirium</li>
+</ul>
+<p><strong>Disadvantages:</strong></p>
+<ul>
+<li>Dose-dependent decreases in heart rate and blood pressure</li>
+<li>Withdrawal syndrome (30% of patients)</li>
+</ul>
+<hr>
+<h2 id="antipsychotic-agents">Antipsychotic Agents</h2>
+<h3 id="haloperidol">Haloperidol</h3>
+<p>Haloperidol is a dopamine receptor antagonist that promotes sedation without troublesome respiratory depression or cardiovascular compromise.</p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Property</th>
+          <th style="text-align: left">Value</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Initial Dose</strong></td>
+          <td style="text-align: left">5 mg IV</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Onset</strong></td>
+          <td style="text-align: left">10–20 min</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Duration</strong></td>
+          <td style="text-align: left">3–4 hr</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Dosing Regimen:</strong></p>
+<ol>
+<li>Give haloperidol 5 mg IV initially.</li>
+<li>For severely agitated patients, add midazolam (1 mg) for more rapid onset.</li>
+<li>Wait 15 minutes.</li>
+<li>If no response, double the dose (10 mg IV).</li>
+<li>If no response after second dose, switch to another agent.</li>
+<li>If response is satisfactory, maintain with periodic doses (25% of effective dose) at 6-hour intervals.</li>
+</ol>
+<p><strong>Contraindication:</strong> Corrected QT interval (QTc) greater than 500 msec.</p>
+<p><strong>Adverse Effects:</strong></p>
+<ol>
+<li>Extrapyramidal reactions (uncommon with IV administration)</li>
+<li>QT prolongation (risk of torsade de pointes)</li>
+<li>Neuroleptic malignant syndrome</li>
+</ol>
+<hr>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<ol>
+<li>Pain assessment should be routine in ICU patients; use validated scales.</li>
+<li>Opioids are the most effective analgesics but carry significant risks.</li>
+<li>Consider multimodal analgesia to reduce opioid requirements.</li>
+<li>Light sedation (RASS -1 to -2) is preferred when possible.</li>
+<li>Benzodiazepines are associated with delirium; use with caution.</li>
+<li>Dexmedetomidine provides cooperative sedation and reduces delirium risk.</li>
+<li>Haloperidol is useful for delirium but requires QTc monitoring.</li>
+</ol>
+<hr>
+<h2 id="references">References</h2>
+<ol>
+<li>
+<p>Barr J, Fraser GL, Puntillo K, et al. Clinical practice guidelines for the management of pain, agitation, and delirium in adult patients in the intensive care unit. <em>Crit Care Med</em> 2013; 41:263–306.</p>
+</li>
+<li>
+<p>Devlin JW, Skrobik Y, Gélinas C, et al. Clinical practice guidelines for the prevention and management of pain, agitation/sedation, delirium, immobility, and sleep disruption in adult patients in the ICU. <em>Crit Care Med</em> 2018; 46:e825–e873.</p>
+</li>
+<li>
+<p>Sessler CN, Gosnell MS, Grap MJ, et al. The Richmond Agitation-Sedation Scale: validity and reliability in adult intensive care units. <em>Am J Resp Crit Care Med</em> 2002; 166:1338–1344.</p>
+</li>
+</ol>
+
+  </div>
+</body>
+</html>

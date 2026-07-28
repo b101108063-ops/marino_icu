@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Acute Stroke in the ICU</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { font-size: 15px; line-height: 1.7; background: #1a1a1a; color: #d0d0d0; margin: 0; padding: 1rem; }
+    .page-header { background: #2a2a2a; padding: 0.8rem 1rem; border-radius: 8px 8px 0 0; }
+    .site-title { color: #888; font-size: 0.8rem; margin: 0 0 0.2rem 0; }
+    .site-title a { color: #60a5fa; text-decoration: none; }
+    .site-title a:hover { color: #93c5fd; }
+    .chapter-title { color: #ffffff; font-size: 1rem; font-weight: 600; margin: 0 0 0.5rem 0; }
+    .back-link { display: inline-block; color: #60a5fa; text-decoration: none; font-size: 13px; margin-bottom: 0.5rem; }
+    .back-link:hover { color: #93c5fd; }
+    .main-content { background: #2a2a2a; padding: 1.2rem; border-radius: 0 0 8px 8px; max-width: 800px; }
+    h1 { font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem; color: #ffffff; }
+    h2 { font-size: 1.1rem; font-weight: 600; margin: 1.2rem 0 0.4rem 0; color: #60a5fa; border-bottom: 1px solid #333; padding-bottom: 0.2rem; }
+    h3 { font-size: 1rem; font-weight: 600; margin: 0.8rem 0 0.3rem 0; color: #93c5fd; }
+    h4 { font-size: 0.95rem; font-weight: 600; margin: 0.6rem 0 0.2rem 0; color: #c0c0c0; }
+    p { font-size: 15px; margin: 0.5rem 0; color: #d0d0d0; }
+    li { font-size: 15px; margin: 0.25rem 0; color: #d0d0d0; }
+    strong { color: #ffffff; font-weight: 600; }
+    hr { border: none; border-top: 1px solid #333; margin: 1rem 0; }
+    blockquote { background: #333; padding: 0.8rem; border-radius: 4px; margin: 1rem 0; border-left: 3px solid #f87171; }
+    table { width: 100%; border-collapse: collapse; margin: 1rem 0; overflow-x: auto; display: block; }
+    th, td { padding: 0.5rem; text-align: left; border: 1px solid #333; }
+    th { background: #333; color: #ffffff; }
+    tr:nth-child(even) { background: #252525; }
+  </style>
+</head>
+<body>
+  <div class="page-header">
+    <p class="site-title"><a href="/marino_icu/">Marino's ICU Book</a></p>
+    <h1 class="chapter-title">Acute Stroke in the ICU</h1>
+    <a class="back-link" href="/marino_icu/">← Back to List</a>
+  </div>
+  <div class="main-content">
+    <h2 id="chapter-47-acute-stroke-in-the-icu">Chapter 47: Acute Stroke in the ICU</h2>
+<blockquote>
+<p>&ldquo;Disease makes men more physical, it leaves them nothing but body.&rdquo;
+— Thomas Mann</p>
+</blockquote>
+<p>This chapter focuses on cerebrovascular disorders that produce a variety of acute and often devastating neurologic deficits. Ischemic strokes account for about 85% of all strokes. Most are the result of atherosclerotic plaques that rupture and trigger thrombotic occlusion (similar to the pathogenesis of myocardial infarctions), but about 20% are embolic strokes. Most emboli originate from the left side of the heart, though a small fraction begins as deep vein thrombosis in the legs and reaches the brain through a patent foramen ovale.</p>
+<p>This chapter describes the management of ischemic strokes, strokes caused by spontaneous intracerebral hemorrhage, and subarachnoid hemorrhage, with a focus on management in the ICU.</p>
+<hr>
+<h2 id="ischemic-stroke">Ischemic Stroke</h2>
+<h3 id="general-support-measures">General Support Measures</h3>
+<p>After admission to the ICU, the following support measures deserve attention.</p>
+<p><strong>TABLE 47.1 — General Support Measures for Ischemic Stroke</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Concern</th>
+          <th>Recommendation</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Oxygen</strong></td>
+          <td>Use supplemental O₂ only for patients who are hypoxemic (SaO₂ &lt;90%). Maintain SaO₂ at 90–92%.</td>
+      </tr>
+      <tr>
+          <td><strong>Hypertension</strong></td>
+          <td>After thrombolytic therapy or mechanical thrombectomy, keep BP &lt;180/105 mmHg for 24 hours. Otherwise, lower BP only if &gt;220/120 mmHg for the first 72 hours (unless there is heart failure).</td>
+      </tr>
+      <tr>
+          <td><strong>Hyperglycemia</strong></td>
+          <td>Lower blood glucose if &gt;180 mg/dL; maintain at 140–180 mg/dL for 24–48 hours. Avoid dextrose-containing IV fluids.</td>
+      </tr>
+      <tr>
+          <td><strong>Fever</strong></td>
+          <td>Aggressively treat fever for the first 24–48 hours. Search for infection as source of fever.</td>
+      </tr>
+      <tr>
+          <td><strong>Thromboprophylaxis</strong></td>
+          <td>Start aspirin 325 mg daily on day 1 (to prevent early recurrence). Following thrombolytic therapy, wait 24 hours before starting aspirin. All patients should receive DVT prophylaxis with low-molecular-weight heparin. Following thrombolytic therapy, use sequential compression devices for the first 24 hours.</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="respiratory-support">Respiratory Support</h3>
+<p><strong>Oxygen:</strong> Oxygen has two deleterious effects in acute stroke. First, oxygen acts as a vasoconstrictor in all major vascular beds except the lungs, causing a 15–30% decrease in cerebral blood flow with 100% O₂ inhalation. Second, oxygen promotes oxidative cell injury via reactive oxygen species. Maintaining an SaO₂ above 94% has been shown to have a negative impact on neurologic outcomes.</p>
+<p><strong>Recommendation:</strong> Supplemental O₂ only for hypoxemic patients (SaO₂ &lt;90%). Maintain SaO₂ at 90–92%.</p>
+<p><strong>Mechanical Ventilation:</strong> Intubation and mechanical ventilation are indicated for:</p>
+<ul>
+<li>Patients with impaired consciousness unable to protect their airways from aspiration</li>
+<li>Patients with acute respiratory failure (hypoxemic and/or hypercapnic)</li>
+</ul>
+<blockquote>
+<p><strong>Note:</strong> Positive pressure ventilation can reduce cerebral perfusion pressure by increasing intracranial pressure, so judicious use is advised.</p>
+</blockquote>
+<h3 id="blood-pressure-management">Blood Pressure Management</h3>
+<p><strong>TABLE 47.2 — Antihypertensive Agents for Acute Stroke</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Drug</th>
+          <th>Dosing</th>
+          <th>Comments</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Labetalol</strong></td>
+          <td>10 mg IV bolus; then infuse at 2–8 mg/min</td>
+          <td>Equivalent to nicardipine in efficacy and safety</td>
+      </tr>
+      <tr>
+          <td><strong>Nicardipine</strong></td>
+          <td>Infuse at 5 mg/hr; increase by 2.5 mg/hr to 15 mg/hr</td>
+          <td>Equivalent to labetalol in efficacy and safety</td>
+      </tr>
+      <tr>
+          <td><strong>Clevidipine</strong></td>
+          <td>Infuse at 1–2 mg/hr; double dose every 2–5 min to 21 mg/hr</td>
+          <td>Equivalent to nicardipine in efficacy and safety</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="cns-complications">CNS Complications</h3>
+<h4 id="intracerebral-hemorrhage">Intracerebral Hemorrhage</h4>
+<p>The most devastating complication of stroke management is hemorrhagic transformation. The incidence of symptomatic intracerebral hemorrhage following thrombolytic therapy is 6.4–8.8%. Risk factors include advanced age, blood pressure above 180/105 mmHg, and stroke involving more than one-third of a cerebral hemisphere.</p>
+<p><strong>Management:</strong></p>
+<ol>
+<li><strong>Cryoprecipitate</strong> (10 units) as a source of fibrinogen; repeat if serum fibrinogen is below 200 mg/dL. (Fibrinogen concentrates are preferable — no thawing required, more consistent concentration at 20 g/L.)</li>
+<li>If cryoprecipitate is not immediately available, <strong>tranexamic acid</strong> 1,000 mg IV over 10 minutes.</li>
+<li>Neurosurgery consultation (consider decompression hemicraniectomy).</li>
+</ol>
+<h4 id="cerebral-edema">Cerebral Edema</h4>
+<p>There are two types of cerebral edema:</p>
+<ul>
+<li><strong>Cytotoxic edema</strong> — result of cell necrosis</li>
+<li><strong>Vasogenic edema</strong> — loss of vascular control mechanisms and disruption of the blood-brain barrier</li>
+</ul>
+<p><strong>Management:</strong></p>
+<ul>
+<li>ICP monitoring is not recommended for acute ischemic stroke complicated by cerebral edema.</li>
+<li><strong>Hypertonic saline</strong> can be used to lower ICP. Mannitol is also capable of lowering ICP but is less effective than hypertonic saline.</li>
+<li>Target plasma sodium: 145–155 mEq/L.</li>
+</ul>
+<p><strong>TABLE 47.3 — Hypertonic Saline Solutions for Cerebral Edema</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Solution</th>
+          <th>Concentration</th>
+          <th>Osmolality (mOsm/L)</th>
+          <th>Typical Bolus Dose</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Hypertonic saline</td>
+          <td>3%</td>
+          <td>1,027</td>
+          <td>250 mL over 20 min</td>
+      </tr>
+      <tr>
+          <td>Hypertonic saline</td>
+          <td>5%</td>
+          <td>1,717</td>
+          <td>150 mL over 20 min</td>
+      </tr>
+      <tr>
+          <td>Hypertonic saline</td>
+          <td>7.5%</td>
+          <td>2,575</td>
+          <td>100 mL over 20 min</td>
+      </tr>
+      <tr>
+          <td>Hypertonic saline</td>
+          <td>23.4%</td>
+          <td>8,012</td>
+          <td>30 mL over 20 min</td>
+      </tr>
+  </tbody>
+</table>
+<p><em>Bolus dosing is preferred over continuous infusion (more rapid effect).</em></p>
+<h4 id="seizures">Seizures</h4>
+<p>About 20% of patients have a symptomatic seizure in the first week after ischemic stroke, and about one-quarter of seizures recur within 4 years. Anticonvulsant therapy (e.g., levetiracetam) is recommended for post-stroke seizures and should be continued after discharge. Seizure prophylaxis is not recommended.</p>
+<hr>
+<h2 id="spontaneous-intracerebral-hemorrhage">Spontaneous Intracerebral Hemorrhage</h2>
+<p>Spontaneous (non-traumatic) intracerebral hemorrhage accounts for about 10–15% of acute strokes. Predisposing conditions include hypertension and systemic anticoagulation. The prognosis is less favorable than with ischemic strokes — about half of patients do not survive for 30 days, and two-thirds of survivors have significant neurologic deficits.</p>
+<h3 id="reversing-antithrombotic-agents">Reversing Antithrombotic Agents</h3>
+<p>Rapid deterioration in the early hours after intracerebral hemorrhage (ICH) is attributed to expansion of the hematoma. Prompt reversal of ongoing antithrombotic therapy is mandatory.</p>
+<p><strong>TABLE 47.4 — Reversal of Antithrombotic Agents in ICH</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Antithrombotic</th>
+          <th>Reversal Agent</th>
+          <th>Dosing</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Warfarin</strong></td>
+          <td>Vitamin K + 4-factor PCC</td>
+          <td>Vitamin K 10 mg IV; PCC dosing per INR (see product labeling)</td>
+      </tr>
+      <tr>
+          <td><strong>Dabigatran</strong></td>
+          <td>Idarucizumab</td>
+          <td>2.5 mg IV bolus; repeat within 15 minutes</td>
+      </tr>
+      <tr>
+          <td><strong>Apixaban / Rivaroxaban</strong></td>
+          <td>Andexanet alfa</td>
+          <td>See Table 47.5 for dosing based on drug and time</td>
+      </tr>
+      <tr>
+          <td><strong>Unfractionated Heparin</strong></td>
+          <td>Protamine sulfate</td>
+          <td>1 mg per 100 units of heparin given</td>
+      </tr>
+      <tr>
+          <td><strong>Enoxaparin</strong></td>
+          <td>Protamine sulfate</td>
+          <td>1 mg per 1 mg of enoxaparin given (less effective than against UFH)</td>
+      </tr>
+      <tr>
+          <td><strong>Aspirin / Clopidogrel</strong></td>
+          <td>Desmopressin</td>
+          <td>3 mcg/kg subQ or IV; can repeat once</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>TABLE 47.5 — Andexanet Alfa Dosing for Factor Xa Inhibitor Reversal</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Drug</th>
+          <th>Initial Bolus</th>
+          <th>Continuous Infusion</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Apixaban 5 mg (low dose)</td>
+          <td>400 mg at &lt;5 mcg/mL</td>
+          <td>4 mg/min for up to 120 min</td>
+      </tr>
+      <tr>
+          <td>Apixaban 10 mg (high dose)</td>
+          <td>800 mg at ≥5 mcg/mL</td>
+          <td>8 mg/min for up to 120 min</td>
+      </tr>
+      <tr>
+          <td>Rivaroxaban (any dose)</td>
+          <td>800 mg</td>
+          <td>8 mg/min for up to 120 min</td>
+      </tr>
+  </tbody>
+</table>
+<p><em>If andexanet is not available, use high-dose 4-factor PCC (50 IU/kg).</em></p>
+<h3 id="other-measures">Other Measures</h3>
+<ol>
+<li><strong>Blood pressure:</strong> Maintain systolic BP below 140 mmHg.</li>
+<li><strong>DVT prophylaxis:</strong> Begin at admission with sequential compression devices; heparin preparations may be started later based on clinical condition.</li>
+<li><strong>Seizure prophylaxis:</strong> Not recommended. However, symptomatic seizures occur in about 15% of patients in the first week and warrant anticonvulsant therapy (e.g., levetiracetam).</li>
+<li><strong>EEG monitoring:</strong> Patients with impaired consciousness should be evaluated for nonconvulsive status epilepticus with continuous EEG for 24–36 hours.</li>
+<li><strong>Neurosurgery consult:</strong> Warranted for large or expanding hematomas, or bleeding extending into ventricles (risk of obstructive hydrocephalus).</li>
+</ol>
+<h3 id="intracranial-pressure-management">Intracranial Pressure Management</h3>
+<p>ICP monitoring is recommended when:</p>
+<ul>
+<li>Glasgow Coma Score ≤8</li>
+<li>Blood in the ventricular system</li>
+<li>Clinical evidence of transtentorial herniation</li>
+</ul>
+<p>Maintain ICP below 20 mmHg. ICP measurement also allows estimation of cerebral perfusion pressure (CPP = MAP − ICP). Target CPP: 50–70 mmHg.</p>
+<hr>
+<h2 id="subarachnoid-hemorrhage">Subarachnoid Hemorrhage</h2>
+<p>The most devastating type of stroke occurs when a saccular aneurysm in one of the cerebral arteries ruptures, resulting in accumulation of blood in the subarachnoid space.</p>
+<h3 id="severity-of-illness">Severity of Illness</h3>
+<ul>
+<li>25% of patients with aneurysmal SAH succumb before reaching the hospital.</li>
+<li>Another 20% do not survive the hospitalization.</li>
+<li>Six months after admission, 35% of patients are dead or disabled.</li>
+<li>SAH affects a younger age group than other strokes (mean age ~55 years).</li>
+</ul>
+<h3 id="sources-of-tissue-injury">Sources of Tissue Injury</h3>
+<ol>
+<li>
+<p><strong>Inflammatory response:</strong> Blood in the subarachnoid space triggers inflammation that damages the blood-brain barrier, promotes vasogenic cerebral edema, and produces oxidative damage. Iron in extravasated blood promotes highly-toxic hydroxyl radicals and ferroptosis.</p>
+</li>
+<li>
+<p><strong>Hydrocephalus:</strong> Blood in the subarachnoid space blocks CSF flow, often leading to obstructive hydrocephalus and increased ICP.</p>
+</li>
+<li>
+<p><strong>Delayed cerebral ischemia (DCI):</strong> In about one-third of patients, a second phase of ischemic tissue injury occurs between days 4 and 14. DCI is attributed to vasospasm and thrombotic occlusion of cerebral arteries.</p>
+</li>
+<li>
+<p><strong>Systemic inflammation:</strong> SAH is often associated with ARDS and acute kidney injury.</p>
+</li>
+</ol>
+<h3 id="management">Management</h3>
+<h4 id="immediate-concerns">Immediate Concerns</h4>
+<ol>
+<li>Reverse ongoing antithrombotic therapy immediately.</li>
+<li>Correct hypertension — target systolic BP ≤140 mmHg. Labetalol is appropriate (avoids increasing cardiac output).</li>
+<li>Antifibrinolytic agents (e.g., tranexamic acid) are not recommended.</li>
+</ol>
+<h4 id="aneurysm-treatment">Aneurysm Treatment</h4>
+<p>The best way to prevent rebleeding is to obliterate the ruptured aneurysm. Outcomes are improved if corrective action is taken within 3 days and should not be delayed longer than 7–10 days.</p>
+<h4 id="delayed-cerebral-ischemia-dci">Delayed Cerebral Ischemia (DCI)</h4>
+<ol>
+<li>
+<p><strong>Nimodipine:</strong> 60 mg PO every 4 hours, starting as soon as possible after diagnosis and continuing for 3 weeks. Reduces neurologic deficits but has no impact on survival. IV route is not recommended (risk of hypotension).</p>
+</li>
+<li>
+<p><strong>Monitoring:</strong> Frequent neurologic assessments; CTA and transcranial Doppler ultrasound (~90% sensitivity for vasospasm detection).</p>
+</li>
+<li>
+<p><strong>Treatment of severe vasospasm:</strong> Consider intra-arterial vasodilators or angioplasty.</p>
+</li>
+</ol>
+<h4 id="icp-management">ICP Management</h4>
+<p>Similar to ICH. Drainage catheters are placed in patients who develop hydrocephalus. Maintain ICP below 20 mmHg. Survivors require permanent shunting of CSF into the abdominal cavity.</p>
+<h4 id="general-measures">General Measures</h4>
+<ol>
+<li>
+<p><strong>Thromboprophylaxis:</strong> Incidence of venous thromboembolism is as high as 25%; enoxaparin 40 mg subQ daily has been used safely after aneurysm repair.</p>
+</li>
+<li>
+<p><strong>Fever:</strong> Common; has negative influence on outcomes, but suppression with antipyretics and cooling devices has not improved outcomes.</p>
+</li>
+<li>
+<p><strong>Hyperglycemia:</strong> Negative impact in the first 72 hours; no specific recommendation in SAH guidelines.</p>
+</li>
+<li>
+<p><strong>Hyponatremia:</strong> Reported in 35% of SAH patients; possibly related to cerebral salt wasting.</p>
+</li>
+</ol>
+<hr>
+<h2 id="a-final-word-wheres-the-beef">A Final Word: Where&rsquo;s the Beef?</h2>
+<p>The ability of thrombolytic therapy and mechanical thrombectomy to re-establish flow has created high expectations for the management of ischemic strokes. These expectations fueled a massive effort to create &ldquo;stroke centers&rdquo; with specialized &ldquo;stroke teams.&rdquo; However:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Metric</th>
+          <th>Value</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Number of strokes per year in the United States</td>
+          <td>795,000</td>
+      </tr>
+      <tr>
+          <td>Number of ischemic strokes (85%)</td>
+          <td>676,000</td>
+      </tr>
+      <tr>
+          <td>Number receiving lytic therapy (5%) and/or mechanical thrombectomy (2%)</td>
+          <td>~47,320</td>
+      </tr>
+      <tr>
+          <td>Number of patients who benefit from reperfusion therapy (1 in 9)</td>
+          <td>~5,258</td>
+      </tr>
+      <tr>
+          <td>Percent of strokes that benefit from reperfusion therapy</td>
+          <td><strong>0.8%</strong></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="references">References</h2>
+<ol>
+<li>Hilkens NA, et al. Stroke. <em>Lancet</em> 2024 [epub ahead of print].</li>
+</ol>
+<p><strong>Clinical Practice Guidelines</strong>
+2. Powers WJ, et al. Guidelines for the early management of patients with acute ischemic stroke. <em>Stroke</em> 2018; 49:e46–e99.
+3. Hemphill JC, et al. Guidelines for the management of spontaneous intracerebral hemorrhage. <em>Stroke</em> 2015; 46:2032–2060.
+4. Hoh BL, et al. 2023 guideline for the management of patients with aneurysmal subarachnoid hemorrhage. <em>Stroke</em> 2023; 54:e314–e379.
+5. Sacco RL, et al. An updated definition of stroke. <em>Stroke</em> 2013; 44:2064–2089.</p>
+<p><strong>Ischemic Stroke</strong>
+6. Watson NA, et al. Effect of hyperoxia on cerebral blood flow. <em>Eur J Anaesthesiol</em> 2000; 17:152–159.
+7. Marino PL. <em>Oxygen: Creating a New Paradigm</em>. Philadelphia: Wolters Kluwer, 2022.
+8. Lopez HV, et al. Association between post-procedural hyperoxia and poor functional outcome after mechanical thrombectomy. <em>Ann Intensive Care</em> 2019; 9:59.</p>
+<p><strong>Additional references as cited in source text.</strong></p>
+
+  </div>
+</body>
+</html>

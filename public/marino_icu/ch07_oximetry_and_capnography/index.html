@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Oximetry and Capnography</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { font-size: 15px; line-height: 1.7; background: #1a1a1a; color: #d0d0d0; margin: 0; padding: 1rem; }
+    .page-header { background: #2a2a2a; padding: 0.8rem 1rem; border-radius: 8px 8px 0 0; }
+    .site-title { color: #888; font-size: 0.8rem; margin: 0 0 0.2rem 0; }
+    .site-title a { color: #60a5fa; text-decoration: none; }
+    .site-title a:hover { color: #93c5fd; }
+    .chapter-title { color: #ffffff; font-size: 1rem; font-weight: 600; margin: 0 0 0.5rem 0; }
+    .back-link { display: inline-block; color: #60a5fa; text-decoration: none; font-size: 13px; margin-bottom: 0.5rem; }
+    .back-link:hover { color: #93c5fd; }
+    .main-content { background: #2a2a2a; padding: 1.2rem; border-radius: 0 0 8px 8px; max-width: 800px; }
+    h1 { font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem; color: #ffffff; }
+    h2 { font-size: 1.1rem; font-weight: 600; margin: 1.2rem 0 0.4rem 0; color: #60a5fa; border-bottom: 1px solid #333; padding-bottom: 0.2rem; }
+    h3 { font-size: 1rem; font-weight: 600; margin: 0.8rem 0 0.3rem 0; color: #93c5fd; }
+    h4 { font-size: 0.95rem; font-weight: 600; margin: 0.6rem 0 0.2rem 0; color: #c0c0c0; }
+    p { font-size: 15px; margin: 0.5rem 0; color: #d0d0d0; }
+    li { font-size: 15px; margin: 0.25rem 0; color: #d0d0d0; }
+    strong { color: #ffffff; font-weight: 600; }
+    hr { border: none; border-top: 1px solid #333; margin: 1rem 0; }
+    blockquote { background: #333; padding: 0.8rem; border-radius: 4px; margin: 1rem 0; border-left: 3px solid #f87171; }
+    table { width: 100%; border-collapse: collapse; margin: 1rem 0; overflow-x: auto; display: block; }
+    th, td { padding: 0.5rem; text-align: left; border: 1px solid #333; }
+    th { background: #333; color: #ffffff; }
+    tr:nth-child(even) { background: #252525; }
+  </style>
+</head>
+<body>
+  <div class="page-header">
+    <p class="site-title"><a href="/marino_icu/">Marino's ICU Book</a></p>
+    <h1 class="chapter-title">Oximetry and Capnography</h1>
+    <a class="back-link" href="/marino_icu/">← Back to List</a>
+  </div>
+  <div class="main-content">
+    <blockquote>
+<p>The killing vice of a young doctor is intellectual laziness.<br>
+— Sir William Osler</p>
+</blockquote>
+<h2 id="introduction">Introduction</h2>
+<p>The introduction of optical techniques for the noninvasive and continuous monitoring of oxyhemoglobin saturation in blood (oximetry) and carbon dioxide levels in exhaled gas (capnography) is the most useful innovation in critical care monitoring since the advent of intensive care units. Despite the ubiquity and promise of pulse oximetry and capnography, evidence shows that understanding of these techniques is far from satisfactory.</p>
+<hr>
+<h2 id="oximetry-methodology">Oximetry: Methodology</h2>
+<h3 id="light-absorption-by-hemoglobin">Light Absorption by Hemoglobin</h3>
+<p>Hemoglobin changes its structural configuration when it participates in a chemical reaction, and each configuration has a distinct pattern of light absorption. Four different forms are relevant:</p>
+<ul>
+<li><strong>Oxygenated hemoglobin (HbO₂):</strong> Absorbs infrared light more effectively</li>
+<li><strong>Deoxygenated hemoglobin (Hb):</strong> Absorbs red light more effectively</li>
+<li><strong>Methemoglobin (metHb):</strong> Absorbs both wavelengths similarly</li>
+<li><strong>Carboxyhemoglobin (COHb):</strong> Absorbs light similarly to oxygenated hemoglobin</li>
+</ul>
+<p>Two wavelengths of light (660 nm and 940 nm) are used to identify oxygenated and deoxygenated hemoglobin.</p>
+<h3 id="pulse-oximetry">Pulse Oximetry</h3>
+<p>When a light beam passes through a pulsating artery, the phasic changes in arterial blood volume create pulsatile variations in the intensity of the transmitted light beam. Restricting analysis to the systolic fraction focuses the analysis on arterial blood, reducing errors from venous blood and other tissues.</p>
+<p>The fingertip probe contains two light-emitting diodes that emit monochromatic light at wavelengths of 660 nm and 940 nm. These pass through the finger and are sensed by a photodetector. The pulse oximeter saturation (SpO₂) is expressed as:</p>
+<p>$$\text{SpO}_2 = \frac{\text{HbO}_2}{\text{Hb} + \text{HbO}_2} \times 100$$</p>
+<h3 id="forehead-pulse-oximetry">Forehead Pulse Oximetry</h3>
+<p>The forehead is appealing because the arterial circulation is less prone to vasoconstriction than digital arteries. Unlike fingertip oximetry (transmission), forehead oximetry relies on light reflectance. Elastic headbands are used to reduce interference from venous pulsations.</p>
+<h3 id="co-oximetry">CO-Oximetry</h3>
+<p>Standard pulse oximeters do not detect carboxyhemoglobin or methemoglobin. This requires additional wavelengths available in devices called &ldquo;CO-oximeters&rdquo; that generate up to 8 wavelengths of light.</p>
+<h3 id="accuracy">Accuracy</h3>
+<p>The accuracy of a single SpO₂ measurement is 3–4%, and serial measurements are 2–3%. The SpO₂ is usually higher than the arterial O₂ saturation (SaO₂). Discrepancies are greater in subjects with dark skin pigmentation.</p>
+<hr>
+<h2 id="oximetry-applications">Oximetry: Applications</h2>
+<h3 id="target-spo">Target SpO₂</h3>
+<p>The target SpO₂ is 90–94% for most patients and 88–92% for patients with hypercapnic respiratory failure. A change in SpO₂ of 3–4% is considered significant.</p>
+<h3 id="venous-oximetry">Venous Oximetry</h3>
+<p>Oximetry can measure the O₂ saturation in venous blood from the pulmonary artery (mixed venous blood) or superior vena cava (central venous blood). Specialized oximetry catheters contain fiberoptic bundles that emit two wavelengths of light from the tip.</p>
+<h3 id="venous-o-saturation">Venous O₂ Saturation</h3>
+<p>The venous O₂ saturation (SvO₂) reflects the balance between systemic O₂ delivery (DO₂) and O₂ consumption (VO₂):</p>
+<p>$$\text{SvO}_2 = 1 - \frac{\text{VO}_2}{\text{DO}_2}$$</p>
+<p>The normal SvO₂ is 70–75%. A decrease indicates decreased O₂ delivery relative to consumption.</p>
+<h3 id="central-venous-o-saturation-scvo">Central Venous O₂ Saturation (ScvO₂)</h3>
+<p>The ScvO₂ measured by central venous oximetry catheters is slightly lower than the SvO₂ in healthy subjects but higher in critically ill patients. Changes in ScvO₂ generally mirror those in SvO₂.</p>
+<h3 id="dual-oximetry">Dual Oximetry</h3>
+<p>Adding SpO₂ from pulse oximetry to SvO₂ monitoring enhances interpretive value. The difference (SpO₂ – SvO₂) is roughly equivalent to O₂ extraction from capillary blood:</p>
+<ul>
+<li>Normal (SpO₂ – SvO₂): 25%</li>
+<li>Greater than 25%: O₂ delivery reduced</li>
+<li>Greater than 50%: Threat to aerobic metabolism</li>
+</ul>
+<hr>
+<h2 id="capnography-methodology">Capnography: Methodology</h2>
+<h3 id="infrared-capnography">Infrared Capnography</h3>
+<p>The quantitative method of monitoring exhaled CO₂ is based on the ability of CO₂ to absorb light in the infrared spectrum. An infrared CO₂ probe is placed between the ventilator and the patient and emits a continuous infrared light beam through the respired gas.</p>
+<h3 id="the-capnogram">The Capnogram</h3>
+<p>The capnogram has four phases:</p>
+<ul>
+<li><strong>Phase I:</strong> Anatomic dead space with negligible CO₂</li>
+<li><strong>Phase II:</strong> Rapid rise as alveolar gas enters</li>
+<li><strong>Phase III:</strong> Plateau indicating alveolar emptying</li>
+<li><strong>Phase IV:</strong> Onset of inhalation</li>
+</ul>
+<p>A slowly rising Phase II indicates increased alveolar dead space (as in COPD).</p>
+<hr>
+<h2 id="capnography-applications">Capnography: Applications</h2>
+<h3 id="procedural-sedation">Procedural Sedation</h3>
+<p>Capnography has proven superior to oximetry for detecting hypoventilation during procedural sedation. Monitoring PETCO₂ is recommended for all procedural sedation.</p>
+<h3 id="endotracheal-intubation">Endotracheal Intubation</h3>
+<p>Verification of tracheal placement with exhaled CO₂ detection is a &ldquo;standard of care&rdquo; because:</p>
+<ul>
+<li>Unrecognized esophageal intubation is reported in one of every 18 emergency intubations</li>
+<li>Clinical assessment does not always differentiate tracheal from esophageal intubation</li>
+</ul>
+<h3 id="changes-in-cardiac-output">Changes in Cardiac Output</h3>
+<p>PETCO₂ monitoring might be valuable for detecting cardiac output responses to interventions. Changes in PETCO₂ are predictive of fluid responsiveness in mechanically ventilated patients.</p>
+<h3 id="cardiopulmonary-resuscitation">Cardiopulmonary Resuscitation</h3>
+<p>Return of spontaneous circulation is unlikely if the PETCO₂ is 10 mm Hg or less after 20 minutes of cardiopulmonary resuscitation.</p>
+<h3 id="paco--petco-difference">PaCO₂ – PETCO₂ Difference</h3>
+<p>The PETCO₂ will decrease relative to the PaCO₂ in conditions associated with increased dead space ventilation.</p>
+<h3 id="conditions-that-alter-the-paco--petco-relationship">Conditions that Alter the PaCO₂ – PETCO₂ Relationship</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">PETCO₂ Less than PaCO₂</th>
+          <th style="text-align: left">PETCO₂ Greater than PaCO₂</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Leaky ventilator circuit</td>
+          <td style="text-align: left">Pneumonia</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Excessive lung inflation</td>
+          <td style="text-align: left">Obstructive lung disease</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Pulmonary edema</td>
+          <td style="text-align: left">Pulmonary embolism</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Acute decrease in cardiac output</td>
+          <td style="text-align: left">Hypermetabolism</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Pulmonary embolism</td>
+          <td style="text-align: left">Metabolic acidosis</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">Hyperoxia</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<ol>
+<li>Pulse oximetry measures SpO₂ with 3–4% accuracy.</li>
+<li>The target SpO₂ is 90–94% for most patients.</li>
+<li>SvO₂ reflects the balance between O₂ delivery and consumption.</li>
+<li>Capnography is superior to oximetry for detecting hypoventilation.</li>
+<li>PETCO₂ can indicate cardiac output changes and prognosis during CPR.</li>
+<li>The PaCO₂ – PETCO₂ difference increases with dead space ventilation.</li>
+</ol>
+<hr>
+<h2 id="references">References</h2>
+<ol>
+<li>
+<p>Barker SJ, Tremper KK. Pulse oximetry: applications and limitations. <em>Int Anesthesiol Clin</em> 1987; 25:155–175.</p>
+</li>
+<li>
+<p>Nitzan M, Romem A, Koppel R. Pulse oximetry: fundamentals and technology update. <em>Med Devices</em> 2014; 7:231–239.</p>
+</li>
+<li>
+<p>Nassar BS, Schmidt GA. Capnography during critical illness. <em>Chest</em> 2016; 149:576–585.</p>
+</li>
+</ol>
+
+  </div>
+</body>
+</html>
