@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 47
 chapter: "CH47"
 title: "Acute Stroke in the ICU"
 ---

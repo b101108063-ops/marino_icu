@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 12
 chapter: "CH12"
 title: "Anemia and Red Blood Cell"
 ---

@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 28
 chapter: "CH28"
 title: "High Frequency Ventilation and Prone Positioning"
 ---

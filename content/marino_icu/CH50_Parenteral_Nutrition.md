@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 50
 chapter: "CH50"
 title: "Parenteral Nutrition"
 ---

@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 22
 chapter: "CH22"
 title: "Severe Sepsis and Decreased Oxygen delivery"
 ---

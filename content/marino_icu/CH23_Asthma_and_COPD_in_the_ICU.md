@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 23
 chapter: "CH23"
 title: "Asthma and COPD in the ICU"
 ---

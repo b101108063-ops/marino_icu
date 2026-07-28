@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 51
 chapter: "CH51"
 title: "Adrenal and Thyroid Dysfunction"
 ---

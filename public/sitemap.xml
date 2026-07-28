@@ -2,119 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch41_abdominal_infections_in_the_icu/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch31_acid-base_analysis/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch20_acute_coronary_syndromes/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch18_acute_heart_failures/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch34_acute_kidney_injury/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch40_acute_pancreatitis/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch24_acute_respiratory_distress_syndrome/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch47_acute_stroke_in_the_icu/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch51_adrenal_and_thyroid_dysfunction/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch04_alimentary_prophylaxis/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch06_analgesia_and_sedation_in_the_icu/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch12_anemia_and_red_blood_cell/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch14_approaches_to_clinical_shock/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch23_asthma_and_copd_in_the_icu/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch38_calcium_and_phosphorus/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch21_cardiac_arrest/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch16_cardiogenic_shock/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/categories/</loc>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch01_vascular_access_primer/</loc>
   </url><url>
     <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch02_central_venous_access/</loc>
   </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch03_the_indwelling_vascular_catheter/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch04_alimentary_prophylaxis/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch05_venous_thromboprophylaxis/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch06_analgesia_and_sedation_in_the_icu/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch07_oximetry_and_capnography/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch08_the_pulmonary_artery_catheter/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch09_systemic_oxygenation/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch10_intravenous_fluids/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch11_fluid_management/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch12_anemia_and_red_blood_cell/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch13_platelets_and_plasma/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch14_approaches_to_clinical_shock/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch15_hemorrhagic_shock/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch16_cardiogenic_shock/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch17_inflammatory_shock_syndromes/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch18_acute_heart_failures/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch19_tachyarrhythmias/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch20_acute_coronary_syndromes/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch21_cardiac_arrest/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch22_severe_sepsis_and_decreased_oxygen_delivery/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch23_asthma_and_copd_in_the_icu/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch24_acute_respiratory_distress_syndrome/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch25_oxygen_inhalation/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch26_noninvasive_positive_pressure_ventilation/</loc>
+  </url><url>
     <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch27_conventional_mechanical_ventilation/</loc>
   </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch28_high_frequency_ventilation_and_prone_positioning/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch29_hemodynamic_monitoring/</loc>
+  </url><url>
     <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch30_discontinuing_mechanical_ventilation/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch31_acid-base_analysis/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch32_lactic_acidosis_and_ketoacidosis/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch33_metabolic_alkalosis/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch34_acute_kidney_injury/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch35_sodium/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch36_potassium/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch37_magnesium/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch38_calcium_and_phosphorus/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch39_liver_failure/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch40_acute_pancreatitis/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch41_abdominal_infections_in_the_icu/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch42_urinary_tract_infections_in_the_icu/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch43_thermoregulatory_disorders/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch44_fever_in_the_icu/</loc>
   </url><url>
     <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch45_disorders_of_consciousness/</loc>
   </url><url>
     <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch46_disorders_of_movement/</loc>
   </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch47_acute_stroke_in_the_icu/</loc>
+  </url><url>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch48_nutritional_requirements/</loc>
+  </url><url>
     <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch49_enteral_nutrition/</loc>
   </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch44_fever_in_the_icu/</loc>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch50_parenteral_nutrition/</loc>
   </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch11_fluid_management/</loc>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch51_adrenal_and_thyroid_dysfunction/</loc>
   </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch29_hemodynamic_monitoring/</loc>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch52_pharmaceutical_drug_overdoses/</loc>
   </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch15_hemorrhagic_shock/</loc>
+    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch53_nonpharmaceutical_poisons/</loc>
   </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch28_high_frequency_ventilation_and_prone_positioning/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch17_inflammatory_shock_syndromes/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch10_intravenous_fluids/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch32_lactic_acidosis_and_ketoacidosis/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch39_liver_failure/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch37_magnesium/</loc>
+    <loc>https://b101108063-ops.github.io/marino_icu/categories/</loc>
   </url><url>
     <loc>https://b101108063-ops.github.io/marino_icu/</loc>
   </url><url>
     <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/</loc>
   </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch33_metabolic_alkalosis/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch26_noninvasive_positive_pressure_ventilation/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch53_nonpharmaceutical_poisons/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch48_nutritional_requirements/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch07_oximetry_and_capnography/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch25_oxygen_inhalation/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch50_parenteral_nutrition/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch52_pharmaceutical_drug_overdoses/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch13_platelets_and_plasma/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch36_potassium/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch22_severe_sepsis_and_decreased_oxygen_delivery/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch35_sodium/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch09_systemic_oxygenation/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch19_tachyarrhythmias/</loc>
-  </url><url>
     <loc>https://b101108063-ops.github.io/marino_icu/tags/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch03_the_indwelling_vascular_catheter/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch08_the_pulmonary_artery_catheter/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch43_thermoregulatory_disorders/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch42_urinary_tract_infections_in_the_icu/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch01_vascular_access_primer/</loc>
-  </url><url>
-    <loc>https://b101108063-ops.github.io/marino_icu/marino_icu/ch05_venous_thromboprophylaxis/</loc>
   </url><url>
     <loc>https://b101108063-ops.github.io/marino_icu/search/</loc>
   </url>

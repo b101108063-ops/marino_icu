@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 18
 chapter: "CH18"
 title: "Acute Heart Failure(s)"
 ---

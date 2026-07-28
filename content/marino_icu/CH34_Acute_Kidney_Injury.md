@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 34
 chapter: "CH34"
 title: "Acute Kidney Injury"
 ---

@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 2
 chapter: "CH02"
 title: "Central Venous Access"
 ---

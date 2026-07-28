@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 25
 chapter: "CH25"
 title: "Oxygen Inhalation"
 ---

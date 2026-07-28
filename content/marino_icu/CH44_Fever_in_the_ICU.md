@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 44
 chapter: "CH44"
 title: "Fever in the ICU"
 ---

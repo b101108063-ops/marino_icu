@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 3
 chapter: "CH03"
 title: "The Indwelling Vascular Catheter"
 ---

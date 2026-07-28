@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 42
 chapter: "CH42"
 title: "Urinary Tract Infections in the ICU"
 ---

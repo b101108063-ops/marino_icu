@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 17
 chapter: "CH17"
 title: "Inflammatory Shock Syndromes"
 ---

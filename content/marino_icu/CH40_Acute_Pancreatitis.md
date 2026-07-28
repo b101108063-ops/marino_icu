@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 40
 chapter: "CH40"
 title: "Acute Pancreatitis"
 ---

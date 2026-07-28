@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 39
 chapter: "CH39"
 title: "Liver Failure"
 ---

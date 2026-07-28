@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 1
 chapter: "CH01"
 title: "Vascular Access Primer"
 ---

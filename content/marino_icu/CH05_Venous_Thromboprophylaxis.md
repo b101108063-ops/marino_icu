@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 5
 chapter: "CH05"
 title: "Venous Thromboprophylaxis"
 ---

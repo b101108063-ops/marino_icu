@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 6
 chapter: "CH06"
 title: "Analgesia and Sedation in the ICU"
 ---

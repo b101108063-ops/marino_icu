@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 10
 chapter: "CH10"
 title: "Intravenous Fluids"
 ---

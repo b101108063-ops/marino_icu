@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 24
 chapter: "CH24"
 title: "Acute Respiratory Distress Syndrome"
 ---

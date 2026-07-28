@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 27
 chapter: "CH27"
 title: "Conventional Mechanical Ventilation"
 ---

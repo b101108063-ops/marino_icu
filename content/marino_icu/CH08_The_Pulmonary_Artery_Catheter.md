@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 8
 chapter: "CH08"
 title: "The Pulmonary Artery Catheter"
 ---

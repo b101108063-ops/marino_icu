@@ -1,6 +1,7 @@
 ---
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
+weight: 14
 chapter: "CH14"
 title: "Approaches to Clinical Shock"
 ---
