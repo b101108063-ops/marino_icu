@@ -28,186 +28,186 @@ This chapter describes the management of ischemic strokes, strokes caused by spo
 
 ### General Support Measures
 
-After admission to the ICU, the following support measures deserve attention.
+進入 ICU 後，以下支持措施值得注意。
 
-**TABLE 47.1 — General Support Measures for Ischemic Stroke**
+**TABLE 47.1 — 缺血性 Stroke 的一般支持措施**
 
-| Concern | Recommendation |
+| 考量 | 建議 |
 |---|---|
-| **Oxygen** | Use supplemental O₂ only for patients who are hypoxemic (SaO₂ <90%). Maintain SaO₂ at 90–92%. |
-| **Hypertension** | After thrombolytic therapy or mechanical thrombectomy, keep BP <180/105 mmHg for 24 hours. Otherwise, lower BP only if >220/120 mmHg for the first 72 hours (unless there is heart failure). |
-| **Hyperglycemia** | Lower blood glucose if >180 mg/dL; maintain at 140–180 mg/dL for 24–48 hours. Avoid dextrose-containing IV fluids. |
-| **Fever** | Aggressively treat fever for the first 24–48 hours. Search for infection as source of fever. |
-| **Thromboprophylaxis** | Start aspirin 325 mg daily on day 1 (to prevent early recurrence). Following thrombolytic therapy, wait 24 hours before starting aspirin. All patients should receive DVT prophylaxis with low-molecular-weight heparin. Following thrombolytic therapy, use sequential compression devices for the first 24 hours. |
+| **氧氣** | 只對缺氧患者（SaO₂ <90%）使用補充 O₂。維持 SaO₂ 在 90–92%。 |
+| **高血壓** | 血栓溶解治療或機械取栓術後，24 小時內維持血壓 <180/105 mmHg。否則，除非有心臟衰竭，否則前 72 小時只在 >220/120 mmHg 時才降壓。 |
+| **高血糖** | 如果血糖 >180 mg/dL 就降低；24–48 小時內維持在 140–180 mg/dL。避免含葡萄糖的靜脈輸液。 |
+| **發燒** | 前 24–48 小時積極治療發燒。尋找 infection 作為發燒來源。 |
+| **血栓預防** | 第 1 天開始 aspirin 325 mg，每日一次（預防早期復發）。血栓溶解治療後，等待 24 小時再開始 aspirin。所有患者都應接受低分子量肝素的 DVT 預防。血栓溶解治療後，前 24 小時使用間歇性壓迫裝置。 |
 
 ### Respiratory Support
 
-**Oxygen:** Oxygen has two deleterious effects in acute stroke. First, oxygen acts as a vasoconstrictor in all major vascular beds except the lungs, causing a 15–30% decrease in cerebral blood flow with 100% O₂ inhalation. Second, oxygen promotes oxidative cell injury via reactive oxygen species. Maintaining an SaO₂ above 94% has been shown to have a negative impact on neurologic outcomes.
+**氧氣：** 氧氣在急性 stroke 有兩種有害作用。首先，氧氣在除肺部外的所有主要血管床中作為血管收縮劑，導致吸入 100% O₂ 時腦血流量減少 15–30%。其次，氧氣通過活性氧物質促進氧化細胞損傷。維持 SaO₂ 高於 94% 已被證明對神經系統結局有負面影響。
 
-**Recommendation:** Supplemental O₂ only for hypoxemic patients (SaO₂ <90%). Maintain SaO₂ at 90–92%.
+**建議：** 只對缺氧患者（SaO₂ <90%）使用補充 O₂。維持 SaO₂ 在 90–92%。
 
-**Mechanical Ventilation:** Intubation and mechanical ventilation are indicated for:
+**Mechanical Ventilation：** 插管和機械通氣的適應症包括：
 
-- Patients with impaired consciousness unable to protect their airways from aspiration
-- Patients with acute respiratory failure (hypoxemic and/or hypercapnic)
+- 意識受損無法保護氣道免於誤吸的患者
+- 急性呼吸衰竭患者（缺氧和/或高碳酸血症）
 
-> **Note:** Positive pressure ventilation can reduce cerebral perfusion pressure by increasing intracranial pressure, so judicious use is advised.
+> **注意：** 正壓通氣可通過增加顱內壓來降低腦灌注壓，因此建議謹慎使用。
 
 ### Blood Pressure Management
 
-**TABLE 47.2 — Antihypertensive Agents for Acute Stroke**
+**TABLE 47.2 — 急性 Stroke 的降壓藥物**
 
-| Drug | Dosing | Comments |
+| 藥物 | 劑量 | 備註 |
 |---|---|---|
-| **Labetalol** | 10 mg IV bolus; then infuse at 2–8 mg/min | Equivalent to nicardipine in efficacy and safety |
-| **Nicardipine** | Infuse at 5 mg/hr; increase by 2.5 mg/hr to 15 mg/hr | Equivalent to labetalol in efficacy and safety |
-| **Clevidipine** | Infuse at 1–2 mg/hr; double dose every 2–5 min to 21 mg/hr | Equivalent to nicardipine in efficacy and safety |
+| **Labetalol** | 10 mg 靜脈推注；然後以 2–8 mg/min 輸注 | 療效和安全性與 nicardipine 相當 |
+| **Nicardipine** | 以 5 mg/hr 輸注；增加 2.5 mg/hr 至 15 mg/hr | 療效和安全性與 labetalol 相當 |
+| **Clevidipine** | 以 1–2 mg/hr 輸注；每 2–5 分鐘加倍劑量至 21 mg/hr | 療效和安全性與 nicardipine 相當 |
 
 ### CNS Complications
 
 #### Intracerebral Hemorrhage
 
-The most devastating complication of stroke management is hemorrhagic transformation. The incidence of symptomatic intracerebral hemorrhage following thrombolytic therapy is 6.4–8.8%. Risk factors include advanced age, blood pressure above 180/105 mmHg, and stroke involving more than one-third of a cerebral hemisphere.
+Stroke 管理中最具破壞性的併發症是出血性轉化。血栓溶解治療後有症狀性顱內出血的發生率為 6.4–8.8%。風險因子包括高齡、血壓高於 180/105 mmHg，以及佔據大腦半球超過三分之一的 stroke。
 
-**Management:**
+**處理：**
 
-1. **Cryoprecipitate** (10 units) as a source of fibrinogen; repeat if serum fibrinogen is below 200 mg/dL. (Fibrinogen concentrates are preferable — no thawing required, more consistent concentration at 20 g/L.)
-2. If cryoprecipitate is not immediately available, **tranexamic acid** 1,000 mg IV over 10 minutes.
-3. Neurosurgery consultation (consider decompression hemicraniectomy).
+1. **冷沉澱物**（10 單位）作為 fibrinogen 的來源；如果血清 fibrinogen 低於 200 mg/dL 則重複。（Fibrinogen 濃縮物更優——無需解凍，濃度更一致，為 20 g/L。）
+2. 如果冷沉澱物不是立即可用的，**tranexamic acid** 1,000 mg 靜脈注射超過 10 分鐘。
+3. 神經外科諮詢（考慮減壓半顱骨切除術）。
 
 #### Cerebral Edema
 
-There are two types of cerebral edema:
+Cerebral edema 有兩種類型：
 
-- **Cytotoxic edema** — result of cell necrosis
-- **Vasogenic edema** — loss of vascular control mechanisms and disruption of the blood-brain barrier
+- **細胞毒性水腫** — 細胞壞死的結果
+- **血管源性水腫** — 血管控制機制喪失和血腦屏障破壞
 
-**Management:**
+**處理：**
 
-- ICP monitoring is not recommended for acute ischemic stroke complicated by cerebral edema.
-- **Hypertonic saline** can be used to lower ICP. Mannitol is also capable of lowering ICP but is less effective than hypertonic saline.
-- Target plasma sodium: 145–155 mEq/L.
+- 不建議對併發 cerebral edema 的急性缺血性 stroke 患者進行 ICP 監測。
+- **高滲鹽水**可用於降低 ICP。Mannitol 也能降低 ICP，但不如高滲鹽水有效。
+- 目標血漿鈉：145–155 mEq/L。
 
-**TABLE 47.3 — Hypertonic Saline Solutions for Cerebral Edema**
+**TABLE 47.3 — Cerebral Edema 的高滲鹽水溶液**
 
-| Solution | Concentration | Osmolality (mOsm/L) | Typical Bolus Dose |
+| 溶液 | 濃度 | 滲透壓 (mOsm/L) | 典型推注劑量 |
 |---|---|---|---|
-| Hypertonic saline | 3% | 1,027 | 250 mL over 20 min |
-| Hypertonic saline | 5% | 1,717 | 150 mL over 20 min |
-| Hypertonic saline | 7.5% | 2,575 | 100 mL over 20 min |
-| Hypertonic saline | 23.4% | 8,012 | 30 mL over 20 min |
+| 高滲鹽水 | 3% | 1,027 | 250 mL 超過 20 分鐘 |
+| 高滲鹽水 | 5% | 1,717 | 150 mL 超過 20 分鐘 |
+| 高滲鹽水 | 7.5% | 2,575 | 100 mL 超過 20 分鐘 |
+| 高滲鹽水 | 23.4% | 8,012 | 30 mL 超過 20 分鐘 |
 
-*Bolus dosing is preferred over continuous infusion (more rapid effect).*
+*推注給藥優於持續輸注（效果更快）。*
 
 #### Seizures
 
-About 20% of patients have a symptomatic seizure in the first week after ischemic stroke, and about one-quarter of seizures recur within 4 years. Anticonvulsant therapy (e.g., levetiracetam) is recommended for post-stroke seizures and should be continued after discharge. Seizure prophylaxis is not recommended.
+約 20% 的患者在缺血性 stroke 後第一週有有症狀的癲癇發作，約四分之一的癲癇在 4 年內復發。建議對卒中後癲癇進行抗癲癇治療（如 levetiracetam），並應在出院後繼續。不建議癲癇預防。
 
 ---
 
 ## Spontaneous Intracerebral Hemorrhage
 
-Spontaneous (non-traumatic) intracerebral hemorrhage accounts for about 10–15% of acute strokes. Predisposing conditions include hypertension and systemic anticoagulation. The prognosis is less favorable than with ischemic strokes — about half of patients do not survive for 30 days, and two-thirds of survivors have significant neurologic deficits.
+自發性（非創傷性）顱內出血約佔急性 strokes 的 10–15%。易感條件包括高血壓和全身性抗凝治療。預後比缺血性 strokes 差——約一半的患者在 30 天內無法存活，三分之二的存活者有顯著的神經缺陷。
 
 ### Reversing Antithrombotic Agents
 
-Rapid deterioration in the early hours after intracerebral hemorrhage (ICH) is attributed to expansion of the hematoma. Prompt reversal of ongoing antithrombotic therapy is mandatory.
+顱內出血（ICH）後早期幾小時內的快速惡化歸因於血腫擴大。必須立即逆轉正在進行的抗血栓治療。
 
-**TABLE 47.4 — Reversal of Antithrombotic Agents in ICH**
+**TABLE 47.4 — ICH 中抗血栓藥物的逆轉**
 
-| Antithrombotic | Reversal Agent | Dosing |
+| 抗血栓藥物 | 逆轉劑 | 劑量 |
 |---|---|---|
-| **Warfarin** | Vitamin K + 4-factor PCC | Vitamin K 10 mg IV; PCC dosing per INR (see product labeling) |
-| **Dabigatran** | Idarucizumab | 2.5 mg IV bolus; repeat within 15 minutes |
-| **Apixaban / Rivaroxaban** | Andexanet alfa | See Table 47.5 for dosing based on drug and time |
-| **Unfractionated Heparin** | Protamine sulfate | 1 mg per 100 units of heparin given |
-| **Enoxaparin** | Protamine sulfate | 1 mg per 1 mg of enoxaparin given (less effective than against UFH) |
-| **Aspirin / Clopidogrel** | Desmopressin | 3 mcg/kg subQ or IV; can repeat once |
+| **Warfarin** | Vitamin K + 4因子 PCC | Vitamin K 10 mg 靜脈注射；PCC 劑量根據 INR（見產品說明） |
+| **Dabigatran** | Idarucizumab | 2.5 mg 靜脈推注；15 分鐘內重複 |
+| **Apixaban / Rivaroxaban** | Andexanet alfa | 根據藥物和時間見表 47.5 的劑量 |
+| **普通肝素** | Protamine sulfate | 每給予 100 單位 heparin 1 mg |
+| **Enoxaparin** | Protamine sulfate | 每給予 1 mg enoxaparin 1 mg（比對 UFH 效果差） |
+| **Aspirin / Clopidogrel** | Desmopressin | 3 mcg/kg 皮下或靜脈注射；可重複一次 |
 
-**TABLE 47.5 — Andexanet Alfa Dosing for Factor Xa Inhibitor Reversal**
+**TABLE 47.5 — Andexanet Alfa 用於 Factor Xa 抑制劑逆轉的劑量**
 
-| Drug | Initial Bolus | Continuous Infusion |
+| 藥物 | 初始推注 | 持續輸注 |
 |---|---|---|
-| Apixaban 5 mg (low dose) | 400 mg at <5 mcg/mL | 4 mg/min for up to 120 min |
-| Apixaban 10 mg (high dose) | 800 mg at ≥5 mcg/mL | 8 mg/min for up to 120 min |
-| Rivaroxaban (any dose) | 800 mg | 8 mg/min for up to 120 min |
+| Apixaban 5 mg（低劑量） | 400 mg at <5 mcg/mL | 4 mg/min 最長 120 分鐘 |
+| Apixaban 10 mg（高劑量） | 800 mg at ≥5 mcg/mL | 8 mg/min 最長 120 分鐘 |
+| Rivaroxaban（任何劑量） | 800 mg | 8 mg/min 最長 120 分鐘 |
 
-*If andexanet is not available, use high-dose 4-factor PCC (50 IU/kg).*
+*如果 andexanet 不可用，使用高劑量 4 因子 PCC（50 IU/kg）。*
 
 ### Other Measures
 
-1. **Blood pressure:** Maintain systolic BP below 140 mmHg.
-2. **DVT prophylaxis:** Begin at admission with sequential compression devices; heparin preparations may be started later based on clinical condition.
-3. **Seizure prophylaxis:** Not recommended. However, symptomatic seizures occur in about 15% of patients in the first week and warrant anticonvulsant therapy (e.g., levetiracetam).
-4. **EEG monitoring:** Patients with impaired consciousness should be evaluated for nonconvulsive status epilepticus with continuous EEG for 24–36 hours.
-5. **Neurosurgery consult:** Warranted for large or expanding hematomas, or bleeding extending into ventricles (risk of obstructive hydrocephalus).
+1. **血壓：** 維持收縮壓低於 140 mmHg。
+2. **DVT 預防：** 入院時開始使用間歇性壓迫裝置；根據臨床狀況可稍後開始肝素製劑。
+3. **癲癇預防：** 不建議。然而，約 15% 的患者在第一週有有症狀的癲癇，需要抗癲癇治療（如 levetiracetam）。
+4. **EEG 監測：** 意識受損的患者應通過 24–36 小時的持續 EEG 評估是否有非痙攣性 status epilepticus。
+5. **神經外科會診：** 適用於大或正在擴大的血腫，或出血延伸至腦室（阻塞性水腦症的風險）。
 
 ### Intracranial Pressure Management
 
-ICP monitoring is recommended when:
+以下情況建議 ICP 監測：
 
-- Glasgow Coma Score ≤8
-- Blood in the ventricular system
-- Clinical evidence of transtentorial herniation
+- Glasgow Coma Scale ≤8
+- 腦室系統中有血液
+- 有小腦幕切開術的臨床證據
 
-Maintain ICP below 20 mmHg. ICP measurement also allows estimation of cerebral perfusion pressure (CPP = MAP − ICP). Target CPP: 50–70 mmHg.
+維持 ICP 低於 20 mmHg。ICP 測量也允許估計腦灌注壓（CPP = MAP − ICP）。目標 CPP：50–70 mmHg。
 
 ---
 
 ## Subarachnoid Hemorrhage
 
-The most devastating type of stroke occurs when a saccular aneurysm in one of the cerebral arteries ruptures, resulting in accumulation of blood in the subarachnoid space.
+最嚴重的 stroke 類型發生在大腦动脉中一個囊狀动脉瘤破裂時，導致血液積聚在蜘蛛膜下腔。
 
 ### Severity of Illness
 
-- 25% of patients with aneurysmal SAH succumb before reaching the hospital.
-- Another 20% do not survive the hospitalization.
-- Six months after admission, 35% of patients are dead or disabled.
-- SAH affects a younger age group than other strokes (mean age ~55 years).
+- 25% 的囊狀 SAH 患者在到達醫院前就死亡了。
+- 另有 20% 在住院期間無法存活。
+- 入院後六個月，35% 的患者死亡或殘疾。
+- SAH 影響比其他 strokes 更年輕的年齡組（平均年齡約 55 歲）。
 
 ### Sources of Tissue Injury
 
-1. **Inflammatory response:** Blood in the subarachnoid space triggers inflammation that damages the blood-brain barrier, promotes vasogenic cerebral edema, and produces oxidative damage. Iron in extravasated blood promotes highly-toxic hydroxyl radicals and ferroptosis.
+1. **發炎反應：** 蜘蛛膜下腔中的血液觸發發炎，損害血腦屏障，促進血管源性 cerebral edema，並產生氧化損傷。血液外滲中的鐵促進高毒性的氫氧自由基和ferroptosis。
 
-2. **Hydrocephalus:** Blood in the subarachnoid space blocks CSF flow, often leading to obstructive hydrocephalus and increased ICP.
+2. **Hydrocephalus：** 蜘蛛膜下腔中的血液阻塞 CSF 流動，常導致阻塞性 hydrocephalus 和 ICP 增加。
 
-3. **Delayed cerebral ischemia (DCI):** In about one-third of patients, a second phase of ischemic tissue injury occurs between days 4 and 14. DCI is attributed to vasospasm and thrombotic occlusion of cerebral arteries.
+3. **延遲性腦缺血（DCI）：** 約三分之一的患者，在第 4 到 14 天之間發生缺血性組織損傷的第二階段。DCI 歸因於血管痙攣和脑血管血檢性阻塞。
 
-4. **Systemic inflammation:** SAH is often associated with ARDS and acute kidney injury.
+4. **全身性發炎：** SAH 常與 ARDS 和急性腎損傷相關。
 
 ### Management
 
 #### Immediate Concerns
 
-1. Reverse ongoing antithrombotic therapy immediately.
-2. Correct hypertension — target systolic BP ≤140 mmHg. Labetalol is appropriate (avoids increasing cardiac output).
-3. Antifibrinolytic agents (e.g., tranexamic acid) are not recommended.
+1. 立即逆轉正在進行的抗血栓治療。
+2. 糾正高血壓——目標收縮壓 ≤140 mmHg。Labetalol 是合適的（避免增加心輸出量）。
+3. 不建議使用抗纖維蛋白溶解劑（如 tranexamic acid）。
 
 #### Aneurysm Treatment
 
-The best way to prevent rebleeding is to obliterate the ruptured aneurysm. Outcomes are improved if corrective action is taken within 3 days and should not be delayed longer than 7–10 days.
+防止再出血的最佳方法是封閉破裂的动脉瘤。如果在 3 天內進行治療，結局會改善，不應延遲超過 7–10 天。
 
 #### Delayed Cerebral Ischemia (DCI)
 
-1. **Nimodipine:** 60 mg PO every 4 hours, starting as soon as possible after diagnosis and continuing for 3 weeks. Reduces neurologic deficits but has no impact on survival. IV route is not recommended (risk of hypotension).
+1. **Nimodipine：** 60 mg 口服，每 4 小時一次，盡可能在診斷後盡快開始，持續 3 週。減少神經缺陷但不影響生存。不建議靜脈注射途徑（低血壓風險）。
 
-2. **Monitoring:** Frequent neurologic assessments; CTA and transcranial Doppler ultrasound (~90% sensitivity for vasospasm detection).
+2. **監測：** 頻繁的神經學評估；CTA 和經顱都卜勒超聲（約 90% 敏感度檢測血管痙攣）。
 
-3. **Treatment of severe vasospasm:** Consider intra-arterial vasodilators or angioplasty.
+3. **嚴重血管痙攣的治療：** 考慮使用動脈內血管擴張劑或血管成形術。
 
 #### ICP Management
 
-Similar to ICH. Drainage catheters are placed in patients who develop hydrocephalus. Maintain ICP below 20 mmHg. Survivors require permanent shunting of CSF into the abdominal cavity.
+與 ICH 相似。對於發生 hydrocephalus 的患者放置引流導管。維持 ICP 低於 20 mmHg。存活者需要將 CSF 永久分流至腹腔。
 
 #### General Measures
 
-1. **Thromboprophylaxis:** Incidence of venous thromboembolism is as high as 25%; enoxaparin 40 mg subQ daily has been used safely after aneurysm repair.
+1. **血栓預防：** 靜脈血栓栓塞症的發生率高达 25%；动脉瘤修補後已安全使用 enoxaparin 40 mg 皮下，每日一次。
 
-2. **Fever:** Common; has negative influence on outcomes, but suppression with antipyretics and cooling devices has not improved outcomes.
+2. **發燒：** 常見；對結局有負面影響，但使用 antipyretics 和降溫設備抑制尚未改善結局。
 
-3. **Hyperglycemia:** Negative impact in the first 72 hours; no specific recommendation in SAH guidelines.
+3. **高血糖：** 前 72 小時有負面影響；SAH 指南中沒有具體建議。
 
-4. **Hyponatremia:** Reported in 35% of SAH patients; possibly related to cerebral salt wasting.
+4. **低鈉血症：** 見於 35% 的 SAH 患者；可能與腦性鹽耗損有關。
 
 ---
 

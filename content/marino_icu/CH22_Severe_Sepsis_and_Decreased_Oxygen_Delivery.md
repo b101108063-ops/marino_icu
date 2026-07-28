@@ -2,7 +2,7 @@
 source: "Marino's ICU Book (4th Edition)"
 specialty: "Critical Care Medicine"
 chapter: "CH22"
-title: "Severe Sepsis and Decreased Oxygen Delivery"
+title: "Severe Sepsis and Decreased Oxygen delivery"
 ---
 
 ## Chapter 22: Acute Pulmonary Embolism
@@ -10,70 +10,70 @@ title: "Severe Sepsis and Decreased Oxygen Delivery"
 > "Doubt is not a pleasant condition, but certainty is absurd."
 > — Voltaire
 
-Venous thromboembolism (VTE)—which encompasses deep vein thrombosis and pulmonary embolism—is cited as the third leading cause of cardiovascular deaths worldwide, following myocardial infarction and stroke (1). VTE carries an annual risk of nearly 10% in adults over the age of 45 (2). There is a heightened risk of VTE in ICU patients, which mandates the preventive measures for VTE described in Chapter 5. This chapter focuses on the condition responsible for the life-threatening potential of VTE: acute pulmonary embolism.
+靜脈血栓栓塞（VTE）——包括深層靜脈血栓和肺栓塞——是全球心血管死亡的第三大原因，僅次於心肌梗塞和腦中風（1）。VTE 在 45 歲以上成人中的年發生率將近 10%（2）。ICU 患者發生 VTE 的風險較高，這使得第 5 章所述的 VTE 預防措施成為必要。本章聚焦於賦予 VTE 致命潛力的病症：急性肺栓塞。
 
-There are two features of pulmonary embolism that deserve emphasis at the outset. First, pulmonary embolism is more common than suspected. Autopsy studies in hospitalized patients report the presence of pulmonary emboli in as many as 30% of cases, and in most of these cases, the condition was not suspected prior to death. Second, the clinical suspicion of pulmonary embolism is confirmed by diagnostic testing in as few as 10% of cases (4). These observations indicate that pulmonary embolism suffers from both underdiagnosis and excessive diagnostic testing—a rather unique pairing. This conundrum is adequately summarized in the following statement:
+肺栓塞有兩個特點需要在開始時特別強調。首先，肺栓塞比想像中更常見。住院患者的屍體解剖研究報告，多達 30% 的病例中存在肺栓塞，而在大多數這些病例中，死前並未懷疑到此病。其次，臨床懷疑肺栓塞後，診斷檢查的確診率低至 10%（4）。這些觀察顯示，肺栓塞同時面臨診斷不足和過度檢查的問題——這是相當獨特的組合。這個難題可以用以下陈述充分概括：
 
-> *"The one certainty surrounding the issue of thromboembolism diagnosis in critically ill patients is that considerable uncertainty remains."* (5)
+> *「在重症患者血栓栓塞診斷問題上，唯一確定的就是高度不確定性仍然存在。」*（5）
 
-The emphasis in this chapter is on acute pulmonary embolism that requires admission to an ICU, or develops during the ICU stay. Many of the recommendations in this chapter are based on clinical practice guidelines, which are listed in the bibliography at the end of the chapter (6–9).
+本章的重點在於需要入住 ICU 或在 ICU 住院期間發生的急性肺栓塞。本章的許多建議基於臨床實踐指南，列於章末參考文獻中（6–9）。
 
 ## 導讀摘要
 
-- 肺栓塞（PE）臨床表現（呼吸困難、心搏過速、低血氧）缺乏特異性，陽性預測值皆 **<50**%
+- 肺栓塞（PE）臨床表現（呼吸困難、心搏過速、低血氧）缺乏特異性，陽性預測值皆 **<50%**
 - 診斷工具：靜脈超聲（**30–50%** 可發現深層靜脈血栓）、CT 肺血管造影（首選）、通氣-灌流掃描
-- 抗凝治療分層：低風險可用 ****apixaban**** 或 ****rivaroxaban****；中風險用 ****enoxaparin** **1 mg/kg** q12h**；高風險用 **unfractionated **heparin** **80 IU/kg** IV** 起始
-- 急性肺栓塞的 CTPA 陰性結果需注意對比劑腎病風險（**CrCL **<30** mL/min** 慎用）
-- VTE 在 ICU 患者中發生率高，自體解剖研究顯示約 30% 住院患者有肺栓塞但生前未懷疑
+- 抗凝治療分層：低風險可用 **apixaban** 或 **rivaroxaban**；中風險用 **enoxaparin** **1 mg/kg** q12h**；高風險用 **unfractionated heparin** **80 IU/kg** IV** 起始
+- 急性肺栓塞的 CTPA 陰性結果需注意對比劑腎病風險（**CrCL <30** mL/min** 慎用）
+- VTE 在 ICU 患者中發生率高，屍體解剖研究顯示約 30% 住院患者有肺栓塞但生前未懷疑
 
 
-### Clinical Evaluation
+### 臨床評估
 
-The diagnostic challenges mentioned in the introduction are explained by the clinical manifestations of acute pulmonary embolism, which are neither sensitive nor specific.
+緒論中提到的診斷挑戰，可以從急性肺栓塞的臨床表現來解釋——這些表現既不敏感也不具特異性。
 
-#### Clinical Presentation
+#### 臨床表現
 
-The typical presentation of acute pulmonary embolism (acute PE) includes dyspnea, tachycardia, and hypoxemia, but these are signs of cardiopulmonary disease and do not specifically implicate an acute PE. The common manifestations of acute PE are listed in Table 22.1, along with the predictive value of each for the likelihood of disease (10).
+急性肺栓塞（acute PE）的典型表現包括呼吸困難、心搏過速和低血氧，但這些都是心肺疾病的徵象，並不特異指向急性 PE。急性 PE 的常見表現列於表 22.1，並附有每項表現對疾病可能性的預測值（10）。
 
-Notably, none of the findings listed in Table 22.1 provides more than a 50% chance of identifying an acute PE (i.e., the positive predictive value is below 50%). Additionally, the absence of these findings does not exclude an acute PE, since a negative predictive value of 70% for hypoxemia means that 30% of patients with acute PE have a normal arterial PO₂. The alveolar–arterial PO₂ (A-a PO₂) gradient can also be normal in acute PE (11).
+值得注意的是，表 22.1 中所列的發現沒有一項能提供超過 50% 的機會來確認急性 PE（即 positive predictive value 低於 50%）。此外，這些發現的缺失也不能排除急性 PE，因為低血氧的 negative predictive value 為 70%，代表 30% 的急性 PE 患者动脉 PO₂ 正常。急性肺栓塞中，肺泡-动脉 PO₂（A-a PO₂）梯度也可能正常（11）。
 
-**Table 22.1: Predictive Findings of Clinical Value in Acute Pulmonary Embolism**
+**表 22.1：急性肺栓塞中具有臨床價值的預測性發現**
 
-| Finding | Positive Predictive Value | Negative Predictive Value |
+| 發現 | Positive Predictive Value | Negative Predictive Value |
 |---|---|---|
-| Dyspnea | 37% | 75% |
-| Tachycardia | 47% | 86% |
-| Tachypnea | 48% | 75% |
-| Pleuritic chest pain | 39% | 71% |
-| Hemoptysis | 32% | 67% |
-| Pulmonary infiltrate | 33% | 71% |
-| Pleural effusion | 40% | 69% |
-| Hypoxemia | 34% | 70% |
+| 呼吸困難 | 37% | 75% |
+| 心搏過速 | 47% | 86% |
+| 呼吸急促 | 48% | 75% |
+| 胸膜性胸痛 | 39% | 71% |
+| 咳血 | 32% | 67% |
+| 肺部浸潤 | 33% | 71% |
+| 肋膜積液 | 40% | 69% |
+| 低血氧 | 34% | 70% |
 
-### Diagnostic Imaging Studies
+### 診斷影像學檢查
 
-Several imaging modalities are available for the diagnosis of acute pulmonary embolism, each with distinct advantages and limitations.
+可用於診斷急性肺栓塞的影像學方法有多種，每種都有其獨特的優勢和限制。
 
-**Table 22.2: Diagnostic Imaging Studies for Acute Pulmonary Embolism**
+**表 22.2：急性肺栓塞的診斷影像學檢查**
 
-| Study | Features |
+| 檢查 | 特點 |
 |---|---|
-| **Venous Ultrasound** | Positive result (proximal leg deep vein thrombosis in **30–50%** of acute PE) eliminates the need for further testing. Negative result does not rule out PE. |
-| **CT Pulmonary Angiography (CTPA)** | Positive result is the method of choice for detecting PE. Negative result carries risk of contrast-induced nephropathy when creatinine clearance (CrCL) **<30** mL/min; also involves high radiation dose. |
-| **Ventilation-Perfusion Lung Scan** | Positive result avoids radiocontrast exposure and delivers lower radiation than CTPA. Negative result has limited yield in the presence of pulmonary infiltrates or COPD. |
-| **Catheter-Directed Thrombolysis** | Indicated for high-risk PE with hemodynamic instability; requires specialized expertise. |
+| **靜脈超聲** | 陽性結果（30–50% 的急性 PE 可發現近端腿部深層靜脈血栓）可免除進一步檢查的必要。陰性結果不能排除 PE。 |
+| **CT 肺血管造影（CTPA）** | 陽性結果是偵測 PE 的首選方法。陰性結果在肌酸酐清除率（CrCL）**<30** mL/min** 時有對比劑誘發腎病變的風險；同時涉及高輻射劑量。 |
+| **通氣-灌流肺部掃描** | 陽性結果可避免放射性對比劑暴露，且輻射劑量低於 CTPA。陰性結果在有肺部浸潤或 COPD 的情況下價值有限。 |
+| **導管定向血栓溶解** | 適用於有血流動力學不穩定的高風險 PE；需要專門技術。 |
 
-### Antithrombotic Strategies
+### 抗血栓策略
 
-The management of acute pulmonary embolism is stratified based on risk category, which guides the choice of antithrombotic therapy.
+急性肺栓塞的處置根據風險分層進行，這決定了抗血栓治療的選擇。
 
-**Table 22.3: Antithrombotic Strategies for Acute Pulmonary Embolism**
+**表 22.3：急性肺栓塞的抗血栓策略**
 
-| Risk Category | Recommendations |
+| 風險分層 | 建議 |
 |---|---|
-| **Low Risk** | 1. Apixaban **10 mg** orally twice daily for 7 days, then **5 mg** twice daily. OR Rivaroxaban **15 mg** orally twice daily for 3 weeks, then **20 mg** once daily. 2. If CrCL **≤30** mL/min: **warfarin** combined with **enoxaparin** **1 mg/kg** subcutaneously every 24 hours until INR is therapeutic. |
-| **Intermediate Risk** | 1. Enoxaparin **1 mg/kg** subcutaneously every 12 hours. 2. If the patient is stable at 24–48 hours, switch to an oral anticoagulant per the low-risk regimen. |
-| **High Risk** | 1. Unfractionated **heparin**: **80 IU/kg** intravenously as a bolus, followed by **18 IU/kg**/hour infusion. 2. Check partial thromboplastin time (PTT) at 6 hours; titrate to 1.5–2.5 times the control value. |
+| **低風險** | 1. Apixaban **10 mg** 口服每天兩次，持續 7 天，然後 **5 mg** 每天兩次。或 Rivaroxaban **15 mg** 口服每天兩次，持續 3 週，然後 **20 mg** 每天一次。 2. 若 CrCL **≤30** mL/min：則使用 **warfarin** 合併 **enoxaparin** **1 mg/kg** 皮下注射每 24 小時一次，直到 INR 達到治療範圍。 |
+| **中風險** | 1. Enoxaparin **1 mg/kg** 皮下注射每 12 小時一次。 2. 若患者在 24–48 小時後穩定，則按低風險方案切換至口服抗凝劑。 |
+| **高風險** | 1. 非分段 **heparin**：**80 IU/kg** 靜脈注射負荷劑量，隨後以 **18 IU/kg**/小時輸注。 2. 6 小時後檢查部分凝血活酶時間（PTT）；調整至對照值的 1.5–2.5 倍。 |
 
 ### Bibliography
 

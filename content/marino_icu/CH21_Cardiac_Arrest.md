@@ -18,97 +18,97 @@ This chapter describes the practical aspects of CPR and the management that foll
 
 ## 導讀摘要
 
-- **CPR** 的核心在於高質量胸外按摩（按壓深度 **5–6 cm**，速率 ****100–**120 次/分****鐘**），強調最小中斷
-- 心室顫動/無脈搏 VTACH 處理：最多 3 次電擊，必要時加用 ****epinephrine** **1 mg** IV** 及 ****amiodarone** **300 mg** IV/IO**
+- **CPR** 的核心在於高質量胸外按摩（按壓深度 **5–6 cm**，速率 **100–120 次/分鐘**），強調最小中斷
+- 心室顫動/無脈搏 VTACH 處理：最多 3 次電擊，必要時加用 **epinephrine** **1 mg** IV 及 **amiodarone** **300 mg** IV/IO**
 - **目標體溫管理（TTM）**：ROSC 後維持體溫 **≤37.5**°C 達 72 小時，避免高溫傷害神經預後
-- 復甦後需維持 **MAP ≥**75 mm Hg****，首選 ****norepinephrine****；氧合控制在 ****SpO₂** **<90**%** 才給予氧氣
+- 復甦後需維持 **MAP ≥75 mm Hg**，首選 **norepinephrine**；氧合控制在 **SpO₂ <90%** 才給予氧氣
 - 預後評估：第 4 天仍無瞳孔反射、角膜反射，或腦波顯示非痙攣性癲癇持續狀態，提示不良神經學預後
 
 
-### Epidemiology of Cardiac Arrest
+### 心臟驟停的流行病學
 
-Cardiac arrest outcomes vary significantly based on the setting (in-hospital vs. out-of-hospital), the underlying rhythm, and the quality of resuscitation efforts. Survival rates are generally low, emphasizing the importance of high-quality CPR and rapid defibrillation when indicated.
+Cardiac arrest 的預後會因環境（院內與院外）、 underlying rhythm 以及復甦品質而有顯著差異。存活率普遍偏低，強調高品質 CPR 和在有適應症時快速 defibrillation 的重要性。
 
-### The Chain of Survival
+### 生存鏈
 
-The concept of the "chain of survival" highlights the critical steps needed to optimize outcomes from cardiac arrest:
+「生存鏈」的概念強調了優化 cardiac arrest 預後所需的關鍵步驟：
 
-1. **Immediate recognition** of cardiac arrest and activation of the emergency response system
-2. **Early high-quality CPR** with minimal interruptions
-3. **Rapid defibrillation** when indicated
-4. **Effective advanced life support** by trained providers
-5. **Post-cardiac arrest care** including targeted temperature management
+1. **立即辨識** cardiac arrest 並啟動緊急反應系統
+2. **盡早高品質 CPR**，盡量減少中斷
+3. **有適應症時快速 defibrillation**
+4. **受訓人員提供有效的 advanced life support**
+5. **心臟驟停後照護**，包括目標體溫管理
 
-### The Essential Elements of Basic Life Support
+### 基本生命支持的必要要素
 
-Basic life support (BLS) forms the foundation of cardiac arrest management. The essential elements are outlined in the table below.
+Basic life support (BLS) 是 cardiac arrest 處置的基礎。其必要要素如下表所示。
 
 | # | Element | Description |
 |---|---|---|
-| 1 | Timing of Compressions | Chest compressions should begin within 10 seconds of detecting the absence of pulses. |
-| 2 | Compression Depth | Each chest compression should depress the lower third of the sternum by 2–2.4 inches (5–6 cm). |
-| 3 | Compression Rate | The rate of compressions should be 100–120 per minute. |
-| 4 | Compression-Ventilation Ratio | After 30 chest compressions, 2 lung inflations are delivered (with a bag-mask device) without interrupting compressions. |
-| 5 | Post-Intubation Ventilation | Following intubation, lung inflations are delivered every 6 seconds (10 per minute) without interrupting chest compressions. |
-| 6 | Defibrillator Application | Chest compressions should be continued without interruption until a defibrillator is attached to the patient. |
-| 7 | Operator Rotation | Each person performing chest compressions should be relieved after 2 minutes, if possible. |
+| 1 | Timing of Compressions | 胸外按壓應在偵測無脈搏後 10 秒內開始。 |
+| 2 | Compression Depth | 每次胸外按壓應使胸骨下三分之一下陷 2–2.4 英寸（5–6 cm）。 |
+| 3 | Compression Rate | 按壓速率應為每分鐘 100–120 次。 |
+| 4 | Compression-Ventilation Ratio | 30 次胸外按壓後，以甦醒球面罩裝置給予 2 次肺部充氣，且不中斷按壓。 |
+| 5 | Post-Intubation Ventilation | 插管後，每 6 秒給予一次肺部充氣（每分鐘 10 次），且不中斷胸外按壓。 |
+| 6 | Defibrillator Application | 胸外按壓應持續不中斷，直到心臟電擊器連接至患者身上。 |
+| 7 | Operator Rotation | 執行胸外按壓的人員應盡可能在 2 分鐘後更換。 |
 
 ### Advanced Life Support
 
-Advanced life support (ALS) builds upon high-quality BLS with additional interventions.
+Advanced life support (ALS) 在高品質 BLS 的基礎上加入額外處置。
 
 #### Defibrillation Sequence
 
-The management includes a series of up to 3 defibrillation attempts, if needed:
+處置包括一系列最多 3 次電擊（必要時）：
 
-1. The initial shock is delivered as soon as a shockable rhythm is identified.
-2. Chest compressions are paused when the defibrillation shock is delivered, and are resumed immediately afterward.
-3. If a second defibrillation is needed, **epinephrine** is started using a bolus dose of **1 mg** intravenously.
-4. If a third defibrillation is needed, **amiodarone** is administered as a bolus dose of **300 mg** (IV or intraosseous).
+1. 一旦確認為可電擊 rhythm，即刻給予首次電擊。
+2. 電擊時暫停胸外按壓，電擊後立即恢復按壓。
+3. 若需要第二次 defibrillation，開始使用 **epinephrine** 靜脈注射負荷劑量 **1 mg**。
+4. 若需要第三次 defibrillation，給予 **amiodarone** 靜脈注射或骨內注射負荷劑量 **300 mg**。
 
-#### Post-Cardiac Arrest Syndrome
+#### 心臟驟停後症候群
 
-After successful resuscitation, patients enter a distinct phase characterized by several pathophysiological processes:
+復甦成功後，患者進入一個以數種病理生理過程為特徵的獨特階段：
 
 | # | Manifestation | Description |
 |---|---|---|
-| 1 | Brain Injury | Brain injury is the most common manifestation of the post-cardiac arrest syndrome, and is a leading cause of morbidity. |
-| 2 | Cardiac Dysfunction | Post-arrest cardiac dysfunction is a combination of systolic and diastolic dysfunction that can persist for days. |
-| 3 | Systemic Inflammatory Response | A systemic inflammatory response (including fever and leukocytosis) is almost universal after cardiac arrest. |
+| 1 | Brain Injury | 腦損傷是心臟驟停後症候群最常見的表現，也是致病率的主要原因之一。 |
+| 2 | Cardiac Dysfunction | 心臟驟停後心臟功能障礙是收縮與舒張功能障礙的組合，可能持續數天。 |
+| 3 | Systemic Inflammatory Response | 心臟驟停後幾乎普遍出現全身性發炎反應（包括發燒和白血球增多）。 |
 
-### Targeted Temperature Management
+### 目標體溫管理
 
-Targeted temperature management (TTM) is a cornerstone of post-cardiac arrest care for eligible patients.
+Targeted temperature management (TTM) 是符合條件患者心臟驟停後照護的核心要素。
 
 | Feature | Recommendation |
 |---|---|
-| **Indication** | Patients who do not regain consciousness after return of spontaneous circulation (ROSC) |
-| **Goal** | Body temperature **≤37.5**°C (**≤99.5**°F) for 72 hours |
-| **Monitoring** | Continuous core body temperature (e.g., bladder catheter with thermistor) |
-| **Treatment Plan** | 1. Mild hypothermia (32–36°C) after ROSC: do NOT actively rewarm. 2. Maintain **≤37.5**°C with acetaminophen and reduced room temperature. 3. If temperature exceeds 37.7°C: start active cooling, target 37.5°C. 4. Surface cooling is acceptable. 5. Continue **≤37.5**°C for 72 hours unless patient awakens. |
+| **Indication** | 自發性血液循環恢復（ROSC）後未恢復意識的患者 |
+| **Goal** | 體溫 **≤37.5**°C（**≤99.5**°F）持續 72 小時 |
+| **Monitoring** | 持續核心體溫監測（例如：附帶熱敏電阻的膀胱導管） |
+| **Treatment Plan** | 1. ROSC 後輕度低溫（32–36°C）：不要主動加溫。 2. 以 acetaminophen 與降低室溫將體溫維持在 **≤37.5**°C。 3. 若體溫超過 37.7°C：開始主動降溫，目标為 37.5°C。 4. 表面降溫可以接受。 5. 除非患者甦醒，否則繼續維持 **≤37.5**°C 達 72 小時。 |
 
-### Other Concerns in Post-Arrest Management
+### 心臟驟停後處置的其他考量
 
 | Intervention | Comment |
 |---|---|
-| **Oxygen Inhalation** | Hyperoxia aggravates neurologic injury — use supplemental oxygen only when **SaO₂** **<90**%. |
-| **Vasopressor Therapy** | Maintain mean arterial pressure (MAP) ≥**75 mm Hg** to benefit neurologic recovery. |
-| **Vasopressor Agent** | Norepinephrine is preferred over **epinephrine**. |
-| **Glycemic Control** | Hyperglycemia aggravates neurologic injury; avoid very tight control, as hypoglycemia is also harmful. |
+| **Oxygen Inhalation** | 高氧會加重神經損傷——只有在 **SaO₂ <90%** 時才給予補充氧氣。 |
+| **Vasopressor Therapy** | 維持平均肺动脉壓（MAP）**≥75 mm Hg**，以促進神經恢復。 |
+| **Vasopressor Agent** | **norepinephrine** 優於 **epinephrine**。 |
+| **Glycemic Control** | 高血糖會加重神經損傷；避免過度嚴格控制，因為低血糖同樣有害。 |
 
-### Prognostication After Cardiac Arrest
+### 心臟驟停後的預後評估
 
-Predictors of a poor neurologic outcome with a high degree of certainty include the following:
+以下為可高度確定地預測不良神經學預後的指標：
 
 | # | Predictor |
 |---|---|
-| 1 | Absence of pupillary light reflexes bilaterally on day 4 after ROSC. |
-| 2 | Absence of corneal reflexes bilaterally on day 4 after ROSC. |
-| 3 | Absence of oculocephalic or gag reflexes on day 2 after ROSC. |
-| 4 | Myoclonic status at any time after ROSC. |
-| 5 | Bilateral absence of the N20 peak on somatosensory evoked potentials. |
-| 6 | An EEG that shows nonconvulsive status epilepticus or background suppression with periodic discharges. |
-| 7 | A CT scan that shows diffuse cerebral edema. |
+| 1 | ROSC 後第 4 天雙側瞳孔光反射消失。 |
+| 2 | ROSC 後第 4 天雙側角膜反射消失。 |
+| 3 | ROSC 後第 2 天動眼反射或嘔吐反射消失。 |
+| 4 | ROSC 後任何時間出現肌陣攣持續狀態（myoclonic status）。 |
+| 5 | 軀體感覺誘發電位兩側 N20 峰消失。 |
+| 6 | 腦波顯示非痙攣性癲癇持續狀態，或伴有週期性放電的背景抑制。 |
+| 7 | CT 顯示瀰漫性腦水腫。 |
 
 ### Bibliography
 
@@ -158,7 +158,7 @@ Predictors of a poor neurologic outcome with a high degree of certainty include 
 44. Kilgannon JH, Roberts BW, Jones AE, et al. Arterial blood pressure and neurologic outcome after resuscitation from cardiac arrest. Crit Care Med 2014; 42:1373–1378.
 45. Bougouin W, Slimani K, Renaudier M, et al; for the Sudden Death Expertise Center Investigators. Epinephrine versus **norepinephrine** in out-of-hospital cardiac arrest. Circulation 2023; 148:1847–1856.
 46. Calle PA, Buylaert WA, Vanhaute OA. Glycemia in the post-resuscitation period. The Cerebral Resuscitation Study Group. Resuscitation 1989; 17:S181–S188.
-47. Marik PE, Preiser J-C. Towards understanding tight glycemic control in the ICU. A systematic review and meta-analysis. Chest 2010; 137:544–551.
+47. Marik PE, Preiser J-C. Towards understanding tight glycemic control in the ICU: A systematic review and meta-analysis. Chest 2010; 137:544–551.
 48. Peberdy MA, Callaway CW, Neumar RW, et al. Part 9: post-cardiac arrest care. 2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation 2010; 122:S768–S786.
 49. Levy DE, Caronna JJ, Singer BH, et al. Predicting outcome from hypoxic ischemic coma. JAMA 1985; 253:1420–1426.
 50. Lybeck A, Cronberg T, Aneman A, et al. Time to awakening after cardiac arrest and the association of targeted temperature management. Crit Care Med 2018; 46:e971–e975.

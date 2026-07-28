@@ -9,301 +9,301 @@ title: "Platelets and Plasma"
 >
 > — Hippocrates, Aphorisms, 400 B.C.
 
-The ability to form blood clots is important for limiting blood loss from disrupted blood vessels. Two of the vital components in the complex pathway to clot formation are the circulating platelets and the procoagulant proteins in plasma. This chapter focuses on the dysfunction of these components in critically ill patients, including the causes, consequences, and corrective actions.
+形成血塊的能力對於限制受損血管的失血很重要。在凝塊形成的複雜途徑中，兩個重要的組成部分是循環血小板和血漿中的促凝血蛋白。本章節聚焦於危重症病人這些組成部分的功能障礙，包括原因、後果和糾正措施。
 
 ## Overview of Hemostasis
 
-The vascular endothelium is a thromboresistant surface that is covered with a protective meshwork of mucopolysaccharides called the glycocalyx that has two principal functions:
+血管內皮是一層具有抗血栓特性的表面，覆蓋著一層稱為 glycocalyx 的粘多糖保護網絡，有兩個主要功能：
 
-1. It limits the passage of large protein molecules from the plasma, thereby maintaining the colloid osmotic pressure of plasma.
+1. 它限制大蛋白分子從血漿通過，從而維持血漿的膠體滲透壓。
 
-2. It maintains the "fluidity" of blood by preventing leukocytes and platelets from adhering to the endothelial surface, and by acting as a mechanoreceptor for sheer stress that signals endothelial cells to secrete nitric oxide, which promotes vasodilation.
+2. 它通過防止白細胞和血小板粘附於內皮表面，並作為剪切應力的機械感受器來維持血液的「流動性」，信號讓內皮細胞分泌促進血管舒張的一氧化氮。
 
 ### Response to Injury
 
-When the endothelium and its protective glycocalyx is disrupted, platelets adhere to exposed collagen in the subendothelium and begin to form a platelet plug, which is the primary stage of hemostasis. The platelets release calcium, which activates the glycoprotein receptor IIb/IIIa complex on the platelet surface. This receptor complex binds irreversibly to von Willebrand factor on the surrounding endothelial cells, which helps to anchor the platelet plug to the vessel wall. The IIb/IIIa receptor complex also binds fibrinogen, and the subsequent formation of fibrin bridges between adjacent platelets stabilizes the platelet plug.
+當內皮及其保護性 glycocalyx 受損時，血小板粘附於內皮下層暴露的膠原並開始形成血小板塞，這是止血的主要階段。血小板釋放鈣，激活血小板表面的糖蛋白受體 IIb/IIIa 複合體。這個受體複合體不可逆地結合於周圍內皮細胞上的 von Willebrand factor，有助於將血小板塞錨定於血管壁。IIb/IIIa 受體複合體也結合纖維蛋白原，随後在相鄰血小板之間形成纖維蛋白橋，穩定血小板塞。
 
-Fibrin is essential for the stability of a developing thrombus, and there are two pathways to fibrin formation:
+纖維蛋白對正在生長的血栓的穩定性至關重要，纖維蛋白的形成有兩條途徑：
 
-- **Tissue Factor Pathway** (formerly called the Extrinsic Pathway): activated by the release of thromboplastin from the subendothelium.
+- **組織因子途徑**（以前稱為外源性途徑）：由內皮下層釋放的凝血活酶激活。
 
-- **Contact Activation Pathway** (formerly called the Intrinsic Pathway): activated by endogenous peptides known as kininogens, which are precursors of bradykinin.
+- **接觸激活途徑**（以前稱為內源性途徑）：由稱為 kininogens 的內源性肽激活，這是緩激肽的前體。
 
-Both pathways involve the activation of specific procoagulant proteins known as clotting factors, and they both lead to the activation of prothrombin (factor II) and the subsequent conversion of fibrinogen (factor I) to fibrin monomers.
+這兩條途徑都涉及激活稱為凝血因子的特定促凝血蛋白，它們都導致凝血酶原（因子 II）的激活，隨後將纖維蛋白原（因子 I）轉化為纖維蛋白單體。
 
 ## Thrombocytopenia
 
-Thrombocytopenia is the most common hemostatic disorder in critically ill patients, with a reported incidence as high as 60%. The traditional definition of thrombocytopenia is a platelet count below 150,000/μL, but the ability to form a hemostatic plug is retained until the platelet count falls below 100,000/μL. However, the risk of major bleeding is not determined by the platelet count alone, but also requires a structural lesion that is prone to bleeding. In the absence of such a lesion, platelet counts as low as 5,000/μL can be tolerated without evidence of major hemorrhage.
+Thrombocytopenia 是危重症病人最常見的止血障礙，報告發病率高達 60%。Thrombocytopenia 的傳統定義是血小板計數低於 150,000/μL，但在血小板計數低於 100,000/μL 之前，形成止血塞的能力仍然保留。然而，主要出血的風險不僅由血小板計數決定，還需要一個容易出血的結構性病變。在沒有此類病變的情況下，血小板計數低至 5,000/μL 也可以耐受而沒有主要出血的證據。
 
 ### Pseudothrombocytopenia
 
-Pseudothrombocytopenia is a condition where antibodies to EDTA (the anticoagulant in blood collection tubes) produce clumping of platelets in vitro. The clumped platelets are misread as leukocytes by automated machines that perform cell counts, resulting in a spuriously low platelet count. This phenomenon has been reported in 2% of platelet counts performed in hospitalized patients.
+Pseudothrombocytopenia 是一種抗 EDTA 抗體（在血液採集管中的抗凝劑）在體外引起血小板聚集的狀況。聚集的血小板被自動化機器誤讀為白細胞，導致血小板計數虛假偏低。這種現象在住院病人進行的血小板計數中報告了 2%。
 
-If suspected, blood collection tubes that use citrate or heparin as an anticoagulant should be used for subsequent platelet counts.
+如果懷疑，應使用含有檸檬酸鹽或肝素作為抗凝劑的血液採集管進行後續血小板計數。
 
 ### Causes in Critically Ill Patients
 
-**Table 13.1** Causes of Thrombocytopenia in the Critically Ill
+**Table 13.1** 危重症病人 Thrombocytopenia 的原因
 
-| Category | Causes |
+| 類別 | 原因 |
 |---|---|
-| **Pharmacological** | Anticonvulsants (Phenytoin, Valproic acid), Antimicrobial agents (β-Lactams, Linezolid, TMP/SMX, Vancomycin), Antineoplastic agents, Antithrombotic agents (Heparin, IIb/IIIa inhibitors), Histamine H2 blockers, Miscellaneous (Amiodarone, Furosemide, Thiazides, Morphine) |
-| **Clinical Conditions** | Sepsis syndrome*, Cardiopulmonary bypass, Disseminated intravascular coagulation (DIC), Thrombotic thrombocytopenia purpura (TTP), Hemolytic-Uremic Syndrome (HUS), HIV infection, Intra-aortic balloon pump, Liver disease/Hypersplenism, Malignancy, Massive transfusion, Renal replacement therapy |
+| **藥理學** | 抗驚厥藥（苯妥英、丙戊酸）、抗菌藥物（β-內酰胺、Linezolid、TMP/SMX、萬古黴素）、抗腫瘤藥物、抗血栓藥物（heparin、IIb/IIIa 抑制劑）、組織胺 H2 阻斷劑、雜項（amiodarone、呋塞米、噻嗪類、嗎啡） |
+| **臨床狀況** | 膿毒症症候群*、心肺分流、彌散性血管內凝血（DIC）、血栓性血小板減少性紫癜（TTP）、溶血性尿毒症症候群（HUS）、HIV 感染、主動脈內球囊泵、肝病/脾功能亢進、惡性腫瘤、大量輸血、腎臟替代治療 |
 
-\*The most common cause of thrombocytopenia in the ICU setting.
+\*ICU 環境中最常見的 thrombocytopenia 原因。
 
-The sepsis syndrome is the most common cause of thrombocytopenia in ICU patients, which is the result of increased platelet destruction by macrophages. Other less common but more life-threatening causes of thrombocytopenia include heparin and the thrombotic microangiopathies.
+膿毒症症候群是 ICU 病人 thrombocytopenia 最常見的原因，這是巨噬細胞增加血小板破壞的結果。其他較不常見但更危及生命的原因包括 heparin 和血栓性微血管病變。
 
 ## Heparin-Induced Thrombocytopenia
 
-Heparin-induced thrombocytopenia (HIT) is an immune-mediated condition that is associated with life-threatening thrombosis (arterial or venous) in 25% to 70% of cases, and has a mortality rate as high as 30% if left unnoticed. The incidence of HIT varies from <1% to 5%.
+Heparin-induced thrombocytopenia（HIT）是一種免疫介導的狀況，與 25% 至 70% 的病例中危及生命的血栓（动脉或靜脈）相關，如果未被注意，死亡率可高達 30%。HIT 的發病率從 <1% 到 5% 不等。
 
 ### Pathogenesis
 
-Heparin is not immunogenic itself, but it binds to a protein (platelet factor 4) on platelets to form an antigenic complex that can trigger the formation of IgG antibodies. These antibodies bind to platelets and induce a strong platelet activation response that promotes thrombosis.
+Heparin 本身不是免疫原，但它與血小板上的蛋白質（血小板因子 4）結合形成抗原複合物，可以觸發 IgG 抗體的形成。這些抗體與血小板結合並誘導強烈的血小板激活反應，促進血栓形成。
 
 ### Risk Factors
 
-The immune response that triggers HIT is not a dose-dependent reaction, and can occur with relatively minor heparin exposures from heparin-based catheter flushes or even heparin-coated catheters. The risk factors associated with HIT include orthopedic or cardiac surgery, obesity, and exposure to unfractionated heparin; i.e., the risk of HIT with unfractionated heparin (UFH) is 2–10 times greater than the risk with low-molecular-weight heparin (LMWH).
+觸發 HIT 的免疫反應不是劑量依賴性反應，可能由基於 heparin 的導管沖洗甚至 heparin 塗層導管相對較小的 heparin 接觸引起。與 HIT 相關的風險因素包括骨科或心臟手術、肥胖和接觸普通肝素；即使用普通肝素（UFH）的 HIT 風險是使用低分子量肝素（LMWH）的 2–10 倍。
 
-HIT is not common in the general ICU population: the reported incidence of HIT is <1% in critically ill patients, regardless of the type of heparin used. In contrast, HIT has been reported in 1–3% of patients in a cardiothoracic ICU when UFH is used.
+HIT 在普通 ICU 人群中不常見：報告的 HIT 發病率在危重症病人中 <1%，無論使用何種類型的 heparin。相比之下，在心胸 ICU 中使用 UFH 的病人中，HIT 報告發病率為 1–3%。
 
 ### Clinical Features
 
-HIT typically appears 5 to 10 days after the first exposure to heparin, but it can appear within 24 hours in patients who have had a prior exposure to heparin within the past 3 months. Although uncommon, a delayed-onset HIT has been reported that becomes evident up to 3 weeks after exposure to heparin. Platelet counts in HIT can fall by 50%, but they rarely fall below 20,000/μL.
+HIT 通常在首次接觸 heparin 後 5 至 10 天出現，但在過去 3 個月內有過 heparin 接觸的病人可能在 24 小時內出現。雖然不常見，但有報告說延遲發作的 HIT 在接觸 heparin 後最多 3 週才變得明顯。HIT 中血小板計數可下降 50%，但很少低於 20,000/μL。
 
-The feared consequence in HIT is thrombosis, not bleeding. Reports indicate that 17% to 55% of patients with untreated HIT develop venous thromboembolism, and 1% to 3% of patients develop arterial thromboses.
+HIT 中令人擔憂的後果是血栓形成，而不是出血。報告顯示 17% 至 55% 的未治療 HIT 病人發生靜脈血栓栓塞，1% 至 3% 發生动脉血栓形成。
 
 ### Diagnostic Testing
 
-There are two assays used for the diagnosis of HIT:
+用於診斷 HIT 的有兩種測試：
 
-1. **ELISA assay:** for antibodies to the platelet factor 4-heparin complex. This assay has a high sensitivity but a limited specificity, so a negative assay can be used to exclude the diagnosis of HIT, but a positive assay does not confirm the diagnosis.
+1. **ELISA 測試：** 用於檢測血小板因子 4-heparin 複合物的抗體。此測試具有高敏感性但特異性有限，因此陰性測試可用於排除 HIT 的診斷，但陽性測試不能確診 HIT。
 
-2. **Platelet serotonin-release assay (SRA):** measures the ability of the patient's plasma to activate platelets. This is considered the "gold standard" test for the diagnosis of HIT, and is recommended to confirm the diagnosis of HIT when the ELISA test is positive.
+2. **血小板血清素釋放測定（SRA）：** 測量病人血漿激活血小板的能力。這被認為是 HIT 診斷的「金標準」測試，建議在 ELISA 測試陽性時確認 HIT 的診斷。
 
 ### Risk Assessment
 
-**Table 13.2** The 4Ts Score for Estimating the Risk of HIT
+**Table 13.2** 估計 HIT 風險的 4Ts 分數
 
-| Category | 2 Points | 1 Point | 0 Points |
+| 類別 | 2 分 | 1 分 | 0 分 |
 |---|---|---|---|
-| **Thrombocytopenia** | PLT fall >50% AND nadir ≥20 k/μL | PLT fall 30–50% OR nadir = 10–19 k/μL | PLT fall <30% OR nadir <10 k/μL |
-| **Timing of onset** | Onset at 5–10 days OR ≤1 day if exposure in past 5–30 days | Possible onset at 5–10 days OR >10 days OR ≤1 day if exposure 31–100 days ago | Onset <4 days without exposure in past 100 days |
-| **Thrombosis** | New thrombosis OR skin necrosis OR anaphylactoid reaction | Suspected, progressive, or recurrent thrombosis | None of the above |
-| **Other causes** | None apparent | Possible | Definite |
+| **Thrombocytopenia** | PLT 下降 >50% 且最低值 ≥20 k/μL | PLT 下降 30–50% 或最低值 = 10–19 k/μL | PLT 下降 <30% 或最低值 <10 k/μL |
+| **發作時間** | 在 5–10 天發作，或如果過去 5–30 天有接觸則 ≤1 天 | 可能 5–10 天發作，或 >10 天，或如果過去 31–100 天有接觸則 ≤1 天 | 過去 100 天無接觸情況下 <4 天發作 |
+| **血栓形成** | 新血栓形成或皮膚壞死或類過敏反應 | 疑似、進行性或復發性血栓形成 | 以上均無 |
+| **其他原因** | 無明顯原因 | 可能 | 明確 |
 
-**Scoring:**
-- ≤3 points = Low risk of HIT (<1%)
-- 4–5 points = Intermediate risk (≈10%)
-- 6–8 points = High risk (≈50%)
+**評分：**
+- ≤3 分 = HIT 低風險（<1%）
+- 4–5 分 = 中等風險（≈10%）
+- 6–8 分 = 高風險（≈50%）
 
 #### Management Based on 4Ts Score
 
-1. **Low probability:** Nothing further is needed, including laboratory testing for HIT or discontinuing heparin.
+1. **低概率：** 不需要進一步行動，包括 HIT 的實驗室測試或停用 heparin。
 
-2. **Intermediate-risk:** Discontinue heparin and initiate a non-heparin anticoagulant. Order the ELISA immunoassay; if negative, discontinue non-heparin anticoagulant and heparin can be restarted.
+2. **中等風險：** 停用 heparin 並啟動非 heparin 抗凝。訂購 ELISA 免疫測定；如果陰性，停用非 heparin 抗凝並可重新開始 heparin。
 
-3. **High-risk:** Discontinue heparin and start a non-heparin anticoagulant at full therapeutic doses. Discontinue if ELISA is negative.
+3. **高風險：** 停用 heparin 並以全治療劑量啟動非 heparin 抗凝。如果 ELISA 陰性則停用。
 
-4. **Positive ELISA with no thrombosis:** Perform ultrasound evaluation for deep vein thrombosis.
+4. **ELISA 陽性但無血栓形成：** 進行超聲評估深靜脈血栓形成。
 
-5. **All patients with HIT:** Should receive a non-heparin anticoagulant at full therapeutic doses, even if there is no evidence of associated thrombosis.
+5. **所有 HIT 病人：** 即使沒有相關血栓形成的證據，也應接受全治療劑量的非 heparin 抗凝。
 
 ### Alternative Anticoagulants
 
-> **Note:** Warfarin is absolutely contraindicated in patients with acute HIT because it has a prothrombotic effect that can lead to limb gangrene and necrotic skin lesions.
+> **Note:** 絕對禁止在急性 HIT 病人中使用 warfarin，因為它具有促血栓形成作用，可能導致肢體壞疽和壞死性皮膚病變。
 
-The alternative anticoagulants for patients with HIT include:
+HIT 病人的替代抗凝劑包括：
 
-- **Argatroban:** A direct thrombin inhibitor given by continuous infusion. Start at 1–2 μg/kg/min, titrate to achieve an activated PTT of 1.5 to 3 times normal. For hepatic insufficiency, start at 0.5 μg/kg/min. No dose adjustment is needed for renal dysfunction.
+- **Argatroban：** 直接凝血酶抑制劑，連續輸注給藥。起始劑量 1–2 μg/kg/min，滴定至達到 activated PTT 為正常的 1.5 至 3 倍。對於肝功能不全，起始劑量為 0.5 μg/kg/min。腎功能障礙不需要劑量調整。
 
-- **Bivalirudin:** Recommended for percutaneous coronary intervention in patients with HIT.
+- **Bivalirudin：** 建議用於 HIT 病人的經皮冠狀動脈介入治療。
 
-- **Fondaparinux and DOACs:** Reasonable options in clinically stable patients.
+- **Fondaparinux 和 DOACs：** 在臨床穩定的病人中是合理的選擇。
 
 ### Long-Term Management
 
-A DOAC can be used for continued anticoagulation after argatroban treatment is completed. Most of the clinical experience with DOACs in HIT has involved rivaroxaban. Following an episode of HIT, patients should be advised to wear an emergency identifier for 3 months, and to avoid heparin for life.
+在 argatroban 治療完成後，可以使用 DOAC 進行持續抗凝。DOACs 在 HIT 中的大多數臨床經驗涉及 rivaroxaban。在一次 HIT 事件後，應建議病人佩戴緊急識別標識 3 個月，並終身避免使用 heparin。
 
 ## Thrombotic Microangiopathies
 
-The thrombotic microangiopathies are life-threatening clinical disorders that share the following features:
+血栓性微血管病變是危及生命的臨床疾病，共有以下特徵：
 
-1. A consumptive thrombocytopenia.
-2. Microvascular thrombosis with dysfunction of one or more major organs.
-3. A microangiopathic hemolytic anemia (hallmark: schistocytes on peripheral blood smear).
+1. 消耗性血小板減少。
+2. 伴隨一個或多個主要器官功能障礙的微血管血栓形成。
+3. 微血管病性溶血性貧血（標誌：外周血塗片上的 schistocytes）。
 
-**Table 13.3** Hematologic Profiles in the Thrombotic Microangiopathies
+**Table 13.3** 血栓性微血管病變中的血液學特徵
 
-| Finding | DIC | TTP | HUS |
+| 發現 | DIC | TTP | HUS |
 |---|---|---|---|
-| Schistocytes | Present | Present | Present |
-| Platelets | Low | Low | Low |
-| INR | Elevated | Normal | Normal |
-| aPTT | Prolonged | Normal | Normal |
-| Fibrinogen | Low | Normal | Normal |
-| Plasma D-dimer | Elevated | Normal | Normal |
+| Schistocytes | 存在 | 存在 | 存在 |
+| 血小板 | 低 | 低 | 低 |
+| INR | 升高 | 正常 | 正常 |
+| aPTT | 延長 | 正常 | 正常 |
+| 纖維蛋白原 | 低 | 正常 | 正常 |
+| 血漿 D-dimer | 升高 | 正常 | 正常 |
 
 ### Disseminated Intravascular Coagulation (DIC)
 
-DIC is a secondary disorder that is triggered by conditions that produce widespread endothelial and tissue injury such as multisystem trauma, septic shock, and obstetric emergencies. The inciting event is release of tissue factor, which activates a series of clotting factors in the bloodstream that culminates in the formation of fibrin.
+DIC 是一種繼發性障礙，由引起廣泛內皮和組織損傷的狀況觸發，如多系統創傷、膿毒症休克和產科急症。引發事件是組織因子的釋放，激活血流中的一系列凝血因子，最終導致纖維蛋白的形成。
 
 #### Clinical Features
 
-The microvascular thrombosis in DIC can lead to multiorgan dysfunction, most often involving the lungs, kidneys, and central nervous system, while depletion of platelets and coagulation factors can promote bleeding. Thrombosis is most prominent when sepsis is the underlying cause, while bleeding is prominent in the obstetric conditions.
+DIC 中的微血管血栓形成可導致多器官功能障礙，最常涉及肺部、腎臟和中樞神經系統，而血小板和凝血因子的消耗可促進出血。當敗血症是根本原因時血栓形成最突出，而當產科狀況是根本原因時出血最突出。
 
 #### Management
 
-There is no effective treatment for DIC, and management involves supportive care and treatment of the underlying cause. Life-threatening hemorrhage prompts replacement therapy with blood products. When DIC is accompanied by multiorgan failure, the mortality rate is ≥80%.
+DIC 沒有有效的治療方法，管理包括支持治療和治療根本原因。危及生命的出血促使血液製品替代治療。當 DIC 伴隨多器官衰竭時，死亡率 ≥80%。
 
 ### Thrombotic Thrombocytopenia Purpura (TTP)
 
-TTP is a potentially devastating condition that is treatable, but can be fatal in 24–48 hours if left untreated.
+TTP 是一種可能具有破壞性的可治療狀況，但如果不及時治療，可能在 24–48 小時內致命。
 
 #### Pathogenesis
 
-One of the components of the hemostatic process is the von Willebrand factor (VWF), a large protein from endothelial cells that promotes platelet adhesion. The activity of VWF is normally controlled by a protease enzyme named ADAMTS-13 that cleaves VWF. The principal problem in TTP is the appearance of antibodies that inactivate the ADAMTS-13 protease.
+止血過程的一個組成部分是 von Willebrand factor（VWF），這是來自內皮細胞的大蛋白，促進血小板粘附。VWF 的活性通常由名為 ADAMTS-13 的蛋白酶控制，後者切割 VWF。TTP 的主要問題是出現使 ADAMTS-13 蛋白酶失活的抗體。
 
 #### Clinical Features
 
-TTP usually appears in middle age, and is three times more frequent in women. The classic presentation is a pentad: fever, altered mentation, renal insufficiency, thrombocytopenia, and microangiopathic hemolytic anemia.
+TTP 通常出現在中年，且女性發病率是男性的三倍。典型表現是五聯徵：發燒、意識改變、腎功能不全、血小板減少和微血管病性溶血性貧血。
 
 #### Diagnosis
 
-A marked decrease in ADAMTS-13 activity in plasma is pathognomonic of TTP. TTP can be distinguished from DIC because the INR, aPTT, and fibrinogen levels are normal in TTP.
+血漿中 ADAMTS-13 活性顯著降低是 TTP 的病理特異性表現。TTP 可以與 DIC 區分，因為 TTP 中 INR、aPTT 和纖維蛋白原水平是正常的。
 
 #### Treatment
 
-The treatment of choice for TTP is plasma exchange. About 1.5 times the normal plasma volume is exchanged with each treatment, and this is continued daily until the platelet count returns to normal for 2 consecutive days. If plasma exchange is started early (within 48 hours of symptom onset), as many as 90% of patients can survive.
+TTP 的首選治療是血漿置換。每次治療交換約 1.5 倍正常血漿容積，並持續每天進行，直到血小板計數連續 2 天恢復正常。如果在症狀發作後 48 小時內開始血漿置換，多達 90% 的病人可以存活。
 
 ### Hemolytic Uremic Syndrome (HUS)
 
-HUS is characterized by the combination of a microangiopathic hemolytic anemia and acute renal failure, in addition to a consumptive thrombocytopenia. HUS can be the consequence of a variety of disorders, but infection is probably the most common predisposing condition, especially infections caused by Escherichia coli strains that produce the Shiga toxin.
+HUS 的特徵是微血管病性溶血性貧血和急性腎衰竭的組合，以及消耗性血小板減少。HUS 可以是多種疾病的後果，但感染可能是最常見的易發條件，特別是產生志賀毒素的大腸桿菌菌株引起的感染。
 
 #### Clinical Features
 
-HUS presents with the triad of thrombocytopenia, acute kidney injury, and a microangiopathic hemolytic anemia. HUS differs from DIC in that there is no consumption of clotting factors in HUS, so the INR and aPTT are normal.
+HUS 表現為血小板減少、急性腎損傷和微血管病性溶血性貧血的三聯徵。HUS 與 DIC 的不同之處在於 HUS 中沒有凝血因子的消耗，因此 INR 和 aPTT 是正常的。
 
 #### Management
 
-The management of infection-related HUS involves supportive care and treatment of the underlying infection. In cases of atypical HUS due to unregulated complement activation, eculizumab has had success in reversing the condition.
+感染相關 HUS 的管理包括支持治療和治療根本感染。在由於不受調節的補體激活引起的非典型 HUS 病例中，eculizumab 已成功逆轉了該狀況。
 
 ## Platelet Transfusions
 
 ### Indications
 
-> **Note:** The following recommendations for platelet transfusions do not apply to cases of consumptive thrombocytopenia in the thrombotic microangiopathies.
+> **Note:** 以下血小板輸血的建議不適用於血栓性微血管病變中的消耗性血小板減少。
 
 #### Active Bleeding
 
-In the presence of active bleeding, platelet transfusions are recommended to keep the platelet count above 50,000/μL. For intracranial hemorrhage, the platelet count should be kept above 100,000/μL.
+在存在活動性出血的情況下，建議保持血小板計數高於 50,000/μL。對於顱內出血，血小板計數應保持高於 100,000/μL。
 
 #### Prophylactic Transfusions
 
-The most recent guidelines from the American Association of Blood Banks includes the following recommendations:
+美國血液銀行協會的最新指南包括以下建議：
 
-1. In the absence of bleeding, platelet transfusions are recommended when the platelet count is ≤10,000/μL.
+1. 在沒有出血的情況下，當血小板計數 ≤10,000/μL 時建議血小板輸血。
 
-2. For procedures, the following platelet counts are recommended as thresholds:
-   - <50,000/μL for elective non-neuraxial surgery
-   - <50,000/μL for lumbar punctures
-   - <20,000/μL for insertion of central venous catheters
+2. 對於操作程序，建議以下血小板計數作為閾值：
+   - 選擇性非神經軸索手術 <50,000/μL
+   - 腰椎穿刺 <50,000/μL
+   - 中心靜脈導管置入 <20,000/μL
 
 ### Platelet Preparations
 
-Platelets are provided either as pooled platelets extracted from multiple units of donated whole blood, or by extracting platelets from a single donor using apheresis techniques. Platelets are stored at room temperature, which limits their shelf life to about 5 days.
+血小板可作為從多個捐獻全血單位提取的 pooled platelets 提供，或使用單採技術從單個捐獻者提取血小板。血小板在室溫下儲存，這限制了其保存期限約為 5 天。
 
 #### Pooled Platelet Concentrates
 
-The pooled platelet concentrate contains about 38 × 10¹⁰ platelets in 260 mL plasma, which is equivalent to a platelet count of about 130 × 10⁹/μL.
+Pooled platelet concentrate 含約 38 × 10¹⁰ 個血小板在 260 mL 血漿中，相當於約 130 × 10⁹/μL 的血小板計數。
 
 #### Apheresis Platelets
 
-Apheresis platelets are collected from a single donor, and have a platelet count equivalent to the pooled platelet concentrates. The presumed benefit of single-donor platelet transfusions is a lower risk of transmitted infections and a lower incidence of platelet alloimmunization.
+單採血小板從單個捐獻者收集，具有與 pooled platelet concentrates 相當的血小板計數。單供體血小板輸血的推定益處是較低的傳播感染風險和較低的血小板同種免疫反應發生率。
 
 #### Leukoreduction
 
-Leukocytes in donor blood have been implicated in several adverse reactions to transfusion. Platelet concentrates are not free of leukocytes, and leukocyte reduction in platelet preparations reduces the incidence of febrile reactions, as well as cytomegalovirus transmission and platelet alloimmunization.
+捐獻血液中的白細胞與多種輸血不良反應有關。血小板濃縮物不含白細胞，血小板製備中的白細胞減少可減少發熱反應的發生率，以及巨細胞病毒傳播和血小板同種免疫反應。
 
 ### Response to Transfused Platelets
 
-In an average-sized adult with no ongoing blood loss, the infusion of one unit of platelets should raise the circulating platelet count by 35,000 to 50,000/μL at one hour post-transfusion. The increment is about 40% lower after 24 hours. The increment in platelet count declines with multiple transfusions due to antiplatelet antibodies in the recipient directed at ABO antigens on donor platelets.
+在平均體型且無持續失血的成年人中，輸注一單位血小板應在輸血後一小時將循環血小板計數增加 35,000 至 50,000/μL。24 小時後增量約低 40%。血小板計數的增量隨著多次輸血而下降，這是由於受者體內針對捐獻者血小板上 ABO 抗原的抗血小板抗體。
 
 ### Adverse Effects
 
-**Table 13.4** Adverse Reactions to Different Platelet Preparations (Rate per 100,000 units)
+**Table 13.4** 不同血小板製備的不良反應（每 100,000 單位的發生率）
 
-| Adverse Reaction | Multiple-Donor Preparations | Single-Donor Preparations | p value |
+| 不良反應 | 多供體製備 | 單供體製備 | p 值 |
 |---|---|---|---|
-| Nonhemolytic Fever | 37 | 136 | <0.01 |
-| Allergic Reaction | 27 | 325 | <0.01 |
-| Acute Lung Injury | 1 | 22 | <0.05 |
-| Circulatory Overload | 7 | 8 | NS |
-| Acute Hemolysis | 0.2 | 1.8 | <0.01 |
-| Bacterial Transmission | 0.8 | 1.4 | NS |
-| Viral Transmission | 0 | 0 | NS |
-| Total Reactions | 70 | 478 | <0.01 |
+| 非溶血性發熱 | 37 | 136 | <0.01 |
+| 過敏反應 | 27 | 325 | <0.01 |
+| 急性肺損傷 | 1 | 22 | <0.05 |
+| 循環負荷過重 | 7 | 8 | NS |
+| 急性溶血 | 0.2 | 1.8 | <0.01 |
+| 細菌傳播 | 0.8 | 1.4 | NS |
+| 病毒傳播 | 0 | 0 | NS |
+| 總反應 | 70 | 478 | <0.01 |
 
 ## Plasma Products
 
-Plasma products are used as a source of procoagulant plasma proteins, and the two plasma products used most often for this purpose are fresh frozen plasma and cryoprecipitate.
+血漿產品用作促凝血血漿蛋白的來源，用於此目的的最常用的兩種血漿產品是新鮮冰凍血漿和冷沉澱物。
 
 ### Fresh Frozen Plasma
 
-Plasma is separated from donor blood and frozen at –18°C within 8 hours of blood collection. This fresh frozen plasma (FFP) has a volume of about 230 mL, and can be stored for one year. Once thawed, FFP can be stored at 1–6°C for up to 5 days.
+血漿從捐獻血液中分離出來，在血液採集後 8 小時內在 –18°C 下冷凍。這種新鮮冰凍血漿（FFP）容積約為 230 mL，可儲存一年。一旦解凍，FFP 可在 1–6°C 下儲存最多 5 天。
 
 #### Massive Blood Loss
 
-The current practice for the resuscitation of massive blood loss is to transfuse one unit of FFP for every 1–2 units of packed red blood cells. These limitations have led to the introduction of "liquid plasma" preparations that can be stored at 1–6°C for up to 26 days.
+大量失血復甦的當前做法是每輸注 1–2 單位 packed red blood cells 就輸注 1 單位 FFP。這些限制促使引入了可以在 1–6°C 下儲存最多 26 天的「液體血漿」製備。
 
 #### Prophylactic FFP
 
-A majority of FFP infusions in ICU patients are used to reduce an elevated INR in coagulopathic, nonbleeding patients. However, there is no evidence that prophylactic FFP reduces bleeding in these patients.
+ICU 病人中的大多數 FFP 輸注用於降低凝血病性非出血病人的升高 INR。然而，沒有證據表明預防性 FFP 可以減少這些病人的出血。
 
 #### Reversing Warfarin Anticoagulation
 
-Vitamin K is given first to block ongoing anticoagulant activity, and the FFP is then given (usually in a volume of 10–15 mL/kg) to return the INR to normal. These problems have been eliminated by the introduction of 4-factor prothrombin complex concentrate.
+首先給予維生素 K 來阻斷正在進行的抗凝活性，然後給予 FFP（通常容積為 10–15 mL/kg）使 INR 恢復正常。這些問題已通過引入四因子凝血酶原複合體濃縮物而消除。
 
 #### FFP and the INR
 
-There is a fundamental problem with the use of the INR to guide FFP infusions. This test was introduced to monitor anticoagulation with warfarin, but it does not monitor other components of hemostasis, such as the activity of endogenous anticoagulant proteins (antithrombin, protein C, and protein S).
+使用 INR 來指導 FFP 輸注存在一個根本問題。此測試是為監測 warfarin 的抗凝治療而引入的，但它不監測止血的其他組成部分，如內源性抗凝蛋白（抗凝血酶、蛋白 C 和蛋白 S）的活性。
 
 #### Adverse Reactions
 
-- **Acute Hemolytic Reactions:** Caused by anti-A and anti-B antibodies in donor plasma. Cross-matching of plasma transfusions for ABO compatibility has become standard practice.
+- **急性溶血反應：** 由捐獻血漿中的抗 A 和抗 B 抗體引起。血漿輸血的 ABO 兼容性交叉配型已成為標準做法。
 
-- **Hypersensitivity Reactions:** Reported incidence ranges from 1:600 to 1:2,000 transfusions.
+- **過敏反應：** 報告發病率從 1:600 到 1:2,000 輸血不等。
 
-- **Transfusion-Related Acute Lung Injury (TRALI):** Reported incidence is about 1:250,000 units.
+- **輸血相關急性肺損傷（TRALI）：** 報告發病率約為 1:250,000 單位。
 
-- **Transfusion-Associated Circulatory Overload (TACO):** Risk if infusion rate exceeds 1 mL/kg per hour.
+- **輸血相關循環負荷過重（TACO）：** 如果輸注速率超過 1 mL/kg 每小時則有風險。
 
-- **Transmitted Infections:** Risk of hepatitis B is 1:280,000; hepatitis C is 1:1.2 million; HIV is 1:1.6 million.
+- **傳播感染：** B 型肝炎風險為 1:280,000；C 型肝炎為 1:1.2 百萬；HIV 為 1:1.6 百萬。
 
 ### Cryoprecipitate
 
-When FFP is allowed to thaw at 4°C, a milky precipitate forms that is rich in cold-insoluble proteins (cryoglobulins) like fibrinogen, von Willebrand factor, and factor VIII. It has a fibrinogen concentration of 10–20 g/L, and a storage volume of 10–15 mL.
+當 FFP 在 4°C 下解凍時，會形成富含冷不溶性蛋白質（冷球蛋白）的乳白色沉澱物，如纖維蛋白原、von Willebrand factor 和因子 VIII。其纖維蛋白原濃度為 10–20 g/L，儲存容積為 10–15 mL。
 
 #### Using Cryoprecipitate
 
-Cryoprecipitate can be used as a source of fibrinogen in massive blood loss from trauma or post-partum hemorrhage. For major blood loss in trauma, cryoprecipitate is recommended when the fibrinogen level falls to 150–200 mg/dL. One unit of cryoprecipitate per 10 kg body weight will increase the plasma fibrinogen level by about 50 mg/dL.
+冷沉澱物可用作創傷或產後出血大量失血的纖維蛋白原來源。對於創傷中的大量失血，當纖維蛋白原水平降至 150–200 mg/dL 時，建議使用冷沉澱物。每 10 kg 體重一單位冷沉澱物將使血漿纖維蛋白原水平增加約 50 mg/dL。
 
-Cryoprecipitate has some drawbacks, including a variable fibrinogen concentration, the time needed for thawing, and an increased risk of transmitted infections. These limitations are not shared by fibrinogen concentrates, which are gaining popularity as a superior alternative.
+冷沉澱物有一些缺點，包括纖維蛋白原濃度可變、解凍所需的時間，以及傳播感染的風險增加。這些限制不是纖維蛋白原濃縮物的問題，後者作為優越替代品越來越受歡迎。
 
 ## A Final Word
 
 ### Changing Perceptions
 
-There are two general messages in this chapter that might change your perception of thrombocytopenia in critically ill patients:
+本章中有兩個一般性信息可能會改變您對危重症病人血小板減少的看法：
 
-1. In the absence of active bleeding, the problem with thrombocytopenia is not the platelet count, but the underlying illness. As a result, prophylactic platelet transfusions are rarely necessary in critically ill patients.
+1. 在沒有活動性出血的情況下，血小板減少的問題不是血小板計數，而是潛在的疾病。因此，危重症病人很少需要預防性血小板輸血。
 
-2. The most life-threatening consequence of thrombocytopenia is not bleeding, but thrombosis (as is evident in HIT, DIC, TTP, and HUS).
+2. 血小板減少最危及生命的後果不是出血，而是血栓形成（如 HIT、DIC、TTP 和 HUS 中所見）。
 
-And there is one general message about the INR:
+關於 INR 有一個一般性信息：
 
-1. The INR is sensitive to the activity of vitamin K-dependent coagulation factors, but it does not monitor other components of the hemostatic process, such as the activity of endogenous anticoagulant proteins. This limitation affects the reliability of the INR as a gauge for FFP infusions.
+1. INR 對維生素 K 依賴性凝血因子的活性敏感，但它不監測止血過程的其他組成部分，如內源性抗凝蛋白的活性。這一限制影響了 INR 作為 FFP 輸注指南的可靠性。
 
 ---
 
@@ -321,7 +321,7 @@ And there is one general message about the INR:
 
 6. Rice TR, Wheeler RP. Coagulopathy in critically ill patients. Part 1: Platelet disorders. Chest 2009; 136:1622–1630.
 
-7. Slichter SJ, Harker LA. Thrombocytopenia: mechanisms and management of defects in platelet production. Clin Haematol 1978; 7:523–527.
+7. Slicher SJ, Harker LA. Thrombocytopenia: mechanisms and management of defects in platelet production. Clin Haematol 1978; 7:523–527.
 
 8. Payne BA, Pierre RV. Pseudothrombocytopenia: a laboratory artifact with potentially serious consequences. Mayo Clin Proc 1984; 59:123–125.
 

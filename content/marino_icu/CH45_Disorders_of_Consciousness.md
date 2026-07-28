@@ -24,114 +24,114 @@ The ability to recognize and interact with surroundings (consciousness) is the s
 - **酒精戒斷/譫妄性震顫**（Delirium Tremens）發生於停酒後 **72–96小時**，特徵包括：意識混亂、發燒、自律神經不穩；首選 **lorazepam** 或 **diazepam**；**thiamine**（100 mg）需在葡萄糖前給予以防 **Wernicke腦病**。
 - **腦死判定**：需已知昏迷原因、排除混淆因素（低溫、藥物、電解質）、無所有腦幹反射、無對疼痛的運動反應、**apnea test** 陽性；確認性檢查（EEG、腦血管造影、核醫、TCD）可作為輔助。
 
-Consciousness has two components:
+Consciousness 有兩個組成部分：
 
-1. **Arousal** — the ability to experience surroundings (wakefulness)
-2. **Awareness** — the ability to understand one's relationship to surroundings (responsiveness)
+1. **覺醒（Arousal）** — 體驗周圍環境的能力（覺醒狀態）
+2. **覺知（Awareness）** — 理解自己與周圍環境關係的能力（反應能力）
 
-**TABLE 45.1 — Altered States of Consciousness**
+**TABLE 45.1 — 意識改變狀態**
 
-| | Can be Awakened | Cannot be Awakened |
+| | 可被喚醒 | 無法被喚醒 |
 |---|---|---|
-| **Aware** | Anxiety, Lethargy | — |
-| **Not Aware** | Delirium, Dementia, Locked-In State | Stupor, Vegetative State, Coma, Brain Death |
+| **有覺知** | 焦慮、嗜睡 | — |
+| **無覺知** | Delirium、痴呆、Locked-In 狀態 | 木僵、植物人狀態、昏迷、腦死 |
 
-### Descriptions of Principal States
+### 主要狀態的描述
 
-1. **Anxiety and Lethargy** — Arousal and awareness are intact, but there is a change in attentiveness.
+1. **焦慮和嗜睡** — 覺醒和覺知完好，但專注力有變化。
 
-2. **Locked-In State** — Arousal and awareness are intact, but there is almost total absence of motor responsiveness. Caused by bilateral injury to the motor pathways in the ventral pons, which disrupts all voluntary movements except up-down ocular movements and eyelid blinking.
+2. **Locked-In 狀態** — 覺醒和覺知完好，但幾乎完全沒有運動反應。由於腦橋腹側運動路徑的雙側損傷，導致所有自主運動消失，除了上下眼球運動和眼瞼眨眼。
 
-3. **Delirium and Dementia** — Arousal is intact, but awareness is altered. The change in awareness can be fluctuating (delirium) or permanent (dementia).
+3. **Delirium 和痴呆** — 覺醒完好，但覺知改變。覺知的改變可以是波動性的（delirium）或永久性的（痴呆）。
 
-4. **Stupor** — The subject is difficult to arouse and is unaware of some or all elements in the environment.
+4. **木僵** — 受試者難以喚醒，對環境中的某些或所有元素沒有覺知。
 
-5. **Vegetative State** — There is some degree of arousal (eyes can open), but no awareness. Spontaneous movements and motor responses to deep pain can be present, but the movements are purposeless. After one month, this condition is called a **persistent vegetative state**.
+5. **植物人狀態** — 有一定程度的覺醒（眼睛可以睜開），但沒有覺知。可以存在自發運動和對深層疼痛的運動反應，但運動是無目的的。一個月後，這種情況稱為**持續性植物人狀態**。
 
-6. **Coma** — The total absence of arousal and awareness (unarousable unawareness). Spontaneous movements and motor responses to deep pain can be present, but the movements are purposeless.
+6. **昏迷** — 覺醒和覺知完全缺失（無法喚醒的無覺知）。可以存在自發運動和對深層疼痛的運動反應，但運動是無目的的。
 
-7. **Brain Death** — Similar to coma in that there is a total absence of arousal and awareness. However, brain death differs from coma in two ways: (a) it involves loss of all brainstem function, including cranial nerve responses and spontaneous respirations, and (b) it is always irreversible.
+7. **腦死** — 與昏迷相似，覺醒和覺知完全缺失。然而，腦死與昏迷有兩個不同之處：(a) 它涉及所有腦幹功能的喪失，包括顱神經反應和自發呼吸，(b) 它總是不可逆的。
 
 ---
 
 ## Delirium
 
-Delirium is an acute disturbance of attention and cognition that represents a medical emergency in the ICU. It is characterized by:
+Delirium 是一種急性注意力 和認知障礙，在 ICU 中代表著醫療急症。它的特徵是：
 
-- Fluctuating mental status
+- 波動性的精神狀態
 - Inattention
-- Disorganized thinking
-- Altered level of consciousness
+- 思維紊亂
+- 意識水平改變
 
 ### Risk Factors
 
-- Advanced age
-- Pre-existing cognitive impairment
-- Severe illness
-- Sedative medications (particularly benzodiazepines)
-- Sleep deprivation
-- Immobilization
+- 高齡
+- 既有認知障礙
+- 嚴重疾病
+- 鎮靜藥物（尤其是 benzodiazepines）
+- 睡眠剝奪
+- 約束
 - Mechanical ventilation
 
 ### Clinical Features
 
-**Hyperactive delirium:** Agitation, restlessness, hallucinations, emotional lability
+**過動型 delirium：** 激動、躁動、幻覺、情緒不穩
 
-**Hypoactive delirium:** Lethargy, decreased responsiveness, social withdrawal (more common in ICU patients)
+**低動型 delirium：** 嗜睡、反應降低、社交退縮（在 ICU 患者中更常見）
 
-**Mixed delirium:** Features of both
+**混合型 delirium：** 兩者的特徵
 
 ### Diagnosis
 
-The **Confusion Assessment Method for the ICU (CAM-ICU)** is a validated screening tool for delirium in mechanically ventilated patients. It assesses:
+**ICU 混淆評估方法（CAM-ICU）** 是一種經過驗證的篩檢工具，用於篩檢機械通氣患者的 delirium。它評估：
 
-1. Acute change or fluctuation in mental status
+1. 精神狀態的急性改變或波動
 2. Inattention
-3. Disorganized thinking
-4. Altered level of consciousness
+3. 思維紊亂
+4. 意識水平改變
 
 ### Prevention and Management
 
-**Nonpharmacologic measures** (first-line):
+**非藥物措施**（一線）：
 
-- Reorientation strategies
-- Normalizing sleep-wake cycles
-- Early mobilization
-- Removal of unnecessary restraints
-- Correction of sensory deficits (glasses, hearing aids)
-- Adequate hydration and nutrition
+- 定向策略
+- 正常化睡眠-覺醒週期
+- 早期活動
+- 移除不必要的約束
+- 糾正感覺缺陷（眼鏡、助聽器）
+- 足夠的水分和營養
 
-**Pharmacologic measures** (for severe agitation posing safety risk):
+**藥物措施**（用於構成安全風險的嚴重激動）：
 
-**TABLE 45.2 — Drug Therapy for Severe Agitation in ICU-Related Delirium**
+**TABLE 45.2 — ICU 相關 Delirium 嚴重激動的藥物治療**
 
-| Drug | Typical Dose | Notes |
+| 藥物 | 典型劑量 | 備註 |
 |---|---|---|
-| Haloperidol | 2–5 mg IV/IM; repeat as needed | First-line antipsychotic; monitor QTc |
-| Quetiapine | 25–50 mg PO twice daily | Atypical antipsychotic; less sedation |
-| Dexmedetomidine | 0.2–1.5 mcg/kg/hr IV | Alpha-2 agonist; preserves respiratory drive |
+| Haloperidol | 2–5 mg 靜脈/肌肉注射；按需要重複 | 一線抗精神病藥物；監測 QTc |
+| Quetiapine | 25–50 mg 口服，每日兩次 | 非典型抗精神病藥物；鎮靜較少 |
+| Dexmedetomidine | 0.2–1.5 mcg/kg/hr 靜脈注射 | Alpha-2 激動劑；保留呼吸驅動 |
 
-*Note: Benzodiazepines should generally be avoided in delirium (except in alcohol/benzodiazepine withdrawal) as they can worsen confusion.*
+*注意：Benzodiazepines 通常應避免用於 delirium（除了酒精/benzodiazepine 戒斷），因為它們可能使意識混亂惡化。*
 
 ---
 
 ## Alcohol Withdrawal and Delirium Tremens
 
-**TABLE 45.3 — Clinical Features of Alcohol Withdrawal**
+**TABLE 45.3 — Alcohol 戒斷的臨床特徵**
 
-| Timeline | Features |
+| 時間線 | 特徵 |
 |---|---|
-| 6–24 hours | Tremors, anxiety, diaphoresis, tachycardia, mild hypertension |
-| 24–48 hours | Hallucinations (visual, auditory, tactile) |
-| 48–72 hours | Withdrawal seizures (generalized tonic-clonic) |
-| 72–96 hours | Delirium tremens — confusion, agitation, fever, autonomic instability, hallucinations |
+| 6–24 小時 | 顫抖、焦慮、發汗、心搏過速、輕度高血壓 |
+| 24–48 小時 | 幻覺（視覺、聽覺、觸覺） |
+| 48–72 小時 | 戒斷癲癇（全身性強直-陣攣性） |
+| 72–96 小時 | Delirium tremens — 意識混亂、激動、發燒、自律神經不穩、幻覺 |
 
 ### Treatment
 
-- **Benzodiazepines** are the mainstay (e.g., lorazepam, diazepam, chlordiazepoxide). Use symptom-triggered or fixed-schedule dosing.
-- **Beta-blockers** (e.g., propranolol, atenolol) can attenuate autonomic symptoms but do not prevent seizures.
-- **Thiamine** (100 mg IV/PO daily) should be given before glucose to prevent Wernicke encephalopathy.
-- **Magnesium** supplementation if hypomagnesemia is present.
+- **Benzodiazepines** 是主要治療（如 lorazepam、diazepam、chlordiazepoxide）。使用症狀觸發或固定日程給藥。
+- **Beta-blockers**（如 propranolol、atenolol）可以減弱自律神經症狀，但不能預防癲癇。
+- **Thiamine**（100 mg 靜脈/口服，每日）應在葡萄糖之前給予以預防 Wernicke 腦病。
+- 如果有低鎂血症，給予**鎂**補充。
 
 ---
 
@@ -139,78 +139,78 @@ The **Confusion Assessment Method for the ICU (CAM-ICU)** is a validated screeni
 
 ### Glasgow Coma Scale
 
-The Glasgow Coma Scale (GCS) assesses three components of consciousness:
+Glasgow Coma Scale (GCS) 評估意識的三個組成部分：
 
-**TABLE 45.4 — The Glasgow Coma Scale**
+**TABLE 45.4 — Glasgow Coma Scale**
 
-| Component | Response | Score |
+| 組成部分 | 反應 | 分數 |
 |---|---|---|
-| **Eye Opening** | Spontaneous | 4 |
-| | To speech | 3 |
-| | To pain | 2 |
-| | None | 1 |
-| **Verbal Communication** | Oriented | 5 |
-| | Confused conversation | 4 |
-| | Inappropriate but recognizable words | 3 |
-| | Incomprehensible sounds | 2 |
-| | None | 1 |
-| **Motor Response** | Obeys commands | 6 |
-| | Localizes to pain | 5 |
-| | Withdraws to pain | 4 |
-| | Abnormal flexion (decorticate response) | 3 |
-| | Abnormal extension (decerebrate response) | 2 |
-| | None | 1 |
+| **睜眼** | 自發性 | 4 |
+| | 對言語 | 3 |
+| | 對疼痛 | 2 |
+| | 無 | 1 |
+| **語言溝通** | 定向力正常 | 5 |
+| | 對話混亂 | 4 |
+| | 不適當但可辨識的詞語 | 3 |
+| | 無法理解的聲音 | 2 |
+| | 無 | 1 |
+| **運動反應** | 服從命令 | 6 |
+| | 對疼痛定位 | 5 |
+| | 對疼痛逃避 | 4 |
+| | 異常屈曲（去皮質反應） | 3 |
+| | 異常伸展（去腦反應） | 2 |
+| | 無 | 1 |
 
-**Total score range:** 3 (worst) to 15 (best)
+**總分範圍：** 3（最差）到 15（最好）
 
-*Note: With endotracheal intubation, the highest score is 11 (verbal = 1).*
+*注意：對於氣管內插管，最高分是 11（言語 = 1）。*
 
 ### Interpretation of the GCS
 
-The GCS is **not reliable** in patients who are paralyzed, heavily sedated, or hypotensive. Otherwise, the GCS can be used:
+GCS 在癱瘓、深度鎮靜或低血壓的患者中**不可靠**。否則，GCS 可用於：
 
-1. To **define coma** (GCS ≤8)
-2. To **stratify severity of head injury**: mild (GCS = 13–15), moderate (GCS = 9–12), severe (GCS ≤8)
-3. To **identify candidates for intubation** — airway protective reflexes are typically defective at GCS ≤8
-4. As a **prognostic marker**
+1. **定義昏迷**（GCS ≤8）
+2. **分層頭部損傷的嚴重度**：輕度（GCS = 13–15）、中度（GCS = 9–12）、重度（GCS ≤8）
+3. **識別插管的候選人** — 氣道保護反射通常在 GCS ≤8 時有缺陷
+4. 作為**預後標記**
 
 ---
 
 ## Pupillary Examination
 
-**TABLE 45.5 — Conditions That Affect Pupillary Size and Reactivity**
+**TABLE 45.5 — 影響瞳孔大小和反應性的條件**
 
-| Finding | Possible Causes |
+| 發現 | 可能原因 |
 |---|---|
-| **Dilated, fixed pupils (bilateral)** | Anticholinergic toxicity, severe hypoxia, brain death, herniation |
-| **Dilated, fixed pupil (unilateral)** | CN III compression (herniation, aneurysm) |
-| **Small, reactive pupils** | Normal; opioid use; pontine lesion |
-| **Pinpoint pupils** | Opioid overdose (with respiratory depression); pontine hemorrhage |
-| **Unilateral dilated, reactive** | CN III palsy (non-herniation cause) |
-| **Midposition, fixed** | Midbrain lesion; deep sedation |
+| **雙側放大、固定瞳孔** | Anticholinergic 毒性、嚴重缺氧、腦死、腦疝 |
+| **單側放大、固定瞳孔** | CN III 壓迫（腦疝、動脈瘤） |
+| **小而又有反應的瞳孔** | 正常；opioid 使用；橋腦病灶 |
+| **針尖瞳孔** | Opioid 過量（伴隨呼吸抑制）；橋腦出血 |
+| **單側放大、有反應** | CN III 麻痺（非腦疝原因） |
+| **中等大小、固定** | 中腦病灶；深度鎮靜 |
 
 ---
 
 ## Brain Death
 
-Brain death is the irreversible cessation of all functions of the entire brain, including the brainstem.
+Brain death 是整個大腦（包括腦幹）所有功能的不可逆停止。
 
-### Checklist for Brain Death Determination
+### Brain Death 判定檢查清單
 
-**TABLE 45.6 — Brain Death Determination Checklist**
+**TABLE 45.6 — Brain Death 判定檢查清單**
 
-| Step | Requirement |
+| 步驟 | 要求 |
 |---|---|
-| **Prerequisites** | Known cause of coma; exclusion of confounders (hypothermia, drug intoxication, severe electrolyte/metabolic derangements) |
-| **Clinical Examination** | Absence of all brainstem reflexes; no motor response to painful stimuli |
-| **Apnea Test** | No respiratory effort when PaCO₂ is raised above threshold |
-| **Ancillary Testing** (if clinical exam cannot be completed or is unreliable) | EEG, cerebral angiography, nuclear medicine scan, or TCD showing absence of cerebral blood flow |
+| **先決條件** | 已知昏迷原因；排除混淆因素（低溫、藥物中毒、嚴重電解質/代謝障礙） |
+| **臨床檢查** | 所有腦幹反射消失；對疼痛刺激無運動反應 |
+| **Apnea Test** | 當 PaCO₂ 升高到閾值以上時沒有呼吸努力 |
+| **輔助檢查**（如果臨床檢查無法完成或不可靠） | EEG、腦血管造影、核醫學掃描或 TCD 顯示腦血流消失 |
 
 ### Confirmatory Observations
 
-- The patient can be declared legally dead if Steps 1–4 are confirmed, or there is a positive confirmatory test.
-- One set of clinical findings is sufficient in most jurisdictions.
-- Examination should be repeated if there is any uncertainty.
+- 如果步驟 1-4 已確認，或有陽性的確認性檢查，可以宣布患者法定死亡。
+- 在大多數司法管轄區，一套臨床發現就足夠了。
+- 如果有任何不確定性，應重複檢查。
 
 ---
 

@@ -9,74 +9,74 @@ title: "Anemia and Red Blood Cell"
 >
 > — Edmund Burke
 
-As many as 50% of ICU patients are transfused with red blood cells (RBCs), and in a large majority (90%) of cases, these transfusions are used to boost the hemoglobin level in nonbleeding patients. The practice of transfusing red blood cells based on the hemoglobin level creates a question about the correlation between the hemoglobin level in blood and the adequacy of tissue oxygenation (since the goal of RBC transfusions should be to promote tissue oxygenation). This is a relevant issue because there are considerable risks associated with RBC transfusions, and there is a concern that these risks may outweigh the risks of the anemia they are meant to correct.
+高達 50% 的 ICU 病人接受紅細胞（RBCs）輸血，而在大多數情況下（90%），這些輸血用於提高非出血病人的血紅蛋白水平。基於血紅蛋白水平進行紅細胞輸血的做法引發了一個關於血紅蛋白水平與組織氧合是否充足之間相關性的問題（因為 RBC 輸血的目標應該是促進組織氧合）。這是一個相關的問題，因為 RBC 輸血伴隨著相當大的風險，而且人們擔心這些風險可能超過它們旨在糾正的貧血所帶來的風險。
 
-This chapter focuses on the influence of anemia and RBC transfusions on tissue oxygenation. It begins by describing the causes and consequences of anemia in the critically ill, and then presents the indications, physiological effects, and adverse consequences associated with RBC transfusions.
+本章節聚焦於貧血和 RBC 輸血對組織氧合的影響。首先描述危重症病人中貧血的原因和後果，然後介紹與 RBC 輸血相關的適應症、生理效應和不良後果。
 
 ## Anemia in the ICU
 
-Anemia is almost universal in the ICU; i.e., it is present on admission in two-thirds of the patients, and the prevalence increases to 97% after one week in the ICU.
+貧血在 ICU 中幾乎是普遍存在的；即三分之二的病人在入院時就存在貧血，並且在 ICU 一週後患病率增至 97%。
 
 ### Definition of Anemia
 
-Anemia is defined as a decrease in the oxygen carrying capacity of blood. The most accurate measure of the O₂ carrying capacity of blood is the red cell mass, which is the volume of circulating red blood cells. The clinical definition of anemia is a hemoglobin (Hb) concentration <13 g/dL (Hct <40%) in males, and <12 g/dL (Hct <38%) in females. Since this definition is based on a concentration, it will be influenced by the plasma volume.
+貧血定義為血液攜氧能力的下降。血液 O₂ 攜帶能力最準確的測量指標是紅細胞質量，即循環紅細胞的容積。貧血的臨床定義是男性血紅蛋白（Hb）濃度 <13 g/dL（Hct <40%），女性 <12 g/dL（Hct <38%）。由於這個定義是基於濃度，因此會受到血漿容積的影響。
 
-**Table 12.1** Reference Ranges for Red Cell Parameters in Adults
+**Table 12.1** 成年人紅細胞參數的參考範圍
 
-| Parameter | Males | Females |
+| 參數 | 男性 | 女性 |
 |---|---|---|
-| Hemoglobin (Hb) | 13.5–18 g/dL | 12–16 g/dL* |
-| Hematocrit (Hct) | 40–54% | 38–47% |
-| Red Cell Mass | 26 mL/kg | 24 mL/kg |
-| Mean Cell Volume | 80–100 × 10⁻¹⁵/L | Same |
-| Red Blood Cell Count | 4.6–6.2 × 10¹²/L | 4.2–5.4 × 10¹²/L |
-| Reticulocyte Count | 25–75 × 10⁹/L | Same |
+| 血紅蛋白（Hb） | 13.5–18 g/dL | 12–16 g/dL* |
+| Hematocrit（Hct） | 40–54% | 38–47% |
+| 紅細胞質量 | 26 mL/kg | 24 mL/kg |
+| 平均細胞容積 | 80–100 × 10⁻¹⁵/L | 相同 |
+| 紅細胞計數 | 4.6–6.2 × 10¹²/L | 4.2–5.4 × 10¹²/L |
+| 網織紅細胞計數 | 25–75 × 10⁹/L | 相同 |
 
-\*Normal range is 1 g/dL lower after the first trimester of pregnancy.
+\*懷孕前三個月後正常範圍降低 1 g/dL。
 
 ### Influence of Plasma Volume
 
-The confounding influence of the plasma volume on a clinical measure of O₂ carrying capacity (Hct) is demonstrated in Figure 12.1. The panel on the left shows the postural changes in Hct in a group of healthy adults. Note that there is a 4.1% absolute decrease in Hct in the supine position. This is the result of a decrease in the hydrostatic pressure within the capillaries in the legs (due to loss of the gravitational effect), which promotes the movement of interstitial fluid into the bloodstream and increases the plasma volume (by 420 mL in this study). The panel on the right shows the effect of a bolus infusion of isotonic saline (20 mL/kg), which causes a similar (4.2%) decrease in Hct. In both cases, the decrease in Hct is equivalent to the change produced by the loss of one unit of red blood cells.
+血漿容積對 O₂ 攜帶能力的臨床測量指標（Hct）的混淆影響如圖 12.1 所示。左面板顯示了一組健康成年人姿勢變化引起的 Hct 變化。請注意，臥位時 Hct 絕對下降 4.1%。這是由於腿部毛細血管內靜水壓的下降（由於重力效應的消失），促進了間質液進入血流並增加了血漿容積（在本研究中增加了 420 mL）。右面板顯示了等滲鹽水 bolus 輸注（20 mL/kg）的效果，導致類似的（4.2%）Hct 下降。在這兩種情況下，Hct 的下降相當於失去一個單位紅細胞所產生的變化。
 
-> **Figure 12.1** The influence of plasma volume on the hematocrit (Hct). The panel on the left shows the postural decrease in Hct in the supine position. The panel on the right shows the decrease in Hct 90 minutes after a bolus infusion of isotonic saline at 20 mL/kg. In both cases, the absolute decrease in Hct is equivalent to the change produced by loss of one unit of blood (500 mL).
+> **Figure 12.1** 血漿容積對 hematocrit（Hct）的影響。左面板顯示了臥位姿勢引起的 Hct 下降。右面板顯示了在 bolus 輸注等滲鹽水 20 mL/kg 後 90 分鐘時 Hct 的下降。在這兩種情況下，Hct 的絕對下降相當於失去一個單位血液（500 mL）所產生的變化。
 
-An increased plasma volume is common in critically ill patients, and this means that the Hct and Hb concentration will overestimate the prevalence and severity of anemia in ICU patients. Clinical studies have confirmed that the Hct and Hb concentration are unreliable measures of anemia in critically ill patients.
+危重症病人中血漿容積增加是常見的，這意味著 Hct 和血紅蛋白濃度會高估 ICU 病人貧血的普遍性和嚴重程度。臨床研究已確認 Hct 和血紅蛋白濃度在危重症病人中是不可靠的貧血測量指標。
 
 ### ICU-Related Anemia
 
-Two conditions can add to the prevalence and severity of anemia during the ICU stay: systemic inflammation, and repeated phlebotomy for laboratory studies.
+兩種情況可以增加 ICU 期間貧血的普遍性和嚴重程度：全身性炎症，和為實驗室研究重複進行的抽血。
 
 #### Inflammation
 
-Systemic inflammation is accompanied by iron sequestration in tissue macrophages, which is attributed to the actions of cytokines, and also to the hepatic release of hepcidin, a small peptide that reduces plasma iron levels by promoting iron sequestration in tissue macrophages. The sequestered iron cannot be transferred to developing red blood cells, and this results in a hypochromic microcytic anemia that resembles iron-deficiency anemia.
+全身性炎症伴隨著組織巨噬細胞對鐵的隔離，這歸因於細胞激素的作用，以及肝臟釋放的 hepcidin（一種減少血漿鐵水平的小肽，通過促進鐵在組織巨噬細胞中的隔離）。被隔離的鐵不能轉移到發育中的紅細胞，這導致了類似缺鐵性貧血的血紅蛋白過少的小細胞性貧血。
 
-The plasma iron profile in the anemia of inflammation includes:
-- Decrease in plasma iron
-- Decrease in total iron binding capacity
-- Decrease in transferrin levels
-- Increase in plasma ferritin levels
+炎症性貧血的血漿鐵譜包括：
+- 血漿鐵減少
+- 總鐵結合能力下降
+- 轉鐵蛋白水平下降
+- 血漿鐵蛋白水平增加
 
-> **Note:** The ferritin level in plasma is used to evaluate tissue iron stores, and thus can distinguish between iron deficiency anemia (plasma ferritin <30 μg/L) and the anemia of inflammation (plasma ferritin >100 μg/L).
+> **Note:** 血漿中的鐵蛋白水平用於評估組織鐵儲備，因此可以區分缺鐵性貧血（血漿鐵蛋白 <30 μg/L）和炎症性貧血（血漿鐵蛋白 >100 μg/L）。
 
 #### Phlebotomy
 
-An average of 40–70 mL of blood is withdrawn daily in ICU patients to perform laboratory tests, and the cumulative blood loss can reach 500 mL (one unit of whole blood) after one week.
+ICU 病人每天平均抽血 40–70 mL 進行實驗室檢測，累積失血量在一週後可達 500 mL（一個單位的全血）。
 
-The daily phlebotomy volume can be reduced by reinfusing the initial sample on a blood draw; i.e., when blood is withdrawn through vascular catheters for laboratory testing, the initial aspirate is discarded to eliminate interference from intravenous fluid in the lumen of the catheter. The volume of discarded blood is typically about 5 mL for each laboratory blood draw, and returning this blood to the patient can reduce the daily phlebotomy volume by 50%.
+每日抽血量可以通過在抽血時回輸初始樣本來減少：即當通過血管導管抽取血液進行實驗室檢測時，初始抽出物被丟棄以消除導管管腔內靜脈輸液的干擾。每次實驗室抽血的丟棄血液量通常約為 5 mL，將此血液返回病人可以將每日抽血量減少 50%。
 
 ### The Physiology of Anemia
 
-Anemia elicits two responses that help to preserve tissue oxygenation:
-1. An increase in cardiac output (the result of a decrease in blood viscosity)
-2. An increase in O₂ extraction from capillary blood
+貧血會引發兩種幫助維持組織氧合的反應：
+1. Cardiac output 增加（這是血液粘度下降的結果）
+2. 從毛細血管血液中增加 O₂ extraction
 
 #### Blood Viscosity
 
-Viscosity is defined as the resistance of a fluid to changes in flow rate, and has also been described as the "gooiness" of a fluid. The viscosity of blood is the result of cross-linking of erythrocytes by plasma fibrinogen, and the principal determinant of whole blood viscosity is the concentration of erythrocytes (the hematocrit).
+粘度被定義為流體對流速變化的阻力，也可以描述為流體的「粘性」。血液的粘度是血漿 fibronogen 對紅細胞的交聯所引起的，而全血粘度的主要決定因素是紅細胞的濃度（hematocrit）。
 
-**Table 12.2** Relationship Between Hematocrit and Blood Viscosity
+**Table 12.2** Hematocrit 與血液粘度的關係
 
-| Hematocrit (%) | Relative Viscosity (water = 1) | Absolute Viscosity (centipoise) |
+| Hematocrit（%） | 相對粘度（水 = 1） | 絕對粘度（centipoise） |
 |---|---|---|
 | 0 | 1.4 | — |
 | 10 | 1.8 | 1.2 |
@@ -86,256 +86,256 @@ Viscosity is defined as the resistance of a fluid to changes in flow rate, and h
 | 50 | 4.8 | 2.9 |
 | 60 | 5.8 | 3.8 |
 
-> **Resistance to Flow:** The influence of blood viscosity on peripheral blood flow can be described with the Hagen-Poiseuille equation:
+> **Resistance to Flow:** 血液粘度對外周血流量的影響可以用 Hagen-Poiseuille 方程式描述：
 >
 > $$Q = \Delta P \times \frac{\pi r^4}{8 \mu L}$$
 >
-> This equation states that flow (Q) through a blood vessel is directly related to the pressure gradient along the vessel ($\Delta P$) and the fourth power of the radius (r) of the vessel, and is inversely related to the length (L) of the vessel and the viscosity ($\mu$) of the fluid.
+> 此方程式說明，通過血管的血流（Q）與沿血管的壓力梯度（$\Delta P$）和血管半徑（r）的四次方成正比，與血管長度（L）和流體粘度（$\mu$）成反比。
 
 #### Cardiac Output
 
-The effects of anemia on blood viscosity are responsible for the increase in cardiac output. Note that the increase in cardiac output is proportionally greater than the decrease in hematocrit. This is because blood is a non-Newtonian fluid, which means that viscosity is influenced by blood flow; i.e., an increase in blood flow will reduce viscosity. The increase in cardiac output helps to maintain systemic O₂ transport in the face of a declining hematocrit.
+貧血對血液粘度的影響是 cardiac output 增加的原因。請注意，cardiac output 的增加與 hematocrit 的下降成比例地更大。這是因為血液是一種非牛頓流體，即粘度會受到血流的影響；即血流增加會降低粘度。Cardiac output 的增加有助於在 hematocrit 下降的情況下維持全身 O₂ 輸送。
 
-> **Figure 12.2** The influence of progressive isovolemic hemodilution on cardiac output in a patient with polycythemia.
+> **Figure 12.2** 紅細胞增多症患者中等容積血液稀釋對 cardiac output 的影響。
 
 #### Systemic Oxygenation
 
-The influence of progressive anemia on measures of systemic oxygenation are shown in Figure 12.3. The principal findings are explained using the following relationships between O₂ uptake ($VO_2$), O₂ delivery ($DO_2$), and O₂ extraction:
+漸進性貧血對全身氧合測量指標的影響如圖 12.3 所示。主要發現用以下 O₂ 摄取（$VO_2$）、O₂ 輸送（$DO_2$）和 O₂ extraction 之間的關係來解釋：
 
 $$VO_2 = DO_2 \times O_2\ Extraction$$
 
-Despite the increase in cardiac output in anemia, the decrease in hemoglobin results in an overall decrease in systemic O₂ delivery. However, there is a compensatory increase in O₂ extraction, and this maintains a constant O₂ uptake. However, when the hematocrit falls below 10%, the increase in O₂ extraction is no longer able to fully compensate for the decrease in O₂ delivery, and the O₂ uptake then begins to fall. When this occurs, the lactate level begins to rise, indicating inadequate tissue oxygenation. Note that the maximum O₂ extraction is about 50%, and this marks the threshold for impaired tissue oxygenation.
+儘管貧血時 cardiac output 增加，但血紅蛋白的減少導致全身 O₂ 輸送的整體下降。然而，會有 O₂ extraction 的補償性增加，這維持了 O₂ 摄取的恆定。然而，當 hematocrit 降至 10% 以下時，O₂ extraction 的增加不再能夠完全補償 O₂ 輸送的減少，然後 O₂ 摄取開始下降。當這種情況發生時，乳酸水平開始上升，表明組織氧合不足。請注意，最大的 O₂ extraction 約為 50%，這標誌著組織氧合受損的閾值。
 
-There are two features in Figure 12.3 that deserve emphasis:
+圖 12.3 中有兩個特點值得強調：
 
-1. Anemia did not impair tissue oxygenation until the hematocrit fell to 10% (equivalent to a Hb concentration of 3 g/dL), indicating that even the most severe anemias are tolerated.
+1. 直到 hematocrit 降至 10%（相當於血紅蛋白濃度 3 g/dL），貧血才損害組織氧合，表明即使是最嚴重的貧血也是可以耐受的。
 
-2. An O₂ extraction that has increased to 50% marks the point where tissue oxygenation is threatened, and this point could serve as an indication for RBC transfusions.
+2. O₂ extraction 增加至 50% 標誌著組織氧合受到威脅的點，這一點可作為 RBC 輸血的適應症。
 
-> **Tolerance to Severe Anemia:** Animal studies have shown that, when the intravascular volume is maintained, hematocrits as low as 5 to 10% (Hb = 1.5 to 3 g/dL) do not adversely affect tissue oxygenation, even in awake animals breathing room air. Human studies of the lowest tolerable hematocrit or hemoglobin mostly involve Jehovah's Witness patients. In a large study that included 300 postoperative Jehovah's Witness patients, 50% of the patients survived with a Hb level of 2–3 g/dL, and 75% of the patients survived with a Hb level of 3–4 g/dL. Thus, the available studies suggest that Hb levels down to 5.0 are safe, and individual patients can tolerate Hb levels as low as 2–3 g/dL.
+> **Tolerance to Severe Anemia:** 動物研究表明，當維持血管內容積時，hematocrit 低至 5 至 10%（Hb = 1.5 至 3 g/dL）不會對組織氧合產生不良影響，即使在清醒動物呼吸室內空氣時也是如此。關於人類最低可耐受 hematocrit 或血紅蛋白的大多數研究涉及耶和華見證人病人。在一項包含 300 名術後耶和華見證人病人的大型研究中，50% 的病人在 Hb 為 2–3 g/dL 時存活，75% 的病人在 Hb 為 3–4 g/dL 時存活。因此，可用研究表明 Hb 低至 5.0 是安全的，個別病人可以耐受 Hb 低至 2–3 g/dL。
 
-> **Figure 12.3** The influence of progressive isovolemic anemia on measures of systemic oxygenation in nonhuman primates. $DO_2$ = O₂ delivery, $VO_2$ = O₂ uptake.
+> **Figure 12.3** 非人類靈長類動物中漸進性等容積貧血對全身氧合測量指標的影響。$DO_2$ = O₂ 輸送，$VO_2$ = O₂ 摄取。
 
 ## The Transfusion Trigger
 
-In 1942, a hemoglobin (Hb) level of ≤10 g/dL was recommended as an indication for RBC transfusions, and this was the standard transfusion trigger for the next 60 years, until concern about the risks associated with RBC transfusions prompted studies which showed that outcomes were not adversely affected if Hb levels were allowed to decrease to 7 g/dL. A recent review of 48 clinical studies confirmed that outcomes were similar (including cardiac events) when Hb levels were maintained at 7–8 g/dL instead of 9–10 g/dL, and that the lower Hb threshold for transfusion resulted in a 41% reduction in the consumption of RBC products.
+1942 年，推薦血紅蛋白（Hb）水平 ≤10 g/dL 作为 RBC 輸血的適應症，這是接下來 60 年的標準輸血觸發點，直到對 RBC 輸血相關風險的擔憂促使研究顯示，如果允許 Hb 水平降至 7 g/dL，結果不會受到不良影響。最近對 48 項臨床研究的回顧確認，當 Hb 水平維持在 7–8 g/dL 而不是 9–10 g/dL 時，結果（包括心臟事件）是相似的，而較低的 Hb 閾值導致 RBC 產品消耗減少 41%。
 
 ### Guidelines
 
-There are 21 clinical practice guidelines for RBC transfusions in critically ill patients who are not actively bleeding, and the majority of the recommendations state the following:
+關於非積極出血的危重症病人 RBC 輸血的臨床實踐指南有 21 項，大多數建議如下：
 
-1. The threshold for RBC transfusions is a Hb <7 g/dL for critically ill patients who are hemodynamically stable, and do not have coronary artery disease. This includes post-cardiac surgery patients and patients with septic shock.
+1. 對於血流動力學穩定且沒有冠狀動脈疾病的危重症病人，RBC 輸血的閾值是 Hb <7 g/dL。這包括心臟手術後的病人和膿毒症休克的病人。
 
-2. The transfusion threshold should be a Hb <8 g/dL for patients with coronary artery disease, and for patients undergoing cardiac surgery or orthopedic surgery.
+2. 對於冠狀動脈疾病病人，以及接受心臟手術或骨科手術的病人，輸血閾值應為 Hb <8 g/dL。
 
-Compliance with these guidelines has been poor; e.g., one survey of close to 5,000 RBC transfusions revealed that 60% of transfusions did not follow the recommendations of the guidelines.
+對這些指南的遵守情況不佳；例如，一項涉及近 5,000 次 RBC 輸血的調查顯示，60% 的輸血不符合指南的建議。
 
 ### What's Wrong?
 
-There are two problems with the use of the Hb concentration as a transfusion trigger:
+使用 Hb 濃度作為輸血觸發點有兩個問題：
 
-1. The Hb concentration provides no information about the adequacy of tissue oxygenation, and since the goal of RBC transfusions is to promote tissue oxygenation, transfusions based on the Hb concentration are given without evidence of need or benefit.
+1. Hb 濃度不提供關於組織氧合是否充足的資訊，而且由於 RBC 輸血的目標是促進組織氧合，因此基於 Hb 濃度的輸血是在沒有需要或益處證據的情況下進行的。
 
-2. Acute decreases in the Hb concentration can be a dilutional effect, and this can result in inappropriate RBC transfusions.
+2. Hb 濃度的急性下降可能是稀釋效應的結果，這可能導致不適當的 RBC 輸血。
 
 ### Oxygen Extraction
 
-As described earlier, anemia elicits a compensatory increase in O₂ extraction, which helps to maintain a constant rate of O₂ uptake into tissues. However, the O₂ extraction reaches a maximum of about 50%, and beyond this point, further decreases in Hb will result in a decrease in O₂ uptake, which is a marker of impaired tissue oxygenation. Therefore, an O₂ extraction of 50% can be used as a transfusion trigger because it identifies the threshold for impaired tissue oxygenation.
+如前所述，貧血會引發 O₂ extraction 的補償性增加，這有助於維持 O₂ 摄取到組織的恆定速率。然而，O₂ extraction 達到最大值約 50%，超過這一點，Hb 的進一步減少將導致 O₂ 摄取減少，這是組織氧合受損的指標。因此，O₂ extraction 為 50% 可作為輸血觸發點，因為它識別了組織氧合受損的閾值。
 
-The O₂ extraction is roughly equivalent to the difference between the arterial and central venous O₂ saturation, $(SaO_2 - ScvO_2)$, and this can be monitored continuously using pulse oximetry (for the $SaO_2$) and a central venous oximetry catheter (for the $ScvO_2$).
+O₂ extraction 大約相當於动脉和中心靜脈 O₂ saturation 之間的差異，$(SaO_2 - ScvO_2)$，這可以使用脈搏血氧測量法（用於 $SaO_2$）和中心靜脈血氧測量導管（用於 $ScvO_2$）持續監測。
 
-When the $SaO_2$ is close to 100%, the $ScvO_2$ can be used alone as a transfusion trigger; e.g., an $ScvO_2$ <70% has been proposed as a transfusion trigger.
+當 $SaO_2$ 接近 100% 時，$ScvO_2$ 可以單獨用作輸血觸發點；例如，$ScvO_2$ <70% 被提議作為輸血觸發點。
 
 ## Red Blood Cell Transfusions
 
-Whole blood is stored only on request, and is otherwise separated into its component parts; i.e., red blood cells (RBCs), platelets, plasma, and cryoprecipitate. This practice allows each unit of donated blood to serve multiple transfusion needs.
+全血僅按要求儲存，否則會分離成各成分；即紅細胞（RBCs）、血小板、血漿和冷沉澱物。這種做法允許每單位捐獻的血液滿足多種輸血需求。
 
 ### Preparations
 
-The RBC preparations that are available for transfusion are shown in Table 12.3.
+可用於輸血的 RBC 製備如表 12.3 所示。
 
-**Table 12.3** Red Blood Cell Preparations
+**Table 12.3** 紅細胞製備
 
-| Preparation | Features |
+| 製備 | 特點 |
 |---|---|
-| **Packed RBCs** | Each unit has a volume of 350 mL and hematocrit of about 60%. Contains leukocytes and residual plasma (15–30 mL per unit). Can be stored for 42 days with appropriate additives. |
-| **Leukocyte-reduced RBCs** | Donor RBCs are passed through specialized filters to remove most of the leukocytes. This reduces the risk of nonhemolytic febrile reactions. Indicated for patients with a history of (nonhemolytic) febrile transfusion reactions. |
-| **Washed RBCs** | Packed RBCs are saline washed to remove residual plasma, which reduces the risk of hypersensitivity reactions. Indicated for patients with a history of transfusion-related allergic reactions, and in patients with IgA deficiency who are at risk for transfusion-related anaphylaxis. |
+| **Packed RBCs** | 每單位容積為 350 mL，hematocrit 約 60%。含有白細胞和殘餘血漿（每單位 15–30 mL）。使用適當的添加劑可儲存 42 天。 |
+| **Leukocyte-reduced RBCs** | 捐獻的 RBC 通過專用過濾器去除大部分白細胞。這減少了非溶血性發熱反應的風險。適用於有（非溶血性）發熱性輸血反應史的病人。 |
+| **Washed RBCs** | Packed RBCs 用生理鹽水洗滌以去除殘餘血漿，這減少了過敏反應的風險。適用於有輸血相關過敏反應史的病人，以及有 IgA 缺乏症而處於輸血相關過敏反應風險的病人。 |
 
 #### Packed RBCs
 
-The erythrocyte fraction of donated blood is placed in a preservative fluid and stored at 1 to 6°C. Newer preservative solutions contain adenine, which helps to maintain ATP levels in stored erythrocytes, and allows storage of donor erythrocytes for up to 42 days. Each unit of concentrated erythrocytes (packed RBCs) has a hematocrit of about 60% and a volume of about 350 mL, which includes about 30–50 mL of residual plasma, and a considerable number of leukocytes.
+捐獻血液的紅細胞部分放置在保存液中並儲存在 1 至 6°C。較新的保存液含有腺苷，有助於維持儲存紅細胞中的 ATP 水平，並允許儲存捐獻紅細胞長達 42 天。每單位濃縮紅細胞（packed RBCs）的 hematocrit 約為 60%，容積約為 350 mL，其中包括約 30–50 mL 的殘餘血漿和相當數量的白細胞。
 
 #### Leukocyte-Reduced RBCs
 
-The leukocytes in packed RBCs can trigger an antibody response in the recipient after repeated transfusions, and this is responsible for febrile nonhemolytic transfusion reactions. To reduce the risk of this reaction, donor RBCs are passed through specialized filters to remove most of the leukocytes. This is performed routinely in many blood banks, but universal leukocyte reduction has yet to be adopted in the United States.
+Packed RBCs 中的白細胞可在重複輸血後在受者體內引發抗體反應，這是發熱性非溶血性輸血反應的原因。為了減少這種反應的風險，捐獻的 RBC 通過專用過濾器去除大部分白細胞。這在許多血庫中是常規進行的，但美國尚未採用 universal leukocyte reduction。
 
 #### Washed RBCs
 
-Donor RBCs can be washed with isotonic saline to remove residual plasma. This reduces the risk of hypersensitivity reactions caused by prior sensitization to plasma proteins in donor blood. Saline washing does not effectively remove leukocytes.
+可以用等滲鹽水洗滌捐獻的 RBC 以去除殘餘血漿。這減少了先前對捐獻血液中血漿蛋白敏感化引起的過敏反應的風險。鹽水洗滌不能有效去除白細胞。
 
 ### Infusing Packed RBCs
 
-Packed RBCs (PRBCs) have a high viscosity (due to the Hct of 60%) and thus have a sluggish flow rate. As a result, saline is often added to PRBC transfusions to increase the flow rate and reduce infusion time.
+Packed RBCs（PRBCs）具有高粘度（由於 Hct 為 60%），因此流動緩慢。因此，通常在 PRBC 輸血中添加鹽水以增加流速和減少輸注時間。
 
-**Table 12.4** Gravity-Driven Infusion of Packed Red Blood Cells
+**Table 12.4** Packed Red Blood Cells 的重力驅動輸注
 
-| Formulation | Infusion Time (20-G Catheter) | Infusion Time (18-G Catheter) |
+| 製劑 | 輸注時間（20-G 導管） | 輸注時間（18-G 導管） |
 |---|---|---|
-| 1 Unit Undiluted (350 mL) | 117 min | 70 min |
-| 1 Unit + 100 mL Isotonic Saline (450 mL) | 19 min | 12 min |
+| 1 單位未稀釋（350 mL） | 117 分鐘 | 70 分鐘 |
+| 1 單位 + 100 mL 等滲鹽水（450 mL） | 19 分鐘 | 12 分鐘 |
 
-The recommended infusion time is typically 2 hours per unit of packed RBCs for hemodynamically stable patients, so the saline dilution is probably not necessary when PRBCs are infused to correct anemia.
+建議的輸注時間通常是血流動力學穩定的病人每單位 packed RBCs 2 小時，因此當 PRBCs 輸注用於糾正貧血時，鹽水稀釋可能不是必需的。
 
 ### Blood Filters
 
-Standard blood filters (pore size 170 to 260 microns) are required for the transfusion of all blood products. These filters trap blood clots and other debris, but they do not trap leukocytes. These filters can become an impediment to flow as they collect trapped debris, and sluggish infusion rates are an indication to replace filters.
+所有血液產品的輸血都需要標準血液過濾器（孔徑 170 至 260 微米）。這些過濾器捕捉血塊和其他碎屑，但不會捕捉白細胞。這些過濾器在收集截獲的碎屑時可能成為流動的障礙，而緩慢的輸注速率是更換過濾器的指標。
 
 ### Effects on Systemic Oxygenation
 
-In an average-sized adult, one unit of packed RBCs is expected to raise the hemoglobin concentration and hematocrit by 1 g/dL and 3%, respectively. The effects of RBC transfusions on measures of systemic oxygenation are shown in Figure 12.4. The data in this figure is from a group of postoperative patients with severe normovolemic anemia (Hb <7 g/dL) who were transfused with 1–2 units of packed RBCs to raise the Hb above 7 g/dL. The RBC transfusions increased the mean Hb concentration from 6.4 to 8 g/dL (25% increase), and there was a similar increase in O₂ delivery ($DO_2$). However, the systemic O₂ uptake ($VO_2$) was unchanged. The constant $VO_2$ in the face of an increased $DO_2$ indicates that O₂ extraction was reduced by the RBC transfusions. These changes in $DO_2$ and O₂ extraction are the reverse of the changes produced by anemia.
+在平均體型的成年人中，一單位 packed RBCs 預計可使血紅蛋白濃度和 hematocrit 分別增加 1 g/dL 和 3%。RBC 輸血對全身氧合測量指標的影響如圖 12.4 所示。該圖的數據來自術後嚴重正常血容量性貧血（Hb <7 g/dL）的病人組，他們接受了 1–2 單位的 packed RBCs 輸血以將 Hb 升高至 7 g/dL 以上。RBC 輸血使平均血紅蛋白濃度從 6.4 增加到 8 g/dL（增加 25%），O₂ 輸送（$DO_2$）也有類似的增加。然而，全身 O₂ 摄取（$VO_2$）沒有變化。在 $DO_2$ 增加的情況下 $VO_2$ 保持恆定，表明 O₂ extraction 因 RBC 輸血而降低。$DO_2$ 和 O₂ extraction 的這些變化與貧血引起的變化相反。
 
-> **Figure 12.4** Effect of RBC transfusions (1–2 units packed RBCs) to correct severe anemia (Hb <7 g/dL) on systemic oxygen delivery ($DO_2$), and oxygen uptake ($VO_2$) in 11 postoperative patients.
+> **Figure 12.4** 糾正嚴重貧血（Hb <7 g/dL）的 RBC 輸血（1–2 單位 packed RBCs）對 11 名術後病人全身 O₂ 輸送（$DO_2$）和氧摄取（$VO_2$）的影響。
 
 ### No Improvement in Tissue Oxygenation
 
-The lack of an effect on $VO_2$ indicates that RBC transfusions do not enhance tissue oxygenation. This has been confirmed in several clinical studies, and prolonged storage of RBCs can actually impair tissue oxygenation after transfusion. These studies have prompted the following statement in a clinical practice guideline:
+對 $VO_2$ 沒有影響表明 RBC 輸血不會增強組織氧合。這已在多項臨床研究中得到證實，而且 RBC 的長期儲存實際上可能在輸血後損害組織氧合。這些研究促使臨床實踐指南發表了以下聲明：
 
-> "RBC transfusion should not be considered an absolute method to improve tissue oxygenation in critically ill patients."
+> 「不應將 RBC 輸血視為改善危重症病人組織氧合的絕對方法。」
 
 ## Transfusion Risks
 
-The spectrum of adverse events associated with RBC transfusions is shown in Table 12.5, along with the risk of each event per unit of RBCs transfused. Note that transfusion errors are much more frequent than the feared transmission of infectious agents.
+與 RBC 輸血相關的不良事件範圍如表 12.5 所示，連同每次輸注每單位 RBCs 的每個事件的風險。請注意，輸血錯誤比人們恐懼的傳染性病原體傳播要常見得多。
 
-**Table 12.5** Adverse Events Associated with RBC Transfusions (per unit transfused)
+**Table 12.5** RBC 輸血相關的不良事件（每輸注每單位）
 
-| Category | Event | Risk |
+| 類別 | 事件 | 風險 |
 |---|---|---|
-| **Immune-Related** | Nonhemolytic fever | 1:60 |
-| | Urticaria | 1:100 |
-| | Anaphylaxis | 1:1,000 |
-| | Anaphylactic shock | 1:50,000 |
-| | Acute lung injury | 1:12,000 |
-| | Acute hemolysis | 1:35,000 |
-| | Fatal hemolysis | 1:1.9 million |
-| **Transmitted Infections** | Bacterial | 1:500,000 |
-| | Hepatitis B virus | 1:1.2 million |
-| | Hepatitis C virus | 1:1.5 million |
-| | HIV | 1:1.5 million |
-| **Transfusion Errors** | Wrong person transfused | 1:15,000 |
-| | Incompatible transfusion | 1:33,000 |
-| **Others** | Circulatory overload | 1:100* |
-| | Nosocomial infections | (?) |
+| **免疫相關** | 非溶血性發熱 | 1:60 |
+| | 蕁麻疹 | 1:100 |
+| | 過敏反應 | 1:1,000 |
+| | 過敏性休克 | 1:50,000 |
+| | 急性肺損傷 | 1:12,000 |
+| | 急性溶血 | 1:35,000 |
+| | 致命性溶血 | 1:1.9 百萬 |
+| **傳播感染** | 細菌 | 1:500,000 |
+| | B 型肝炎病毒 | 1:1.2 百萬 |
+| | C 型肝炎病毒 | 1:1.5 百萬 |
+| | HIV | 1:1.5 百萬 |
+| **輸血錯誤** | 給錯人 | 1:15,000 |
+| | 不相容輸血 | 1:33,000 |
+| **其他** | 循環負荷過重 | 1:100* |
+| | 院內感染 | (?) |
 
-\*Estimated risk per recipient rather than units.
+\*估計每位受者的風險而不是每單位的風險。
 
 ### Acute Hemolytic Reactions
 
-Acute hemolytic reactions are prompted by the transfusion of RBCs that are ABO-incompatible with the recipient. When this occurs, antibodies in recipient blood bind to ABO antigens on the donor RBCs, and the ensuing lysis of donor RBCs triggers a systemic inflammatory response that can be accompanied by hypotension and multiorgan failure. These reactions are usually the result of human error.
+急性溶血反應是由於輸注與受者 ABO 不相容的 RBC 所引起的。當這種情況發生時，受者血液中的抗體與捐獻 RBC 上的 ABO 抗原結合，隨後的捐獻 RBC 溶血引發全身性發炎反應，可能伴隨低血壓和多重器官衰竭。這些反應通常是人為錯誤的結果。
 
 #### Clinical Features
 
-The hallmark of acute hemolytic reactions is the abrupt onset of fever, dyspnea, chest pain, low back pain, and hypotension within minutes after starting the transfusion. Severe reactions are accompanied by a consumptive coagulopathy and progressive multiorgan dysfunction.
+急性溶血反應的標誌是在開始輸血後幾分鐘內突然出現發燒、呼吸困難、胸痛、腰背痛和低血壓。嚴重反應伴隨著消耗性凝血病和進行性多重器官功能障礙。
 
 #### Management
 
-1. If a hemolytic reaction is suspected, **STOP the transfusion immediately** and verify that the correct blood was given to the correct patient. It is imperative to stop the transfusion as soon as possible because the severity of hemolytic reactions is a function of the volume of blood transfused.
+1. 如果懷疑有溶血反應，**立即停止輸血**並核實正確的血液是否給予了正確的病人。必須盡快停止輸血，因為溶血反應的嚴重程度是輸血量的函數。
 
-2. If the donor blood is correctly matched to the patient, an acute hemolytic reaction is unlikely. However, the blood bank must be notified, and they will ask for blood samples to perform a plasma-free hemoglobin determination and a direct Coomb's test.
+2. 如果捐獻血液與病人正確匹配，則不太可能發生急性溶血反應。但是，必須通知血庫，他們會要求提供血液樣本以進行血漿遊離血紅蛋白測定和直接 Coomb's 試驗。
 
-3. If an acute hemolytic reaction is confirmed, the management is general supportive care, with volume support and vasopressors for hypotension, and ventilatory support for respiratory distress.
+3. 如果確認了急性溶血反應，管理是常規支持治療，包括低血壓的容量支持和 vasopressors，以及呼吸窘迫的呼吸支持。
 
 ### Febrile Nonhemolytic Reactions
 
-Febrile reactions that are unrelated to hemolysis are the most common adverse reactions to RBC transfusions. These reactions are characterized by a temperature elevation >1°C that occurs during, or up to 6 hours after, the transfusion. The culprit is the presence of antileukocyte antibodies in recipient blood that react with antigens on leukocytes in donor blood. This triggers the release of endogenous pyrogens from phagocytes.
+與溶血無關的發熱反應是 RBC 輸血最常見的不良反應。這些反應的特徵是在輸血期間或輸血後最多 6 小時內出現 >1°C 的體溫升高。罪魁禍首是受者血液中抗白細胞抗體與捐獻血液中白細胞抗原的反應。這觸發了吞噬細胞內源性熱原的釋放。
 
 #### Clinical Features
 
-The fever does not usually appear in the first hour after the start of the transfusion, but it can be accompanied by rigors and chills.
+發燒通常在輸血開始後第一小時內不出現，但可能伴隨寒顫和發冷。
 
 #### Management
 
-1. The initial approach to transfusion-related fever is the same as described for hemolytic transfusion reactions. The diagnosis is confirmed by excluding the presence of hemolysis.
+1. 輸血相關發燒的初始處理方法與溶血性輸血反應所述相同。通過排除溶血的存在來確診。
 
-2. The blood bank will perform a Gram stain on the donor blood, and may request blood cultures from the recipient.
+2. 血庫將對捐獻血液進行 Gram 染色，並可能要求受者進行血液培養。
 
-3. More than 75% of nonhemolytic fevers will not recur with subsequent transfusions. Therefore, no special precautions are needed for future transfusions. If a second febrile reaction occurs, leukocyte-reduced RBCs are advised.
+3. 超過 75% 的非溶血性發燒在後續輸血時不會復發。因此，未來的輸血不需要特別預防措施。如果第二次發燒反應發生，建議使用 leukocyte-reduced RBCs。
 
 ### Hypersensitivity Reactions
 
-Hypersensitivity reactions are the result of sensitization to plasma proteins in donor blood from prior transfusions. Patients with IgA deficiency are prone to hypersensitivity transfusion reactions. The most common hypersensitivity reaction is urticaria, which is reported in one of every 100 units transfused.
+過敏反應是對先前輸血中捐獻血液血漿蛋白敏感化的結果。IgA 缺乏症病人容易發生過敏性輸血反應。最常見的過敏反應是蕁麻疹，報告為每輸注 100 單位中就有 1 例。
 
 #### Clinical Features
 
-The usual manifestation is mild urticaria that appears during the transfusion and is not accompanied by fever. The abrupt onset of dyspnea and wheezing during a transfusion could be a sign of an anaphylactic reaction.
+常見表現是輕度蕁麻疹，在輸血期間出現，不伴隨發燒。在輸血期間突然出現呼吸困難和喘息可能是過敏性反應的跡象。
 
 #### Management
 
-1. Mild urticaria without fever does not require interruption of the transfusion. However, the popular practice is to stop the transfusion temporarily and administer an antihistamine for symptom relief (e.g., diphenhydramine, 25–50 mg).
+1. 沒有發燒的輕度蕁麻疹不需要中斷輸血。但是，常見的做法是暫時停止輸血並給予抗組胺藥以緩解症狀（例如苯海拉明，25–50 mg）。
 
-2. Severe anaphylactic reactions should be managed as described in Chapter 17. The transfusion should be stopped immediately if severe anaphylaxis is suspected.
+2. 嚴重的過敏性反應應按照第 17 章所述進行處理。如果懷疑有嚴重過敏反應，應立即停止輸血。
 
-3. For patients who experience an allergic reaction, washed RBCs should be used for all future transfusions.
+3. 對於發生過敏反應的病人，所有未來的輸血都應使用 washed RBCs。
 
-4. Patients who develop hypersensitivity reactions should be tested for an underlying IgA deficiency.
+4. 發生過敏反應的病人應檢測潛在的 IgA 缺乏症。
 
 ### Acute Lung Injury
 
-The condition known as transfusion-related acute lung injury (TRALI) is an inflammatory lung injury that resembles the acute respiratory distress syndrome (ARDS), and is associated with RBC and platelet transfusion. It is uncommon (one case per 12,000 RBC transfusions), but is considered the leading cause of transfusion-related deaths, and has a mortality rate that approaches 50%.
+被稱為輸血相關急性肺損傷（TRALI）的狀況是一種發炎性肺損傷，類似於急性呼吸窘迫症候群（ARDS），與 RBC 和血小板輸血相關。它不常見（每 12,000 次 RBC 輸血中有一例），但被認為是輸血相關死亡的主要原因，死亡率接近 50%。
 
 #### Etiology
 
-In 80% of cases, TRALI is the result of antibodies in donor blood that bind to antigens on circulating neutrophils in the recipient. This triggers neutrophil activation, and the activated neutrophils become sequestered in pulmonary capillaries and migrate into the lungs to produce the inflammatory injury.
+80% 的病例中，TRALI 是由捐獻血液中與受者循環中性粒細胞上抗原結合的抗體引起的。這觸發中性粒細胞激活，活化的中性粒細胞在肺毛細血管中隔離並遷移到肺部產生發炎損傷。
 
 #### Clinical Features
 
-TRALI presents with acute hypoxemic respiratory failure that often appears in the first hour after the transfusion begins, but can appear anytime in the first 6 hours. Fever is common, and the chest x-ray can eventually show extensive infiltration in both lungs that is indistinguishable from ARDS.
+TRALI 表現為急性低氧性呼吸衰竭，通常在輸血開始後第一小時內出現，但可在開始後最多 6 小時內的任何時間出現。常見發燒，胸部 X 光最終可顯示雙肺彌散性浸潤，與 ARDS 無法區分。
 
 #### Management
 
-1. If the transfusion is not completed, it should be stopped at the first signs of respiratory difficulty.
+1. 如果輸血尚未完成，應在出現呼吸困難的第一跡象時停止。
 
-2. The management of TRALI is supportive, and is similar to the management of ARDS.
+2. TRALI 的管理是支持性的，與 ARDS 的管理類似。
 
 ### Hydrostatic Pulmonary Edema
 
-The most common pulmonary complication of red blood cell transfusions is a condition known as transfusion-associated circulatory overload (TACO), which has a reported incidence of 1%. The hallmark of this condition is acute hydrostatic pulmonary edema that appears in the first 6 hours after the transfusion begins. The resulting acute hypoxemic respiratory failure often requires mechanical ventilation.
+紅細胞輸血最常見的肺部併發症是被稱為輸血相關循環負荷過重（TACO）的狀況，報告發病率為 1%。這種狀況的標誌是在輸血開始後的前 6 小時內出現急性靜水壓性肺水腫。由此產生的急性低氧性呼吸衰竭通常需要機械通氣。
 
 #### Etiology
 
-There is no correlation between the number of transfused units and the appearance of TACO, but the condition appears more frequently in patients with pre-existing heart failure and renal failure, who are prone to fluid overload.
+輸注單位數量與 TACO 的出現之間沒有相關性，但這種狀況更頻繁地出現在有心衰竭和腎衰竭病史的病人中，他們容易發生液體負荷過量。
 
 #### Clinical Presentation
 
-The clinical presentation can be indistinguishable from TRALI, with acute onset of hypoxemic respiratory failure in the first 6 hours after the transfusion begins. Patients are febrile in 30% of cases, and mechanical ventilation is required in three-quarters of patients.
+臨床表現可能與 TRALI 無法區分，在輸血開始後的前 6 小時內出現急性低氧性呼吸衰竭。30% 的病例中病人會發燒，四分之三的病人需要機械通氣。
 
 #### Management
 
-1. The transfusion should be stopped if not completed, and the blood bank should be notified.
+1. 如果輸血尚未完成，應停止並通知血庫。
 
-2. An intravenous loop diuretic is appropriate.
+2. 靜脈注射 loop 利尿劑是適當的。
 
-3. Identifying and correcting a positive fluid balance (with diuretics) prior to transfusions is advised.
+3. 建議在輸血前識別和糾正正的液體平衡（使用利尿劑）。
 
 ### Nosocomial Infections
 
-The immunosuppressive effects of blood transfusions became evident with the discovery (in the early 1970s) that pre-transplant blood transfusions improve the survival rate of renal allografts. Since then, a multitude of clinical studies have shown that patients who receive blood transfusions have a higher incidence of nosocomial infections. The risk of infection increases with the volume of blood transfused, and with the storage time of donor blood.
+血液輸血的免疫抑制作用在 1970 年代初期發現了腎移植前血液輸血可以提高腎同種移植物存活率時變得明顯。此後，許多臨床研究表明，接受血液輸血的病人有更高的院內感染發生率。感染風險隨輸血量和捐獻血液的儲存時間增加。
 
 ### What's Worse – Anemia or RBC Transfusions?
 
-A review of 45 clinical studies involving RBC transfusions for anemia in critically ill patients, which included 272,596 patients, revealed the following:
+一項回顧了 45 項涉及危重症病人貧血 RBC 輸血的臨床研究（包括 272,596 名病人），揭示了以下內容：
 
-1. In 42 of the 45 studies, the risks of RBC transfusions outweighed the benefits.
+1. 在 45 項研究中的 42 項中，RBC 輸血的風險超過了益處。
 
-2. Eighteen studies evaluated the impact of RBC transfusions on survival, and 17 of the 18 studies showed that RBC transfusions were an independent risk factor for a fatal outcome.
+2. 18 項研究評估了 RBC 輸血對生存率的影響，其中 17 項研究表明 RBC 輸血是致命結果的獨立危險因素。
 
 ## A Final Word
 
 ### Blood Volume vs. Blood Cells
 
-The practice of boosting hemoglobin levels in critically ill patients is rooted in the belief that anemia is a significant threat to tissue oxygenation. However, it seems that even extreme reductions in hemoglobin or hematocrit do not impair tissue oxygenation when the intravascular volume is maintained (which allows the cardiac output to increase in response to anemia). Blood volume may have supremacy over the hemoglobin and hematocrit for supporting tissue oxygenation, because hypovolemia is a recognized cause of shock (a state of impaired tissue oxygenation), but anemia is not.
+在危重症病人中提高血紅蛋白水平的做法根植於這樣的信念：貧血是組織氧合的重大威脅。然而，似乎即使血紅蛋白或 hematocrit 的極度減少在維持血管內容積時也不會損害組織氧合（這允許 cardiac output 在貧血時增加）。血量可能比血紅蛋白和 hematocrit 對支持組織氧合具有更高的地位，因為低血容量是休克（組織氧合受損的狀態）的公認原因，但貧血不是。
 
-The importance of blood volume is often overlooked in discussions of anemia and RBC transfusions. Would diuresis do the same thing as transfusion?
+在貧血和 RBC 輸血的討論中，血量的重要性經常被忽視。利尿會不會與輸血產生相同的效果？
 
 ---
 

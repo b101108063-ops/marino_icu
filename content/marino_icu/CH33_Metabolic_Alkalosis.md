@@ -145,21 +145,21 @@ Alkalosis shifts the oxyhemoglobin dissociation curve to the left (Bohr effect),
 
 ## Evaluation
 
-The conditions that promote metabolic alkalosis can be organized according to the state of the extracellular volume and the urinary chloride concentration, as shown in Table 33.1 (2,3).
+促進 metabolic alkalosis 的狀況可以根據細胞外液體積狀態與尿液 chloride 濃度來組織，如表 33.1（2,3）所示。
 
-**Table 33.1 — Principal Sources of Metabolic Alkalosis**
+**表 33.1 — Metabolic Alkalosis 的主要來源**
 
-| Extracellular Volume | Urine Chloride | Conditions |
+| 細胞外液體積 | 尿液 chloride | 疾病狀況 |
 |---|---|---|
-| Low | < 20 mEq/L | Vomiting, nasogastric suction |
-| Low | < 20 mEq/L | Thiazide or loop diuretics (after-effect), laxative abuse |
-| High / Variable | > 20 mEq/L | Primary hyperaldosteronism, exogenous mineralocorticoids, licorice ingestion |
-| High / Variable | > 20 mEq/L | K⁺ depletion, Mg²⁺ depletion |
+| 低 | < 20 mEq/L | 嘔吐、鼻胃管吸引 |
+| 低 | < 20 mEq/L | Thiazide 或 loop diuretics（效應過後）、laxative 濫用 |
+| 高 / 不固定 | > 20 mEq/L | 原發性 hyperaldosteronism、外源性 mineralocorticoids、甘草攝取 |
+| 高 / 不固定 | > 20 mEq/L | K⁺ depletion、 Mg²⁺ depletion |
 
 ### Saline Infusions for Metabolic Alkalosis
 
-*(Table 33.2 content not fully provided in source)*
+*（表 33.2 內容來源未完整提供）*
 
 ### Hydrochloric Acid Infusions
 
-*(Table 33.3 content not fully provided in source)*
+*（表 33.3 內容來源未完整提供）*

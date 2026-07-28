@@ -34,31 +34,31 @@ Acid-base physiology and pathology is one of the fundamental knowledge bases in 
 
 ### Hydrogen Ion Concentration and pH
 
-The hydrogen ion concentration [H⁺] in aqueous solutions is traditionally expressed by the pH, which is an abbreviation for the "power of hydrogen," and is a logarithmic function of the [H⁺]; i.e.,
+氫離子濃度 [H⁺] 在水溶液中的傳統表示方式是用 pH 值，pH 是「power of hydrogen」的縮寫，是 [H⁺] 的對數函數：
 
 ```
 pH = log (1/[H⁺]) = − log [H⁺]
 ```
 
-The physiological range of pH and corresponding [H⁺] is shown in Figure 31.1. The normal pH of plasma is **7.40**, which corresponds to a [H⁺] of **40 nEq/L**.
+圖 31.1 顯示 pH 的生理範圍及其對應的 [H⁺]。血漿的正常 pH 為 **7.40**，對應的 [H⁺] 為 **40 nEq/L**。
 
-The relationships in Figure 31.1 show that changes in pH are not linearly related to changes in [H⁺]. Note that the change in [H⁺] in the acidotic range (60 nEq/L) is about 2.5 times greater than in the alkalotic range (24 nEq/L), which means that changes in pH will have different implications for acid-base balance at different points along the pH spectrum.
+圖 31.1 中的關係顯示，pH 的變化與 [H⁺] 的變化並非線性關係。注意，在酸中毒範圍（60 nEq/L）中 [H⁺] 的變化約為鹼中毒範圍（24 nEq/L）的 2.5 倍，這意味著在 pH 譜的不同位置，pH 的變化對酸鹼平衡的影響並不相同。
 
 ### Hydrogen Ion as a Trace Element
 
-Also evident in Figure 31.1 is that the concentration of H⁺ is expressed in nanoequivalents per liter (nEq/L, or 10⁻⁹ Eq/L). One nanoequivalent is one-millionth of a milliequivalent (1 nEq = 1 × 10⁻⁶ mEq), so hydrogen ions are about a million times less dense than the principal ions in extracellular fluid (sodium and chloride), whose concentrations are expressed in mEq/L. This gives hydrogen ions the status of a trace element, but it is a very influential one, as shown by the fact that the normal pH range (7.36–7.44) corresponds to a change in [H⁺] of less than 10 nEq/L.
+圖 31.1 同時顯示，H⁺ 的濃度是以每升毫微當量（nEq/L，或 10⁻⁹ Eq/L）來表示。1 毫微當量等於百萬分之一毫當量（1 nEq = 1 × 10⁻⁶ mEq），因此氫離子的密度約為細胞外液主要離子（sodium 與 chloride，濃度以 mEq/L 表示）的百萬分之一。這使氫離子具有微量元素（trace element）的地位，但它的影響力極為巨大——正常 pH 範圍（7.36–7.44）對應的 [H⁺] 變化不到 10 nEq/L，即可證明。
 
 ---
 
 ## Classification of Acid-Base Disorders
 
-According to traditional concepts of acid-base physiology, the [H⁺] in extracellular fluid is determined by the balance between the partial pressure of carbon dioxide (PCO₂) and the concentration of bicarbonate [HCO₃⁻] in the fluid. This relationship is expressed as follows (3):
+根據酸鹼生理學的傳統概念，細胞外液的 [H⁺] 是由二氧化碳分壓（PCO₂）與該液體中 bicarbonate [HCO₃⁻] 濃度之間的平衡所決定的。此關係式如下（3）：
 
 ```
 [H⁺] = 24 × (PCO₂ / HCO₃⁻)
 ```
 
-The PCO₂/HCO₃⁻ ratio identifies all the primary acid-base disorders and compensatory responses, as shown in Table 31.1.
+PCO₂/HCO₃⁻ 比值可識別所有原發性酸鹼失衡及其代償反應，如表 31.1 所示。
 
 **Table 31.1 — Primary Acid-Base Disorders and Compensatory Responses**
 
@@ -71,13 +71,13 @@ The PCO₂/HCO₃⁻ ratio identifies all the primary acid-base disorders and co
 
 ### Determinants of the Anion Gap
 
-*(Table 31.2 content not fully provided in source)*
+*（表 31.2 內容來源未完整提供）*
 
 ---
 
 ## Causes of Metabolic Acidosis
 
-Metabolic acidosis can be classified based on the anion gap, as shown in Table 31.3.
+Metabolic acidosis 可依 anion gap 分類，如表 31.3 所示。
 
 **Table 31.3 — Causes of Metabolic Acidosis Based on the Anion Gap**
 

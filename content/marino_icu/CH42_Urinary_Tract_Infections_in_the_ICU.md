@@ -24,19 +24,19 @@ Indwelling bladder catheters are commonplace in critically ill patients, and cat
 - **念珠菌尿**（Candiduria）在留置導尿管患者多為 colonisation，若有系統性症狀則需評估是否為**散播性念珠菌病**（血培養陰性率>50%），首選 **fluconazole**，*C. glabrata* 對 fluconazole 有抗藥性則用 **amphotericin B**。
 - **預防核心**：縮短導尿管留置時間為最有效措施；每日清潔導尿管 insertion site、系統性抗生素預防**不建議**使用。
 
-The presence of an indwelling bladder catheter is associated with a 3–8% incidence of bacteriuria (≥10⁵ CFU/mL) per day. Bacteria (mostly of bowel origin) form biofilms on the inner and outer surface of urethral catheters, and these biofilms can serve as a source of continued microbial colonization in the bladder. However, this is not the full story, because direct injection of pathogens into the bladder of healthy subjects does not result in infection.
+留置膀胱導管的患者每天有 3–8% 的菌尿症發生率（≥10⁵ CFU/mL）。細菌（主要來自腸道）在尿道導管的內外表面形成 biofilms，這些 biofilms 可作為膀胱中持續微生物 colonization 的來源。然而，這不是全部，因為將病原體直接注入健康受試者的膀胱並不會導致 infection。
 
 ### Bacterial Adherence
 
-The missing piece is the ability of pathogenic organisms to adhere to the bladder epithelium. The epithelial cells of the bladder are normally coated with commensal (non-pathogenic) organisms, and this prevents the attachment of pathogenic organisms, which serves as a prelude to urinary tract infections. This is the same phenomenon that occurs in colonization of the oral mucosa with pathogenic microbes, which is a prelude to nosocomial pneumonia.
+缺失的部分是致病生物體附著於膀胱上皮的能力。膀胱的上皮細胞通常被共生（非致病性）生物體覆蓋，這可以防止致病生物體的附著，這是泌尿道 infections 的前驅。這與口腔黏膜被致病微生物 colonization 的現象相同，這是院內肺炎的前驅。
 
-The presence of a bladder catheter triggers a localized inflammatory response in the bladder epithelium, with exfoliation of the normal epithelial lining, and this favors the attachment of urinary pathogens.
+膀胱導管的存在會觸發膀胱上皮中的局部發炎反應，導致正常上皮襯裡脫落，這有利於泌尿道病原體的附著。
 
 ### Microbiology
 
-A multistate survey of organisms isolated in catheter-associated UTIs (in order of decreasing prevalence):
+一項多州調查中導管相關 UTIs 分離出的生物體（按流行率遞減順序）：
 
-| Organism | Prevalence |
+| 生物體 | 流行率 |
 |---|---|
 | *Escherichia coli* | 28% |
 | *Klebsiella pneumoniae* | 23% |
@@ -46,112 +46,112 @@ A multistate survey of organisms isolated in catheter-associated UTIs (in order 
 | Staphylococci | 3% |
 | Streptococci | 3% |
 
-A single organism predominates in short-term catheterization (<30 days), while polymicrobial infections are common in long-term catheterization (≥30 days).
+短期導尿（<30 天）以單一生物體為主，而長期導尿（≥30 天）常見多種微生物 infection。
 
 ### Prevention
 
-The risk of catheter-associated infection is determined primarily by the duration of catheterization. Removing catheters when they are no longer necessary is the single most effective measure for preventing catheter-associated infections.
+導管相關 infection 的風險主要取決於導尿的時間。當導管不再需要時將其移除是預防導管相關 infection 最有效的單一措施。
 
-Additional observations about prevention:
+預防的其他觀察：
 
-- **Daily cleansing** of catheter insertion sites (with antiseptic solutions, antibiotic creams, or soap and water) is **not recommended**, as this practice can increase the risk of bacteriuria.
-- **Prophylaxis with systemic antibiotics** is **not recommended**.
-- **Antimicrobial-impregnated urinary catheters** (i.e., with silver alloy) can reduce the incidence of catheter-associated infections, but only if combined with regular replacement of catheters.
+- **每日清潔** 導管插入部位（使用消毒溶液、抗生素軟膏或肥皂和水）**不建議**，因為這種做法可能增加菌尿症的風險。
+- **全身性抗生素預防** 不建議。
+- **含抗菌劑的導管**（如含銀合金）可減少導管相關 infection 的發生率，但需配合定期更換導管。
 
 ---
 
 ## Diagnosis and Treatment
 
-The diagnosis of catheter-associated UTIs (CAUTIs) is based on criteria from the **National Healthcare Safety Network (NHSN)**, a division of the Centers for Disease Control and Prevention (CDC).
+導管相關 UTIs (CAUTIs) 的診斷基於國家醫療安全網絡（NHSN）的標準，該組織是疾病控制與預防中心（CDC）的一個部門。
 
 ### Diagnostic Criteria
 
-The diagnosis of CAUTI requires **all** of the following:
+CAUTI 的診斷需要**所有**以下條件：
 
-1. **Catheter presence:** Indwelling urethral catheter for at least two consecutive days in an inpatient setting, and the catheter is either still in place or has been removed the day before the suspected infection.
+1. **導管存在：** 在住院環境中留置尿道導管至少連續兩天，且導管仍處於位置或在被懷疑感染的前一天已被移除。
 
-2. **Symptoms:** At least one of the following:
-   - Fever (>38° C or 100.4° F)
-   - Suprapubic tenderness
-   - Costovertebral pain or tenderness
-   - Urinary urgency or frequency
+2. **症狀：** 至少有以下一項：
+   - Fever（>38° C 或 100.4° F）
+   - 恥骨上壓痛
+   - 脊椎肋骨疼痛或壓痛
+   - 泌尿道急迫或頻率
    - Dysuria
    
-   *Note: Urinary urgency, frequency, and dysuria do not apply to patients with indwelling catheters.*
+   *注意：泌尿道急迫、頻率和 dysuria 不適用於留置導管的患者。*
 
-3. **Urine culture:** No more than two species of organisms, with at least one bacterium at ≥10⁵ CFU/mL.
+3. **尿液培養：** 不超過兩種生物體，且至少有一種細菌 ≥10⁵ CFU/mL。
 
 ### Fever
 
-The inclusion of fever as a diagnostic criterion for CAUTI is problematic, because there are many potential causes of fever in ICU patients (see Chapter 44). The nonspecific nature of fever is demonstrated by a comparison study in which the incidence of fever was the same in patients with and without CAUTI.
+將發燒作為 CAUTI 的診斷標準是有問題的，因為 ICU 患者有許多潛在的發燒原因（見第44章）。在一項比較研究中，發燒的發生率在有和無 CAUTI 的患者中相同，證明了發燒的非特異性本質。
 
 ### Pyuria
 
-Pyuria (>10 white blood cells per high-powered field in centrifuged urine) is **not diagnostic** of CAUTI, since there are noninfectious inflammatory conditions that can cause pyuria. However, the **absence** of pyuria is evidence **against** the diagnosis of CAUTI.
+膿尿（離心尿中每高倍視野 >10 個白血球）對 CAUTI **不是診斷性的**，因為有一些非感染性發炎條件可導致膿尿。然而，**沒有**膿尿是**反對** CAUTI 診斷的證據。
 
 ### Bacteremia
 
-About 20% of bacteremias in hospitalized patients are the result of CAUTI. The NHSN has a diagnostic entity called **Asymptomatic Bacteremic Urinary Tract Infection (ABUTI)**: a patient who is asymptomatic but has significant bacteriuria (>10⁵ CFU/mL) with an organism also growing in blood cultures. If the same bacterium is isolated in blood and urine cultures (and growth in urine is >10⁵ CFU/mL), the diagnosis is a UTI regardless of symptoms. This does not apply to *Candida* species.
+住院患者約 20% 的菌血症是由 CAUTI 引起的。NHSN 有一個診斷類別稱為**無症狀菌血症性泌尿道 infection（ABUTI）**：患者無症狀但有顯著菌尿症（>10⁵ CFU/mL），且有生物體也在血液培養中生長。如果同一細菌在血液和尿液培養中被分離出來（且尿液中生長 >10⁵ CFU/mL），則無論症狀如何，診斷都是 UTI。這不適用於 *Candida* species。
 
 ### Asymptomatic Bacteriuria
 
-Diagnosis requires:
+診斷需要：
 
-1. A urine culture showing growth of a single bacterium with a colony count >10⁵ CFU/mL.
-2. Blood cultures showing no growth of the bacterium identified in the urine culture.
-3. The absence of symptoms related to a UTI.
+1. 尿液培養顯示單一細菌生長，菌落計數 >10⁵ CFU/mL。
+2. 血液培養顯示尿液中識別的細菌沒有生長。
+3. 沒有與 UTI 相關的症狀。
 
 ### Treatment
 
-1. **Asymptomatic bacteriuria** does not warrant antibiotic treatment unless the patient is scheduled for a urologic procedure resulting in mucosal bleeding.
+1. **無症狀菌尿症** 不需要 antibiotic 治療，除非患者預定進行會導致黏膜出血的泌尿科手術。
 
-2. **Empiric antibiotics** for suspected CAUTI should provide coverage for gram-negative aerobic bacilli and enterococci:
-   - **First-line:** Piperacillin-tazobactam or a carbapenem (e.g., meropenem)
-   - **Second-line:** Ceftazidime, cefepime, or a fluoroquinolone (e.g., levofloxacin)
+2. 懷疑 CAUTI 的**經驗性 antibiotics** 應覆蓋革蘭氏陰性好氧桿菌和腸球菌：
+   - **第一線：** Piperacillin-tazobactam 或 carbapenem（如 meropenem）
+   - **第二線：** Ceftazidime、cefepime 或 fluoroquinolone（如 levofloxacin）
 
-3. Once the diagnosis of CAUTI is confirmed by urine culture, antibiotic therapy should be tailored to the isolated organism and microbial sensitivities. Catheters that have been in place for longer than two weeks should be replaced or removed if no longer necessary.
+3. 一旦通過尿液培養確診 CAUTI，antibiotic 治療應根據分離出的生物體和微生物敏感性進行調整。留置超過兩週的導管應更換或在不需要時移除。
 
-4. **Duration of therapy:** 7 days for patients who respond promptly; 10–14 days otherwise.
+4. **治療時間：** 對迅速反應的患者 7 天；否則 10–14 天。
 
 ---
 
 ## Candiduria
 
-The presence of *Candida* species in urine usually represents colonization in patients with indwelling urethral catheters. However, candiduria can also be a sign of disseminated candidiasis (the candiduria being the result, not the cause, of disseminated candidiasis). In fact, candiduria may be the only evidence of disseminated disease, since blood cultures are unrevealing in more than 50% of cases of disseminated candidiasis.
+尿液中存在 *Candida* species 通常代表留置尿道導管患者的 colonization。然而，Candiduria 也可能是散播性 candidiasis 的徵兆（Candiduria 是散播性 candidiasis 的結果而非原因）。實際上，Candiduria 可能是散播性疾病的唯一證據，因為在超過 50% 的散播性 candidiasis 病例中，血液培養為陰性。
 
 ### Microbiology
 
-In candiduria, the colony count has no predictive value for identifying renal or disseminated candidiasis. The most frequent isolate is *C. albicans* (~50% of cases), followed by *C. glabrata*. The latter organism is notable for resistance to fluconazole.
+在 candiduria 中，菌落計數對識別腎臟或散播性 candidiasis 沒有預測價值。最常見的分離菌是 *C. albicans*（約 50% 的病例），其次是 *C. glabrata*。後者因對 fluconazole 抗藥性而著名。
 
 ### Asymptomatic Candiduria
 
-Asymptomatic candiduria does not require treatment unless the patient is neutropenic (at risk for disseminated candidiasis). In this case, the recommended prophylaxis is an echinocandin (caspofungin, micafungin, or anidulafungin).
+無症狀 candiduria 不需要治療，除非患者嗜中性球減少（有散播性 candidiasis 風險）。在這種情況下，建議的預防是 echinocandin（caspofungin、micafungin 或 anidulafungin）。
 
 ### Symptomatic Candiduria
 
-Candiduria associated with fever, suprapubic tenderness, or costovertebral tenderness requires:
+伴有 fever、恥骨上壓痛或脊椎肋骨壓痛的 Candiduria 需要：
 
-1. Antifungal therapy
-2. Blood cultures
-3. Imaging studies of the kidneys (ultrasound or CT) to search for renal abscesses or evidence of urinary tract obstruction
+1. Antifungal 治療
+2. 血液培養
+3. 腎臟影像學檢查（超聲或 CT）以尋找腎臟 abscess 或泌尿道阻塞的證據
 
-**Treatment recommendations:**
+**治療建議：**
 
-| Organism | Treatment |
+| 生物體 | 治療 |
 |---|---|
-| *Candida albicans* (fluconazole-sensitive) | Oral fluconazole 200–400 mg daily for 2 weeks |
-| *Candida glabrata* or *Candida krusei* (fluconazole-resistant) | Amphotericin B 0.3–0.6 mg/kg daily for 1–7 days (echinocandins are not recommended due to poor urine penetration) |
-| Candida UTIs with fungus balls | Surgical intervention; irrigation with amphotericin B (25–50 mg in 200–500 mL sterile water) if nephrostomy tubes are present |
+| *Candida albicans*（對 fluconazole 敏感） | 口服 fluconazole 200–400 mg，每日一次，共 2 週 |
+| *Candida glabrata* 或 *Candida krusei*（對 fluconazole 抗藥） | Amphotericin B 0.3–0.6 mg/kg，每日一次，共 1–7 天（不建議使用 echinocandins，因為尿液穿透性差） |
+| 含真菌球的 Candida UTIs | 手術治療；若有 nephrostomy tubes，可用水楊酸 amides（25–50 mg溶於 200–500 mL 無菌水）沖洗 |
 
 ---
 
 ## A Final Word: Bacterial Adherence and Nosocomial Infections
 
-The unifying feature in nosocomial infections involving the gastrointestinal, respiratory, and urinary tracts is a change in the character of microbes that adhere to epithelial surfaces. In healthy subjects, epithelial surfaces in the mouth, GI tract, and urinary tract are colonized by harmless microbes, but this changes in seriously ill patients when epithelial surfaces become populated with pathogenic organisms.
+涉及胃腸道、呼吸道的院內 infections 和泌尿道感染的共同特徵是附著於上皮表面的微生物特徵的改變。在健康受試者中，口腔、GI tract 和泌尿道中的上皮表面被無害微生物 colonization，但在重症患者中，上皮表面被致病生物體占据。
 
-The colonization of epithelial surfaces is not a function of microbial density but rather is determined by the ability of bacteria to bind to epithelial cells. For example, pathogenic *E. coli* (the most common cause of CAUTIs) have specialized appendages called pili that bind to glycoproteins on bladder epithelial cells, and small carbohydrate molecules (such as mannose) can competitively block this binding.
+上皮表面的 colonization 不是微生物密度的函數，而是由細菌結合上皮細胞的能力決定。例如，致病性 *E. coli*（CAUTIs 最常見的原因）有稱為 pili 的專門附屬物，可結合膀胱上皮細胞上的醣蛋白，而小分子碳水化合物（如 mannose）可以競爭性地阻止這種結合。
 
-These observations suggest a novel approach to the prevention of nosocomial infections by preventing the adhesion of pathogenic organisms to epithelial surfaces — an approach that does not require prophylactic antibiotics and thus would limit the emergence of resistant organisms.
+這些觀察表明了一種預防院內 infection 的新方法，通過防止致病生物體附著於上皮表面——這種方法不需要預防性 antibiotics，因此可以限制抗藥性生物體的出現。
 
 ---
 

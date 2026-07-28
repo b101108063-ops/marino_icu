@@ -39,24 +39,24 @@ Magnesium is also essential for the proper functioning of the Na⁺–K⁺ excha
 
 ### Magnesium Distribution
 
-The distribution of magnesium (Mg) in the human body is shown in Table 37.1 (5). The average-sized adult contains approximately **24 g** (1 mole, or 2,000 mEq) of magnesium; a little over half is located in bone, whereas less than 1% is located in plasma. This lack of representation in the plasma limits the value of the plasma Mg as a measure of total body Mg (similar to the limitation described for the plasma K⁺ measurement). One consequence of this is that plasma Mg levels can be normal in the face of total body Mg depletion (5,6).
+鎂（Mg）在人體中的分布如表 37.1 所示（5）。中等體型的成人約含有 **24 g**（1 莫耳，或 2,000 mEq）的鎂；略多於一半存在於骨骼中，而少於 1% 存在於血漿中。血漿中的這種代表性不足限制了血漿 Mg 作為測量全身 Mg 之指標的價值（與血漿 K⁺ 測量所述的限制類似）。這帶來的一個後果是，即使全身 Mg 耗竭，血漿 Mg 濃度可能仍是正常的（5,6）。
 
-**Table 37.1 — Magnesium Distribution in a 70 kg Adult**
+**表 37.1 — 一位 70 kg 成人的鎂分布**
 
-| Compartment | Amount |
+| 區室 | 含量 |
 |---|---|
-| Total body Mg | ~24 g (2,000 mEq) |
-| Bone | ~53% |
-| Intracellular (muscle, soft tissue) | ~46% |
-| Plasma | < 1% |
+| 全身 Mg | ~24 g (2,000 mEq) |
+| 骨骼 | ~53% |
+| 細胞內（肌肉、軟組織） | ~46% |
+| 血漿 | < 1% |
 
 ### Serum Magnesium
 
-Serum is favored over plasma for measuring Mg levels because the anticoagulant used for plasma samples can be contaminated with citrate or other anions that bind Mg (5). The reference range for serum Mg depends on the daily Mg intake, which varies according to geographic region. The normal range of serum Mg for healthy adults in the United States is shown in Table 37.2 (7).
+測量 Mg 濃度時較偏好使用血清而非血漿，因為用於血漿樣本的抗凝劑可能含有會與 Mg 結合的 citrate 或其他陰離子（5）。血清 Mg 的參考範圍取決於每日 Mg 攝取量，而這會因地理區域而異。美國健康成人的血清 Mg 正常範圍如表 37.2 所示（7）。
 
-**Table 37.2 — Reference Ranges for Serum Magnesium**
+**表 37.2 — 血清鎂的參考範圍**
 
-| Unit | Total Serum Mg | Ionized Mg |
+| 單位 | 血清總鎂（Total Serum Mg） | 游離鎂（Ionized Mg） |
 |---|---|---|
 | mg/dL | 1.7–2.4 | 0.8–1.1 |
 | mEq/L | 1.4–2.0 | 0.7–1.0 |
@@ -64,19 +64,19 @@ Serum is favored over plasma for measuring Mg levels because the anticoagulant u
 
 ### Converting Units
 
-The clinical laboratory typically reports the serum Mg concentration in mg/dL (because Mg is partially bound to plasma proteins), while the medical literature typically uses mEq/L for the serum Mg concentration. The conversion is as follows:
+臨床實驗室通常以 mg/dL 報告血清 Mg 濃度（因為 Mg 部分與血漿蛋白結合），而醫學文獻通常使用 mEq/L 來表示血清 Mg 濃度。轉換方式如下：
 
 ```
 mEq/L = (mg/dL × 10) / (mol wt / valence)
 ```
 
-where mol wt is the molecular weight (atomic weight in the case of Mg) and valence is the number of charges on the atom or molecule. Magnesium has an atomic weight of 24 and a valence of 2, so a serum Mg concentration of 1.7 mg/dL is equivalent to (1.7 × 10) / (24 / 2) = 1.4 mEq/L.
+其中 mol wt 為分子量（對於 Mg 而言是原子量），valence 為原子或分子上的電荷數。鎂的原子量為 24，valence 為 2，因此血清 Mg 濃度 1.7 mg/dL 等於 (1.7 × 10) / (24 / 2) = 1.4 mEq/L。
 
-To complicate matters further, the International System of Units (SI units) uses mmol/L to express the serum Mg concentration. The conversion is: **mmol/L = mEq/L × 0.5**.
+更複雜的是，國際單位制（SI units）使用 mmol/L 來表示血清 Mg 濃度。轉換方式是：**mmol/L = mEq/L × 0.5**。
 
 ### Ionized Magnesium
 
-About **67%** of the Mg in plasma is in the ionized (active) form (see Table 37.2), and the remaining 33% is either bound to plasma proteins or chelated with divalent anions such as phosphate and sulfate (8). The standard assay for Mg measures all three fractions, so in cases of hypomagnesemia, it is not possible to determine if the problem is a decrease in the ionized Mg without specialized testing. Ionized Mg can be measured with an ion-specific electrode, but this is not routinely available. However, the clinical significance of monitoring ionized Mg versus total Mg is unclear.
+血漿中約 **67%** 的 Mg 以離子化（活性）形式存在（請見表 37.2），其餘 33% 要麼與血漿蛋白結合，要麼與 phosphate 與 sulfate 等二價陰離子螯合（8）。Mg 的標準檢測測量所有三個部分，因此在 hypomagnesemia 的情況下，若沒有專門檢測就無法確定問題是否為離子化 Mg 的減少。離子化 Mg 可以用離子特異性 electrode 測量，但這非常規配備。然而，監測離子化 Mg 與總 Mg 的臨床意義尚不清楚。
 
 ---
 
@@ -84,41 +84,41 @@ About **67%** of the Mg in plasma is in the ionized (active) form (see Table 37.
 
 ### Predisposing Conditions and Clinical Findings
 
-**Table 37.3 — Markers of Possible Magnesium Depletion**
+**表 37.3 — 鎂離子 depletion 的可能指標**
 
-| Predisposing Conditions | Clinical Findings |
+| 易感條件 | 臨床發現 |
 |---|---|
-| Drug therapy (diuretics, aminoglycosides, cisplatin, cyclosporine) | ECG changes (prolonged QT, arrhythmias) |
-| Chronic alcoholism | Neuromuscular irritability |
-| Malnutrition | Seizures |
-| Diarrhea | |
+| 藥物治療（diuretics、aminoglycosides、cisplatin、cyclosporine） | 心電圖變化（QT 延長、心律不整） |
+| 慢性酒精中毒 | 神經肌肉過度興奮 |
+| 營養不良 | 癲癇發作 |
+| 腹瀉 | |
 | Hypokalemia | |
 | Hypocalcemia | |
 
 ### Magnesium Retention Test
 
-**Table 37.5 — Magnesium Retention Test**
+**表 37.5 — 鎂離子 Retention Test**
 
-**Protocol:**
+** Protocol：**
 
-1. Add 6 grams MgSO₄ (24 mmol or 48 mEq elemental Mg) to 250 mL of isotonic saline and infuse over 1 hour.
-2. Collect urine for 24 hours, beginning with the onset of the magnesium infusion.
+1. 將 6 克 MgSO₄（24 mmol 或 48 mEq 元素鎂）加入 250 mL 等張鹽水中，靜脈輸注 1 小時。
+2. 從鎂離子輸注開始時算起，收集 24 小時的尿液。
 
-**Results:**
+**結果：**
 
-1. **Urinary Mg excretion ≤ 12 mmol (24 mEq) in 24 hrs** (i.e., ≤ 50% of the infused Mg) is evidence of continued Mg depletion.
-2. **Urinary Mg excretion > 19 mmol (38 mEq) in 24 hrs** (i.e., > 80% of the infused Mg) indicates sufficient Mg stores.
+1. **24 小時內尿液 Mg 排泄 ≤ 12 mmol（24 mEq）**（即輸入鎂的 ≤ 50%）是持續鎂離子 depletion 的證據。
+2. **24 小時內尿液 Mg 排泄 > 19 mmol（38 mEq）**（即輸入鎂的 > 80%）表示鎂儲備充足。
 
 ---
 
 ## Magnesium Preparations and Daily Requirements
 
-**Table 37.4 — Magnesium Preparations and Daily Requirements**
+**表 37.4 — 鎂製劑與每日需求量**
 
-| Preparation | Elemental Mg Content | Route | Daily Requirement |
+| 製劑 | 元素鎂含量 | 途徑 | 每日需求量 |
 |---|---|---|---|
-| MgSO₄ (magnesium sulfate) | 98 mg/g (8 mEq/g) | IV / IM | 4–6 g/day (therapy) |
-| MgCl₂ (magnesium chloride) | 120 mg/g (10 mEq/g) | Oral | 280–350 mg/day (adult) |
-| MgO (magnesium oxide) | 603 mg/g (50 mEq/g) | Oral | |
+| MgSO₄（magnesium sulfate） | 98 mg/g（8 mEq/g） | IV / IM | 4–6 g/day（治療） |
+| MgCl₂（magnesium chloride） | 120 mg/g（10 mEq/g） | 口服 | 280–350 mg/day（成人） |
+| MgO（magnesium oxide） | 603 mg/g（50 mEq/g） | 口服 | |
 
-*(Note: Table 37.4 content partially provided in source.)*
+*（注意：表 37.4 內容來源提供有限。）*

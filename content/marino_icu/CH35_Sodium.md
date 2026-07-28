@@ -38,168 +38,168 @@ This chapter begins by describing the forces that determine the distribution of 
 
 ## Osmotic Activity
 
-The movement of water between fluid compartments is determined by a property of fluids known as **osmotic activity**, which is a reflection of the number of solute particles per unit volume of solvent (3). Osmotic activity is a colligative property, and depends only on the number of solute particles in a fluid, and not on the electrical charge, size, or chemical behavior of the solutes. The total osmotic activity of a solution is the summed osmotic activity of all the solute particles in the solution.
+流體區室之間的水移動是由流體的一個特性所決定的，這個特性稱為**滲透活性**（osmotic activity），它是溶質粒子在溶劑單位體積中的數量之反映（3）。滲透活性是一種依數性質，只取決於流體中溶質粒子的數量，與溶質的電荷、大小或化學行為無關。溶液中總滲透活性是該溶液所有溶質粒子滲透活性之總和。
 
 ### Relative Osmotic Activity
 
-When two fluid compartments are separated by a membrane that is permeable to solutes and water, the solutes in each fluid compartment will equilibrate across the membrane, and the osmotic activity will be equivalent in both fluid compartments. Since water movement follows solute movement, the volume in both fluid compartments will be equivalent. This is illustrated in Figure 35.1 (see the panel on the left).
+當兩個流體區室被一層對溶質和水分皆可通透的膜分開時，每個流體區室中的溶質會透過膜達到平衡，兩個流體區室的滲透活性也會相等。由於水移動跟隨溶質移動，兩個流體區室的體積也會相等。如圖 35.1 左側面板所示。
 
 ### Effective Osmotic Activity
 
-When two fluid compartments are separated by a membrane that is not freely permeable to solutes, the solutes will not distribute evenly in the fluid compartments, and the osmotic activity will be different in each compartment. In this situation, water moves from the fluid with the lower osmotic activity (which has a higher water content) to the fluid with the higher osmotic activity (which has a lower water content), as demonstrated in the panel on the right in Figure 35.1.
+當兩個流體區室被一層對溶質不能自由通透的膜分開時，溶質不會均勻分布在兩個流體區室中，兩個區室的滲透活性也會不同。在這種情況下，水會從滲透活性較低的流體（水分含量較高）移動到滲透活性較高的流體（水分含量較低），如圖 35.1 右側面板所示。
 
-The difference in osmotic activity between the fluid compartments is called the **effective osmotic activity**, and it is the force that drives the movement of water between the fluid compartments. This force is also called the **osmotic pressure**.
+流體區室之間滲透活性的差異稱為**有效滲透活性**（effective osmotic activity），這是驅動水分子在流體區室之間移動的力量。這種力量也稱為**滲透壓**（osmotic pressure）。
 
-The relative osmotic activity between two fluid compartments is expressed as **tonicity**; i.e., if the osmotic activity in the two compartments is equal, the fluids are described as **isotonic** (see the left-side panel in Figure 35.1), and if the osmotic activity differs, the fluid with the higher osmotic activity is described as **hypertonic**, and the fluid with the lower osmotic activity is described as **hypotonic** (see the right-side panel in Figure 35.1).
+兩個流體區室之間的相對滲透活性以**張力**（tonicity）表示；如果兩個區室的滲透活性相等，則這些流體被描述為**等張**（isotonic）（見圖 35.1 左側面板），如果滲透活性不同，則滲透活性較高的流體被描述為**高張**（hypertonic），滲透活性較低的流體被描述為**低張**（hypotonic）（見圖 35.1 右側面板）。
 
-> **Figure 35.1** — Illustration of the relationship between osmotic activity and water movement between fluid compartments.
+> **圖 35.1** — 說明滲透活性與流體區室之間水移動之關係。
 
 ### Summary
 
-The following statements summarize the relationship between osmotic activity and the transcellular shift of water:
+以下陳述總結了滲透活性與跨細胞水移動之間的關係：
 
-1. **A change in the effective osmotic activity or tonicity of extracellular fluid produces a transcellular water shift.**
+1. **細胞外液的有效滲透活性或張力發生變化時，會產生跨細胞的水移動。**
 
-   - When the extracellular fluid is **hypertonic**, water moves **out of cells**.
-   - When the extracellular fluid is **hypotonic**, water moves **into cells**.
+   - 當細胞外液為**高張**時，水從細胞內**移出**。
+   - 當細胞外液為**低張**時，水移入細胞內。
 
 ---
 
 ## Units of Osmotic Activity
 
-The unit of measurement for osmotic activity is the **osmole (osm)**, which is defined as one gram molecular weight (one mole) of a nondissociable substance, and is equivalent to 6 × 10²³ particles (Avogadro's Number). Osmotic activity can be expressed in relation to the volume of water in a solution, or in relation to the volume of the solution (4,5).
+滲透活性的測量單位是**滲透莫耳**（osmole, osm），定義為一種不可解離物質的一克分子量（一莫耳），等於 6 × 10²³ 個粒子（亞佛加厥常數）。滲透活性可以相對於溶液中的水體積來表示，也可以相對於溶液的體積來表示（4,5）。
 
-1. **Osmotic activity per volume of solution** is called **osmolarity**, and is expressed as milliosmoles per liter (mosm/L).
+1. **每單位溶液體積的滲透活性**稱為**滲透莫耳濃度**（osmolarity），以每升毫滲透莫耳（mosm/L）表示。
 
-2. **Osmotic activity per volume of water** is called **osmolality**, and is expressed as milliosmoles per kilogram of H₂O (mosm/kg H₂O, or mosm/kg).
+2. **每單位水的體積之滲透活性**稱為**滲透壓莫耳**（osmolality），以每公斤 H₂O 的毫滲透莫耳（mosm/kg H₂O 或 mosm/kg）表示。
 
-Plasma is mostly (95%) water, so the osmotic activity in plasma is typically expressed as osmolality (mosm/kg H₂O). However, there is little difference between the osmolality and osmolarity of extracellular fluid, and the two terms are often used interchangeably (5).
+血漿大部分（95%）是水，因此血漿中的滲透活性通常以滲透壓莫耳（mosm/kg H₂O）表示。然而，細胞外液的滲透壓莫耳與滲透莫耳濃度差異很小，兩個術語常被交替使用（5）。
 
 ### Conversion Factors
 
-The following formulas (where *n* is the number of nondissociable particles) can be used to convert plasma solute concentrations to units of osmolality:
+以下公式（其中 *n* 為不可解離粒子的數目）可用來將血漿溶質濃度轉換為滲透壓莫耳單位：
 
-**1. For solute concentrations expressed in mEq/L:**
+**1. 溶質濃度以 mEq/L 表示時：**
 
 ```
 Posm (mosm/kg H₂O) = n × (concentration in mEq/L) / valence
 ```
 
-Thus, for univalent ions like sodium, the plasma concentration in mEq/L is equivalent to the osmotic activity in mosm/kg H₂O.
+因此，對於像 sodium 這類单价離子，血漿濃度以 mEq/L 表示時，等於滲透活性以 mosm/kg H₂O 表示的數值。
 
-**2. For solute concentrations expressed in mg/dL:**
+**2. 溶質濃度以 mg/dL 表示時：**
 
 ```
 Posm (mosm/kg H₂O) = (concentration in mg/dL × 10) / mol wt
 ```
 
-where mol wt is molecular weight, and the factor 10 is used to convert deciliters (dL) to liters.
+其中 mol wt 為分子量，而因子 10 用於將分升（dL）轉換為升。
 
-*Example:* Glucose has a molecular weight of 180, so a plasma glucose concentration of 90 mg/dL is equivalent to (90 × 10 / 180) × 1 = 5 mosm/kg H₂O.
+*範例：*葡萄糖的分子量為 180，因此血漿葡萄糖濃度 90 mg/dL 等於 (90 × 10 / 180) × 1 = 5 mosm/kg H₂O。
 
 ---
 
 ## Plasma Osmolality
 
-The plasma osmolality can be measured or calculated.
+血漿滲透壓可以測量或計算。
 
 ### Measured Plasma Osmolality
 
-The standard method for measuring plasma osmolality is the **freezing point depression method**. Solute-free water freezes at 0°C, and this temperature decreases by 1.86°C for each osmole of solute that is added to one kilogram of water. Therefore, the extent of depression of the freezing point of an aqueous solution can be used to determine the osmotic activity of the solution. This method is considered the "gold-standard" for measuring plasma osmolality, and is available in most clinical laboratories. The normal plasma osmolality is **285–295 mosm/kg H₂O**.
+測量血漿滲透壓的標準方法是**冰點下降法**。無溶質的水在 0°C 結冰，而每向一公斤水中添加一滲透莫耳的溶質，溫度就會下降 1.86°C。因此，水溶液冰點下降的程度可用來決定該溶液的滲透活性。此方法被認為是測量血漿滲透壓的「黃金標準」，大多數臨床實驗室都有此設備。正常血漿滲透壓為 **285–295 mosm/kg H₂O**。
 
 ### Calculated Plasma Osmolality
 
-Plasma osmolality can also be calculated using the concentrations of the principal solutes in plasma; i.e., sodium, chloride, glucose, and urea (3):
+血漿滲透壓也可以使用血漿中主要溶質的濃度來計算；即 sodium、chloride、glucose 與 urea（3）：
 
 ```
 Posm = (2 × Na) + (glucose / 18) + (BUN / 2.8)
 ```
 
-where Posm is the plasma osmolality in mosm/kg H₂O, Na is the plasma sodium concentration in mEq/L, glucose and BUN are the plasma glucose and urea concentrations in mg/dL, and the factors 18 and 2.8 are the molecular weights of glucose and urea divided by 10, respectively (which converts their concentrations to mosm/kg H₂O). The sodium concentration is doubled to account for the negative ions (mostly chloride) that electrically balance sodium.
+其中 Posm 為血漿滲透壓（mosm/kg H₂O），Na 為血漿 sodium 濃度（mEq/L），glucose 與 BUN 分別為血漿 glucose 與 urea 濃度（mg/dL），因子 18 與 2.8 分別是 glucose 與 urea 的分子量除以 10（用來將它們的濃度轉換為 mosm/kg H₂O）。Sodium 濃度乘以 2 是為了補償與 sodium 電荷平衡的負離子（主要為 chloride）。
 
-*Example:* Using normal plasma concentrations of Na (140 mEq/L), glucose (90 mg/dL), and BUN (14 mg/dL), the plasma osmolality is: (2 × 140) + 90/18 + 14/2.8 = 290 mosm/kg H₂O. This is within the range of the measured plasma osmolality (285–295 mosm/kg H₂O).
+*範例：*使用正常血漿濃度 Na（140 mEq/L）、glucose（90 mg/dL）與 BUN（14 mg/dL），血漿滲透壓為：(2 × 140) + 90/18 + 14/2.8 = 290 mosm/kg H₂O。這在測量血漿滲透壓的範圍內（285–295 mosm/kg H₂O）。
 
 ### Effective Plasma Osmolality
 
-**Urea readily crosses cell membranes**, so an increase in blood urea nitrogen (BUN) will not increase the effective osmotic activity of plasma. In other words, azotemia is a hyperosmotic, but not a hypertonic, condition. Therefore, the calculation of effective plasma osmolality does not include the BUN:
+**Urea 容易穿透細胞膜**，因此血尿素氮（BUN）的增加不會增加血漿的有效滲透活性。換句話說，azotemia 是一種高滲透壓狀態，但不是高張狀態。因此，有效血漿滲透壓的計算不包含 BUN：
 
 ```
 Effective Posm = (2 × Na) + (glucose / 18)
 ```
 
-*Example:* Using normal plasma concentrations of Na (140 mEq/L) and glucose (90 mg/dL), the effective plasma osmolality is (2 × 140) + 90/18 = 285 mosm/kg H₂O, which is very close to the total osmolality (290 mosm/kg H₂O).
+*範例：*使用正常血漿濃度 Na（140 mEq/L）與 glucose（90 mg/dL），有效血漿滲透壓為 (2 × 140) + 90/18 = 285 mosm/kg H₂O，與總滲透壓（290 mosm/kg H₂O）非常接近。
 
 ### Spotlight on Sodium
 
-If the glucose is removed from the effective plasma osmolality equation, the calculated Posm is 280 mosm/kg H₂O, which is 98% of the calculated Posm that includes glucose (i.e., 285 mosm/kg H₂O). This demonstrates the following:
+如果從有效血漿滲透壓公式中移除 glucose，計算的 Posm 為 280 mosm/kg H₂O，這是包含 glucose 的計算 Posm（即 285 mosm/kg H₂O）的 98%。這說明了以下事實：
 
-1. **Sodium is responsible for 98% of the effective plasma osmolality.**
+1. **Sodium 佔有效血漿滲透壓的 98%。**
 
-2. **The sodium concentration in extracellular fluid (plasma) is the principal factor that determines the distribution of total body water** in the intracellular and extracellular fluid compartments, and hence it is also the principal determinant of the extracellular volume.
+2. **細胞外液（血漿）中的 sodium 濃度是決定全身水分布在細胞內與細胞外液區室之主要因素**，因此也是細胞外液體積的主要決定因素。
 
 ---
 
 ## Hypernatremia
 
-Hypernatremia (i.e., plasma sodium > 145 mEq/L) has been reported in as many as 25% of ICU patients, and in most cases, it is acquired during the ICU stay (6). The mechanisms and management of hypernatremia are outlined in Figure 35.2. This approach is based on the extracellular volume (ECV), and this creates three categories of hypernatremia: hypovolemic, normovolemic, and hypervolemic.
+Hypernatremia（即血漿 sodium > 145 mEq/L）在多達 25% 的 ICU 病人中有報告，且在大多數情況下，是在 ICU 住院期間獲得的（6）。Hypernatremia 的機制與治療如圖 35.2 所示。此方法以細胞外液體積（ECV）為基礎，將 hypernatremia 分為三類：低血容量性、等血容量性與高血容量性。
 
 ### Hypovolemic Hypernatremia
 
-Hypernatremia associated with a low ECV is due to fluid loss that is hypotonic to plasma. The average sodium concentration in fluids that can be lost is shown in Table 35.1 (7–9). Note the following:
+與低 ECV 相關的 hypernatremia 是由於流失的液體對血漿而言是低張性的。圖 35.1 中顯示了可能流失的液體之平均 sodium 濃度（7–9）。請注意以下幾點：
 
-1. **All the fluids are hypotonic to plasma** (i.e., have a sodium concentration < 135 mEq/L), so loss of these fluids will result in hypernatremia.
+1. **所有這些液體都對血漿是低張的**（即 sodium 濃度 < 135 mEq/L），因此流失這些液體會導致 hypernatremia。
 
-2. **All the fluids contain sodium**, so loss of these fluids will result in sodium depletion as well as water depletion.
+2. **所有這些液體都含有 sodium**，因此流失這些液體會導致 sodium 耗竭以及水分流失。
 
-Common sources of hypotonic fluid loss in ICU patients include vomiting, diarrhea, and urine loss from diuretics or glycosuria.
+ICU 病人低張性液體流失的常見原因包括嘔吐、腹瀉，以及由 diuretics 或 glycosuria 引起的尿液流失。
 
 ### Consequences
 
-Hypernatremia increases the osmolality of the extracellular fluid, which draws water out of cells and decreases cell volumes. This effect is most prominent in the brain. However, the shrunken brain cells begin to regain volume after about 9 hours, thanks to the intracellular accumulation of "idiogenic osmolytes," and the cells can return to their normal volumes after just 48 hours (10).
+Hypernatremia 會增加細胞外液的滲透壓，這會將水從細胞中抽出並減少細胞體積。此效應在腦部最為明顯。然而，萎縮的腦細胞在大約 9 小時後會因為細胞內「自發性滲透質」（idiogenic osmolytes）的累積而開始恢復體積，且細胞在 48 小時後就能恢復正常體積（10）。
 
 ---
 
 ## Hyponatremia
 
-*(Full content continues from source)*
+*（來源有完整內容繼續）*
 
 ### Clinical Conditions Associated with Pseudohyponatremia
 
-**Table 35.2 — Clinical Conditions Associated with Pseudohyponatremia**
+**表 35.2 — 與假性低血鈉相關的臨床狀況**
 
-| Mechanism | Conditions |
+| 機制 | 疾病狀況 |
 |---|---|
 | Hyperlipidemia | |
 | Hyperproteinemia | |
-| Glucose elevation | |
+| Glucose 升高 | |
 
 ### Hypertonic Saline for Symptomatic Hyponatremia
 
-**Table 35.3 — Hypertonic Saline for Symptomatic Hyponatremia**
+**表 35.3 — 有症狀低血鈉的高張鹽水治療**
 
-1. **Use 3% NaCl** (Na⁺ = 153 mEq/L, osmolarity = 1,026 mosm/L).
-2. Give IV bolus doses of **2 mL/kg** (or 150 mL), which are repeated every few hours until the symptoms resolve. This regimen can be given via peripheral veins.
-3. Assess after the serum Na⁺ has increased by **5 mEq/L** — if there is no improvement, consider another cause for the symptoms.
-4. **The following limits are recommended** as a preventive measure for osmotic demyelination:
-   - **(a)** The initial increment in serum Na⁺ should not exceed **5 mEq/L in 2 hrs**, or **10 mEq/L in 5 hrs**.
-   - **(b)** The daily increment in serum Na⁺ should not exceed **10 mEq/L on the first day**, and **8 mEq/L on subsequent days**.
-   - **(c)** The final plasma Na⁺ should not exceed **130 mEq/L**.
+1. **使用 3% NaCl**（Na⁺ = 153 mEq/L，滲透壓 = 1,026 mosm/L）。
+2. 給予靜脈注射 **2 mL/kg**（或 150 mL）的靜脈注射劑量，每隔數小時重複一次，直至症狀緩解。此療程可經周邊靜脈給予。
+3. 在血清 Na⁺ 增加 **5 mEq/L** 後進行評估——如果沒有改善，應考慮其他導致症狀的原因。
+4. **建議遵循以下限制**作為預防滲透性脫髓鞘的措施：
+   - **(a)** 血清 Na⁺ 的初始增量不應超過 **2 小時內 5 mEq/L**，或 **5 小時內 10 mEq/L**。
+   - **(b)** 血清 Na⁺ 的每日增量不應超過**第一天 10 mEq/L**，以及**後續每天 8 mEq/L**。
+   - **(c)** 最終血漿 Na⁺ 不應超過 **130 mEq/L**。
 
 ### Desmopressin to Prevent or Reverse Overcorrection of Hyponatremia
 
-**Table 35.4 — Desmopressin to Prevent or Reverse Overcorrection of Hyponatremia**
+**表 35.4 — Desmopressin 預防或逆轉低血鈉過度校正**
 
-**Indications:**
+**適應症：**
 
-- If the increment in serum Na⁺ exceeds the limits listed in Table 35.3.
-- If there is an abrupt increase in urine output (e.g., > 100 mL/hr) during corrective therapy with hypertonic saline.
-- As a routine measure in conditions where overcorrection is a risk.
+- 如果血清 Na⁺ 的增量超過表 35.3 中所列的限制。
+- 在使用高張鹽水進行校正治療期間，如果尿量突然增加（例如 > 100 mL/hr）。
+- 在過度校正有風險的情況下作為常規措施。
 
-**Dose:**
+**劑量：**
 
-- 2 μg by subcutaneous injection every 12 hours.
+- 每 12 小時皮下注射 2 μg。
 
-**Caveats:**
+**注意事項：**
 
-- Desmopressin is **not** advised when the hyponatremia is due to unregulated release of ADH.
-- Fluid restriction is mandatory during treatment with desmopressin.
+- 當低血鈉是由於 ADH 不受調節的釋放所引起時，**不建議使用** desmopressin。
+- 在使用 desmopressin 治療期間，必須限制水分攝取。

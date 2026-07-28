@@ -10,84 +10,84 @@ title: "Asthma and COPD in the ICU"
 > "Asthmatic distress calls for procedures which stimulate the sympathetic and dilate the bronchi."
 > — Lawrason Brown, MD (a)
 
-Admission to an ICU is an ominous sign for patients with acute exacerbations of asthma and chronic obstructive pulmonary disease (COPD). For COPD patients, one in four will not survive the hospitalization, and 40% of survivors will be readmitted within a year (1). For patients with asthma, the need for mechanical ventilation has been identified as the strongest risk factor for death (2).
+入住 ICU 對於急性哮喘發作和慢性阻塞性肺疾病（COPD）急性惡化的患者而言是不祥的徵兆。對於 COPD 患者，四分之一無法存活出院，而存活的患者中有 40% 在一年內再次入院（1）。對於哮喘患者，需要機械通氣已被確認為死亡的最強風險因子（2）。
 
-This chapter describes the management of acute exacerbations of asthma and COPD, including relevant issues related to positive pressure ventilation in patients with severe airflow obstruction. The recommendations in this chapter follow the most recent clinical practice guidelines, which are listed in the bibliography at the end of the chapter (3–6).
+本章描述哮喘和 COPD 急性惡化的處置，包括與嚴重氣流阻塞患者正壓通氣相關的問題。本章的建議遵循最新的臨床實踐指南，列於章末參考文獻中（3–6）。
 
-One point of interest deserves mention before proceeding: The management of asthma and COPD is centered on dilating the airways with adrenergic agents, which is very similar to the statement in the introductory quote. This statement was made almost 100 years ago, in 1931 (a).
+在繼續之前有一個值得一提的有趣觀點：哮喘和 COPD 的處置核心是以擬交感神經藥物擴張氣道，這與引言中的陈述非常相似。該陈述大約是在近 100 年前的 1931 年提出的（a）。
 
 ## 導讀摘要
 
-- 急性呼吸道阻塞的嚴重程度以 **PEFR（巔峰呼氣流速）** 判定：**≥70**% 預測值為輕度，**40–69%** 為中度，**<40**% 為重度
-- 藥物治療核心為 **短效 β₂- agonist（**albuterol**）**，哮喘可用 ****ipratropium**** 輔助；類固醇首選 ****methylprednisolone** **1 mg/kg** IV q6h**
+- 急性呼吸道阻塞的嚴重程度以 **PEFR（巔峰呼氣流速）** 判定：**≥70%** 預測值為輕度，**40–69%** 為中度，**<40%** 為重度
+- 藥物治療核心為 **短效 β₂-agonist（**albuterol**）**，哮喘可用 **ipratropium** 輔助；類固醇首選 **methylprednisolone** **1 mg/kg** IV q6h**
 - 霧化器肺部沉積僅約 9%，MDI + spacer 可將肺部沉積提升至 20%，但呼出量顯著減少
-- COPD 急性惡化使用 ****prednisone** **40 mg** 等效劑量 daily ×5 天**，口服與靜脈療效相當
+- COPD 急性惡化使用 **prednisone** **40 mg** 等效劑量 daily ×5 天，口服與靜脈療效相當
 - 嚴重氣流阻塞會導致內源性 **PEEP**（intrinsic **PEEP**），是由於無法完全吐氣導致肺過度充氣
 
 
-### Monitoring Airway Obstruction
+### 氣道阻塞的監測
 
-The management of obstructive airways disease is guided by the severity of obstruction in the airways.
+阻塞性氣道疾病的處置取決於氣道阻塞的嚴重程度。
 
-#### Clinical Evaluation
+#### 臨床評估
 
-During acute exacerbations of asthma or COPD, the clinical examination is often unreliable for determining the severity of airway obstruction (7). There are usually signs of respiratory distress, including tachycardia, tachypnea, use of accessory muscles of respiration, and inability to complete sentences without taking a breath. There may also be altered mentation and pulsus paradoxus (i.e., an inspiratory drop in systolic pressure >**12 mm Hg**). However, none of these clinical findings is sensitive or specific for severe airway obstruction, and more objective measures are recommended (3).
+在哮喘或 COPD 急性惡化期間，臨床檢查通常對於判定氣道阻塞的嚴重程度不可靠（7）。通常會有呼吸窘迫的徵象，包括心搏過速、呼吸急促、使用輔助呼吸肌，以及無法不喘氣地說完一句話。也可能會有意識改變和奇脈（即吸氣時收縮壓下降 >**12 mm Hg**）。然而，這些臨床發現中沒有一項對嚴重氣道阻塞具有敏感性或特異性，因此建議使用更客觀的測量方法（3）。
 
-#### Measures of Peak Expiratory Flow
+#### 巔峰呼氣流速測量
 
-For spontaneously breathing patients, a readily obtainable bedside measure of airway obstruction is the peak expiratory flow rate (PEFR) (3). The PEFR varies with age, gender, and height, and measurements are typically expressed as "% predicted" (observed result divided by predicted result, multiplied by 100), with predicted values derived from standard reference equations. The correlations between the % predicted values and the severity of airway obstruction are shown below (3).
+對於自發呼吸的患者，床邊可快速获得的氣道阻塞測量方法是巔峰呼氣流速（PEFR）（3）。PEFR 隨年齡、性別和身高而變化，測量結果通常表示為「占預測值百分比」（觀測值除以預測值，乘以 100），預測值來自標準參考方程式。預測值百分比與氣道阻塞嚴重程度的相關性如下（3）。
 
 | % Predicted PEFR | Severity of Obstruction |
 |---|---|
-| **≥70**% | Mild |
-| **40–69%** | Moderate |
-| **<40**% | Severe |
+| **≥70%** | 輕度（Mild） |
+| **40–69%** | 中度（Moderate） |
+| **<40%** | 重度（Severe） |
 
-In general, a PEFR <**200 L/min** indicates severe airway obstruction, and hypercapnia does not occur until the PEFR falls below 25% of predicted (8).
+一般來說，PEFR <**200 L/min** 表示嚴重氣道阻塞，而高碳酸血症要到 PEFR 低於預測值的 25% 才會出現（8）。
 
-> **Limitation:** The PEFR is effort-dependent, and accurate measurements require a maximum inspiratory effort (to total lung capacity) followed by a maximum expiratory effort (to residual lung volume). Patients with acute exacerbations of asthma and COPD are typically unable to perform these maneuvers because of respiratory distress, and monitoring PEFR has not been popular in the acute care setting (9). However, after respiratory distress subsides, periodic measurements of the PEFR can be used to monitor the course of the illness.
+> **限制：** PEFR 依賴用力，最大吸氣努力（至肺總量）後接著最大吐氣努力（至肺餘量）才能準確測量。急性哮喘和 COPD 急性惡化的患者通常因呼吸窘迫而無法執行這些動作，因此在急性照護環境中監測 PEFR 並不普及（9）。然而，在呼吸窘緩解後，定期測量 PEFR 可用於監測病程。
 
-#### Intrinsic **PEEP**
+#### 內源性 **PEEP**
 
-One consequence of severe airflow obstruction is the inability to fully exhale the volume of air that is inhaled. The retained volume causes hyperinflation of the lungs and a positive pressure in the alveoli at the end of expiration. This positive end-expiratory pressure—called intrinsic **PEEP**—is a reflection of the severity of airflow obstruction, and it can be monitored during mechanical ventilation.
+嚴重氣流阻塞的一個後果是無法完全吐出吸入的空氣量。滯留的容量導致肺部過度充氣，並在吐氣末時肺泡內產生正壓。這個正壓——稱為內源性 **PEEP**——反映了氣流阻塞的嚴重程度，可以在機械通氣期間進行監測。
 
-### Aerosol Drug Delivery
+### 霧化藥物遞送
 
-Aerosolized bronchodilators are the backbone of management for obstructive airways disease. There are three devices used to generate these aerosols: the nebulizer, the metered-dose inhaler (MDI), and the dry powder inhaler. There are three types of nebulizers (jet, mesh, and ultrasonic nebulizers), but the description here is limited to the jet nebulizer—the traditional device.
+霧化支氣管擴張劑是阻塞性氣道疾病處置的核心。有三種裝置用於產生這些霧化物：霧化器、定量吸入器（MDI）和乾粉吸入器。霧化器有三種類型（射霧、超聲霧化和網孔霧化器），但這裡的描述僅限於射霧化器——傳統裝置。
 
-#### Jet Nebulizer
+#### 射霧化器
 
-The pneumatic or jet nebulizer operates on the same principle as an air-entrainment mask. A high-pressure gas source (e.g., 50 psi from a wall outlet) is passed through a narrow opening in the nebulizer, creating a high-velocity (jet) stream of gas that is passed over the opening of a narrow tube submerged in a drug solution. The gas jet draws the drug solution up the tube (by creating viscous drag) and then pulverizes the solution to create an aerosol spray that is inhaled by the patient.
+氣動或射霧化器的運作原理與空氣 entrainment 面罩相同。高壓氣體來源（例如牆壁出口的 50 psi）通過霧化器中的窄孔，產生高速（射流）氣體流通過浸泡在藥物溶液中的窄管開口。氣體射流通過黏性曳力將藥物溶液從管中吸上，然後將溶液粉碎成霧化噴霧供患者吸入。
 
-Small-volume jet nebulizers have a reservoir volume of 3–6 mL and can completely aerosolize the reservoir volume in less than 10 minutes (10). Large-volume nebulizers have a reservoir volume **>200** mL and are used for continuous aerosol therapy.
+小容量射霧化器的儲液槽容量為 3–6 mL，可在不到 10 分鐘內完全霧化儲液槽容量（10）。大容量霧化器的儲液槽容量 **>200** mL，用於持續霧化治療。
 
-> **Lung Deposition:** Although small-volume nebulizers can completely aerosolize a drug solution, only a fraction of the drug aerosol reaches the lungs. This is demonstrated in Table 23.1, which shows the distribution of aerosolized **albuterol** with different aerosol generator systems (11). When a nebulizer is used, most of the drug aerosol impacts on the delivery apparatus or is exhaled, and only 9% of the intended dose reaches the lungs.
+> **肺部沉積：** 雖然小容量霧化器可以完全霧化藥物溶液，但只有一部分藥物霧化顆粒能到達肺部。表 23.1 顯示了不同霧化產生系統中霧化 **albuterol** 的分布（11）。使用霧化器時，大部分藥物霧化顆粒撞擊在遞送裝置上或被呼出，只有 9% 的預期劑量到達肺部。
 
-**Table 23.1: Distribution of Aerosolized Albuterol by Delivery System**
+**表 23.1：不同遞送系統霧化 Albuterol 的分布**
 
-| Site of Deposition | Nebulizer (**2.5 mg**) | MDI (200 µg) | MDI + Spacer (200 µg) |
+| 沉積部位 | 霧化器（**2.5 mg**） | MDI（200 µg） | MDI + Spacer（200 µg） |
 |---|---|---|---|
-| Exhaled gas | 20% | 66% | 2% |
-| Apparatus | 12% | 1% | 10% |
-| Oropharynx | 1% | 10% | 80% |
-| Lungs | 9% | 1% | 20% |
+| 呼出氣體 | 20% | 66% | 2% |
+| 裝置 | 12% | 1% | 10% |
+| 口咽部 | 1% | 10% | 80% |
+| 肺部 | 9% | 1% | 20% |
 
-### Drug Therapy for Acute Exacerbations
+### 急性惡化的藥物治療
 
-#### Asthma
+#### 哮喘
 
-**Table 23.2: Drug Regimens for Acute Exacerbations of Asthma**
+**表 23.2：哮喘急性惡化的藥物治療療程**
 
-| Drug | Dosing Regimens |
+| 藥物 | 劑量療程 |
 |---|---|
-| **Albuterol** | **2.5–**5 mg**** (or 4–8 puffs) every 20 minutes for 3 doses, then hourly if needed, or continuous inhalation **5–**15 mg****/hr for up to 3 hours. Maintenance: **2.5 mg** (or 2 puffs) every 4–6 hours. ⚠️ Aggressive dosing can elevate lactate levels. |
-| **Levalbuterol** | **1.25–**2.5 mg**** (or 4–8 puffs) every 20 minutes for 3 doses, then hourly if needed for up to 3 hours. Maintenance: **1.25 mg** (or 2 puffs) every 4–6 hours. Comment: No proven benefit over **albuterol**. |
-| **Ipratropium** | **0.5 mg** every 20 minutes for 3 doses, then as needed. Can be added (**0.5 mg**/hr) to continuous **albuterol** inhalation. Use only if initial response to **albuterol** is unsatisfactory. |
-| **Corticosteroids** | Methylprednisolone **1 mg/kg** intravenously every 6 hours, or **prednisone** **40–**60 mg**** intravenously or orally daily. Taper as clinical improvement occurs. Administer early (within 1 hour of presentation). |
+| **Albuterol** | 每 20 分鐘 **2.5–5 mg**（或 4–8 噴），持續 3 劑量，然後必要時每小時一次，或持續吸入 **5–15 mg**/小時最多 3 小時。維持劑量：每 4–6 小時 **2.5 mg**（或 2 噴）。⚠️ 積極劑量可能使乳酸水平升高。 |
+| **Levalbuterol** | 每 20 分鐘 **1.25–2.5 mg**（或 4–8 噴），持續 3 劑量，然後必要時每小時一次最多 3 小時。維持劑量：每 4–6 小時 **1.25 mg**（或 2 噴）。說明：無已證實優於 **albuterol** 的好處。 |
+| **Ipratropium** | 每 20 分鐘 **0.5 mg**，持續 3 劑量，然後必要時使用。可加入持續 **albuterol** 吸入（**0.5 mg**/小時）。僅在對 **albuterol** 初始反應不滿意時使用。 |
+| **Corticosteroids** | Methylprednisolone **1 mg/kg** 靜脈注射每 6 小時，或 **prednisone** **40–60 mg** 靜脈注射或口服每天一次。隨臨床改善而逐步減量。早期給藥（就診後 1 小時內）。 |
 
-**Table 23.3: Comparison of Therapeutic Steroids**
+**表 23.3：治療性類固醇的比較**
 
-| Corticosteroid | Equivalent Dose (mg) | Relative Anti-inflammatory Activity | Relative Mineralocorticoid Activity |
+| 皮質類固醇 | 等效劑量（mg） | 相對抗發炎活性 | 相對鹽皮質素活性 |
 |---|---|---|---|
 | Hydrocortisone | 20 | 1 | 30–40 |
 | Prednisone | 5 | 3.5 | 1 |
@@ -96,14 +96,14 @@ Small-volume jet nebulizers have a reservoir volume of 3–6 mL and can complete
 
 #### COPD
 
-**Table 23.4: Drug Regimens for Acute Exacerbations of COPD**
+**表 23.4：COPD 急性惡化的藥物治療療程**
 
-| Drug | Dosing Regimens |
+| 藥物 | 劑量療程 |
 |---|---|
-| **Albuterol** | **2.5–**5 mg**** by nebulizer, or 2–8 puffs by MDI with spacer, every 4–6 hours. MDI is favored over nebulizer due to equivalent response at much lower dose. |
-| **Levalbuterol** | **1.25–**2.5 mg**** by nebulizer, or 2–8 puffs by MDI with spacer, every 4–6 hours. More potent form of **albuterol**; no proven advantage. |
-| **Ipratropium** | **0.5 mg** by nebulizer, or 2–8 puffs by MDI with spacer, every 4–6 hours. Use as combination therapy only when response to short-acting β₂-agonists is less than satisfactory. |
-| **Corticosteroids** | Prednisone-equivalents **40 mg** daily for 5 days. Oral therapy is equivalent to intravenous therapy. |
+| **Albuterol** | 霧化器 **2.5–5 mg**，或 MDI 搭配 spacer 2–8 噴，每 4–6 小時一次。MDI 優於霧化器，因為在劑量低得多的情况下療效相當。 |
+| **Levalbuterol** | 霧化器 **1.25–2.5 mg**，或 MDI 搭配 spacer 2–8 噴，每 4–6 小時一次。是 **albuterol** 的更強效形式；無已證實優勢。 |
+| **Ipratropium** | 霧化器 **0.5 mg**，或 MDI 搭配 spacer 2–8 噴，每 4–6 小時一次。僅在對短效 β₂-agonist 反應不滿意時作為聯合治療使用。 |
+| **Corticosteroids** | Prednisone 等效劑量 **40 mg** 每天一次，持續 5 天。口服療效與靜脈注射相當。 |
 
 ### Bibliography
 

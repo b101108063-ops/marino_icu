@@ -26,17 +26,17 @@ The appearance of a new fever is always a matter of concern in a hospitalized pa
 
 ### Thermometry
 
-**Preferred method:** A thermistor-equipped catheter placed in the pulmonary artery, esophagus, or urinary bladder provides the most accurate measure of core body temperature and allows continuous monitoring.
+**首選方法：** 在肺動脈、食道或膀胱中放置帶熱敏電阻導管的導管，可提供最準確的核心體溫測量並允許持續監測。
 
-**Alternative methods:** If the above are not available, oral or rectal temperatures are preferred. Note that oral temperatures can be 0.5° C (0.9° F) lower than core body temperatures in patients with tachypnea.
+**替代方法：** 如果上述方法不可用，首選口腔或直腸溫度。注意，口腔溫度在呼吸急促患者可能比核心體溫低 0.5° C (0.9° F)。
 
-**Not recommended:** Peripheral temperature measurements (tympanic membrane, temporal artery, axillary) do not have clinically acceptable accuracy and should not be used for clinical decision-making.
+**不建議：** 周邊溫度測量（耳膜、顳动脉、腋下）沒有臨床可接受的準確度，不應用於臨床決策。
 
 ### Temperature Scales
 
-Two scales (Celsius and Fahrenheit) are used to record body temperature.
+記錄體溫使用兩種刻度（攝氏和華氏）。
 
-**TABLE 44.1 — Converting Celsius and Fahrenheit Temperatures**
+**TABLE 44.1 — 攝氏和華氏溫度轉換**
 
 | °C | °F |
 |---|---|
@@ -52,126 +52,126 @@ Two scales (Celsius and Fahrenheit) are used to record body temperature.
 | 30 | 86.0 |
 | 0 | 32 |
 
-**Conversion formulas:**
+**轉換公式：**
 
 - °F = (9/5 × °C) + 32
 - °C = 5/9 × (°F − 32)
 
 ### Definition of Fever
 
-Body temperature has a diurnal variation, with the nadir in the early morning (between 4 and 8 AM) and the peak in the late afternoon (between 4 and 6 PM). The range of diurnal variation can be as high as 1.3° C (2.4° F).
+體溫有晝夜變異，清晨最低点（凌晨 4 到 8 點）和傍晚最高点（下午 4 到 6 點）。晝夜變異範圍可高達 1.3° C (2.4° F)。
 
-According to the most recent clinical practice guidelines on fever in the ICU:
+根據最新的 ICU 發燒臨床實踐指南：
 
-1. In ICU patients, a **single temperature measurement of 38.3° C (101° F) or higher** represents a fever and deserves further evaluation.
-2. A lower threshold of **38.0° C (100.4° F)** can be used for neutropenic patients if the temperature elevation is sustained for at least one hour.
+1. 在 ICU 患者中，**單次體溫測量 ≥38.3° C (101° F)** 代表有 fever，需要進一步評估。
+2. 對於嗜中性球減少的患者，如果體溫升高持續至少一小時，可以使用較低的閾值 **38.0° C (100.4° F)**。
 
 ---
 
 ## Noninfectious Causes of Fever
 
-**TABLE 44.2 — Noninfectious Causes of Fever in the ICU**
+**TABLE 44.2 — ICU 中非感染性發燒原因**
 
-| Category | Examples |
+| 類別 | 範例 |
 |---|---|
-| **Inflammatory** | Transfusion reactions, drug fever, venous thromboembolism, postoperative inflammation |
-| **Tissue injury** | Myocardial infarction, stroke, pulmonary embolism, hematoma |
-| **Endocrine** | Thyroid storm, adrenal insufficiency |
-| **Neurologic** | Hypothalamic dysfunction, neuroleptic malignant syndrome, serotonin syndrome |
-| **Other** | Alcohol/drug withdrawal, malignant hyperthermia, factitious fever |
+| **發炎性** | 輸血反應、drug fever、靜脈血栓栓塞、術後發炎 |
+| **組織損傷** | Myocardial infarction、stroke、肺栓塞、血腫 |
+| **內分泌** | Thyroid storm、adrenal insufficiency |
+| **神經性** | Hypothalamic dysfunction、neuroleptic malignant syndrome、serotonin syndrome |
+| **其他** | 酒精/藥物戒斷、malignant hyperthermia、人為發燒 |
 
 ### Drug-Associated Fever
 
 **TABLE 44.3 — Drug-Associated Fever**
 
-| Common Offending Drugs | Clinical Findings |
+| 常見致病藥物 | 臨床發現 |
 |---|---|
-| Amphotericin, carbamazepine, cephalosporins, heparins, penicillins, phenytoin, procainamide, quinidine | Rigors (53%), myalgias (25%), leukocytosis (22%), eosinophilia (22%), rash (18%), hypotension (18%) |
+| Amphotericin、carbamazepine、cephalosporins、heparins、penicillins、phenytoin、procainamide、quinidine | 寒顫（53%）、肌肉痛（25%）、leukocytosis（22%）、eosinophilia（22%）、皮疹（18%）、hypotension（18%） |
 
-*Note: Suspicion of drug fever usually occurs when there are no other likely sources of fever. When suspected, discontinue possible offending drugs; fever should resolve within 72 hours.*
+*注意：當沒有其他可能的發燒原因時，通常會懷疑是 drug fever。懷疑時，停用可能的致病藥物；fever 應在 72 小時內消退。*
 
 ### Other Noninfectious Sources
 
-1. **Withdrawal syndromes:** Severe withdrawal from alcohol, opiates, benzodiazepines, barbiturates, and possibly gabapentin can cause fever that typically appears a few days after abstinence.
+1. **戒斷症候群：** 嚴重的酒精、類鴉片、benzodiazepines、barbiturates 和可能的 gabapentin 戒斷可導致通常在禁慾後幾天出現的發燒。
 
-2. **Adrenal insufficiency:** A recognized cause of fever; can result from spontaneous adrenal hemorrhage related to anticoagulant therapy or disseminated intravascular coagulation (DIC).
+2. **Adrenal insufficiency：** 是發燒的公认原因；可由抗凝治療或散播性血管內凝血（DIC）相關的自發性腎上腺出血引起。
 
-3. **ARDS:** An inflammatory lung injury from multiple sources that can produce fever.
+3. **ARDS：** 來自多種來源的發炎性肺損傷，可導致發燒。
 
-4. **Tissue infarction:** Infarctions of the heart, brain, and bowel are potential sources of fever.
+4. **組織 infarction：** 心臟、腦和腸道的 infarction 是發燒的潛在來源。
 
-5. **Serotonin syndrome:** Can be a complication of treatment with critical care drugs like fentanyl, tramadol, and linezolid.
+5. **Serotonin syndrome：** 可能作為 critical care 藥物（如 fentanyl、tramadol 和 linezolid）治療的併發症發生。
 
 ---
 
 ## Infectious Causes of Fever
 
-Hospital-acquired infections are a major concern in ICU patients. The following table summarizes the most common hospital-acquired infections in the United States.
+院內 infection 是 ICU 患者的主要關注點。以下表格總結了美國最常見的院內 infections。
 
-**TABLE 44.4 — Hospital-Acquired Infections in the United States in 2021**
+**TABLE 44.4 — 2021 年美國院內 Infections**
 
-*(Data from CDC/NHSN surveillance reports)*
+*（來自 CDC/NHSN 監測報告的數據）*
 
-| Infection Type | Approximate Rank |
+| Infection 類型 | 大約排名 |
 |---|---|
-| Catheter-associated urinary tract infection (CAUTI) | 1st |
-| Surgical site infection | 2nd |
-| Catheter-associated bloodstream infection | 3rd |
-| Ventilator-associated pneumonia | 4th |
-| *Clostridium difficile* infection | 5th |
+| Catheter-associated urinary tract infection (CAUTI) | 第一 |
+| 手術部位 infection | 第二 |
+| Catheter-associated bloodstream infection | 第三 |
+| Ventilator-associated pneumonia | 第四 |
+| *Clostridium difficile* infection | 第五 |
 
 ---
 
 ## Blood Cultures
 
-Blood cultures should be obtained in any ICU patient with a new fever. The following principles apply:
+任何 ICU 患者有新發燒都應進行血液培養。以下原則適用：
 
-- **Aseptic technique** is essential to avoid contamination.
-- **Two to three sets** of blood cultures should be obtained from different sites before starting antibiotics (when possible).
-- **Volume:** Each bottle should receive at least 10 mL of blood for optimal yield.
-- **Timing:** Cultures should be obtained before or shortly after starting antibiotics.
-- **Interpretation:** Contamination with skin flora (coagulase-negative staphylococci, diphtheroids) is common; repeat cultures help distinguish true infection from contamination.
+- **無菌技術**對於避免污染至關重要。
+- 在開始 antibiotics 之前（盡可能），應從不同部位獲取**兩到三組**血液培養。
+- **容量：** 每瓶應接收至少 10 mL 血液以獲得最佳效果。
+- **時機：** 培養應在開始 antibiotics 之前或短時間內獲取。
+- **解讀：** 皮膚菌群的污染（凝固酶陰性葡萄球菌、棒狀桿菌）很常見；重複培養有助於區分真正 infection 和污染。
 
 ---
 
 ## Fever Suppression
 
-### Why Suppress Fever?
+### 為什麼要抑制發燒？
 
-Fever is an evolutionarily conserved response that appears in all warm-blooded animals. The potential benefits of fever include:
+Fever 是一種在所有溫血動物中出現的進化保守反應。Fever 的潛在益處包括：
 
-- Inhibition of bacterial and viral replication
-- Enhancement of neutrophil and macrophage function
-- Increased production of acute phase proteins and interferon
-- Reduced bacterial shedding
+- 抑制細菌和病毒複製
+- 增強嗜中性球和巨噬細胞功能
+- 增加急性期蛋白質和干擾素的產生
+- 減少細菌脫落
 
-### Why NOT Suppress Fever?
+### 為什麼不抑制發燒？
 
-However, fever also has costs:
+然而，發燒也有代價：
 
-- **Increased metabolic demand** — each 1° C rise in temperature increases metabolic rate by approximately 10–15%, increasing oxygen consumption and CO₂ production.
-- **Cardiovascular stress** — fever increases heart rate, cardiac output, and myocardial oxygen demand.
-- **Neurologic effects** — high fevers can cause seizures (particularly in children) and exacerbate existing brain injury.
-- **Coagulation effects** — fever promotes a prothrombotic state.
+- **代謝需求增加** — 體溫每升高 1° C，代謝率約增加 10–15%，增加氧氣消耗和 CO₂ 產生。
+- **心血管 stress** — 發燒增加心率、心輸出量和心肌氧需求。
+- **神經系統影響** — 高燒可導致癲癇發作（尤其是兒童），並加重現有的腦損傷。
+- **凝血影響** — 發燒促進血栓前狀態。
 
 ### Clinical Evidence
 
-Randomized trials of fever suppression in critically ill patients have yielded conflicting results. Importantly:
+在重症患者中抑制發燒的隨機試驗產生了矛盾的結果。重要的是：
 
-- Antipyretic therapy has not been shown to reduce mortality in ICU patients.
-- Some studies suggest that aggressive fever suppression may increase infection rates or prolong ICU stay.
-- However, in patients with severe brain injury or hemodynamic instability, fever suppression may be beneficial.
+- Antipyretic 治療尚未被證明能降低 ICU 患者的死亡率。
+- 一些研究表明，積極抑制發燒可能增加 infection 率或延長 ICU 住院時間。
+- 然而，在嚴重腦損傷或血液動力學不穩的患者中，抑制發燒可能有益。
 
 ### Recommendations
 
-1. **Do not treat fever routinely** in hemodynamically stable ICU patients without a specific indication.
-2. **Treat fever** in:
-   - Patients with severe brain injury (fever worsens neurologic outcomes)
-   - Patients with hemodynamic instability
-   - Patients with congenital heart disease or high cardiac output requirements
-   - Patients with malignant hyperthermia
-3. **Antipyretics** (acetaminophen, NSAIDs) are first-line. Physical cooling methods (cooling blankets, ice packs) can be added for refractory cases.
-4. **Avoid rapid cooling**, which can cause shivering and paradoxical increase in metabolic rate.
+1. **不要常規治療發燒**在沒有特定適應症的血液動力學穩定的 ICU 患者中。
+2. **治療發燒**於：
+   - 嚴重腦損傷患者（發燒會惡化神經系統結局）
+   - 血液動力學不穩定的患者
+   - 先天性心臟病或高心輸出量需求的患者
+   - Malignant hyperthermia 患者
+3. **Antipyretics**（acetaminophen、NSAIDs）是一線治療。物理降溫方法（降溫毯、冰袋）可用於頑固性病例。
+4. **避免快速降溫**，這可能導致顫抖和反常的代謝率增加。
 
 ---
 

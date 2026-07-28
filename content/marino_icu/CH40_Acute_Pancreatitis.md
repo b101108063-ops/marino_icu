@@ -39,51 +39,51 @@ This chapter describes the clinical features and management of acute pancreatiti
 
 ### Anatomy and Physiology
 
-The pancreas houses two types of cells:
+胰臟包含兩種類型的細胞：
 
-- **"Islet" cells** — have an endocrine function, and secrete insulin, glucagon, and somatostatin
-- **"Acinar" cells** — have an exocrine function, and secrete digestive enzymes such as amylase, lipase, and trypsin
+- **「蘭氏小島」細胞（Islet cells）**——具有內分泌功能，分泌 insulin、glucagon 與 somatostatin
+- **「腺泡」細胞（Acinar cells）**——具有外分泌功能，分泌消化酶如 amylase、lipase 與 trypsin
 
 ### Pathophysiology
 
-Acute pancreatitis is an inflammatory process that primarily affects the acinar (exocrine) cells. Disruption of these cells releases digestive enzymes, and proteolytic enzymes like trypsin can aggravate the pancreatic injury and promote "autodigestion" of the pancreas. The pancreatic injury triggers a systemic inflammatory response, which can lead to inflammatory injury in other organs, culminating in multiorgan failure.
+急性胰臟炎是一種主要影響腺泡（外分泌）細胞的發炎過程。這些細胞的破壞會釋放消化酶，而像 trypsin 這樣的蛋白水解酶會加重胰臟損傷並促進胰臟的「自體消化」。胰臟損傷會觸發全身性發炎反應，這可能導致其他器官的發炎性損傷，最終導致多重器官衰竭。
 
 ---
 
 ## Etiologies
 
-**Table 40.1 — Etiologies of Acute Pancreatitis**
+**表 40.1 — 急性胰臟炎的病因**
 
-| More Common† | Less Common |
+| 較常見† | 較少見 |
 |---|---|
-| Gallstones (21–33%) | Alcohol (16–27%) |
-| Idiopathic (10–15%) | Hypertriglyceridemia (2–7%) |
-| Drugs (3–4%) | Hypercalcemia |
-| | Abdominal trauma |
-| | Infections |
-| | Vasculitis |
+| 膽結石（Gallstones）（21–33%） | 酒精（Alcohol）（16–27%） |
+| 不明原因（Idiopathic）（10–15%） | 高三酸甘油酯血症（Hypertriglyceridemia）（2–7%） |
+| 藥物（Drugs）（3–4%） | 高血鈣（Hypercalcemia） |
+| | 腹部創傷（Abdominal trauma） |
+| | 感染（Infections） |
+| | 血管炎（Vasculitis） |
 
-> †Reported prevalence indicated in parentheses.
+> †括號中為報告的盛行率。
 
-About three-quarters of the cases are the result of gallstones, alcohol abuse, or are idiopathic (1,3), while the other causes that deserve mention are hypertriglyceridemia (4,5), drugs (6), and infections (7).
+約四分之三的病例是膽結石、酒精濫用或不明原因所導致（1,3），其他值得注意的原因包括高三酸甘油酯血症（4,5）、藥物（6）與感染（7）。
 
 ### Hypertriglyceridemia
 
-Severe hypertriglyceridemia (serum triglyceride levels > 1,000 mg/dL) is responsible for up to **7%** of cases of acute pancreatitis (4), and the frequency of cases has increased considerably in recent years (5). Several mechanisms may be involved, but one of the major ones is the release of polyunsaturated fatty acids (PUFAs) from triglycerides, since PUFAs are highly oxidizable and are capable of inciting an inflammatory response.
+嚴重的高三酸甘油酯血症（血清三酸甘油酯 > 1,000 mg/dL）是高達 **7%** 急性胰臟炎症例的原因（4），近年來病例頻率大幅增加（5）。可能涉及多種機制，但其中一個主要機制是從三酸甘油酯釋放多不飽和脂肪酸（PUFAs），因為 PUFAs 高度易於氧化並能夠引發發炎反應。
 
-The pancreatitis from hypertriglyceridemia is more severe than other types of pancreatitis and is associated with a greater degree of systemic inflammation and extrapancreatic organ injury (4). Fortunately, there is an effective treatment, which is described later in the chapter.
+由高三酸甘油酯血症引起的胰臟炎比其他類型的胰臟炎更嚴重，並伴隨更高程度的全身性發炎與胰臟外器官損傷（4）。幸運的是，有一種有效的治療方法，將在本章後面描述。
 
 ---
 
 ## Classification
 
-**Table 40.2 — Classification of Acute Pancreatitis**
+**表 40.2 — 急性胰臟炎的分類**
 
-| Feature | Edematous Pancreatitis | Necrotizing Pancreatitis |
+| 特徵 | 水腫性胰臟炎（Edematous Pancreatitis） | 壞死性胰臟炎（Necrotizing Pancreatitis） |
 |---|---|---|
-| Prevalence | ~80% of cases | ~20% of cases |
-| Severity | Usually mild, self-limiting | Severe, higher mortality |
-| Local complications | Peripancreatic fluid collections | Pancreatic necrosis, abscess, pseudocyst |
-| Systemic inflammation | Moderate | Severe |
+| 盛行率 | 約 80% 的病例 | 約 20% 的病例 |
+| 嚴重程度 | 通常輕微、自限性 | 嚴重，死亡率較高 |
+| 區域併發症 | 胰周液體積聚 | 胰臟壞死、膿腫、假性囊腫 |
+| 全身性發炎 | 中度 | 嚴重 |
 
-*(Source content continues with further management details)*
+*（來源內容繼續有更多管理細節）*

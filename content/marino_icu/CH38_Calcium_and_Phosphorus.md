@@ -35,21 +35,21 @@ Calcium and phosphorus are responsible for much of the structural integrity of t
 
 ## Calcium Basics
 
-Calcium is the most abundant electrolyte in the human body (the average adult has more than half a kilogram of calcium), but **99% is in bone** (1,2). Parathyroid hormone and vitamin D (calcitriol) promote calcium resorption from bone and thereby maintain plasma calcium levels, while calcitonin (from the thyroid gland) has the opposite effect and inhibits calcium release from bone.
+Calcium 是人體中含量最豐富的電解質（平均成人有超過半公斤的 calcium），但**99% 存在於骨骼中**（1,2）。副甲狀腺激素與維生素 D（calcitriol）促進骨骼中 calcium 的吸收，從而維持血漿 calcium 水平，而 calcitonin（來自甲狀腺）則有相反的作用，抑制骨骼中 calcium 的釋放。
 
 ### Plasma Calcium
 
-The calcium in plasma is present in three forms, as depicted in Figure 38.1. Approximately **half** of the calcium is **ionized** (biologically active) and the remainder is either **bound to albumin** (80%) or **complexed with sulfate and phosphate anions** (20%) (1,2). The concentration of total and ionized calcium in plasma is shown in Table 38.1. These values may vary slightly in different clinical laboratories.
+如圖 38.1 所示，血漿中的 calcium 以三種形式存在。大約**一半**的 calcium 是**離子化**（生物學活性）的，其餘的則是與白蛋白結合（80%）或與 sulfate 與 phosphate 陰離子結合（20%）（1,2）。血漿中總鈣與離子化鈣的濃度如表 38.1 所示。這些數值在不同的臨床實驗室可能略有差異。
 
-**Table 38.1 — Normal Ranges for Calcium and Phosphate in Blood**
+**表 38.1 — 血液中鈣與磷酸鹽的正常範圍**
 
-| Measure | Value |
+| 測量項目 | 數值 |
 |---|---|
-| Total serum calcium | 8.5–10.5 mg/dL |
-| Ionized serum calcium | 4.5–5.6 mg/dL |
-| Serum phosphate | 2.5–4.5 mg/dL |
+| 血清總鈣（Total serum calcium） | 8.5–10.5 mg/dL |
+| 血清離子化鈣（Ionized serum calcium） | 4.5–5.6 mg/dL |
+| 血清磷酸鹽（Serum phosphate） | 2.5–4.5 mg/dL |
 
-*(Reference values may vary by laboratory)*
+*（參考值可能因實驗室而異）*
 
 ---
 
@@ -57,15 +57,15 @@ The calcium in plasma is present in three forms, as depicted in Figure 38.1. App
 
 ### Causes of Ionized Hypocalcemia in the ICU
 
-**Table 38.2 — Causes of Ionized Hypocalcemia in the ICU**
+**表 38.2 — ICU 中離子化低血鈣的原因**
 
-| Most Common | Others |
+| 最常見 | 其他 |
 |---|---|
 | Sepsis | Vitamin D deficiency |
-| Massive blood transfusion (citrate) | Hypomagnesemia |
-| Acute pancreatitis | Hyperphosphatemia |
-| Surgical hypoparathyroidism | Alkalosis |
-| Chronic kidney disease | |
+| 大量輸血（citrate） | Hypomagnesemia |
+| 急性胰臟炎 | Hyperphosphatemia |
+| 手術後副甲狀腺機能低下 | Alkalosis |
+| 慢性腎臟疾病 | |
 
 ---
 
@@ -73,57 +73,57 @@ The calcium in plasma is present in three forms, as depicted in Figure 38.1. App
 
 ### Management of Severe Hypercalcemia
 
-**Table 38.4 — Management of Severe Hypercalcemia**
+**表 38.4 — 嚴重高血鈣的治療**
 
-*(Table content not fully provided in source)*
+*（表內容來源未完整提供）*
 
 ---
 
 ## Intravenous Calcium Replacement
 
-**Table 38.3 — Intravenous Calcium Replacement Therapy**
+**表 38.3 — 靜脈注射 Calcium 替代治療**
 
-#### Calcium Salt Solutions
+#### Calcium 鹽類溶液
 
-Two calcium solutions are available for intravenous use:
+有兩種鈣溶液可供靜脈注射使用：
 
-| Property | 10% Calcium Chloride | 10% Calcium Gluconate |
+| 特性 | 10% Calcium Chloride | 10% Calcium Gluconate |
 |---|---|---|
-| Elemental Ca | 27 mg/mL | 9 mg/mL |
-| Unit volume | 10 mL ampules | 10 mL ampules |
-| Osmolarity | 2,000 mosm/L | 680 mosm/L |
+| 元素鈣 | 27 mg/mL | 9 mg/mL |
+| 單位體積 | 10 mL ampules | 10 mL ampules |
+| 滲透壓 | 2,000 mosm/L | 680 mosm/L |
 
-Calcium chloride contains **three times** more elemental calcium than calcium gluconate, but calcium gluconate is usually preferred because it has a lower osmolarity and is less irritating when injected.
+Calcium chloride 含有的元素鈣是 calcium gluconate 的**三倍**，但通常較偏好使用 calcium gluconate，因為它的滲透壓較低且注射時較不刺激。
 
-#### Dosing Regimen for Symptomatic Hypocalcemia
+#### 有症狀低血鈣的劑量療程
 
-1. **Bolus dose:** Give 200 mg elemental calcium (e.g., 22 mL of 10% calcium gluconate) in 100 mL isotonic saline over 10 minutes.
-2. **Continuous infusion:** Follow with 1–2 mg/kg per hour for 6–12 hours.
-3. **Monitoring:** Ionized calcium levels should be monitored hourly for the first few hours.
+1. **注射劑量：**給予 200 mg 元素鈣（例如 22 mL 的 10% calcium gluconate），溶於 100 mL 等張鹽水中，超過 10 分鐘輸注。
+2. **持續輸注：**接著以 1–2 mg/kg 每小時，持續 6–12 小時。
+3. **監測：**前幾小時應每小時監測離子化鈣濃度。
 
-> **CAUTION:** Intravenous calcium has been shown to promote multiorgan failure in critically ill patients (15), possibly by promoting intracellular calcium overload, which can produce a lethal cell injury (16).
+> **警告：**靜脈注射 calcium 已被證明會促進重症病人的多器官衰竭（15），可能是透過促進細胞內鈣超載，這可能產生致命的細胞損傷（16）。
 
 ---
 
 ## Phosphate Replacement
 
-**Table 38.5 — Phosphate Replacement Therapy**
+**表 38.5 — Phosphate 替代治療**
 
-#### Available Solutions
+#### 可用的溶液
 
-| Solution | PO₄ Content | Other Content |
+| 溶液 | PO₄ 含量 | 其他成分 |
 |---|---|---|
 | Sodium phosphate | 93 mg (3 mmol)/mL | Na⁺: 4.0 mEq/L |
 | Potassium phosphate | 93 mg (3 mmol)/mL | K⁺: 4.3 mEq/L |
 
-> **Note:** If the plasma K⁺ is ≥ 4 mEq/L, use sodium phosphate; if the plasma K⁺ is < 4 mEq/L, use potassium phosphate.
+> **注意：**如果血漿 K⁺ ≥ 4 mEq/L，使用 sodium phosphate；如果血漿 K⁺ < 4 mEq/L，使用 potassium phosphate。
 
-#### Phosphate Replacement (IV) by Body Weight
+#### 依體重給予的 phosphate 替代（靜脈注射）
 
-| Serum PO₄ (mg/dL) | 40–60 kg | 61–80 kg | 81–120 kg |
+| 血清 PO₄ (mg/dL) | 40–60 kg | 61–80 kg | 81–120 kg |
 |---|---|---|---|
 | < 1 | 30 mmol | 40 mmol | 50 mmol |
 | 1–1.7 | 20 mmol | 30 mmol | 40 mmol |
 | 1.8–2.5 | 10 mmol | 15 mmol | 20 mmol |
 
-*From Reference 33.*
+*來源：參考文獻 33。*

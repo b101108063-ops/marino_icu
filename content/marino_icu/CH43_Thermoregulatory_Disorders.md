@@ -26,160 +26,160 @@ The human body is a metabolic furnace that generates enough heat to raise body t
 
 ### Hyperthermia vs. Fever
 
-The distinction between hyperthermia and fever deserves mention at the outset. Both conditions are characterized by an elevated body temperature, but:
+首先，hyperthermia 和 fever 的區別值得一述。兩種情況都以體溫升高為特徵，但：
 
-- **Hyperthermia** is the result of a defect in temperature regulation.
-- **Fever** is the result of a normal thermoregulatory system operating at a higher set point.
+- **Hyperthermia** 是體溫調節缺陷的結果。
+- **Fever** 是正常體溫調節系統在較高設定點運作的結果。
 
-The elevations in body temperature in this chapter represent **hyperthermia, not fever**. Because the underlying mechanisms are different, the antipyretic agents used to treat fever (e.g., acetaminophen) are **ineffective** in hyperthermia.
+本章中介於的體溫升高代表的是 **hyperthermia，而非 fever**。由於底層機制不同，用於治療 fever 的退燒藥物（如 acetaminophen）在 hyperthermia 中**無效**。
 
 ### Response to Thermal Stress
 
-The maintenance of body temperature in conditions of thermal stress (e.g., hot weather, strenuous exercise) is achieved primarily by:
+在熱应激條件下（如炎熱天氣、劇烈運動）維持體溫主要通過：
 
-- **Convective heat loss** — enhanced blood flow to the skin
-- **Evaporative heat loss** — loss of sweat
+- **對流散熱** — 皮膚血流量增加
+- **蒸發散熱** — 出汗
 
-**Convective Heat Loss:** When heat is lost from the skin, it warms the air just above the skin surface. When an air current (e.g., from a fan or gust of wind) passes across the skin, it displaces the warm layer of air and replaces it with cooler air, facilitating continued heat loss by conduction. The same effect is produced by increases in blood flow just underneath the skin.
+**對流散熱：** 當熱量從皮膚散失時，它會溫暖皮膚表面的空氣。當氣流（如來自風扇或陣風）通過皮膚時，它會取代溫暖的空氣層並用較冷的空氣替換，促進持續的傳導散熱。皮膚下血流量增加也會產生相同的效果。
 
-**Evaporative Heat Loss:** The transformation of water from liquid to gas requires heat (the 'latent heat of vaporization'). The evaporation of one liter of sweat from the skin is accompanied by the loss of 580 kilocalories (kcal) of body heat — about one-quarter of the daily heat production by an average-sized adult at rest. Thermal sweating can achieve rates of 1 to 2 liters per hour, meaning over 1,000 kcal of heat can be lost in one hour during profuse sweating.
+**蒸發散熱：** 水從液態轉變為氣態需要熱量（「蒸發潛熱」）。從皮膚蒸發一升汗液伴隨著 580 千卡（kcal）體熱的散失——約為休息狀態下普通成人每日熱量產生的四分之一。散熱性出汗可達每小時 1 到 2 升的速率，這意味著在大量出汗時，每小時可散失超過 1,000 kcal 的熱量。
 
-> **Important:** Sweat must evaporate to ensure loss of body heat. Wiping sweat off the skin will not result in heat loss.
+> **重要：** 汗水必須蒸發才能確保體熱散失。將汗水從皮膚上擦掉不會導致散熱。
 
 ### Heat-Related Syndromes
 
-Heat-related illnesses are conditions where the thermoregulatory system can no longer maintain a constant body temperature in response to thermal stress. Minor conditions include:
+熱相關疾病是體溫調節系統在應對熱应激時無法維持恆定體溫的情況。輕微疾病包括：
 
-- **Heat edema** — dependent soft tissue swelling
-- **Heat cramps** — exercise-induced muscle cramps
-- **Heat rash** — papular rash caused by blocked sweat pores
+- **熱水腫** — 依賴性軟組織腫脹
+- **熱痙攣** — 運動引起的肌肉痙攣
+- **熱疹** — 由阻塞的汗孔引起的丘疹樣皮疹
 
-The major heat-related illnesses are **heat exhaustion** and **heat stroke**.
+主要熱相關疾病是**熱衰竭**和**中暑**。
 
-**TABLE 43.1 — Comparative Features of Heat Exhaustion and Heat Stroke**
+**TABLE 43.1 — 熱衰竭和中暑的比較特徵**
 
-| Feature | Heat Exhaustion | Heat Stroke |
+| 特徵 | 熱衰竭 | 中暑 |
 |---|---|---|
-| Body Temperature | 38–39° C (100.4–102° F) | ≥41° C (≥106° F) |
-| CNS Dysfunction | Absent | Present |
-| Sweat Production | Present | Absent (dry skin) |
+| 體溫 | 38–39° C (100.4–102° F) | ≥41° C (≥106° F) |
+| CNS 功能障礙 | 無 | 有 |
+| 出汗 | 有 | 無（皮膚乾燥） |
 
 ---
 
 ## Malignant Hyperthermia
 
-Malignant hyperthermia (MH) is a life-threatening condition triggered by exposure to certain anesthetic agents in susceptible individuals.
+Malignant hyperthermia (MH) 是一種危及生命的疾病，在易感個體中接觸某些麻醉劑後觸發。
 
 ### Predisposing Conditions
 
-A susceptible patient who has received:
+已接受以下治療的易感患者：
 
-1. A halogenated volatile anesthetic agent (e.g., halothane), **or**
-2. A depolarizing neuromuscular blocker (e.g., succinylcholine)
+1. 鹵素揮發性麻醉劑（如 halothane），**或**
+2. 去極化神經肌肉阻斷劑（如 succinylcholine）
 
 ### Clinical Manifestations
 
-The first sign of MH may be a sudden and unexpected rise in end-tidal PCO₂ (a reflection of the increased metabolic rate caused by calcium-induced uncoupling of oxidative phosphorylation). This is followed (within minutes to a few hours) by:
+MH 的第一個徵兆可能是 end-tidal PCO₂ 的突然意外升高（反映由鈣誘導的氧化磷酸化解偶聯引起的代謝率增加）。隨後（在幾分鐘到幾小時內）出現：
 
-- **Muscle rigidity** — can begin in the masseter muscle before becoming generalized
-- **Rapid rise in temperature** — often >40° C (104° F); generally occurs later in the presentation
-- **Altered mentation** — confusion, delirium, coma
-- **Autonomic instability** — fluctuating blood pressure, tachycardia
-- **Rhabdomyolysis** — can be accompanied by acute kidney injury from myoglobinuria
+- **肌肉僵直** — 可能從咀嚼肌開始，然後變為全身性
+- **體溫快速升高** — 通常 >40° C (104° F)；通常在病程後期出現
+- **意識改變** — 意識混亂、譫妄、昏迷
+- **自律神經不穩** — 血壓波動、心搏過速
+- **Rhabdomyolysis** — 可能伴隨來自 myoglobinuria 的急性腎損傷
 
 ### Management
 
-The first suspicion of MH should prompt immediate **discontinuation of the offending anesthetic agent**.
+首次懷疑 MH 時應立即**停止引發症狀的麻醉劑**。
 
-**Dantrolene** is the specific treatment for muscle rigidity. It blocks the release of calcium from the sarcoplasmic reticulum. When given early, dantrolene can reduce mortality from ≥70% (untreated) to ≤10%.
+**Dantrolene** 是治療肌肉僵直的特定藥物。它阻斷肌漿網中鈣的釋放。早期給予時，dantrolene 可將死亡率從 ≥70%（未治療）降低到 ≤10%。
 
-**TABLE 43.2 — Dantrolene Dosing Regimen for Malignant Hyperthermia**
+**TABLE 43.2 — Malignant Hyperthermia 的 Dantrolene 劑量方案**
 
-| Step | Dosing |
+| 步驟 | 劑量 |
 |---|---|
-| Acute treatment | 1–2 mg/kg IV bolus; repeat every few minutes until symptoms resolve or cumulative dose reaches 10 mg/kg |
-| Maintenance | 1–2 mg/kg every 6 hours (IV or PO) for at least 24 hours to prevent recurrence |
+| 急性治療 | 1–2 mg/kg 靜脈推注；每幾分鐘重複一次，直到症狀緩解或累積劑量達到 10 mg/kg |
+| 維持 | 每 6 小時 1–2 mg/kg（靜脈或口服），至少持續 24 小時以預防復發 |
 
-**Other concerns:**
+**其他考量：**
 
-- Aggressive fluid infusion may be necessary for autonomic instability or rhabdomyolysis.
-- Vigilance for hyperk
+- 對於自律神經不穩或 rhabdomyolysis 可能需要積極輸液。
+- 需警惕高鉀血症（hyperkalemia）。
 
-**TABLE 43.3 — Drugs Associated with Neuroleptic Malignant Syndrome**
+**TABLE 43.3 — 與 Neuroleptic Malignant Syndrome 相關的藥物**
 
-| Mechanism | Drug Classes | Examples |
+| 機制 | 藥物類別 | 範例 |
 |---|---|---|
-| **Inhibit dopaminergic transmission** | Antipsychotic agents | Butyrophenones (e.g., haloperidol), phenothiazines, clozapine, olanzapine, risperidone |
-| **Inhibit dopaminergic transmission** | Antiemetic agents | Metoclopramide, droperidol, prochlorperazine |
-| **Inhibit dopaminergic transmission** | CNS stimulants | Amphetamines, cocaine |
-| **Inhibit dopaminergic transmission** | Other | Lithium, tricyclic antidepressants |
-| **Facilitate dopaminergic transmission** | — | Abrupt withdrawal of dopaminergic agents (e.g., levodopa) |
+| **抑制多巴胺傳遞** | 抗精神病藥物 | Butyrophenones（如 haloperidol）、phenothiazines、clozapine、olanzapine、risperidone |
+| **抑制多巴胺傳遞** | 止吐藥物 | Metoclopramide、droperidol、prochlorperazine |
+| **抑制多巴胺傳遞** | CNS 刺激劑 | Amphetamines、cocaine |
+| **抑制多巴胺傳遞** | 其他 | Lithium、tricyclic antidepressants |
+| **促進多巴胺傳遞** | — | 多巴胺製劑（如 levodopa）的突然停用 |
 
 ---
 
 ## Serotonin Syndrome
 
-Serotonin syndrome is a potentially life-threatening condition resulting from excess serotonergic activity in the central nervous system.
+Serotonin syndrome 是一種可能危及生命的疾病，由中樞神經系統中過度的血清素活性引起。
 
 ### Causative Drugs
 
-**TABLE 43.4 — Drugs That Can Produce Serotonin Syndrome**
+**TABLE 43.4 — 可引起 Serotonin Syndrome 的藥物**
 
-| Mechanism | Drug Classes | Examples |
+| 機制 | 藥物類別 | 範例 |
 |---|---|---|
-| Increased serotonin synthesis | Tryptophan supplementation | — |
-| Increased serotonin release | Amphetamines, cocaine, MDMA | — |
-| Serotonin receptor agonism | Triptans, lithium | — |
-| Serotonin reuptake inhibition | SSRIs, SNRIs, TCAs, meperidine, tramadol, linezolid, methylene blue | — |
-| Inhibition of serotonin metabolism | MAOIs | — |
+| 增加血清素合成 | Tryptophan 補充劑 | — |
+| 增加血清素釋放 | Amphetamines、cocaine、MDMA | — |
+| 血清素受體激動 | Triptans、Lithium | — |
+| 血清素再攝取抑制 | SSRIs、SNRIs、TCAs、meperidine、tramadol、linezolid、methylene blue | — |
+| 抑制血清素代謝 | MAOIs | — |
 
 ### Clinical Manifestations
 
-**TABLE 43.5 — Clinical Manifestations of Serotonin Syndrome**
+**TABLE 43.5 — Serotonin Syndrome 的臨床表現**
 
-| Category | Manifestations |
+| 類別 | 表現 |
 |---|---|
-| **Mental status changes** | Agitation, confusion, hypervigilance, anxiety |
-| **Autonomic instability** | Hyperthermia, diaphoresis, tachycardia, hypertension, diarrhea |
-| **Neuromuscular abnormalities** | Hyperreflexia, clonus, myoclonus, tremor, muscle rigidity |
-| **Motor hyperactivity** | Restlessness, inability to sit still |
+| **意識狀態改變** | 激動、意識混亂、過度警覺、焦慮 |
+| **自律神經不穩** | Hyperthermia、發汗、心搏過速、高血壓、腹瀉 |
+| **神經肌肉異常** | 反射過強、陣攣、肌陣攣、顫抖、肌肉僵直 |
+| **運動過動** | 躁動、無法靜坐 |
 
 ---
 
 ## Hypothermia
 
-Hypothermia is defined as a core body temperature below 35° C (95° F). It can be classified as:
+Hypothermia 定義為核心體溫低於 35° C (95° F)。可分為：
 
-- **Mild:** 32–35° C (90–95° F)
-- **Moderate:** 28–32° C (82–90° F)
-- **Severe:** <28° C (<82° F)
+- **輕度：** 32–35° C (90–95° F)
+- **中度：** 28–32° C (82–90° F)
+- **重度：** <28° C (<82° F)
 
 ### Pathophysiology
 
-As core temperature decreases:
+當核心體溫下降時：
 
-- Metabolic rate declines approximately 6% per 1° C fall in temperature.
-- Oxygen consumption decreases.
-- Cardiovascular depression occurs (bradycardia, decreased cardiac output, hypotension).
-- CNS depression progresses from confusion to coma.
-- Arrhythmias become more likely as temperature falls (particularly atrial fibrillation and ventricular arrhythmias).
+- 代謝率約每下降 1° C 減少 6%。
+- 氧氣消耗減少。
+- 發生心血管抑制（bradycardia、心輸出量減少、hypotension）。
+- CNS 抑制從意識混亂進展到昏迷。
+- 心律不整的可能性隨體溫下降而增加（尤其是心房顫動和心室心律不整）。
 
 ### Clinical Manifestations
 
-**TABLE 43.6 — Manifestations of Progressive Hypothermia**
+**TABLE 43.6 — 進行性 Hypothermia 的表現**
 
-| Severity | Core Temperature | Clinical Features |
+| 嚴重度 | 核心體溫 | 臨床特徵 |
 |---|---|---|
-| Mild | 32–35° C | Shivering, vasoconstriction, increased metabolic rate, impaired coordination |
-| Moderate | 28–32° C | Cessation of shivering, impaired thermoregulation, altered mental status, bradycardia |
-| Severe | <28° C | Coma, loss of thermoregulatory responses, cardiac arrhythmias, hypotension, cardiac arrest |
+| 輕度 | 32–35° C | 顫抖、血管收縮、代謝率增加、協調性受損 |
+| 中度 | 28–32° C | 顫抖停止、體溫調節受損、意識狀態改變、bradycardia |
+| 重度 | <28° C | 昏迷、體溫調節反應消失、心律不整、hypotension、心臟停止 |
 
 ### Management
 
-- Remove from cold environment; remove wet clothing.
-- Insulation to prevent further heat loss.
-- **Passive external rewarming** (warm blankets, heated environment) for mild hypothermia.
-- **Active rewarming** (forced-air warming, warmed IV fluids, heated humidified oxygen) for moderate to severe hypothermia.
-- Handle patients gently — rough handling can precipitate ventricular arrhythmias.
-- Treat arrhythmias only if they are persistent or life-threatening; defibrillation may be ineffective until adequate rewarming.
-- Consider tube thoracostomy if tension pneumothorax is suspected (can occur during rewarming).
+- 離開寒冷環境；移除濕衣服。
+- 絕緣以防止進一步散熱。
+- **被動外部回溫**（溫暖毯子、加熱環境）用於輕度 hypothermia。
+- **主動回溫**（強制空氣加溫、加溫靜脈輸液、加溫加濕氧氣）用於中度至重度 hypothermia。
+- 輕柔處理患者——粗暴處理可能觸發心室心律不整。
+- 只有在心律不整持續或危及生命時才治療；在充分回溫之前，電擊去顫可能無效。
+- 如果懷疑張力性氣胸，考慮胸管插管（可在回溫期間發生）。

@@ -10,50 +10,50 @@ title: "Oxygen Inhalation"
 > "I brought fire into your midst, and it consumed you, and reduced you to ashes."
 > — Ezekiel (28:17)
 
-There is a fondness for oxygen that is unmatched by any other treatment modality, as is clearly evident in the unbridled use of oxygen in hospitalized patients. The popularity of oxygen is apparent in emergency rooms, where inhaled oxygen is a knee-jerk response to acute illness, and in ICUs, where a patient who is NOT connected to a source of oxygen is a rare sight. Oxygen is given without evidence of tissue need and without regard for the damaging effects of oxygen. This latter disregard is perplexing, since we protect our food from oxygen (with vacuum sealing, tightly-sealed plastic containers, and cellophane wrapping), yet we do not have the same consideration for our patients.
+沒有任何治療方式像氧氣這樣受到青睞，這從住院患者對氧氣的無節制使用中可以清楚地看到。氧氣的普及在急診室裡特別明顯，在那裡，吸入氧氣幾乎是對急性疾病的膝跳反射式回應，在 ICU 裡更是如此——幾乎看不到沒有連接氧氣來源的患者。氧氣的使用沒有組織缺氧的證據，也沒有考慮到氧氣對組織的損害作用。這種後者——對損害的忽略——令人困惑，因為我們用真空密封、緊密密封的塑膠容器和玻璃紙包裝來保護我們的食物免受氧氣侵害，但我們對患者卻沒有同樣的考量。
 
-This chapter begins with an examination of the indications and effects of oxygen inhalation, then describes the different delivery systems for oxygen. The final section is devoted to the dark side of oxygen: oxygen-related tissue injury.
+本章首先檢視氧氣吸入的適應症和效果，然後描述不同的氧氣遞送系統。最後一節則探討氧氣的黑暗面：氧氣相關的組織損傷。
 
 ## 導讀摘要
 
-- 氧療傳統適應症：****PaO₂** <**60 mm Hg**** 或 ****SpO₂** **<90**%**，但此閾值對應的僅 8% 血氧含量下降，組織缺氧閾值更低
-- 高流量鼻導管（High-flow nasal O₂）是最有效的氧療系統，流量可達 ****1–**60 L/min******，**FiO₂** 可達 **100%**
-- 嚴重低血氧的耐受性：研究顯示 COPD 急性惡化患者 **PaO₂** 低至 ****22–**39 mm Hg****** 且 **SaO₂** **54–79%** 時，乳酸值仍正常（≤**2 mmol/L**）
-- 氧療目標：CO₂ 滯留患者維持 ****SpO₂** **88–92%****，其他患者維持 ****SpO₂** **90–94%****，避免高氧對組織的傷害
+- 氧療傳統適應症：**PaO₂ <60 mm Hg** 或 **SpO₂ <90%**，但此閾值對應的僅 8% 血氧含量下降，組織缺氧閾值更低
+- 高流量鼻導管（High-flow nasal O₂）是最有效的氧療系統，流量可達 **1–60 L/min**，**FiO₂** 可達 100%
+- 嚴重低血氧的耐受性：研究顯示 COPD 急性惡化患者 **PaO₂** 低至 **22–39 mm Hg** 且 **SaO₂** **54–79%** 時，乳酸值仍正常（≤**2 mmol/L**）
+- 氧療目標：CO₂ 滯留患者維持 **SpO₂** **88–92%**，其他患者維持 **SpO₂** **90–94%**，避免高氧對組織的傷害
 - 氧療的黑暗面：高氧會產生自由基造成組織損傷，ICU 患者常見不加節制的氧氣使用
 
 
-### Indications for Oxygen Therapy
+### 氧氣治療的適應症
 
-The first clinical practice guideline for O₂ therapy was published in 1984 (1), and the indication for O₂ therapy was stated as follows:
+第一份氧氣治療的臨床實踐指南於 1984 年發表（1），氧氣治療的適應症如下：
 
-> *"Supplemental oxygen therapy is appropriate in acute conditions when there is laboratory documentation of an arterial PO₂ (**PaO₂**) <**60 mm Hg** or an arterial O₂ saturation (**SaO₂**) **<90**%; tissue hypoxia is commonly assumed to be present at these laboratory values."* (Italics in original.)
+> *「在急性疾病中，當有實驗室文件證實动脉 PO₂（**PaO₂**）**<60 mm Hg** 或动脉 O₂ 飽和度（**SaO₂**）**<90%** 時，補充氧氣治療是適當的；在這些實驗室數值下，通常假定存在組織缺氧。」*（原文為斜體。）
 
-This statement is consistent with the consensus definition of hypoxemia as a **PaO₂** <**60 mm Hg** or an **SaO₂** **<90**%. The most recent guidelines for O₂ therapy (2) include a target **SpO₂** (O₂ saturation by pulse oximetry) of **88–92%** for patients with CO₂ retention, and **90–94%** for other patients.
+此聲明與低氧血症的共識定義一致，即 **PaO₂** **<60 mm Hg** 或 **SaO₂** **<90%**。最新的氧氣治療指南（2）包括：對於有 CO₂ 滯留的患者，目標 **SpO₂**（脈搏血氧測量的 O₂ 飽和度）為 **88–92%**，其他患者則為 **90–94%**。
 
-The major issue with this recommendation is the assumption that tissue oxygenation is impaired when the **PaO₂** falls below **60 mm Hg**, or the **SpO₂** falls below 90%. The following sections shed light on this issue.
+這項建議的主要問題是假設當 **PaO₂** 低於 **60 mm Hg** 或 **SpO₂** 低於 90% 時，組織氧合就會受損。以下章節將闡明這個問題。
 
-#### Arterial O₂ Content
+#### 动脉 O₂ 內容物
 
-The threshold for O₂ inhalation is associated with a very small change in the arterial O₂ content. This is demonstrated in the relationship between arterial O₂ content (CaO₂) and the thresholds for both O₂ inhalation and red blood cell (RBC) transfusions (i.e., two interventions aimed at augmenting tissue oxygenation). The CaO₂ is calculated using the following equation [see also Equation (9.9)]:
+氧氣吸入的閾值與动脉 O₂ 內容物的微小變化有關。這體現在动脉 O₂ 內容物（CaO₂）與氧氣吸入和紅血球（RBC）輸注閾值（即兩種旨在增加組織氧合的干預措施）之間的關係。CaO₂ 使用以下方程式計算（另見方程式 9.9）：
 
 $$\text{CaO}_2 \text{ (mL/L)} = 1.34 \times \text{Hb} \times \text{SaO}_2 \times 10$$
 
-where 1.34 is the O₂ carrying capacity of hemoglobin (in mL/g), Hb is the hemoglobin concentration (in g/dL), **SaO₂** is arterial oxyhemoglobin saturation (expressed as a decimal rather than a percentage), and the factor of 10 is used to convert mL/dL to mL/L.
+其中 1.34 是血紅蛋白的 O₂ 攜帶能力（mL/g），Hb 是血紅蛋白濃度（g/dL），**SaO₂** 是动脉氧合血紅蛋白飽和度（以小數而非百分比表示），而係數 10 是用來將 mL/dL 轉換為 mL/L。
 
-Using normal values for Hb (15 g/dL) and **SaO₂** (0.98) yields a CaO₂ of 197 mL/L. When the **SaO₂** is reduced to 0.90 (the threshold for O₂ therapy), the CaO₂ is 181 mL/L, which is only an 8% decrease from baseline. In comparison, using a Hb of 7 g/dL as the threshold for RBC transfusions (see Chapter 12), the corresponding CaO₂ is 92 mL/L—a 64% decrease from baseline.
+使用正常的 Hb（15 g/dL）和 **SaO₂**（0.98）得到 CaO₂ 為 197 mL/L。當 **SaO₂** 降至 0.90（氧氣治療的閾值）時，CaO₂ 為 181 mL/L，這僅比基準值減少 8%。相比之下，使用 7 g/dL 的 Hb 作為 RBC 輸注的閾值（見第 12 章），相應的 CaO₂ 為 92 mL/L——比基準值減少 64%。
 
-The following statements can be derived from these comparisons:
+從這些比較中可以得出以下結論：
 
-1. The threshold for O₂ inhalation corresponds to a minor (8%) change in arterial oxygenation.
-2. Tissue oxygenation is not impaired until the CaO₂ falls below 92 mL/L (the threshold for RBC transfusions), so it cannot be impaired at the much higher threshold for O₂ inhalation.
-3. It follows, therefore, that the threshold for O₂ inhalation can be lowered.
+1. 氧氣吸入的閾值對應的是动脉氧合的微小（8%）變化。
+2. 組織氧合在 CaO₂ 降至低於 92 mL/L（RBC 輸注的閾值）之前不會受損，因此在遠高於氧氣治療閾值時不可能受損。
+3. 因此，氧氣吸入的閾值可以降低。
 
-#### Tolerance to Severe Hypoxemia
+#### 對嚴重低血氧的耐受性
 
-Since hypoxemia is corrected immediately with supplemental O₂, there is limited information on tolerance to severe hypoxemia in humans. The available information comes from small observational studies and case reports. The data in Table 25.1 is from a study of eight patients with acute exacerbation of COPD who had a **PaO₂** below **40 mm Hg** while breathing room air for at least one hour (3). The **PaO₂**, **SaO₂**, and plasma lactate level are listed for each patient (in ascending order according to severity of hypoxemia), and there is no evidence of impaired tissue oxygenation in any patient, as determined by the normal lactate levels (≤**2 mmol/L**).
+由於低血氧會立即以補充 O₂ 糾正，因此關於人類對嚴重低血氧耐受性的資訊有限。現有資訊來自小型觀察性研究和病例報告。表 25.1 的數據來自一項研究，該研究包含了八名急性 COPD 惡化患者，他們在呼吸室內空氣至少一小時後 **PaO₂** 低於 **40 mm Hg**（3）。表中列出了每位患者（按低血氧嚴重程度遞增排序）的 **PaO₂**、**SaO₂** 和血漿乳酸水平，根據正常乳酸水平（≤**2 mmol/L**），沒有任何患者出現組織氧合受損的證據。
 
-**Table 25.1: Tolerance to Severe Hypoxemia**
+**表 25.1：對嚴重低血氧的耐受性**
 
 | Patient | **PaO₂** (mm Hg) | **SaO₂** (%) | Lactate (mmol/L) |
 |---|---|---|---|
@@ -66,29 +66,29 @@ Since hypoxemia is corrected immediately with supplemental O₂, there is limite
 | 7 | 37 | 76 | 2.0 |
 | 8 | 39 | 79 | 1.1 |
 
-Similar observations have been reported in patients with acute respiratory distress syndrome (4), indicating that tolerance to severe hypoxemia is not an adaptation that develops over time.
+在急性呼吸窘迫症候群患者中也有類似的觀察報告（4），表明對嚴重低血氧的耐受性不是隨著時間推移而發展出的適應現象。
 
-### Oxygen Delivery Systems
+### 氧氣遞送系統
 
-**Table 25.2: Oxygen Delivery Systems**
+**表 25.2：氧氣遞送系統**
 
-| System or Device | Flow Rates | FIO₂ Range | Comments |
+| 系統或裝置 | 流量 | FIO₂ 範圍 | 說明 |
 |---|---|---|---|
-| Low-flow nasal O₂ | **1–**6 L/min**** | **24–40%** | Mild hypoxemia, no respiratory distress |
-| Standard face mask | **5–**10 L/min**** | **35–50%** | Mild hypoxemia |
-| Non-rebreather mask | ≥**10 L/min** | **60–80%** | High O₂ requirements |
-| Air-entrainment mask | **2–**15 L/min**** | **24–50%** | Controlled O₂ delivery |
-| OxyMask™ | 1–≥**15 L/min** | **24–90%** | High O₂ at relatively low flow rates |
-| High-flow nasal O₂ | **1–**60 L/min**** | **24–100%** | Most effective for severe hypoxemia and respiratory distress |
+| 低流量鼻導管 O₂ | **1–6 L/min** | **24–40%** | 輕度低血氧，無呼吸窘迫 |
+| 標準面罩 | **5–10 L/min** | **35–50%** | 輕度低血氧 |
+| 非再呼吸面罩 | ≥**10 L/min** | **60–80%** | 高氧需求 |
+| 空氣 entrainment 面罩 | **2–15 L/min** | **24–50%** | 受控 O₂ 遞送 |
+| OxyMask™ | 1–≥**15 L/min** | **24–90%** | 在相對較低流量下提供高 O₂ |
+| 高流量鼻導管 O₂ | **1–60 L/min** | **24–100%** | 對嚴重低血氧和呼吸窘迫最有效 |
 
-### Benefits of High-Flow Nasal Oxygen
+### 高流量鼻導管氧氣的好處
 
-**Table 25.3: The Benefits of High-Flow Nasal Oxygen**
+**表 25.3：高流量鼻導管氧氣的好處**
 
-| Category | Benefits |
+| 類別 | 好處 |
 |---|---|
-| **Physiological** | • Reduces dead space  • Increases end-expiratory lung volume  • Increases lung distensibility  • Reduces respiratory rate and minute ventilation  • Reduces work of breathing |
-| **Clinical** | • Most effective O₂ delivery system for severe hypoxemia and respiratory distress  • Promotes comfortable breathing  • Reduces risk of patient self-induced lung injury (P-SILI)  • Allows oral food intake  • Can prevent intubation |
+| **生理學** | • 減少死腔  • 增加吐氣末肺容積  • 增加肺順應性  • 降低呼吸頻率和分鐘通氣量  • 降低呼吸功 |
+| **臨床** | • 對嚴重低血氧和呼吸窘迫最有效的 O₂ 遞送系統  • 促進舒適呼吸  • 降低患者自我誘發肺損傷（P-SILI）風險  • 可允許口服進食  • 可預防插管 |
 
 ### Bibliography
 

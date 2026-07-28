@@ -26,193 +26,193 @@ This chapter describes abdominal infections that are related to the ICU stay, in
 - **複雜性腹內感染**需積極源頭控制（手術修復），經驗性抗生素應覆盖**ESBL菌株**（首選 **meropenem**）及可能之**念珠菌**感染。
 - **腹部膿瘻**（Abscess）CT導引引流成功率高達 **90–95%**，手術大多無需。
 
-Acalculous cholecystitis is inflammation of the gallbladder without cystic duct obstruction by gallstones. It is an uncommon form of acute cholecystitis that typically occurs in critically ill patients and is more severe than its calculous counterpart.
+Acalculous cholecystitis 是沒有結石阻塞膽囊管的膽囊發炎。這是一種不常見的急性 cholecystitis 形式，通常發生在重症患者身上，且比有結石的形式更嚴重。
 
 ### Pathogenesis
 
-Predisposing conditions include:
+**易感性條件包括：**
 
 - Stroke
 - Sepsis
 - Circulatory shock
-- Prolonged periods of bowel rest (e.g., during total parenteral nutrition)
-- The postoperative period (especially following cardiopulmonary bypass surgery)
+- 長時間腸道休息（如全靜脈營養期間）
+- 術後期間（尤其是心肺繞道手術後）
 
-Possible mechanisms include:
+**可能的機制包括：**
 
 - Hypoperfusion
-- Decreased gallbladder contractions (leading to buildup of gallbladder "sludge")
-- Relaxation of the sphincter of Oddi (allowing enteric pathogens to enter the biliary tree)
-- A change in the composition of bile — specifically, biliary sludge contains small crystals called "microliths" that can promote cholecystitis
+- 膽囊收縮減少（導致膽囊「sludge」堆積）
+- Oddi 括約肌鬆弛（允許腸道病原體進入膽道）
+- 膽汁成分改變——具體來說，膽汁 sludge 含有稱為「microliths」的小結晶，可促進 cholecystitis
 
 ### Clinical Features
 
-The clinical presentation can be nonspecific. Common but nonspecific findings include:
+臨床表現可能不具特異性。常見但非特異性的發現包括：
 
 - Fever
 - Hypotension
 - Multiorgan failure
 
-Pain and tenderness in the right upper quadrant can be absent in one-third of patients. Blood cultures are positive in 90% of cases, and gram-negative aerobic bacilli are isolated in almost all cases.
+三分之一的患者可能沒有右腹疼痛和壓痛。90% 的病例血液培養為陽性，且幾乎所有病例都可分離出革蘭氏陰性好氧桿菌。
 
 ### Diagnosis
 
-**Ultrasound** is favored as the initial diagnostic test, but the diagnostic yield can be limited. Gallbladder distension and sludge are suggestive but nonspecific findings. Advanced disease may yield more specific findings, such as sloughed mucosa in the gallbladder lumen characteristic of gangrenous cholecystitis (Figure 41.1).
+**超聲（Ultrasound）** 是首選的初步診斷檢查，但診斷率可能有限。膽囊擴張和 sludge 是提示性但非特異性的發現。晚期疾病可能出現更特異性的發現，例如 gangrenous cholecystitis 特徵性的膽囊腔內黏膜脫落（圖 41.1）。
 
-The pooled results from 26 studies show a sensitivity of 81% and a specificity of 83% for ultrasound.
+來自 26 項研究的綜合結果顯示，超聲的敏感度為 81%，特異度為 83%。
 
-If ultrasound is not diagnostic, the **gold standard test** is the **hepatobiliary iminodiacetic acid (HIDA) scan**, but this requires a functional liver to move the tracer into the bile ducts. MRI has the same diagnostic yield as abdominal ultrasound, and CT accuracy is poor.
+如果超聲檢查無法確診，**黃金標準檢查**是**肝膽道胺基二醋酸（HIDA）掃描**，但這需要功能性肝臟將追蹤劑移動到膽管。MRI 的診斷率與腹部超聲相同，而 CT 的準確度較差。
 
-**TABLE 41.1 — Antibiotic Penetration into Bile**
+**TABLE 41.1 — Antibiotic 膽道穿透性**
 
 | Category | Examples |
 |---|---|
 | Good Penetration | Ampicillin/sulbactam, piperacillin-tazobactam, ceftriaxone, cefepime |
 | Poor Penetration | Cefazolin, cefepime (variable), fluoroquinolones |
 
-*Note: Empiric antibiotic therapy should be started as soon as the diagnosis is confirmed.*
+*注意：確診後應盡快開始經驗性 antibiotic 治療。*
 
 ---
 
 ## Clostridium difficile Enterocolitis
 
-The normal microbial environment in the GI tract (the **microbiome**) has an important role in preventing colonization by undesirable pathogens. Disruption of the microbiome (dysbiosis) can lead to a variety of infections, and the most prominent of these is *Clostridium difficile* enterocolitis, which is considered the most common healthcare-associated infection.
+GI  tract 中正常的微生物環境（**microbiome**）在預防不良病原體的 colonization 方面起著重要作用。Microbiome 的破壞（dysbiosis）可導致多種 infection，而其中最突出的是 *Clostridium difficile* enterocolitis，被認為是最常見的醫療照護相關 infection。
 
-> *Note: Clostridium difficile has been renamed Clostridioides difficile, but the original name is used throughout this chapter.*
+> *注意：Clostridium difficile 已更名為 Clostridioides difficile，但本章中使用原名。*
 
 ### Pathogenesis
 
-*Clostridium difficile* is a spore-forming gram-positive anaerobic bacillus that is an uncommon inhabitant of the bowel in healthy subjects but can proliferate when the normal microbial population has been altered.
+*Clostridium difficile* 是一種形成孢子的革蘭氏陽性厭氧桿菌，在健康受試者的腸道中並不常見，但當正常微生物群被改變時可大量增殖。
 
-**Major risk factors** for *C. difficile* colonization:
+*C. difficile* colonization 的**主要風險因子：**
 
-- Advanced age
-- Contact with a healthcare facility
-- Antibiotic therapy
+- 高齡
+- 接觸醫療機構
+- Antibiotic 治療
 
-The organism is occasionally found in poultry, fish, and red meat, but the major route of transmission is the fecal-oral route.
+該生物體偶爾存在於家禽、魚類和紅肉中，但主要傳播途徑是糞口途徑。
 
-*C. difficile* is not an invasive organism but releases cytotoxins (Toxins A and B) that damage the bowel mucosa, leading to inflammatory infiltration and symptomatic disease. Severe inflammation produces raised, plaque-like lesions on the mucosal surface known as **pseudomembranes**; their presence (pseudomembranous colitis) indicates severe disease.
+*C. difficile* 不是侵入性生物體，但會釋放細胞毒素（Toxins A 和 B），損傷腸道黏膜，導致發炎浸潤和症狀性疾病。嚴重的發炎會在黏膜表面產生稱為 **pseudomembranes** 的突起斑塊病變；其存在（pseudomembranous colitis）表示疾病嚴重。
 
-The enterocolitis from *C. difficile* is primarily a nosocomial infection (appearing after 48 hours of hospital stay), transmitted via the hands of hospital personnel. However, there has been a drastic rise in community-acquired *C. difficile* infections in recent years, now accounting for 34–48% of all cases.
+*C. difficile* 引起的 enterocolitis 主要是一種院內 infection（出現於住院 48 小時後），通過醫院人員的手傳播。然而，近年來社區獲得性 *C. difficile* infection 大幅增加，現佔所有病例的 34–48%。
 
 ### Gastric Acid Suppression
 
-Use of acid-suppressing drugs, particularly proton pump inhibitors, is associated with an increased risk of *C. difficile* infection. This is consistent with the role of gastric acidity as an antibacterial defense mechanism. The protective effect of gastric acid on *C. difficile* infections has important implications for the escalating and excessive use of proton pump inhibitors for stress ulcer prophylaxis in hospitalized patients.
+酸抑制藥物的使用，特別是 proton pump inhibitors，與 *C. difficile* infection 風險增加有關。這與胃酸作為抗菌防禦機制的作用一致。Gastric acid 對 *C. difficile* infections 的保護作用對於住院患者中 stress ulcer prophylaxis 的 proton pump inhibitors 過度使用具有重要意義。
 
 ### Clinical Features
 
-The principal manifestation of *Clostridium difficile* infection (CDI) is watery diarrhea, accompanied by:
+*Clostridium difficile* infection (CDI) 的主要表現是水樣腹瀉，伴隨：
 
-- Low-grade fever (≤101° F)
-- Mild leukocytosis (WBC count <15,000/mm³)
+- 輕度發燒（≤101° F）
+- 輕度 leukocytosis（WBC count <15,000/mm³）
 
-**Fulminant CDI** occurs in 3–5% of cases and is characterized by:
+**猛爆性 CDI** 發生於 3–5% 的病例，特徵為：
 
 - Hypotension
-- Abdominal distension from ileus
-- **Toxic megacolon** (a surgical emergency)
+- 來自 ileus 的腹部膨脹
+- **Toxic megacolon**（外科急症）
 
 ### Diagnostic Evaluation
 
-The following laboratory tests (on stool samples) are used:
+以下實驗室檢查（糞便樣本）用於診斷：
 
-1. **Polymerase chain reaction (PCR)** — detects the gene for Toxin B. A positive test confirms the presence of toxigenic *C. difficile* but does not differentiate colonization from infection.
+1. **聚合酶鏈反應（PCR）** — 檢測 Toxin B 基因。陽性結果確認存在產毒的 *C. difficile*，但無法區分 colonization 和 infection。
 
-2. **Enzyme-linked immunosorbent assay (ELISA)** — detects toxins A and B. A positive test confirms the diagnosis of CDI.
+2. **酶聯免疫吸附測定（ELISA）** — 檢測 toxins A 和 B。陽性結果確診 CDI。
 
-**Diagnostic algorithm:**
-- PCR is highly sensitive and used as an initial screening test.
-- A negative PCR eliminates the diagnosis of CDI.
-- A positive PCR confirms colonization but not infection, so an ELISA test for cytotoxins is warranted.
-- A positive ELISA confirms CDI.
-- The ELISA has a low sensitivity (~20% miss rate), so a negative ELISA does not eliminate CDI.
-- Most patients who are PCR-positive but toxin-negative do well without treatment for CDI.
+**診斷流程：**
+- PCR 敏感度極高，用作初步篩檢檢查。
+- 陰性 PCR 可排除 CDI 診斷。
+- 陽性 PCR 確認 colonization 而非 infection，因此需要 ELISA 檢測細胞毒素。
+- 陽性 ELISA 確診 CDI。
+- ELISA 敏感度較低（約 20% 漏檢率），因此陰性 ELISA 不能排除 CDI。
+- 大多數 PCR 陽性但毒素陰性的患者在不接受 CDI 治療的情況下表現良好。
 
-> **CAVEAT:** There is a tendency to treat patients for CDI based on a positive PCR test only, but about half of patients who are PCR-positive do not have cytotoxins by immunoassay, and these patients do well without antibiotics. Treatment based on PCR alone leads to overdiagnosis and unnecessary antibiotic use.
+> **警告：** 存在僅根據陽性 PCR 檢測就治療 CDI 患者的趨勢，但約一半 PCR 陽性患者在免疫測定中並無細胞毒素，且這些患者在不使用抗生素的情況下表現良好。僅根據 PCR 治療會導致過度診斷和不必要的抗生素使用。
 
-**Colonoscopy** — Direct visualization of the bowel mucosa is reserved for occasional cases with high clinical suspicion not confirmed by cytotoxin assay. The presence of pseudomembranes confirms CDI. Colonoscopy is preferred to proctosigmoidoscopy.
+**大腸鏡檢查** — 腸道黏膜的直接可視化僅限於高度臨床懷疑但細胞毒素檢測未確診的偶發病例。Pseudomembranes 的存在確診 CDI。大腸鏡檢查優於直腸乙狀結腸鏡檢查。
 
 ### Treatment
 
-**TABLE 41.2 — Recommended Antibiotic Regimens for CDI**
+**TABLE 41.2 — CDI 建議 Antibiotic 療程**
 
-| Condition | Regimen |
+| 情況 | 療程 |
 |---|---|
-| **Routine CDI** | Vancomycin: 125 mg PO four times daily for 10 days **OR** Fidaxomicin: 200 mg PO twice daily for 10 days |
-| **Fulminant CDI** | Vancomycin: 500 mg PO/NG/rectal enema every 6 hours **PLUS** Metronidazole: 500 mg IV every 8 hours |
-| **1st Recurrence** (if vancomycin was used initially) | Vancomycin: 125 mg PO four times daily for 10–14 days, then taper over weeks **OR** Fidaxomicin: 200 mg PO twice daily for 10 days |
-| **2nd Recurrence** | Fecal microbiota transplantation |
+| **常規 CDI** | Vancomycin：125 mg口服，每日四次，共10天 **或** Fidaxomicin：200 mg口服，每日兩次，共10天 |
+| **猛爆性 CDI** | Vancomycin：500 mg口服/鼻胃管/直腸灌腸，每6小時一次 **加** Metronidazole：500 mg靜脈注射，每8小時一次 |
+| **第一次復發**（若最初使用 vancomycin） | Vancomycin：125 mg口服，每日四次，共10–14天，之後數週逐漸減量 **或** Fidaxomicin：200 mg口服，每日兩次，共10天 |
+| **第二次復發** | Fecal microbiota transplantation |
 
-**Additional notes:**
-- Fever resolves in 24–48 hours; diarrhea resolves in 4–5 days. Treatment is continued for 10 days.
-- For toxic megacolon requiring surgery, subtotal colectomy is preferred.
-- Relapses (usually within 3 weeks) occur in 25% of cases treated with vancomycin and 13% treated with fidaxomicin.
+**附加說明：**
+- Fever 在 24–48 小時內消退；腹瀉在 4–5 天內緩解。治療持續10天。
+- 需要手術的 toxic megacolon，首選次全結腸切除術。
+- 復發（通常在3週內）發生於 25% 使用 vancomycin 治療的病例和 13% 使用 fidaxomicin 治療的病例。
 
 ### Fecal Microbiota Transplantation
 
-About 5% of patients with CDI have more than one relapse. The most effective treatment for multiple relapses is **fecal microbiota transplantation** — the instillation of liquid stool from healthy donors (via nasogastric tube, endoscopy, or enemas) to re-establish a normal microbial environment in the GI tract. Reported cure rate: 80–100% for recurrent CDI.
+約 5% 的 CDI 患者有多次復發。多次復發最有效的治療是 **fecal microbiota transplantation** — 從健康捐贈者灌注液態糞便（通過鼻胃管、內視鏡或灌腸）以重建 GI tract 中正常的微生物環境。復發 CDI 的報告治癒率高達 80–100%。
 
 ### Preventive Measures
 
-**Infection control:** The Infectious Diseases Society of America recommends gloves and gowns for any contact with an infected patient and handwashing before and after each patient contact. However, these measures are unlikely to eliminate spread because asymptomatic carriers of *C. difficile* are important sources of transmitted disease.
+**感染控制：** 美國傳染病學會建議與感染患者接觸時戴手套和隔離衣，並在每次患者接觸前後洗手。然而，這些措施不太可能消除傳播，因為 *C. difficile* 的無症狀携带者是傳播疾病的重要來源。
 
-**Probiotics:** Widely used during and after treatment of CDI, but not recommended by the American College of Gastroenterology due to inconclusive study results and evidence that probiotics can impede recolonization of the colon following antibiotic therapy.
+**Probiotics：** 在 CDI 治療期間和之後廣泛使用，但由於研究結果未定，且有證據顯示 probiotics 會阻礙 antibiotic 治療後結腸的再colonization，美國胃腸學會不建議使用。
 
 ---
 
 ## Complicated Intra-Abdominal Infections
 
-Complicated intra-abdominal infections are defined as infections that involve the peritoneal cavity and can be either generalized peritonitis or a localized abscess. They are often the result of a rupture or tear somewhere along the gastrointestinal tract or an anastomotic leak following abdominal surgery. These infections require prompt source control (i.e., closure of the bowel perforation) and appropriate empiric antibiotics.
+複雜性腹內 infection 定義為涉及 peritoneal cavity 的 infection，可以是瀰漫性 peritonitis 或局限性 abscess。它們通常是沿著 GI tract 或腹部手術後 anastomotic leak 某處破裂或撕裂的結果。這些 infection 需要及時的 source control（即封閉腸道穿孔）和適當的經驗性 antibiotics。
 
 ### Bowel Perforation
 
-Perforations of the GI tract can arise from:
+GI tract 的穿孔可由以下原因引起：
 
 - Trauma
 - Peptic ulcer disease
-- Bowel ischemia or obstruction
-- Inflammatory or neoplastic disease
-- Rupture of diverticuli
-- Unintentional laceration of the bowel during surgery
+- Bowel ischemia 或 obstruction
+- 發炎性或腫瘤性疾病
+- 憩室破裂
+- 手術期間腸道的非故意撕裂
 
-**Clinical presentation:** Abdominal pain is almost universal, with signs of peritoneal irritation (guarding and rebound tenderness). Progression to circulatory shock can be rapid.
+**臨床表現：** 腹痛幾乎普遍存在，伴有 peritonitis 徵象（防衛和反彈壓痛）。進展到 circulatory shock 可能很快。
 
-**Diagnosis:** The diagnosis requires evidence of free air in the peritoneal cavity (pneumoperitoneum):
+**診斷：** 診斷需要 peritoneal cavity 有游離空氣的證據（pneumoperitoneum）：
 
-- An upright chest X-ray showing free air under the diaphragm has a sensitivity of up to 85%.
-- CT scans are more sensitive than plain radiographs and can localize the site of perforation in 85% of cases.
-- Pneumoperitoneum is not useful shortly after abdominal surgery, as it can persist for at least one week.
+- 站立胸 X 光顯示橫膈下游離空氣，敏感度高達 85%。
+- CT 掃描比 plain X 光更敏感，可定位 85% 病例的穿孔部位。
+- 腹部手術後不久，pneumoperitoneum 無法用於診斷，因為它可持續存在至少一週。
 
-**Management:**
-- Immediate surgical exploration is typically the first priority.
-- **Fluids:** Soiling with bowel contents causes considerable fluid loss into the peritoneal cavity. Signs of circulatory compromise should prompt volume resuscitation. Avoiding vasopressor therapy prior to surgery is optimal, as it promotes splanchnic vasoconstriction, aggravating underlying bowel ischemia.
+**處理：**
+- 立即手術探查通常是首要任務。
+- **輸液：** 腸道內容物污染會導致大量液體流失到 peritoneal cavity。Circulatory compromise 的徵象應促使容量復甦。術前避免使用 vasopressor 治療是最佳的，因為它會促進內臟血管收縮，加重潜在的 bowel ischemia。
 
-**TABLE 41.3 — Antibiotic Coverage for Enteric Organisms**
+**TABLE 41.3 — 腸道菌的 Antibiotic 覆蓋**
 
-| Scenario | Recommendation |
+| 情況 | 建議 |
 |---|---|
-| No resistant organisms suspected | Piperacillin-tazobactam is suitable for single-agent empiric coverage. Ceftriaxone + metronidazole is an alternative for patients who are not seriously ill but provides inferior coverage. |
-| ESBL-producing organisms suspected | Antibiotic options: **Meropenem** (treatment of choice in septic shock; broadest coverage; not active against MRSA or VRE), **Tigecycline** (not active against Pseudomonas; active against MRSA and VRE; not recommended in septic shock), **Ceftazidime/avibactam** (coverage for Pseudomonas; not active against enterococci or anaerobes; limited experience) |
-| Beta-lactam allergy | Amikacin + metronidazole |
-| Candida peritonitis risk | Add an antifungal agent covering all Candida species (e.g., an echinocandin) |
+| 未懷疑抗藥性菌 | Piperacillin-tazobactam 適合作為單一藥劑的經驗性覆蓋。Ceftriaxone + metronidazole 可作為非重症患者的替代方案，但覆蓋較差。 |
+| 懷疑 ESBL 菌株 | Antibiotic 選項：**Meropenem**（敗血性 shock 的首選治療；最廣泛的覆蓋；對 MRSA 或 VRE 無效）、**Tigecycline**（對 Pseudomonas 無效；對 MRSA 和 VRE 有效；不建議用於敗血性 shock）、**Ceftazidime/avibactam**（對 Pseudomonas 有覆蓋；對腸球菌或厭氧菌無效；經驗有限） |
+| Beta-lactam 過敏 | Amikacin + metronidazole |
+| Candida peritonitis 風險 | 添加覆蓋所有 Candida species 的抗真菌劑（如 echinocandin）
 
 ### Postoperative Infections
 
-Postoperative peritonitis is the most common abdominal infection in ICU patients and is usually the result of anastomotic leakage. Management is similar to bowel perforations, with the following exceptions:
+術後 peritonitis 是 ICU 患者最常見的腹部 infection，通常是 anastomotic leak 的結果。處理與腸道穿孔相似，但有以下例外：
 
-1. The empiric antibiotic regimen should include coverage for ESBL-producing organisms.
-2. Empiric coverage for *Candida* species is recommended in unstable or critically ill patients.
+1. 經驗性 antibiotic 療程應包括對 ESBL 菌株的覆蓋。
+2. 建議對不穩定或重症患者進行 *Candida* species 的經驗性覆蓋。
 
-These infections are problematic because recognition of an anastomotic leak is often delayed (partly due to the presence of peritoneal air for at least one week after abdominal surgery). Return to the operating room is often prompted by deterioration in the patient's clinical condition, which increases reoperation risk. C-reactive protein levels may predict anastomotic leak likelihood, but this has not gained widespread acceptance.
+這些 infection 有問題，因為 anastomotic leak 的識別通常延遲（部分原因是腹部手術後 peritoneal air 至少存在一週）。返回手術室通常是由於患者臨床狀況惡化，這增加了再手術風險。C-reactive protein 水平可能預測 anastomotic leak 的可能性，但尚未被廣泛接受。
 
 ### Abscess
 
-Postoperative abdominal abscesses are often an occult source of sepsis and are difficult to uncover with routine clinical evaluations. Fever is almost always present, but localized abdominal tenderness can be absent in 60% of cases, and a palpable abdominal mass is evident in less than 10% of cases.
+術後腹部 abscess 通常是 sepsis 的隱匿來源，難以通過常規臨床評估發現。Fever 幾乎總是存在，但 60% 的病例可能沒有局部腹部壓痛，少於 10% 的病例有可觸及的腹部腫塊。
 
-**Diagnosis:** Computed tomography (CT) of the abdomen is the most reliable method of detecting abdominal abscesses. However, CT imaging in the early postoperative period can be misleading because collections of blood or irrigant solutions can be misread as an abscess. CT scans are most reliable after the first postoperative week.
+**診斷：** 腹部 CT 是檢測腹部 abscess 最可靠的方法。然而，術後早期的 CT 影像可能具有誤導性，因為血液或沖洗液積聚可能被誤讀為 abscess。CT 掃描在第一個術後週後最可靠。
 
-**Management:** Immediate drainage is advised. CT-guided drainage is successful in 90–95% of cases, and surgery is rarely needed. The empiric antibiotic regimen is the same as described for postoperative peritonitis.
+**處理：** 建議立即引流。CT 引流成功率高達 90–95%，手術很少需要。經驗性 antibiotic 療程與術後 peritonitis 所述相同。
 
 ---
 

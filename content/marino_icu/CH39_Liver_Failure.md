@@ -47,45 +47,45 @@ This chapter describes the major problems that prompt ICU admission in patients 
 
 ### Overview
 
-Acute liver failure (ALF) is an abrupt and rapid deterioration in liver function that occurs *de novo*, without prior liver disease. This is an uncommon condition, as demonstrated by the number of cases (2,614) recorded in the United States over a period of 20 years (6).
+Acute liver failure（ALF）是一種急性且快速的肝功能惡化，發生於*從無*既有肝病的狀態。這是一種不常見的疾病，美國在 20 年間記錄的病例數（2,614）證明了這一點（6）。
 
 ### Etiologies
 
-The conditions included in Figure 39.1 were responsible for about 80% of cases of ALF in the United States, and **acetaminophen tops the list** by a great margin.
+圖 39.1 中所列的疾病約佔美國 ALF 病例的 80%，而**acetaminophen 高居首位**，遠超其他原因。
 
-> **Figure 39.1** — Causes of acute liver failure recorded by the United States Adult Acute Liver Failure Registry over the time period from January 1998 to March 2019. Adapted from Reference 6.
+> **圖 39.1** — 美國成人急性肝衰竭登記處在 1998 年 1 月至 2019 年 3 月期間記錄的急性肝衰竭原因。改編自參考文獻 6。
 
 #### Acetaminophen
 
-Acetaminophen is the leading cause of ALF in both the United States and the United Kingdom (being responsible for 46% and 64% of cases, respectively) (6). Acetaminophen hepatotoxicity is described in detail in Chapter 52 and is only briefly reviewed here. The source of the liver injury is depletion of hepatic glutathione stores, which results in oxidative cell injury from an acetaminophen metabolite. (Glutathione is the major intracellular antioxidant in the body, as described in Chapter 25.) The liver injury can begin as early as 12 hours after ingestion, and it peaks in 3 to 5 days (7). The laboratory abnormalities in the early stages of injury is characterized by high alanine aminotransferase (ALT) levels with only mild increases in bilirubin (6).
+Acetaminophen 是美國與英國 ALF 的主要原因（分別佔 46% 與 64% 的病例）（6）。Acetaminophen 肝毒性的詳細說明見第 52 章，此處僅作簡要回顧。肝臟損傷的來源是肝臟 glutathione 儲存的耗竭，導致 acetaminophen 代謝物產生氧化性細胞損傷。（Glutathione 是體內主要的細胞內抗氧化劑，如第 25 章所述。）肝臟損傷可能在攝入後 12 小時內就開始，並在 3 至 5 天達到高峰（7）。損傷早期階段的實驗室異常特點是 alanine aminotransferase（ALT）升高，而 bilirubin 仅轻度升高（6）。
 
-Acetaminophen-induced liver injury has two unfortunate features:
+Acetaminophen 引起的肝臟損傷有兩個不幸的特點：
 
-1. **About half of acetaminophen overdoses are unintentional** (7), and are the result of attempts to alleviate pain. This is partly due to consumer ignorance about the potential toxicity of acetaminophen, and is partly due to the inclusion of acetaminophen in more than 600 over-the-counter products.
+1. **大約一半的 acetaminophen 過量是無意的**（7），是試圖緩解疼痛的結果。這部分是由於消費者對 acetaminophen 的潛在毒性缺乏了解，部分是由於 acetaminophen 被添加在超過 600 種非處方產品中。
 
-2. **Acetaminophen is undetectable in the plasma** in about 50% of the cases where it causes liver injury (8). This creates a risk of missed diagnoses and poor outcomes, since the condition is treatable.
+2. **在大約 50% 引起肝臟損傷的病例中，acetaminophen 在血漿中是檢測不到的**（8）。這造成了漏診與不良後果的風險，因為這個疾病是可治療的。
 
-#### N-Acetylcysteine Treatment
+#### N-Acetylcysteine 治療
 
-The antidote for acetaminophen hepatotoxicity is **N-acetylcysteine (NAC)**, which acts as a glutathione surrogate (see Figure 25.7). It is usually given intravenously (see Chapter 52 for the dosing regimen), and is started as soon as an acetaminophen overdose is confirmed or suspected. It is most effective when treatment is started within **10 hours** of ingestion (7), and the efficacy declines with time thereafter. However, NAC is started at any time after a suspected or confirmed overdose, and treatment is continued until there is evidence of improvement in liver function. About **75%** of cases resolve without the need for liver transplantation (6).
+Acetaminophen 肝毒性的解毒劑是 **N-acetylcysteine（NAC）**，它作為 glutathione 的替代物起作用（請見圖 25.7）。通常經靜脈給予（劑量療程見第 52 章），並在確認或懷疑 acetaminophen 過量時立即開始。在攝入後 **10 小時**內開始治療效果最佳（7），之後效果會隨時間下降。然而，在懷疑或確認過量後的任何時間都會開始給予 NAC，並持續治療直至有肝功能改善的證據。大約 **75%** 的病例可以在不需要肝臟移植的情況下緩解（6）。
 
-The success of NAC in acetaminophen-induced ALF has led to its use in cases of ALF that are not linked to acetaminophen. Although there is no convincing evidence of benefit (9), it is considered reasonable to use NAC empirically in ALF of undetermined etiology (10).
+NAC 在 acetaminophen 引起的 ALF 中的成功使其被用於與 acetaminophen 無關的 ALF 病例。雖然沒有令人信服的獲益證據（9），但在使用 NAC 作為不明病因 ALF 的經驗性治療是被認為合理的（10）。
 
-#### Other Drugs
+#### 其他藥物
 
-**Table 39.1 — Drugs Reported to Cause Acute Liver Injury**
+**表 39.1 — 報告會導致急性肝損傷的藥物**
 
-| Dose-Related | Idiosyncratic |
+| 劑量相關 | 特異體質性 |
 |---|---|
 | Acetaminophen | Amiodarone |
 | Amiodarone | Amoxicillin |
 | Antimetabolites | Dantrolene |
-| Antiretroviral drugs | Halothane |
+| 抗逆轉錄病毒藥物 | Halothane |
 | Cyclosporine | Lisinopril |
 | Statins | Phenytoin |
 | Valproic acid | Statins |
 
-Drug-induced liver injury can be **dose-related** or **idiosyncratic**, and is more likely to occur in patients who are elderly, debilitated, or alcoholic. The idiosyncratic reactions are the most troublesome, with a survival rate of only 40% without liver transplantation (6).
+藥物引起的肝臟損傷可以是**劑量相關的**或**特異體質性的**，且更可能發生在老年、體弱或酗酒的病人身上。特異體質性反應最為棘手，若不接受肝臟移植，存活率僅有 40%（6）。
 
 ---
 
@@ -93,98 +93,98 @@ Drug-induced liver injury can be **dose-related** or **idiosyncratic**, and is m
 
 ### Pathogenesis
 
-Ammonia has an important role in the cerebral edema that can develop in liver failure (14). Ammonia is a byproduct of protein degradation, and is produced primarily in the bowel (and to a lesser degree in skeletal muscle and kidneys). The liver plays a major role in clearing ammonia by converting it to urea via the urea cycle. This clearance mechanism is impaired or lost in liver failure, resulting in a progressive rise in ammonia levels in blood. Ammonia eventually crosses the blood-brain barrier and is taken up by astrocytes, where it is used to produce glutamine. The subsequent accumulation of glutamine then creates an osmotic force that draws water into the astrocytes and creates a "cytotoxic" type of cerebral edema.
+Ammonia 在肝臟衰竭可能發生的腦水腫中扮演重要角色（14）。Ammonia 是蛋白質降解的副產物，主要在腸道中產生（程度較輕地也在骨骼肌與腎臟中產生）。肝臟在清除 ammonia 方面扮演重要角色，它透過尿素循環將 ammonia 轉化為 urea。在肝臟衰竭時，這種清除機制受損或喪失，導致血液中 ammonia 濃度漸進性升高。Ammonia 最終會穿過血腦屏障並被星狀細胞攝取，在那裡用於產生 glutamine。隨後 glutamine 的累積會產生一種滲透力量，將水吸入星狀細胞，產生「細胞毒性」類型的腦水腫。
 
 ### Clinical Features
 
-The clinical manifestations of hepatic encephalopathy include both cognitive and motor deficits. The cognitive changes that appear in progressive stages of hepatic encephalopathy are shown in Table 39.2 (15). Personality changes and mild disorientation are prominent in the early stages, while depressed consciousness dominates the later stages. The motor deficits can appear at any stage, and include extrapyramidal and cerebellar signs like rigidity, dysphagia, ataxia, and a flapping tremor (asterixis).
+肝性腦病變的臨床表現包括認知與運動缺陷。漸進性肝性腦病變中出現的認知變化如表 39.2 所示（15）。早期以性格改變與輕度定向障礙為主，晚期則以意識減退為主。運動缺陷可出現在任何階段，包括錐體外系統與小腦徵象，如僵硬、吞嚥困難、運動失調與扑翼樣震顫（asterixis）。
 
-**Table 39.2 — Grades of Hepatic Encephalopathy**
+**表 39.2 — 肝性腦病變的分級**
 
-| Grade | Features |
+| 分級 | 臨床特徵 |
 |---|---|
-| Grade 1 | Mild confusion, euphoria or depression, decreased attention, difficulty performing addition/subtraction |
-| Grade 2 | Drowsiness, lethargy, gross deficits in ability to perform mental tasks, obvious personality changes |
-| Grade 3 | Somnolent but arousable, unable to perform mental tasks, disorientation about time and place, marked confusion |
-| Grade 4 | Coma, unresponsive to painful stimuli |
+| Grade 1 | 輕度混亂、欣快或抑鬱、注意力減退、執行加減計算困難 |
+| Grade 2 | 嗜睡、倦怠、執行心智任務能力明顯缺陷、明顯的性格改變 |
+| Grade 3 | 嗜睡但可喚醒、無法執行心智任務、時間與地點定向障礙、明顯混亂 |
+| Grade 4 | 昏迷，對疼痛刺激無反應 |
 
-*From Reference 15.*
+*來源：參考文獻 15。*
 
 ### Plasma Ammonia Level
 
-Plasma ammonia levels are almost always elevated in patients with hepatic encephalopathy, and in many (but not all) cases, there is a correlation between the degree of elevation of the plasma ammonia and the severity of the encephalopathy (16). Arterial ammonia levels may be more predictive than venous levels, at least in the early stages of encephalopathy (16). An arterial ammonia level **> 150 μmol/L** (normal < 60 μmol/L) marks an increased risk of cerebral edema (17).
+肝性腦病變病人的血漿 ammonia 濃度幾乎總是升高，在許多（但非所有）病例中，血漿 ammonia 升高的程度與腦病變的嚴重程度之間存在相關性（16）。Arterial ammonia 濃度可能比靜脈 levels 更具預測性，至少在腦病變早期階段是這樣（16）。Arterial ammonia 濃度 **> 150 μmol/L**（正常 < 60 μmol/L）是腦水腫風險增加的指標（17）。
 
 ### Management
 
-The prevention and treatment of hepatic encephalopathy is aimed at reducing the ammonia burden in the central nervous system. This is done by:
+肝性腦病變的預防與治療旨在減少中樞神經系統中的 ammonia 負擔。這是透過以下方式實現的：
 
-1. **Reducing ammonia production in the bowel** (e.g., with lactulose and a nonabsorbable antibiotic)
-2. **Clearing ammonia from the bloodstream** (with hemofiltration)
+1. **減少腸道中 ammonia 的產生**（例如使用 lactulose 與不可吸收的抗生素）
+2. **從血流中清除 ammonia**（使用血液過濾）
 
 #### Lactulose
 
-Lactulose is a disaccharide that is metabolized by "lactic acid bacteria" (e.g., *Lactobacillus acidophilus*) in the bowel (18). This promotes the formation of short-chain fatty acids, and the resulting acidification of the bowel lumen helps to eradicate ammonia-producing microbes. The dosing recommendations for lactulose are as follows (19):
+Lactulose 是一種雙糖，在腸道中被「乳酸桿菌」（例如 *Lactobacillus acidophilus*）代謝（18）。這促進短鏈脂肪酸的形成，腸道腔的相應酸化有助於清除會產生 ammonia 的微生物。Lactulose 的劑量建議如下（19）：
 
-1. **Oral or nasogastric route:** Start with 20–30 g (30–45 mL) every hour until laxation occurs, then reduce to 20 g (30 mL) every 8 hours, and titrate to achieve 2–3 loose stools daily.
+1. **口服或鼻胃管途徑：**每小時 20–30 g（30–45 mL）開始，直至腹瀉發生，然後降至每 8 小時 20 g（30 mL），並調整劑量以達到每天 2–3 次稀便。
 
-2. **Retention enema:** Mix 200 g (300 mL) with 700 mL of tap water. Administer by high rectal enema, and retain for 30–60 minutes with patient in the Trendelenburg position.
+2. **保留灌腸：**將 200 g（300 mL）與 700 mL 自來水混合。經高位直腸灌腸給予，並讓病人在 Trendelenburg 姿勢下保留 30–60 分鐘。
 
-> **Note:** Lactulose can produce an osmotic diarrhea, and the dosage should be reduced (or temporarily halted) if diarrhea appears.
+> **注意：**Lactulose 可能產生滲透性腹瀉，如果出現腹瀉應減少劑量（或暫時停止）。
 
 #### Rifaximin
 
-Rifaximin is a nonabsorbable antibiotic with a wide spectrum of activity that has proven successful in alleviating symptoms of hepatic encephalopathy when given in a dose of **400 mg three times daily** for at least 10 days (20). Although effective when used alone, it is usually combined with lactulose.
+Rifaximin 是一種不可吸收的抗生素，具有廣泛的活性範圍，已被證明在緩解肝性腦病變症狀方面成功，劑量為 **400 mg，每天三次**，持續至少 10 天（20）。雖然單獨使用有效，但通常與 lactulose 合併使用。
 
 #### Hemofiltration
 
-Continuous venovenous hemofiltration (CVVH) can lower plasma ammonia levels and improve outcomes in patients with ALF (21), especially with continued use (22). CVVH is considered superior to lactulose or rifaximin for patients with ALF and hepatic encephalopathy, and should be considered in the following situations:
+連續性靜脈-靜脈血液過濾（CVVH）可以降低血漿 ammonia 濃度並改善 ALF 病人的預後（21），特別是持續使用時（22）。對於 ALF 與肝性腦病變的病人，CVVH 被認為優於 lactulose 或 rifaximin，應在以下情況考慮：
 
-- **(a)** Persistent oliguria
-- **(b)** Plasma ammonia level > 150 μmol/L
-- **(c)** Evidence of cerebral edema, regardless of the serum creatinine (5)
+- **(a)** 持續性寡尿
+- **(b)** 血漿 ammonia 濃度 > 150 μmol/L
+- **(c)** 有腦水腫的證據，無論血清 creatinine 如何（5）
 
-CVVH should be started as soon as possible, as its effectiveness is **time-dependent** (22).
+CVVH 應盡快開始，因為其有效性是**時間依賴性的**（22）。
 
 ### Liver Transplantation
 
-Liver transplantation is the definitive treatment for ALF and has reduced the mortality rate from 80% to 33% (6). There are several scoring systems used to identify who will benefit from transplantation, but this is the domain of the transplant specialist, who should be consulted for any patient with ALF who develops progressive hepatic encephalopathy.
+肝臟移植是 ALF 的確定治療方法，已將死亡率從 80% 降低至 33%（6）。有幾種評分系統用於識別哪些病人會從移植中受益，但這是移植專家的領域，任何 ALF 病人出現漸進性肝性腦病變時都應諮詢移植專家。
 
 ---
 
 ## Acute-on-Chronic Liver Failure
 
-Most admissions to the ICU for liver failure involve patients with chronic liver disease (usually cirrhosis) who experience an abrupt deterioration in liver function. This acute-on-chronic liver failure is often complicated by:
+大多數因肝臟衰竭入住 ICU 的病人是患有慢性肝病（通常為肝硬化）的病人，他們經歷了肝功能的急性惡化。這種慢性急性肝衰竭常有以下併發症：
 
-- **(a)** Bleeding from gastroesophageal varices
-- **(b)** Hepatic encephalopathy
-- **(c)** Infections
-- **(d)** Acute kidney injury
+- **(a)** 胃食道靜脈曲張出血
+- **(b)** 肝性腦病變
+- **(c)** 感染
+- **(d)** 急性腎損傷
 
 ### Variceal Hemorrhage
 
-Gastroesophageal varices are engorged submucosal veins that appear as a consequence of portal hypertension (see Figure 39.3). Acute bleeding from ruptured varices is one of the more life-threatening complications of advanced liver disease.
+胃食道靜脈曲張是因門脈高壓而形成的黏膜下靜脈充血（請見圖 39.3）。曲張靜脈破裂引起的急性出血是晚期肝病最危及生命的併發症之一。
 
-> **Figure 39.3** — Endoscopic view of esophageal varices.
+> **圖 39.3** — 食道靜脈曲張的內視鏡圖像。
 
 #### Management
 
-The management of acute variceal bleeding, which is outlined in Table 39.3 (4), involves source control (with endoscopy), resuscitation (with fluids and blood products), vasoactive therapy (with octreotide), and prophylactic measures (with antibiotics). Intubation may also be necessary in patients with altered mentation.
+急性靜脈曲張出血的處理，如表 39.3（4）所概述，包括源頭控制（使用內視鏡）、復甦（使用液體與血液製品）、血管活性藥物治療（使用 octreotide）與預防措施（使用抗生素）。對於意識改變的病人，可能也需要氣管內插管。
 
-**Table 39.3 — Management of Acute Variceal Hemorrhage**
+**表 39.3 — 急性靜脈曲張出血的處理**
 
-| Component | Recommendations |
+| 組成要素 | 建議 |
 |---|---|
-| **Endoscopy** | Recommended within 12 hours of presentation; clip or band the bleeding varix. |
-| **Volume resuscitation** | Albumin preferred, especially when serum albumin < 3 g/dL; avoid hypotonic fluids (e.g., Ringer's lactate). |
-| **Blood products** | Use thromboelastography to guide hemostatic therapy; INR is not a valid measure of bleeding risk in cirrhosis. |
-| **Splanchnic vasoconstrictor** | Octreotide (somatostatin analogue) — start as soon as possible. |
-| **Antibiotic prophylaxis** | Start as soon as possible; ceftriaxone 2 g daily is recommended. |
+| **內視鏡** | 建議在就診後 12 小時內進行；夾閉或結紮出血的曲張靜脈。 |
+| **體積復甦** | 較偏好使用 albumin，特別是當血清 albumin < 3 g/dL 時；避免低張液體（如 Ringer's lactate）。 |
+| **血液製品** | 使用血栓彈性圖來指導止血治療；INR 在肝硬化中不是衡量出血風險的有效指標。 |
+| **內臟血管收縮劑** | Octreotide（somatostatin 類似物）——盡快開始。 |
+| **抗生素預防** | 盡快開始；建議 ceftriaxone 每天 2 g。 |
 
-*From References 1 and 4.*
+*來源：參考文獻 1 與 4。*
 
 #### Refractory Bleeding
 
-Variceal bleeding is refractory to endoscopy and optimal medical management in about **20%** of cases (4). In this situation, a **transesophageal portosystemic shunt (TIPS)** procedure should be considered. TIPS creates a shunt between the portal and hepatic veins, thereby alleviating the portal venous hypertension that creates varices. Unfortunately, bypassing the liver increases the risk of hepatic encephalopathy.
+約 **20%** 的病例中，靜脈曲張出血對內視鏡與最佳藥物治療無效（4）。在這種情況下，應考慮經食道門體靜脈短路（TIPS）手術。TIPS 在門靜脈與肝靜脈之間建立一個分流，從而緩解造成靜脈曲張的門靜脈高壓。然而，繞過肝臟會增加肝性腦病變的風險。
 
 ---
 
@@ -192,37 +192,37 @@ Variceal bleeding is refractory to endoscopy and optimal medical management in a
 
 ### Overview
 
-About one-third of patients with decompensated cirrhosis have a bacterial infection, and the most common infection is **spontaneous bacterial peritonitis (SBP)**, which is an infection of ascitic fluid without a primary site of infection in the abdomen (5). The source of this infection is the "translocation" of enteric pathogens across the bowel mucosa. SBP occurs only in patients with cirrhosis and ascites, because cirrhosis impairs the normal function of the liver to eradicate microbes that translocate across the bowel wall.
+約三分之一的失代償性肝硬化病人有細菌感染，最常見的感染是**自發性細菌性腹膜炎（SBP）**，這是一種腹水中沒有腹部原發感染部位的感染（5）。這種感染的來源是腸道病原體穿過腸道黏膜的「轉位」。SBP 只發生在有肝硬化與腹水的病人身上，因為肝硬化會損害肝臟清除穿過腸道壁轉位的微生物的正常功能。
 
-About 50% of cases of SBP are **community-acquired**, while 25% are classified as **"healthcare-associated"** (i.e., the patient has had contact with a healthcare facility within 90 days), and the remaining 25% are **nosocomial** (23). A single organism is isolated in most cases of SBP, and the most common isolates are gram-negative organisms (especially *Escherichia coli* and *Klebsiella pneumoniae*), with gram-positive organisms (usually staphylococci and enterococci) a distant second (23). Resistant organisms are isolated in 35% of cases worldwide, but the prevalence is much lower (16%) in the United States (23).
+約 50% 的 SBP 病例是**社區獲得性**，25% 被歸類為**「醫療相關」**（即病人在過去 90 天內曾接觸過醫療機構），其餘 25% 是**院內感染**（23）。大多數 SBP 病例中可分離出單一病原體，最常見的是革蘭氏陰性菌（特別是大腸桿菌 *Escherichia coli* 與肺炎克雷伯氏菌 *Klebsiella pneumoniae*），革蘭氏陽性菌（通常為葡萄球菌與腸球菌）則遠遠落後（23）。在全球病例中，35% 可分離出抗藥性菌株，但在美國的盛行率低得多（16%）（23）。
 
 ### Diagnosis
 
-SBP can present with fever, abdominal pain, and rebound tenderness, but it is **asymptomatic in one-third** of cases (24). A paracentesis is required for the diagnosis, and an **absolute neutrophil count > 250/mm³** in ascitic fluid secures the diagnosis, regardless of the culture result (5). An organism is isolated in about 60% of cases (23). A positive culture without the required neutrophil count in ascitic fluid is not sufficient for the diagnosis of SBP (5).
+SBP 可能表現為發燒、腹痛與反跳壓痛，但**三分之一的病例是無症狀的**（24）。需要腹水穿刺來診斷，腹水中**絕對嗜中性球計數 > 250/mm³** 即可確診，無論培養結果如何（5）。約 60% 的病例可分離出病原體（23）。腹水中沒有達到所需嗜中性球計數的陽性培養不足以診斷 SBP（5）。
 
-> **Clinical pearl:** SBP should be suspected in all patients with decompensated cirrhosis and liver failure who are admitted to the ICU, or who experience a sudden deterioration while in the hospital (5). A paracentesis should be performed when SBP is suspected, and the fluid sent for cell count and culture. For optimal culture results, the ascitic fluid should be added to blood culture bottles (aerobic and anaerobic) at the bedside.
+> **臨床要點：**所有因失代償性肝硬化與肝臟衰竭入住 ICU 的病人，或在住院期間突然惡化的病人，都應懷疑有 SBP（5）。當懷疑 SBP 時應進行腹水穿刺，並將液體送檢細胞計數與培養。為獲得最佳培養結果，腹水應在床邊加入血液培養瓶（需氧與厭氧）。
 
 ### Antibiotic Therapy
 
-Antibiotic therapy is started in all cases when the absolute neutrophil count is > 250/mm³ (before the culture results are available). The choice of antibiotic is determined by the place of origin of the infection and the prevalence of resistant organisms in your ICU.
+當絕對嗜中性球計數 > 250/mm³ 時（在培養結果出來之前）就應開始抗生素治療。抗生素的選擇取決於感染的來源以及 ICU 中抗藥性菌株的盛行率。
 
-**Empiric antibiotic selection:**
+**經驗性抗生素選擇：**
 
-1. **Community-acquired SBP:** Resistant organisms are unlikely, and a third-generation cephalosporin (e.g., cefotaxime or ceftriaxone) is generally recommended.
+1. **社區獲得性 SBP：**不太可能分離出抗藥性菌株，通常建議使用第三代 cephalosporin（如 cefotaxime 或 ceftriaxone）。
 
-2. **Nosocomial or healthcare-associated SBP:** Resistant organisms are typically isolated, and less frequently in healthcare-associated infections.
+2. **院內或醫療相關 SBP：**通常會分離出抗藥性菌株，醫療相關感染的頻率較低。
 
-   - **If a resistant infection is possible:** A carbapenem (e.g., meropenem 1 g every 8 hours) is recommended (25), with vancomycin added if MRSA is a potential offender, or daptomycin if vancomycin-resistant enterococci are suspected.
+   - **如果有抗藥性感染的可能：**建議使用 carbapenem（如 meropenem 每 8 小時 1 g）（25），如果可能的 MRSA，則添加 vancomycin，或如果懷疑有 vancomycin 抗藥性腸球菌，則使用 daptomycin。
    
-   - **If a resistant organism is unlikely:** Broad-spectrum coverage for enteric pathogens (e.g., with piperacillin-tazobactam) is sufficient.
+   - **如果不太可能有抗藥性菌株：**對腸道病原體的廣泛覆蓋（如使用 piperacillin-tazobactam）就足夠了。
 
-> **Figure 39.4** — Algorithm for the empiric antibiotic treatment of spontaneous bacterial peritonitis. From Reference 25.
+> **圖 39.4** — 自發性細菌性腹膜炎經驗性抗生素治療的流程圖。來源：參考文獻 25。
 
-Antibiotics should be continued for at least **7 days**, regardless of the culture results. The response to antibiotics can be assessed by a repeat paracentesis after 48 hours: a favorable response is defined as a **≥ 25% decrease** in the neutrophil count (5).
+無論培養結果如何，抗生素應持續至少 **7 天**。可以透過 48 小時後重複腹水穿刺來評估抗生素的反應：良好的反應定義為嗜中性球計數下降 **≥ 25%**（5）。
 
 ### Albumin Infusions
 
-Infusions of albumin have been shown to improve survival in SBP (26,27). This was originally attributed to an improvement in renal function (27), because acute kidney injury develops in 30% of patients with SBP (25), and this increases the mortality rate considerably (28). However, more recent studies have shown that the survival benefit of albumin is independent of the serum creatinine (26). The recommended albumin regimen is **1.5 g/kg on day one**, followed by **1 g/kg on day 3** (5). The 25% albumin solution (25 g/100 mL) is recommended to limit the infusion volume.
+研究已顯示白蛋白輸注可以改善 SBP 的存活率（26,27）。這最初被歸因於腎功能的改善（27），因為 30% 的 SBP 病人會發生急性腎損傷（25），而這會大幅增加死亡率（28）。然而，較新的研究顯示，白蛋白的存活益處與血清 creatinine 無關（26）。建議的白蛋白療程是**第一天 1.5 g/kg**，然後**第三天 1 g/kg**（5）。建議使用 25% 白蛋白溶液（25 g/100 mL）以限制輸注體積。
 
 ---
 
@@ -230,57 +230,57 @@ Infusions of albumin have been shown to improve survival in SBP (26,27). This wa
 
 ### Overview
 
-Acute kidney injury (AKI) is reported in as many as 50% of patients with decompensated cirrhosis (5). The **hepatorenal syndrome (HRS)** is a type of "functional AKI" that occurs without intrinsic renal disease, and its appearance heralds a poor prognosis.
+高達 50% 的失代償性肝硬化病人有急性腎損傷（AKI）的報告（5）。**肝腎症候群（HRS）**是一種「功能性 AKI」，發生時沒有實質性腎病，它的出現預示著不良的預後。
 
 ### Pathogenesis
 
-HRS is the result of hemodynamic alterations in the splanchnic and renal circulations. Cirrhosis is associated with splanchnic vasodilation, and the neurohumoral (renin-angiotensin-aldosterone system) response to this vasodilation results in vasoconstriction in other organs, including the kidneys. The renal vasoconstriction creates a situation where the glomerular filtration rate is vulnerable to small decrements in cardiac output. Sepsis enhances the vasodilation from cirrhosis, and HRS is more frequent when cirrhosis is accompanied by sepsis.
+HRS 是內臟循環與腎臟循環血流動力學改變的結果。肝硬化與內臟血管舒張有關，而神經體液（renin-angiotensin-aldosterone system）對這種血管舒張的反應會導致其他器官（包括腎臟）的血管收縮。腎血管收縮造成一種情況，使腎絲球濾過率對心輸出量的小幅下降變得敏感。Sepsis 會增強肝硬化引起的血管舒張，而當肝硬化伴隨 sepsis 時，HRS 的發生頻率更高。
 
 ### Diagnosis
 
-The diagnostic criteria for HRS are listed in Table 39.4 (29). The criteria include evidence of AKI (i.e., an increase in serum creatinine ≥ 0.3 mg/dL within 48 hours) with no other apparent cause (i.e., no circulatory shock or nephrotoxic drugs), and no evidence of intrinsic kidney disease. Urinary indices in HRS are similar to "prerenal" indices (i.e., low sodium and high osmolarity), and these can differentiate HRS from acute tubular necrosis.
+HRS 的診斷標準如表 39.4 所列（29）。標準包括 AKI 的證據（即 48 小時內血清 creatinine 增加 ≥ 0.3 mg/dL），沒有其他明顯原因（即沒有循環性休克或腎毒性藥物），且沒有實質性腎臟疾病的證據。HRS 中的尿液指標與「腎前性」指標相似（即低 sodium 與高滲透壓），這些可以區分 HRS 與急性腎小管壞死。
 
-**Table 39.4 — Diagnostic Criteria and Management of Hepatorenal Syndrome**
+**表 39.4 — 肝腎症候群的診斷標準與治療**
 
-**I. Diagnostic Criteria:**
+**I. 診斷標準：**
 
-1. Cirrhosis with ascites.
-2. Increase in serum creatinine of ≥ 0.3 mg/dL within 48 hours, or serum creatinine ≥ 1.5 times baseline.
-3. No response to diuretic withdrawal and 2 days of fluid challenges with albumin (1 g/kg/day).
-4. No evidence of shock, and no recent use of nephrotoxic drugs.
-5. No signs of structural kidney injury.
+1. 肝硬化伴隨腹水。
+2. 48 小時內血清 creatinine 增加 ≥ 0.3 mg/dL，或血清 creatinine ≥ 1.5 倍基線。
+3. 停止利尿劑並以白蛋白（1 g/kg/day）進行 2 天液體挑戰後無反應。
+4. 沒有休克的證據，且最近沒有使用腎毒性藥物。
+5. 沒有結構性腎臟損傷的跡象。
 
-**II. Management:**
+**II. 治療：**
 
-1. **Albumin (25%):** 20–40 g daily.
-2. **Splanchnic vasoconstriction** with one of the following:
-   - Terlipressin (preferred)
+1. **白蛋白（25%）：**每天 20–40 g。
+2. **內臟血管收縮**，使用以下之一：
+   - Terlipressin（首選）
    - Norepinephrine
    - Midodrine + octreotide
 
-*From Reference 29.*
+*來源：參考文獻 29。*
 
 ### Management
 
-The management of HRS is included in Table 39.4. Daily doses of albumin are recommended at a dose of **20–40 grams daily**, which should be given as a 25% albumin solution (25 grams per 100 mL) to limit the volume infused. The benefits of albumin may not be related to volume alone, as albumin is also an antioxidant and has immunomodulating effects (30).
+HRS 的治療如表 39.4 所述。建議每天使用白蛋白 **20–40 克**，應以 25% 白蛋白溶液（25 克每 100 mL）給予以限制輸注體積。白蛋白的益處可能不僅與體積有關，因為白蛋白也是抗氧化劑並具有免疫調節作用（30）。
 
-The mainstay of treatment for HRS is to promote splanchnic vasoconstriction and reverse the hemodynamic changes that precipitate the condition. The drug of choice is **terlipressin**, a synthetic vasopressin analogue that acts primarily as a splanchnic vasoconstrictor. Clinical studies have shown that terlipressin improves renal function in HRS (31,32), but it does not improve survival or reduce the need for liver transplantation (32). Side effects of terlipressin include abdominal pain, diarrhea, pulmonary edema (hydrostatic), and ischemic events. The drug was approved for use in the United States in 2022.
+HRS 治療的主軸是促進內臟血管收縮並逆轉導致病情的血流動力學變化。首選藥物是 **terlipressin**，一種合成 vasopressin 類似物，主要作為內臟血管收縮劑。臨床研究已顯示 terlipressin 可以改善 HRS 中的腎功能（31,32），但不能改善存活率或減少對肝臟移植的需求（32）。Terlipressin 的副作用包括腹痛、腹瀉、肺水腫（ hydrostatic）與缺血事件。該藥物於 2022 年在美國獲准使用。
 
-Alternatives to terlipressin include **norepinephrine**, and the combination of **midodrine and octreotide** (33). Norepinephrine has been equivalent to terlipressin in clinical trials (34), but the experience is limited, while midodrine plus octreotide is inferior to terlipressin (35) and is limited to use in countries where terlipressin is not available.
+Terlipressin 的替代品包括 **norepinephrine** 與 **midodrine 和 octreotide** 的組合（33）。Norepinephrine 在臨床試驗中與 terlipressin 療效相當（34），但經驗有限，而 midodrine 加上 octreotide 效果不如 terlipressin（35），且僅限於 terlipressin 不可用的國家使用。
 
 ### Increased Abdominal Pressure
 
-Increased intra-abdominal pressure is an overlooked cause of AKI in critically ill patients (36) and could also promote HRS. This is supported by a study showing that large-volume paracentesis (i.e., removal of ≥ 4 liters of fluid) improved renal function in patients with tense ascites and HRS (37). Therefore, measurement of intra-abdominal pressure is advised for all patients with tense ascites and HRS (see Chapter 34), and large-volume paracentesis is encouraged if the abdominal pressure exceeds **12 cm H₂O** (29). However, careful hemodynamic monitoring is needed after large-volume paracentesis to avoid hemodynamic compromise.
+腹內壓升高是重症病人 AKI 的一個被忽視的原因（36），也可能促進 HRS。這得到一項研究的支持，該研究顯示大量腹水穿刺（即移除 ≥ 4 升液體）改善了張力性腹水與 HRS 病人的腎功能（37）。因此，建議對所有張力性腹水與 HRS 病人測量腹內壓（請見第 34 章），如果腹內壓超過 **12 cm H₂O**則鼓勵大量腹水穿刺（29）。然而，大量腹水穿刺後需要仔細的血流動力學監測，以避免血流動力學失代償。
 
 ### Liver Transplantation
 
-Liver transplantation is the definitive treatment for HRS, and a consultation for liver transplantation should be obtained whenever HRS is diagnosed.
+肝臟移植是 HRS 的確定治療方法，任何時候診斷出 HRS 都應諮詢肝臟移植。
 
 ---
 
 ## A Final Word: The Liver & Bowel Sepsis
 
-One of the recurring themes in this book is the importance of the bowel as a source of systemic infection and inflammation in critically ill patients (see Chapters 4 and 41). Much of the attention in this area is directed at the breakdown of the mucosal barrier in the bowel, but there is a second line of defense in the event of mucosal breakdown. This is illustrated by the occurrence of spontaneous bacterial peritonitis in patients with liver failure; an infection that is caused by enteric pathogens that escape across the bowel mucosa. This infection demonstrates the importance of the liver as a second line of defense against microbes that breach the mucosal barrier in the bowel. In fact, about **three-quarters of the reticuloendothelial system** is located in the abdomen (mostly represented by the liver), where it is positioned to protect against the systemic spread of enteric pathogens.
+本書中反复出现的主题之一是腸道作為重症病人全身性感染和炎症來源的重要性（請見第 4 章和第 41 章）。在這個領域，大部分的注意力都集中在腸道黏膜屏障的破壞上，但在黏膜屏障被破壞的情況下，還有第二道防線。自發性細菌性腹膜炎發生在肝臟衰竭病人身上，說明了這一點；這是一種由穿過腸道黏膜逃逸的腸道病原體引起的感染。這種感染表明了肝臟作為對抗穿過腸道黏膜屏障之微生物的第二道防線的重要性。實際上，約**四分之三的網狀內皮系統**位於腹部（主要由肝臟代表），其位置是為了保護對抗腸道病原體的全身性傳播。
 
 ---
 

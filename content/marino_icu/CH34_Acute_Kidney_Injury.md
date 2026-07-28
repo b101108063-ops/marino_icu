@@ -35,49 +35,49 @@ This chapter presents the diagnostic criteria for acute kidney injury (including
 
 ## Diagnostic Criteria
 
-The term "acute renal failure" was introduced in 1951 (5), but due to a lack of agreement about this condition, the term "acute kidney injury" (AKI) was introduced in 2002. Ten years later (in 2012), the defining criteria for AKI were adopted and published as the "Kidney Disease Improving Global Outcomes (KDIGO) guidelines" (6).
+「急性腎衰竭」（acute renal failure）一詞於 1951 年首次被提出（5），但由於對此病症缺乏共識，「急性腎損傷」（acute kidney injury, AKI）一詞於 2002 年被提出。十年後（2012 年），AKI 的定義標準被採用並發表為「Kidney Disease Improving Global Outcomes (KDIGO) 指南」（6）。
 
-**Table 34.1 — Diagnostic Criteria for Acute Kidney Injury**
+**表 34.1 — 急性腎損傷的診斷標準**
 
-The diagnosis of acute kidney injury (AKI) requires **one** of the following conditions:
+急性腎損傷（AKI）的診斷需要滿足**以下任一條件**：
 
-1. An increase in serum creatinine of **≥ 0.3 mg/dL** (≥ 26.5 μmol/L) within 48 hours.
-2. An increase in serum creatinine to **≥ 1.5 times baseline** within the previous 7 days.
-3. Urine volume **< 0.5 mL/kg/hr** (ideal body weight) for **6 hours**.
+1. 48 小時內血清 creatinine 增加 **≥ 0.3 mg/dL**（≥ 26.5 μmol/L）。
+2. 過去 7 天內血清 creatinine 增加至 **≥ 1.5 倍基線**。
+3. 尿量 **< 0.5 mL/kg/hr**（理想體重），持續 **6 小時**。
 
-*From Reference 6.*
+*來源：參考文獻 6。*
 
 ---
 
 ## Common Causes of Acute Kidney Injury
 
-**Table 34.2 — Common Causes of Acute Kidney Injury**
+**表 34.2 — 急性腎損傷的常見原因**
 
-| Mechanism | Conditions |
+| 機制 | 疾病狀況 |
 |---|---|
-| **Inflammation** | Major surgery, multisystem trauma, sepsis†, hemodynamic compromise |
-| **Ischemia** | Cardiac arrest, heart failure, hemorrhage, increased abdominal pressure, liver failure |
-| **Nephrotoxic** | Radiocontrast dye, rhabdomyolysis, nephrotoxic drugs & toxins |
+| **發炎** | 重大手術、多系統創傷、sepsis†、血流動力學失衡 |
+| **缺血** | 心跳驟停、心臟衰竭、出血、腹內壓升高、肝臟衰竭 |
+| **腎毒性** | 放射性對比劑、rhabdomyolysis、腎毒性藥物及毒素 |
 
-> †The leading cause of acute kidney injury.
+> †急性腎損傷的最主要原因。
 
 ---
 
 ## Drugs Most Often Implicated in AKI
 
-**Table 34.3 — Drugs Most Often Implicated in Acute Kidney Injury**
+**表 34.3 — 最常導致 AKI 的藥物**
 
-| Mechanism | Examples |
+| 機制 | 藥物範例 |
 |---|---|
-| Altered renal hemodynamics | NSAIDs, ACE inhibitors, ARBs |
-| Osmotic nephropathy | Mannitol, contrast dye |
-| Renal tubular injury | Aminoglycosides, amphotericin B |
-| Interstitial nephritis | Penicillins, cephalosporins, PPIs, sulfonamides |
+| 改變腎臟血流動力學 | NSAIDs、ACE inhibitors、ARBs |
+| 滲透性腎病變 | Mannitol、contrast dye |
+| 腎小管損傷 | Aminoglycosides、amphotericin B |
+| 間質性腎炎 | Penicillins、cephalosporins、PPIs、sulfonamides |
 
 ---
 
 ## Urinary Indices for the Evaluation of AKI
 
-**Table 34.4 — Urinary Indices for the Evaluation of AKI**
+**表 34.4 — 用於評估 AKI 的尿液指標**
 
-*(Table content not fully provided in source — would include fractional excretion of sodium [FENa], urine sodium, urine osmolality, and other indices used to differentiate prerenal azotemia from intrinsic renal injury.)*
+*（表內容來源未完整提供——將包括 fractional excretion of sodium [FENa]、urine sodium、urine osmolality 及其他指標，用於區分腎前性 azotemia 與實質性腎臟損傷。）*

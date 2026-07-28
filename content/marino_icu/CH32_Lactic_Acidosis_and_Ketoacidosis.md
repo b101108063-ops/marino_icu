@@ -35,56 +35,56 @@ This chapter focuses on the two most prominent acid-base disorders encountered i
 
 ### Biochemistry of Lactate
 
-Lactate is a three-carbon anion formed by the chemical reduction of pyruvate in the cytoplasm, in a reaction catalyzed by the lactate dehydrogenase (LDH) enzyme. About 1,500 mmol of lactate are produced daily under aerobic conditions (1,2). The principal sites of production are:
+Lactate 是一種三碳陰離子，在細胞質中由 pyruvate 經化學還原而形成，反應由 lactate dehydrogenase（LDH）酶所催化。在有氧條件下，每天約產生 1,500 mmol 的 lactate（1,2）。主要產生源包括：
 
-- Skeletal muscle: 25%
-- Skin: 25%
-- Red blood cells: 20%
-- Brain: 20%
-- Intestine: 10%
+- 骨骼肌（Skeletal muscle）：25%
+- 皮膚（Skin）：25%
+- 紅血球（Red blood cells）：20%
+- 腦（Brain）：20%
+- 腸道（Intestine）：10%
 
-Activated neutrophils are an additional source of lactate in inflammatory conditions (3). The concentration of lactate in plasma is usually ≤ **2 mmol/L**, with a lactate:pyruvate ratio of **10:1** (1,2). Lactate is cleared from plasma by the liver (60%), kidneys (30%), and heart (10%).
+在發炎狀態下，嗜中性球的活化是另一個 lactate 來源（3）。血漿中 lactate 濃度通常 ≤ **2 mmol/L**，lactate:pyruvate 比值為 **10:1**（1,2）。Lactate 由肝臟（60%）、腎臟（30%）及心臟（10%）從血漿中清除。
 
 ### The Evolving Lactate Paradigm
 
-The traditional teaching has been that anaerobic conditions are the principal source of increased lactate production. However, the description of lactate metabolism in Chapter 9 introduces the following notions:
+傳統 teaching 認為無氧條件是 lactate 生成增加的主要原因。然而，第 9 章對 lactate 代謝的描述提出了以下觀點：
 
-1. Lactate production is **NOT** driven by anaerobic metabolism (see Table 9.5).
+1. Lactate 的生成**並非**由無氧代謝所驅動（請見表 9.5）。
 
-2. Lactate serves as an oxidative fuel in conditions of metabolic stress, with a caloric yield equivalent to glucose (see Table 9.6).
+2. Lactate 在代謝壓力狀況下作為氧化燃料，熱量產出與葡萄糖相當（請見表 9.6）。
 
-During conditions of metabolic stress when glucose availability is limited, lactate can provide:
+在代謝壓力導致葡萄糖供應受限時，lactate 可以提供：
 
-- **60%** of the energy needs of the myocardium (4)
-- **30%** of the energy needs of the brain (5)
+- 心肌（myocardium）能量需求的 **60%**（4）
+- 腦（brain）能量需求的 **30%**（5）
 
-During exercise, about three-quarters of the lactate produced is used as an oxidative fuel, and in exercising muscle there is an intercellular lactate shuttle that transfers lactate from white "glycolytic" muscle fibers to red "oxidative" muscle fibers (6). (Please review the material in Chapter 9 for a more detailed description.)
+運動時，約四分之三產生的 lactate 被用作氧化燃料，且在運動中的肌肉存在細胞間 lactate shuttle，將 lactate 從白色「糖解」肌纖維轉移至紅色「氧化」肌纖維（6）。（更詳細的說明請見第 9 章的內容。）
 
 ### Lactate is Not an Acid
 
-The traditional teaching has been that lactic acid is the end-product of glucose metabolism in the cytoplasm (glycolysis), but there are a number of problems with this scenario, as indicated by the numbers in Figure 32.1 (7,8).
+傳統 teaching 認為 glycolysis 在細胞質中的最終產物是乳酸（lactic acid），但如圖 32.1 中的數據所示，這個說法存在若干問題（7,8）。
 
-1. **The end-product of glycolysis is the lactate anion, which is not an acid.**
+1. **Glycolysis 的最終產物是 lactate anion，它不是酸。**
 
-2. **The chemical reaction that produces lactate actually consumes hydrogen ions**, which should have the opposite effect to the production of an acid.
+2. **產生 lactate 的化學反應實際上消耗了氫離子**，這應該與酸的產生具有相反的效果。
 
-3. **The hydrogen ions associated with lactate production** are attributed to the hydrolysis of the 2 ATP molecules formed during glycolysis (8), but how this influences extracellular pH is unclear.
+3. **與 lactate 產生相關的氫離子**被歸因於 glycolysis 過程中形成的 2 個 ATP 分子之水解（8），但這如何影響細胞外 pH 尚不清楚。
 
-Each of these points is contrary to the traditional explanation for lactic acidosis. The fact that hyperlactatemia can exist without an associated acidosis (9) is further evidence of the incomplete understanding of the relationship between lactate production and acidosis.
+上述每一點都與傳統對 lactic acidosis 的解釋相矛盾。高乳酸血症可以在沒有酸中毒的情況下存在（9），這一事實進一步證明了我們對 lactate 產生與酸中毒之間關係的理解並不完整。
 
-> **Figure 32.1** — Problems with the association between lactate production and acidosis. See text for explanation. PDH = pyruvate dehydrogenase, LDH = lactate dehydrogenase, TPP = thiamine pyrophosphate.
+> **圖 32.1** — Lactate 產生與酸中毒之間關聯的問題。說明見正文。PDH = pyruvate dehydrogenase，LDH = lactate dehydrogenase，TPP = thiamine pyrophosphate。
 
 ### Prognostic Value
 
-Regardless of its origins or function, plasma lactate levels have prognostic significance in critically ill patients:
+無論其來源或功能為何，血漿 lactate 濃度對重症病人具有預後意義：
 
-1. **The initial lactate level** has a direct relationship with mortality rates, as shown in the left-hand graph in Figure 9.4 (10,11).
+1. **初始 lactate 濃度**與死亡率有直接關係，如圖 9.4 左圖所示（10,11）。
 
-2. **The time required for lactate levels to return to normal** (lactate clearance) has greater predictive value than the initial lactate level. Normalization of lactate levels within 24 hours is associated with the lowest mortality rates (see the graph on the right in Figure 9.4) (11).
+2. **Lactate 濃度恢復正常的所需時間**（lactate clearance）比初始 lactate 濃度具有更高的預測價值。Lactate 濃度在 24 小時內恢復正常與最低死亡率相關（請見圖 9.4 右圖）（11）。
 
 ### Causes of Hyperlactatemia
 
-There are numerous causes of elevated plasma lactate levels, and the major ones are listed in Table 32.1.
+血漿 lactate 濃度升高有許多原因，主要原因列於表 32.1。
 
 **Table 32.1 — The Myriad Causes of Hyperlactatemia**
 
@@ -107,7 +107,7 @@ There are numerous causes of elevated plasma lactate levels, and the major ones 
 
 ## Diabetic Ketoacidosis
 
-*(See Table 32.3 for the full management protocol)*
+*（完整治療方案請見表 32.3）*
 
 ### Potassium Replacement in DKA
 
@@ -126,36 +126,36 @@ Potassium replacement is a critical component of DKA management and is based on 
 
 ## Sodium Bicarbonate Therapy
 
-**Table 32.2 — Composition of Sodium Bicarbonate Solutions**
+**表 32.2 — Sodium Bicarbonate 溶液的組成**
 
-| Solution | Unit Volume | HCO₃⁻ Concentration | HCO₃⁻ Content | Osmolarity |
+| 溶液 | 單位體積 | HCO₃⁻ 濃度 | HCO₃⁻ 含量 | 滲透壓 |
 |---|---|---|---|---|
 | 7.5% NaHCO₃ | 50 mL | 0.9 mEq/mL | 45 mEq/ampule | 1,790 mosm/L |
 | 8.4% NaHCO₃ | 50 mL | 1 mEq/mL | 50 mEq/ampule | 2,000 mosm/L |
 
 ### Management of Diabetic Ketoacidosis
 
-**Table 32.3 — Management of Diabetic Ketoacidosis**
+**表 32.3 — Diabetic Ketoacidosis 的治療**
 
-#### I. Intravenous Fluids
+#### I. 靜脈輸液
 
-1. Start with balanced crystalloid (e.g., Ringer's lactate) at 15–20 mL/kg/hr (~1 L/hr) for a few hours.
-2. After stabilization, decrease to 250 mL/hr.
-3. When glucose ≤ 250 mg/dL → switch to D5W in 0.45% saline at 150–200 mL/hr.
-4. Continue IV fluids until oral intake is tolerated.
-5. In euglycemic DKA: add 5% dextrose to all IV fluids.
+1. 先以平衡晶質液（如 Ringer's lactate）15–20 mL/kg/hr（約 1 L/hr）輸注數小時。
+2. 穩定後，降至 250 mL/hr。
+3. 當血糖 ≤ 250 mg/dL → 改為 0.45% 鹽水配 D5W，以 150–200 mL/hr 輸注。
+4. 持續靜脈輸液直至可耐受口服攝取。
+5. 正常血糖性 DKA（euglycemic DKA）：在所有靜脈輸液中添加 5% dextrose。
 
 #### II. Insulin
 
-1. Give insulin **ONLY** if plasma K⁺ > 3.3 mEq/L.
-2. Use regular insulin: 0.1 U/kg IV bolus, then 0.1 U/kg/hr infusion (run first 10 mL through IV tubing and discard).
-3. Target glucose ~150–200 mg/dL.
+1. **僅在血漿 K⁺ > 3.3 mEq/L 時**才給予 insulin。
+2. 使用 regular insulin：0.1 U/kg 靜脈注射後，以 0.1 U/kg/hr 持續輸注（先讓前 10 mL 通過輸液管後丟棄）。
+3. 目標血糖約 150–200 mg/dL。
 
-#### III. Potassium Replacement
+#### III. 鉀離子補充
 
-*(See Table 32.4)*
+*（請見表 32.4）*
 
-- K⁺ < 3.3 mEq/L: Hold insulin, give 40 mEq/hr IV until K⁺ > 3.3
-- K⁺ 3.3–4.0 mEq/L: 20 mEq/hr IV
-- K⁺ 4.0–5.5 mEq/L: 10 mEq/hr IV
-- K⁺ > 5.5 mEq/L: Check every 2 hrs
+- K⁺ < 3.3 mEq/L：暫停 insulin，靜脈給予 40 mEq/hr，直至 K⁺ > 3.3
+- K⁺ 3.3–4.0 mEq/L：靜脈給予 20 mEq/hr
+- K⁺ 4.0–5.5 mEq/L：靜脈給予 10 mEq/hr
+- K⁺ > 5.5 mEq/L：每 2 小時檢查
