@@ -10,9 +10,9 @@ title: "Central Venous Access"
 
 ## Introduction
 
-As a medical student in the early 1970s, vascular access was achieved almost exclusively by inserting narrow-bore needles into superficial veins in the arms. The practice of inserting flexible plastic catheters into larger, more centrally placed veins was in its infancy (e.g., cannulation of the **internal jugular vein** was introduced only a few years earlier, in 1969), and the procedure was often performed in the operating room using a skin incision to introduce the catheters and forceps to advance them through the subcutaneous tissues.
+在 1970 年代初期，作為醫學生，血管通路幾乎完全透過將窄口徑針頭插入手臂的淺層靜脈來實現。 將柔性塑料導管插入更大、更居中位置靜脈的做法仍處於起步階段（例如，**internal jugular vein** 插管在幾年前才引入，即 1969 年），且該操作通常在手術室進行，使用皮膚切口導入導管並用鑷子將它們通過皮下組織推進。
 
-Now fast forward to modern times, and central venous access is a staple of patient care in ICUs, with multilumen catheters inserted percutaneously at the bedside using real-time ultrasonography to guide the cannulation process. Central venous cannulation has become an essential skill for the care of critically ill patients, and this chapter presents the relevant considerations involved in establishing central venous access.
+現在快轉到現代，central venous access 是 ICU 病人照護的核心，多腔導管在床邊經皮插入，使用即時超聲檢查引導插管過程。 Central venous cannulation 已成為重症病人照護的必備技能，本章介紹建立 central venous access 的相關考量。
 
 ---
 
@@ -20,32 +20,32 @@ Now fast forward to modern times, and central venous access is a staple of patie
 
 ### Traditional Indications for **Central Venous Catheter**s
 
-The traditional indications for inserting a **central venous catheter** include:
+插入 **central venous catheter** 的傳統適應症包括：
 
-1. When peripheral venous access is difficult to obtain or maintain.
-2. For prolonged venous access (i.e., more than a few days).
-3. When multiple intravenous therapies are required (taking advantage of the multilumen capabilities of **central venous catheter**s).
-4. For the infusion of vasopressors, hypertonic fluids (including total parenteral nutrition), or vesicants.
-5. For patients with life-threatening hemodynamic instability.
-6. For specialized interventions, such as acute hemodialysis, temporary transvenous pacing, or invasive hemodynamic monitoring.
+1. 當周邊靜脈通路難以建立或維持時。
+2. 用於長期靜脈通路（即超過數天）。
+3. 當需要多種靜脈治療時（利用 **central venous catheters** 的多腔能力）。
+4. 用於輸注血管加壓素、高滲液體（包括全靜脈營養）或發皰劑。
+5. 用於有危及生命的血流動力學不穩定的病人。
+6. 用於專門的介入治療，如急性血液透析、臨時靜脈起搏或侵入性血流動力學監測。
 
 ### Shrinking Indications
 
-It is now possible to avoid central venous access for many of the traditional indications, thanks to the emergence of **midline catheters** and peripherally inserted central catheters (**PICCs**). Both are inserted in the arm, just above the antecubital fossa, and both can be used for prolonged venous access (especially **PICCs**, which can remain in place for months) and for infusions of vasopressors and hypertonic fluids. These catheters are also available with multiple lumens for patients who require multiple intravenous therapies.
+現在由於 **midline catheters** 和周邊插入 central catheters（**PICCs**）的出現，可以避免許多傳統適應症的 central venous access。 兩者都插入手臂，恰好在肘窩上方，兩者都可用於長期靜脈通路（特別是 **PICCs**，可以留置數月），也可用於輸注血管加壓素和高滲液體。 這些導管也有多腔版本，適合需要多種靜脈治療的病人。
 
-Central venous access is still preferred for patients with life-threatening hemodynamic instability (circulatory shock), and it is mandatory for specialized interventions like acute hemodialysis. Thus, 4 of the 6 traditional indications for central venous access have alternative solutions.
+Central venous access 對於有危及生命的血流動力學不穩定（循環休克）的病人仍然是首選，對於急性血液透析等專門介入治療則是必需的。 因此，6 個 central venous access 的傳統適應症中有 4 個已有替代方案。
 
-Midline catheters and **PICCs** have fewer risks than **central venous catheter**s (e.g., there is no risk of **pneumothorax** because the catheters are inserted in the arm) and they are more readily accepted by patients. Because of these advantages, the demand for **central venous catheter**s is steadily declining, and **midline catheters** are becoming the preferred replacement.
+Midline catheters 和 **PICCs** 比 **central venous catheters** 風險更低（例如，因為導管插入手臂，沒有 **pneumothorax** 風險），且更容易被病人接受。 由於這些優點，**central venous catheters** 的需求正在穩步下降，而 **midline catheters** 正成為首選的替代方案。
 
 ### Contraindications
 
-There are no absolute contraindications to central venous cannulation, including the presence or severity of a coagulation disorder. There is a recommendation to correct a platelet count that is less than 20,000 × 10⁶/L or an INR greater than 3 prior to catheter insertion, but there is no evidence to support this recommendation.
+Central venous cannulation 沒有絕對禁忌癥，包括凝血障礙的存在或嚴重程度。 有人建議在導管插入前將血小板計數糾正至低於 20,000 × 10⁶/L 或 INR 大於 3，但沒有證據支持這項建議。
 
 ---
 
 ## Infection Control Measures
 
-Infection control is an essential part of vascular cannulation, and the preventive measures recommended for central venous access are shown in the table below. When used together as a "bundle," these measures have been effective in reducing the incidence of catheter-related bloodstream infections.
+感染控制是血管插管的重要組成部分，下表顯示了 central venous access 建議的預防措施。 當作為「bundle」一起使用時，這些措施在減少導管相關血流感染方面是有效的。
 
 ### Components of the Central Line Bundle
 
@@ -58,59 +58,59 @@ Infection control is an essential part of vascular cannulation, and the preventi
 
 ### Hand Hygiene
 
-Proper hand hygiene is considered one of the most important and most neglected methods of infection control. Alcohol-based, waterless hand rubs are preferred if available; otherwise, handwashing with soap and water is acceptable. Hand hygiene should be performed before and after palpating catheter insertion sites and before and after donning gloves to insert, replace, or manipulate catheters.
+正確的手部衛生被認為是感染控制最重要但也最常被忽視的方法之一。 如果有的話，首選含酒精的無水手部消毒液；否則，用肥皂和水洗手也是可以接受的。 在手觸摸導管插入部位前後以及戴手套插入、更換或操作導管的前後都應進行手部衛生。
 
 ### Skin Antisepsis
 
-The catheter insertion site should be decontaminated just prior to cannulation, and the preferred antiseptic agent is **chlorhexidine** (usually in alcohol). This preference is based on clinical studies showing that **chlorhexidine** is superior to other antiseptic agents for limiting the risk of catheter-associated infections. The enhanced efficacy of **chlorhexidine** is attributed to its prolonged (≥6 hours) antimicrobial activity on the skin, which is maximized if allowed to air-dry on the skin. The drying time is typically 30 seconds for dry skin and up to 2 minutes for moist skin.
+導管插入部位應在插管前立即去污染，首選的消毒劑是 **chlorhexidine**（通常在酒精中）。 這一偏好基於臨床研究，顯示 **chlorhexidine** 在限制導管相關感染風險方面優於其他消毒劑。 **chlorhexidine** 增強的效力歸因於其在皮膚上延長的（≥6 小時）抗微生物活性，如果在皮膚上風乾則效果最大化。 乾燥時間通常為乾燥皮膚 30 秒，濕潤皮膚最多 2 分鐘。
 
 ### Barrier Precautions
 
-All vascular cannulation procedures, except those involving small peripheral veins, should be performed using full barrier precautions, which includes caps, masks, sterile gloves, sterile gowns, and a sterile drape from head to foot. The only barrier precaution advised for peripheral vein cannulation is the use of gloves, and nonsterile gloves are acceptable as long as the gloved hands do not touch the catheter.
+所有血管插管操作，除涉及小周邊靜脈的外，都應使用完整屏障預防措施，包括帽子、口罩、無菌手套、無菌長袍和從頭到腳的無菌單。 周邊靜脈插管建議的唯一屏障預防措施是使用手套，只要戴手套的手不觸摸導管，非無菌手套也是可以接受的。
 
 ### Site Selection
 
-Cannulation of the **femoral vein** is considered the least desirable of the central venous access sites, primarily due to an increased risk of thrombosis with **femoral vein** catheters. When the central line bundle was introduced, there was also a higher risk of catheter-related septicemia with femoral catheters. However, studies in more recent years have shown no increase in the risk of catheter-related septicemia with femoral catheters. This is attributed to increased attention to infection control measures, and the current belief is that the risk of catheter-related bloodstream infections is not related to the location of the insertion site, but rather to how the site is maintained.
+**femoral vein** 插管被認為是 central venous access 部位中最不可取的，主要是由於 **femoral vein** 導管的血栓風險增加。 當 central line bundle 引入時，股導管也有較高的導管相關敗血癥風險。 然而，近年來的研究顯示股導管的導管相關敗血癥風險沒有增加。 這歸因於對感染控制措施的更多關注，目前的認為是導管相關血流感染風險與插入部位的位置無關，而是與部位的維護方式有關。
 
 ---
 
 ## Internal Jugular Vein
 
-The most popular site for central venous access is the **internal jugular vein** at the base of the neck. The right side is preferred because the vessels run a relatively straight course, which reduces the risk of catheter misplacement.
+Central venous access 最受歡迎的部位是頸底部的 **internal jugular vein**。 首選右側，因為血管路徑相對筆直，減少了導管錯放的風險。
 
 ### Anatomy
 
-The **internal jugular vein** (**IJV**) is located under the sternocleidomastoid muscle on either side of the neck, and it runs obliquely down the neck along a line drawn from the pinna of the ear to the sternoclavicular joint. In the lower neck region, the vein is typically located just anterior and lateral to the **carotid artery** (although anatomic relationships can vary), and both vessels run through the triangle created by the two heads of the sternocleidomastoid muscle. At the base of the neck, the **IJV** and **subclavian vein** join to form the innominate vein, and the convergence of the right and left innominate veins forms the **superior vena cava**.
+**internal jugular vein**（**IJV**）位於頸部兩側的胸鎖乳突肌下方，沿著從耳廓到胸鎖關節的連線斜向頸部向下行走。 在下頸部區域，靜脈通常位於 **carotid artery** 的正前方和外側（儘管解剖關係可能有所不同），兩條血管都穿過胸鎖乳突肌兩個頭之間形成的三角形。 在頸底部，**IJV** 和 **subclavian vein** 會合形成無名靜脈，右側和左側無名靜脈的交匯形成 **superior vena cava**。
 
 ### Cannulation Techniques
 
 #### Positioning
 
-Tilting the body so the head is below the horizontal plane (the **Trendelenburg** position) distends the **IJV** to facilitate cannulation and increases venous pressure to reduce the risk of **air embolism**. In healthy subjects, a head-down body tilt to 15° is associated with a 20–25% increase in the diameter of the **IJV**, while greater degrees of tilt have no further effect. Thus, only a limited (15°) body tilt is needed for **IJV** cannulation. The head-down tilt is not necessary (and is usually not tolerated) in patients with venous congestion, and it is not advised in patients with increased intracranial pressure.
+將身體傾斜使頭部低於水平面（**Trendelenburg** 位置）可擴張 **IJV** 以方便插管，並增加靜脈壓以減少 **air embolism** 的風險。 在健康受試者中，頭部下傾 15° 與 **IJV** 直徑增加 20–25% 相關，而更大角度的傾斜則沒有進一步效果。 因此，**IJV** 插管只需有限的（15°）身體傾斜。 頭部下傾對有靜脈充血（通常不能耐受）的病人不是必需的，也不建議用於顱內壓增加的病人。
 
-The head should be rotated slightly in the opposite direction to straighten the course of the vein. Excessive head rotation (beyond 40° from midline) pulls the **IJV** over the **carotid artery**, and this overlap increases the risk of **carotid artery** puncture.
+頭部應略微向對側旋轉以拉直靜脈的路徑。 過度頭部旋轉（偏離中線 40° 以上）會將 **IJV** 拉到 **carotid artery** 上方，這種重疊增加了 **carotid artery** 穿刺的風險。
 
 #### Ultrasound Guidance
 
-When real-time ultrasound is used to guide cannulation of the **IJV**, there is an increased success rate, fewer cannulation attempts, a shorter time to cannulation, and a reduced risk of **carotid artery** puncture. As a result, **ultrasound guidance** is a standard practice for catheterization of the **IJV**.
+當使用即時超聲引導 **IJV** 插管時，成功率提高，穿刺嘗試次數減少，插管時間縮短，**carotid artery** 穿刺風險降低。 因此，**ultrasound guidance** 是 **IJV** 導管插入的標準做法。
 
-The **IJV** is well suited for ultrasound imaging because it is close to the skin and there are no intervening structures to interfere with transmission of the ultrasound beam. A short-axis (cross-sectional) view of the **IJV** on the right side of the neck is obtained by placing the ultrasound probe at the apex of the triangle formed by the clavicular and sternal heads of the sternocleidomastoid muscle. Note that the **IJV** is anterior and lateral to the **carotid artery**, and that there is some overlap of the vessels. This overlap creates the risk of **carotid artery** puncture and mandates that intraluminal placement of the catheter is confirmed.
+**IJV** 非常適合超聲成像，因為它靠近皮膚，沒有干擾超聲束傳播的中間結構。 通過將超聲探頭放置在胸鎖乳突肌鎖骨頭和胸骨頭形成的三角形頂點，可以獲得頸部右側 **IJV** 的短軸（橫截面）視圖。 請注意，**IJV** 位於 **carotid artery** 的前方和外側，且血管有一些重疊。 這種重疊造成 **carotid artery** 穿刺的風險，並要求確認導管的管腔內放置。
 
 #### Landmark Method
 
-When ultrasound imaging is not available, cannulation of the **IJV** is guided by surface landmarks. There are two approaches:
+當超聲成像不可用時，**IJV** 插管由體表標誌引導。 有兩種方法：
 
-**Anterior Approach:** For the anterior approach, the operator first identifies the triangular area at the base of the neck created by the separation of the two heads of the sternocleidomastoid muscle. The operator first locates the **carotid artery** pulse in this triangle; once the artery is located by palpation, it is gently retracted toward the midline and away from the **IJV**. The probe needle is then inserted at the apex of the triangle (with bevel facing up) and advanced toward the ipsilateral nipple at a 45° angle from the skin. If the vein is not entered by a depth of 5 cm, the needle should be drawn back and advanced again in a more lateral direction.
+**Anterior Approach:** 對於前方入路，操作者首先識別由胸鎖乳突肌兩個頭分開形成的頸底三角形區域。 操作者首先在這個三角形中找到 **carotid artery** 脈搏；一旦透過觸摸找到动脉，將其輕輕向中線拉回，遠離 **IJV**。 然後在三角形頂點插入穿刺針（斜面朝上），以與皮膚成 45° 角向同側乳頭方向推進。 如果靜脈在 5 cm 深度仍未進入，應將針拉回並以更側向的方向重新推進。
 
-**Posterior Approach:** For the posterior approach, the insertion point for the probe needle is 1 cm above the point where the external jugular vein crosses over the lateral edge of the sternocleidomastoid muscle. The probe needle is inserted at this point (with the bevel at 3 o'clock) and then advanced along the underbelly of the muscle in a direction pointing to the suprasternal notch. The **internal jugular vein** should be encountered 5 to 6 cm from the insertion point.
+**Posterior Approach:** 對於後方入路，穿刺針的插入點在胸鎖乳突肌外側緣與頸外靜脈交叉點上方 1 cm 處。 穿刺針在此插入（斜面朝向 3 點鐘方向），然後沿肌肉下方朝向胸骨上切跡方向推進。 **internal jugular vein** 應在距插入點 5 至 6 cm 處遇到。
 
 ### Complications
 
-Accidental puncture of the **carotid artery** is the most feared complication of **IJV** cannulation. In a review of six randomized controlled trials of **IJV** cannulation by experienced operators, the summed incidence of **carotid artery** puncture was 9.2% when anatomic landmarks were used and 1.8% with **ultrasound guidance**.
+意外穿刺 **carotid artery** 是 **IJV** 插管最可怕的併發癥。 在一項對經驗豐富的操作者進行的六項 **IJV** 插管隨機對照試驗的回顧中，使用解剖標誌時 **carotid artery** 穿刺的總發生率為 9.2%，使用 **ultrasound guidance** 時為 1.8%。
 
-If the **carotid artery** is punctured by the small-bore probe needle, it is usually safe to remove the needle and compress the site for at least 5 minutes (double the compression time for patients with a coagulopathy). Insertion of a catheter into the **carotid artery** is more of a problem because removing the catheter can be fatal. If confronted with accidental cannulation of the **carotid artery**, leave the catheter in place and consult a vascular surgeon or interventional radiologist.
+如果小口徑穿刺針穿刺了 **carotid artery**，通常可以安全地移除針頭並按壓部位至少 5 分鐘（凝血障礙病人的按壓時間加倍）。 將導管插入 **carotid artery** 是更大的問題，因為移除導管可能是致命的。 如果遇到意外插入 **carotid artery**，將導管留在原位並諮詢血管外科醫生或介入放射科醫生。
 
-Other mechanical complications (e.g., hemo/**pneumothorax**) are less common and have an aggregated incidence of 2% when anatomic landmarks are used and less than 1% with **ultrasound guidance**.
+其他機械併發癥（如血胸/**氣胸**）較少見，使用解剖標誌時的總發生率為 2%，使用 **ultrasound guidance** 時不到 1%。
 
 ### Site-Specific Risks of Infection and Thrombosis
 
@@ -122,7 +122,7 @@ Other mechanical complications (e.g., hemo/**pneumothorax**) are less common and
 
 *Data from Parienti et al., NEJM 2015.*
 
-The risk of catheter-related septicemia with **IJV** catheters is slightly higher than the risk with subclavian catheters, but the difference is small (0.5% vs 1.4%), and the infectious risk at both sites is considered equivalent.
+**IJV** 導管的導管相關敗血癥風險略高於鎖骨下導管，但差異很小（0.5% 對 1.4%），兩部位的感染風險被認為相當。
 
 ---
 
