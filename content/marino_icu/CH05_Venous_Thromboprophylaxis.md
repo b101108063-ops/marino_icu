@@ -10,9 +10,9 @@ title: "Venous Thromboprophylaxis"
 
 ## Introduction
 
-Venous thromboembolism (**deep venous thrombosis** and **pulmonary embolism**) has four "alliterative" attributes: it is common, often covert, can be catastrophic, but is correctable. The risk of **venous thromboembolism** is almost universal in the patients who inhabit medical and surgical ICUs. Thrombus formation is most prominent in the major veins that drain the lower extremities, and it often remains clinically silent until a portion breaks free and travels to the lungs to become a pulmonary embolus, which can be life-threatening and even fatal.
+**Venous thromboembolism**（包括 **deep venous thrombosis** 與 **pulmonary embolism**）有四個「頭韻」特徵：常見、往往隱匿、可能致命、但可預防。**Venous thromboembolism** 的風險幾乎普遍存在於內科與外科 ICU 的病患中。血栓最常見於引流下肢的主要靜脈，且往往臨床上無症狀，直到部分血栓脫落並游離至肺部，形成可能危及生命甚至致命的 pulmonary embolism。
 
-Venous thromboembolism has been cited as the leading cause of preventable deaths in hospitalized patients, and preventive measures thus become "the number one priority for improving patient safety in hospitals." This chapter describes the various methods used to prevent **venous thromboembolism** (venous thromboprophylaxis).
+**Venous thromboembolism** 被認為是住院病患可預防性死亡的首要原因，因此預防措施成為「醫院提升病患安全的第一優先」。本章將說明用於預防 **venous thromboembolism**（venous thromboprophylaxis）的各種方法。
 
 ---
 
