@@ -10,9 +10,9 @@ title: "Alimentary Prophylaxis"
 
 ## Introduction
 
-Antiseptic practices are focused almost exclusively on the skin, but there is another, even larger surface that can be breached by microbes: the mucosal lining of the gastrointestinal (GI) tract. The lumen of the GI tract is outside the body, and the mucosal surface serves as a barrier to microbial invasion, just like the skin. However, the skin is a multilayer affair with a keratinized covering, while the GI mucosa ("our inner skin") is a single layer of columnar epithelial cells that is only 0.1 mm thick and serves as a barrier for an estimated 100 to 400 trillion microbes that inhabit the bowel.
+消毒措施幾乎僅專注於皮膚，但還有另一個更大的表面可能遭受微生物侵襲：gastrointestinal (GI) tract 的黏膜內襯。GI tract 的管腔位於體外，黏膜表面作為微生物入侵的屏障，如同皮膚一般。然而，皮膚是多層結構並有 keratinized 覆蓋層，而 GI mucosa（「我們的內在皮膚」）僅由單層 columnar epithelial cells 組成，厚度僅 0.1 mm，卻作為屏障，阻擋約 100 至 400 兆棲居於腸道中的微生物。
 
-This chapter introduces the importance of the alimentary tract as a source of infection in critically ill patients and describes the antiseptic measures available for this site. Also included is a section on stress-related mucosal injury in the stomach and what can be done to prevent troublesome bleeding from this condition.
+本章節介紹 alimentary tract 作為重症病人感染來源的重要性，并描述適用於該部位的消毒措施。同時也收錄了關於胃部 stress-related mucosal injury 的章節，以及預防此病況造成麻煩性出血的方法。
 
 ---
 
@@ -234,7 +234,7 @@ Enteral tube feedings can protect against **stress ulcer** bleeding in two ways.
 
 ## References
 
-1. Belizário JE, Faintuch J, Garay-Malpartida M. Gut microbiome **dysbiosis** and immuno-metabolism. *Mediators Inflamm* 2018:2037838.
+1. Belizário JE, Faintuch J, Garay-Malpartida M. Gut microbiome **dysbiosis** and immuno-metabolism. *Mediators Inflamm* 2018;2037838.
 
 2. Simon GL, Gorbach SL. Intestinal microflora. *Med Clin North Am* 1982; 66:557–574.
 
