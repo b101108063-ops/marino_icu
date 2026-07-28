@@ -18,6 +18,16 @@ This chapter describes three movement disorders encountered in the ICU:
 
 ---
 
+## Introduction
+
+## 導讀摘要
+
+- **癲癇重積狀態**（Status Epilepticus）為內科急症，第一線治療為 **lorazepam**（0.1 mg/kg IV）或 **diazepam**；第二線包括 **fosphenytoin**（20 mg PE/kg）、**valproic acid**、**levetiracetam**；頑固型需持續輸注 **midazolam**、**propofol** 或 **pentobarbital**。
+- **非痙攣性癲癇重積**（NCSE）臨床表現在ICU多樣化（意識混亂、昏迷、myoclonus等），確診困難，需EEG持續監測。
+- **ICU神經肌肉病變**：**Critical Illness Myopathy（CIM）**特徵為對稱、遠端>近端無力、感覺正常；**Critical Illness Polyneuropathy（CIP）**為遠端軸索性神經病變；兩者皆與**敗血症**、**皮質類固醇**相關，多為可逆性。
+- **Guillain-Barré Syndrome（GBS）**：上行性無力、反射消失、可進展至呼吸衰竭；CSF呈**白蛋白細胞分離**（蛋白質升高但細胞數正常）；需與**重症肌無力**（Myasthenia Gravis）鑑別，後者有**疲乏性**且CSF正常。
+- **神經肌肉阻斷劑**（NMBAs）：**succinylcholine**（去極化，1 mg/kg，最快 onset但致高血鉀）；**rocuronium**（非去極化，0.6–1 mg/kg）；**cisatracurium**（器官非依賴性代謝）；逆轉可用 **neostigmine** 或 **sugammadex**（專門針對rocuronium/vecuronium）。
+
 ## Seizures
 
 The risk of seizures in critically ill patients is determined primarily by the presence and type of brain injury rather than the general condition of the patient (e.g., severity of shock).

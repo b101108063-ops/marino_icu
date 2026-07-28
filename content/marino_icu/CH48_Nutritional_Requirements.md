@@ -14,7 +14,15 @@ The fundamental goal of nutritional support is to provide the daily nutrient and
 
 ---
 
-## Daily Energy Expenditure
+## Introduction
+
+## 導讀摘要
+
+- **間接測熱法**（Indirect Calorimetry）為測量 resting energy expenditure（REE）的黃金標準，使用**Weir方程式**：REE（kcal/min）=（3.94 × VO₂）+（1.11 × VCO₂）；若無設備，預估公式為 **REE = 25 × 體重（kg）**。
+- **營養給予策略**：ICU首日即可開始，頭 **3–7天** 僅需提供 **70% REE**（避免過度餵食），之後漸增至100%；使用 norepinephrine >0.2 mcg/kg/min 者建議 **10–15 kcal/kg/day** 持續7天。
+- **巨量營養素**：碳水化合物提供 **70%** 非蛋白質熱量上限為 **5 mg/kg/min**（防CO₂產生過多）；蛋白質建議 **1.2–2.0 g/kg/day**；脂質上限 **1.5 g/kg/day**；Propofol 制劑含 **1.1 kcal/mL**，需計入總熱量。
+- **維生素重點**：**Thiamine** 缺乏常見於敗血症、酒精濫用（建議劑量：500 mg IV q8h × 2–3天，之後漸減）；**Vitamin D** 缺乏達 40–100% ICU患者，建議補充 **600 IU/day**（ICU實際僅200–400 IU）。
+- **再進食症候群**（Refeeding Syndrome）好發於嚴重營養不良患者（BMI ≤18.5、體重丢失>10%），特徵為**低磷酸鹽血症**、低鉀、低鎂；預防：開始時僅提供 **40–50%** 需求量，4–7天內漸增。
 
 ### Oxidation of Nutritional Fuels
 

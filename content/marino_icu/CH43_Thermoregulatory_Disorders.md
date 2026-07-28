@@ -14,7 +14,15 @@ The human body is a metabolic furnace that generates enough heat to raise body t
 
 ---
 
-## Heat-Related Illness
+## Introduction
+
+## 導讀摘要
+
+- **體溫調節障礙**分為**體溫過高**（Hyperthernia，體溫設定點正常但散熱機制失效）與**發燒**（Fever，設定點上移），**acetaminophen** 對體溫過高無效，只能用於發燒。
+- **惡性高熱**（Malignant Hyperthermia）由**鹵素吸入麻醉劑**或**suxamethonium**誘發，首選治療為 **dantrolene**（劑量 1–2 mg/kg IV，總量可達 10 mg/kg），未治療死亡率 **≥70%**，及時治療降至 **≤10%**。
+- **血清素症候群**（Serotonin Syndrome）由SSRIs、MAOIs等增加血清素活性藥物引起，臨床表現包括**意識改變**、**自律神經不穩**、**肌肉陣攣/僵直**。
+- **低溫症**（Hypothermia）依核心體溫分為：輕度（32–35°C）、中度（28–32°C）、重度（<28°C），每下降1°C代謝率約減少**6%**；中重度需主動回溫（暖液、暖氣）。
+- **神經抑制性惡性症候群**（Neuroleptic Malignant Syndrome）由**haloperidol**、**droperidol** 等抗精神病藥物引起，特色為**肌肉僵直**、**發燒**、**自律神經不穩**、**CPK升高**。
 
 ### Hyperthermia vs. Fever
 

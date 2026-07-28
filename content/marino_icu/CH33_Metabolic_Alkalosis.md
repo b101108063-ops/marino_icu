@@ -18,6 +18,22 @@ Although the spotlight usually falls on metabolic acidosis, the most common acid
 
 This chapter begins with an attempt to simplify the rather complex electrolyte involvement in metabolic alkalosis, and then describes an organized approach to the evaluation and management of metabolic alkalosis.
 
+## 導讀摘要
+
+- **代謝性鹼中毒**（Metabolic Alkalosis）是住院病人最常見的酸鹼失衡，常見原因包括**噁心嘔吐**、**利尿劑**、**醛固酮過多**
+- **氯離子耗竭**（Chloride Depletion）是生成與維持代謝性鹼中毒的核心機制，抑制腎臟集合管之 **pendrin**（HCO₃⁻/Cl⁻ 交換蛋白）功能
+- 治療依據**尿氯離子濃度**（Urine Cl⁻）區分：Urine Cl⁻ < 20 mEq/L → 補充生理食鹽水；Urine Cl⁻ > 20 mEq/L → 考量醛固酮過多
+- 鹼中毒對通氣的影響輕微（Δ PaCO₂ = 0.7 × Δ HCO₃⁻），需 HCO₃⁻ 增加約 10 mEq/L 才會出現有意義的高碳酸血症
+- 鹼中毒使**氧合血紅素解離曲線左移**（Bohr effect），但臨床上無明確組織缺氧證據
+
+| 數值 | 說明 |
+|---|---|
+| 代謝性鹼中毒定義 | 靜脈血漿 HCO₃⁻ > 30 mEq/L |
+| 腎臟每日過濾 HCO₃⁻ 量 | 4,000–4,500 mEq/day |
+| 尿液氯離子閾值（鹽水反應性） | < 20 mEq/L |
+| 胃液 H⁺ 濃度 | 50–100 mEq/L |
+| 胃液 Cl⁻ 濃度 | 120–160 mEq/L |
+
 ---
 
 ## Pathogenesis
@@ -49,8 +65,8 @@ There are other specialized cells in the collecting ducts involved in HCO₃⁻ 
 
 Gastric secretions are rich in:
 
-- Hydrogen ions: 50–100 mEq/L
-- Chloride: 120–160 mEq/L
+- Hydrogen ions: **50–100 mEq/L**
+- Chloride: **120–160 mEq/L**
 - Potassium: 10–15 mEq/L (to a lesser degree) (5)
 
 Loss of H⁺ in gastric secretions generates an equimolar addition of HCO₃⁻ to the extracellular fluid, which creates a metabolic alkalosis. Loss of chloride and potassium will help to sustain the alkalosis by mechanisms described next.
@@ -89,7 +105,7 @@ Thiazide diuretics and "loop" diuretics like furosemide promote metabolic alkalo
 
 ## Clinical Consequences
 
-Metabolic alkalosis is clinically silent in most patients. Severe alkalosis can be accompanied by neurologic manifestations and hypoventilation, but these are rarely life-threatening. In one remarkable case report, an elderly patient with protracted vomiting and a plasma [HCO₃⁻] of 151 mEq/L was hemodynamically stable and recovered uneventfully after volume and electrolyte replacement (9).
+Metabolic alkalosis is clinically silent in most patients. Severe alkalosis can be accompanied by neurologic manifestations and hypoventilation, but these are rarely life-threatening. In one remarkable case report, an elderly patient with protracted vomiting and a plasma [HCO₃⁻] of **151 mEq/L** was hemodynamically stable and recovered uneventfully after volume and electrolyte replacement (9).
 
 ### Neurologic Manifestations
 

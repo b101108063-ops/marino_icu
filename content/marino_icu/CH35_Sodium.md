@@ -14,6 +14,26 @@ Life originated in a 3.5% salt water solution (i.e., the salinity of the ocean),
 
 This chapter begins by describing the forces that determine the distribution of total body water, and the importance of sodium in determining these forces, and then presents an organized approach to the "dysnatremias" (1,2); i.e., hypernatremia and hyponatremia.
 
+## 導讀摘要
+
+- **滲透活性**（Osmotic Activity）決定水分子在細胞內外液之間的分佈；**有效滲透活性**（Effective Osmotic Activity）才是驅動水分子跨膜移動的力量
+- **鈉離子**占血漿有效滲透壓的約 **98%**，是調控細胞外液體積與分佈的首要因子
+- **高血鈉**（Hypernatremia）可分為低血容量性、等血容量性、高血容量性；所有高血鈉病人的體液均為低張性
+- **低血鈉**（Hyponatremia）需先排除**假性低血鈉**（Pseudohyponatremia）；有症狀性低血鈉建議用 **3% NaCl** 治療，增量上限：5 mEq/L per 2 hr、10 mEq/L per 5 hr
+- 血漿滲透壓計算公式：**Posm = (2 × Na) + (glucose / 18) + (BUN / 2.8)**；有效滲透壓不計 BUN
+
+| 臨床數值 | 說明 |
+|---|---|
+| 正常血漿滲透壓 | 285–295 mosm/kg H₂O |
+| 正常血漿有效滲透壓 | ~285 mosm/kg H₂O |
+| 高血鈉定義 | 血漿 Na⁺ > 145 mEq/L |
+| 3% NaCl Na⁺ 含量 | 153 mEq/L |
+| 3% NaCl 滲透壓 | 1,026 mosm/L |
+| 低血鈉初始增量上限（2 hr） | 5 mEq/L |
+| 低血鈉初始增量上限（5 hr） | 10 mEq/L |
+| 低血鈉首日增量上限 | 10 mEq/L |
+| 後續每日增量上限 | 8 mEq/L |
+
 ---
 
 ## Osmotic Activity

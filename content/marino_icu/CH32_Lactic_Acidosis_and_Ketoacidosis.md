@@ -12,6 +12,23 @@ title: "Lactic Acidosis and Ketoacidosis"
 
 This chapter focuses on the two most prominent acid-base disorders encountered in the ICU: lactic acidosis and ketoacidosis. The problem with these disorders has little to do with the acid-base disturbances they promote. Also covered in this chapter is alkali therapy with bicarbonate, and the reasons to avoid it.
 
+## 導讀摘要
+
+- **乳酸**（Lactate）的生成並非主要由無氧代謝驅動，乳酸本身也不是酸（lactate anion is not an acid）
+- 乳酸是**氧化燃料**，在代謝壓力下可提供心肌約 **60%** 能量、腦部約 **30%** 能量
+- 血漿乳酸濃度的**初始值**與**清除時間**（24 小時內恢復正常）皆具預後判斷價值
+- DKA 治療重點：先用**平衡晶質液**、胰島素（需 K⁺ > 3.3 mEq/L 才給）、積极補充鉀離子
+- **碳酸氫鈉治療**（NaHCO₃）在乳酸性酸中毒或 DKA 的效益證據不足，臨床使用應保守
+
+| 臨床數值 | 參考範圍 |
+|---|---|
+| 血漿乳酸正常值 | ≤ 2 mmol/L |
+| 乳酸/丙酮酸比值（L/P ratio） | 10:1 |
+| DKA 血糖目標 | ~150–200 mg/dL |
+| DKA 切換輸液時機（血糖） | ≤ 250 mg/dL → D5W |
+| NaHCO₃ 7.5% HCO₃⁻ 含量 | 45 mEq/50 mL |
+| NaHCO₃ 8.4% HCO₃⁻ 含量 | 50 mEq/50 mL |
+
 ---
 
 ## Lactic Acidosis
@@ -26,7 +43,7 @@ Lactate is a three-carbon anion formed by the chemical reduction of pyruvate in 
 - Brain: 20%
 - Intestine: 10%
 
-Activated neutrophils are an additional source of lactate in inflammatory conditions (3). The concentration of lactate in plasma is usually ≤ 2 mmol/L, with a lactate:pyruvate ratio of 10:1 (1,2). Lactate is cleared from plasma by the liver (60%), kidneys (30%), and heart (10%).
+Activated neutrophils are an additional source of lactate in inflammatory conditions (3). The concentration of lactate in plasma is usually ≤ **2 mmol/L**, with a lactate:pyruvate ratio of **10:1** (1,2). Lactate is cleared from plasma by the liver (60%), kidneys (30%), and heart (10%).
 
 ### The Evolving Lactate Paradigm
 

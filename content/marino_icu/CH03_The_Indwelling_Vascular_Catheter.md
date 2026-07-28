@@ -43,7 +43,7 @@ Routine or scheduled replacement of catheters is not advised because it does not
 
 The phlebitis is typically the result of mechanical or chemical irritation of the target vessel and does not represent infection unless there is purulence emanating from the puncture site.
 
-**Central Venous Catheters:** Central venous catheters are replaced when there is evidence of infection (either purulence at the insertion site or confirmed catheter-related septicemia). Catheter replacement is not necessary when there is erythema at the catheter insertion site without other signs of infection, since erythema alone is not predictive of catheter-related infection.
+**Central Venous Catheters:** Central venous catheters are replaced when there is evidence of infection (either purulence at the insertion site or confirmed **catheter-related septicemia**). Catheter replacement is not necessary when there is erythema at the catheter insertion site without other signs of infection, since erythema alone is not predictive of catheter-related infection.
 
 ### Flushing Catheters
 
@@ -88,7 +88,7 @@ Since thrombosis is the most common cause of catheter occlusion, the initial att
 | 1 | Instill 2 mL (2 mg) of drug solution into the occluded catheter and cap the hub of the catheter. |
 | 2 | Wait 30 minutes and attempt to withdraw blood from the catheter. |
 | 3 | If the occlusion persists, wait another 90 minutes (total dwell time = 120 min) and attempt to withdraw blood. |
-| 4 | If the occlusion persists, prepare a second dose of alteplase (2 mg) and repeat steps 1–3. |
+| 4 | If the occlusion persists, prepare a second dose of **alteplase** (2 mg) and repeat steps 1–3. |
 | 5 | If patency is restored, withdraw 5 mL of blood through the catheter to remove any residual clot. |
 | 6 | If this regimen does not restore patency, consider the non-thrombotic sources of obstruction. |
 
@@ -108,21 +108,21 @@ Since thrombosis is the most common cause of catheter occlusion, the initial att
 
 ### Catheter-Related Thrombosis
 
-Indwelling catheters can trigger localized thrombus formation by injuring the vascular endothelium or by platelet adhesion to the catheter. Catheter-related thrombosis is especially prevalent with peripherally inserted central catheters (PICCs), but the thrombosis is clinically silent in more than 95% of cases. There is an increased risk of catheter-related thrombosis in cancer patients, especially those with long-term, tunneled catheters for chemotherapy.
+Indwelling catheters can trigger localized thrombus formation by injuring the vascular endothelium or by platelet adhesion to the catheter. Catheter-related thrombosis is especially prevalent with peripherally inserted central catheters (PICCs), but the thrombosis is clinically silent in more than 95% of cases. There is an increased risk of **catheter-related thrombosis** in cancer patients, especially those with long-term, tunneled catheters for chemotherapy.
 
 #### Upper Extremity Thrombosis
 
-Deep vein thrombosis (DVT) is not limited to the lower extremities; about 5% of cases involve the deep veins above the elbow, and as many as 90% of these are attributed to the presence of a catheter. The other risk factor for this type of DVT is malignancy.
+Deep vein thrombosis (**DVT**) is not limited to the lower extremities; about 5% of cases involve the deep veins above the elbow, and as many as 90% of these are attributed to the presence of a catheter. The other risk factor for this type of **DVT** is malignancy.
 
-Upper extremity DVT can be clinically silent, and the only consequence may be difficulty aspirating blood through the involved catheter. Complete thrombotic obstruction eventually produces swelling of the upper arm, which can be accompanied by discomfort, paresthesias, arm weakness, and engorgement of the superficial veins around the shoulder (Urschel's sign). The thrombosis can also propagate into the superior vena cava, but the superior vena cava syndrome is a rare consequence of catheter-associated DVT. Fewer than 10% of upper extremity DVTs are associated with symptomatic pulmonary emboli.
+Upper extremity **DVT** can be clinically silent, and the only consequence may be difficulty aspirating blood through the involved catheter. Complete thrombotic obstruction eventually produces swelling of the upper arm, which can be accompanied by discomfort, paresthesias, arm weakness, and engorgement of the superficial veins around the shoulder (Urschel's sign). The thrombosis can also propagate into the superior vena cava, but the **superior vena cava syndrome** is a rare consequence of catheter-associated **DVT**. Fewer than 10% of upper extremity **DVT**s are associated with symptomatic pulmonary emboli.
 
-**Diagnosis:** Compression ultrasonography is the diagnostic test of choice for upper extremity DVT. A positive test (i.e., clot-filled veins are not compressible) has a sensitivity of 97% and a specificity of 96%. D-dimer levels are not reliable as a screening test for DVT because critically ill patients often have elevated D-dimer levels.
+**Diagnosis:** Compression ultrasonography is the diagnostic test of choice for upper extremity **DVT**. A positive test (i.e., clot-filled veins are not compressible) has a sensitivity of 97% and a specificity of 96%. D-dimer levels are not reliable as a screening test for **DVT** because critically ill patients often have elevated D-dimer levels.
 
-**Management:** Removal of the offending catheter is not mandatory in upper extremity DVT and is recommended only when arm swelling is severe or painful, or when anticoagulant therapy is contraindicated.
+**Management:** Removal of the offending catheter is not mandatory in upper extremity **DVT** and is recommended only when arm swelling is severe or painful, or when anticoagulant therapy is contraindicated.
 
 #### Lower Extremity Thrombosis
 
-Femoral vein catheters are considered high-risk for catheter-related thrombosis, especially when left in place for several days. However, the reported incidence of symptomatic DVT with these catheters is only 1.6%, and there is no documented correlation between the duration of catheter use and the appearance of DVT. Therefore, the risk of DVT with these catheters is overstated.
+Femoral vein catheters are considered high-risk for **catheter-related thrombosis**, especially when left in place for several days. However, the reported incidence of symptomatic **DVT** with these catheters is only 1.6%, and there is no documented correlation between the duration of catheter use and the appearance of **DVT**. Therefore, the risk of **DVT** with these catheters is overstated.
 
 ### Vascular Perforation
 
@@ -138,7 +138,7 @@ The symptoms from SVC perforation (substernal chest pain, cough, and dyspnea) ar
 
 #### Cardiac Tamponade
 
-The most life-threatening complication of central venous catheters is cardiac tamponade from a catheter tip that perforates the right atrium. Fortunately, this complication is rare. The first sign of tamponade is usually the abrupt onset of dyspnea, which can progress to cardiovascular collapse within an hour. The diagnosis requires ultrasound evidence of a pericardial effusion with diastolic collapse of the right heart, and immediate pericardiocentesis is necessary to reduce the pericardial pressure and allow the right heart to fill. Emergency thoracotomy may also be necessary if there is a large tear in the wall of the heart. The mortality rate in this condition varies from 40% to 100% in published reports.
+The most life-threatening complication of central venous catheters is **cardiac tamponade** from a catheter tip that perforates the right atrium. Fortunately, this complication is rare. The first sign of tamponade is usually the abrupt onset of dyspnea, which can progress to cardiovascular collapse within an hour. The diagnosis requires ultrasound evidence of a pericardial effusion with diastolic collapse of the right heart, and immediate **pericardiocentesis** is necessary to reduce the pericardial pressure and allow the right heart to fill. Emergency thoracotomy may also be necessary if there is a large tear in the wall of the heart. The mortality rate in this condition varies from 40% to 100% in published reports.
 
 ---
 
@@ -157,13 +157,13 @@ Indwelling vascular catheters (with the exception of short, peripheral vein cath
 
 ### Biofilms
 
-Microbes have a propensity to congregate on inert surfaces. Once in contact with a surface, they release adhesive molecules (called adhesins) that firmly attach them to the surface. They then begin secreting an extracellular matrix (known as slime) that consists of polysaccharides, proteins, fibrin, and extracellular DNA. This extracellular matrix creates a protective environment called a biofilm that allows microbes to thrive and proliferate without being damaged by the surrounding environment. Phagocytic cells are unable to ingest organisms that are embedded in a biofilm, and antibiotic concentrations that eradicate free-living bacteria must be 100 to 1,000 times higher to eradicate bacteria in biofilms.
+Microbes have a propensity to congregate on inert surfaces. Once in contact with a surface, they release adhesive molecules (called adhesins) that firmly attach them to the surface. They then begin secreting an extracellular matrix (known as slime) that consists of polysaccharides, proteins, fibrin, and extracellular DNA. This extracellular matrix creates a protective environment called a **biofilm** that allows microbes to thrive and proliferate without being damaged by the surrounding environment. Phagocytic cells are unable to ingest organisms that are embedded in a **biofilm**, and antibiotic concentrations that eradicate free-living bacteria must be 100 to 1,000 times higher to eradicate bacteria in **biofilm**s.
 
 **Clinical Significance:** Biofilms play an important role in catheter-related infections:
-- Examination of indwelling vascular catheters with scanning electron microscopy has revealed extensive biofilm formation on the surface of the catheters, including those that were in place for only one day.
+- Examination of indwelling vascular catheters with scanning electron microscopy has revealed extensive **biofilm** formation on the surface of the catheters, including those that were in place for only one day.
 - Coagulase-negative staphylococci, which are the leading cause of catheter-related infections, readily adhere to polymer surfaces and produce slime.
 
-The ubiquitous presence of biofilms on indwelling vascular catheters means that antibiotic therapy is not the optimal treatment for catheter-related bloodstream infections. Several anti-biofilm strategies are being evaluated, but nothing has reached clinical testing at this time.
+The ubiquitous presence of **biofilm**s on indwelling vascular catheters means that antibiotic therapy is not the optimal treatment for **catheter-related bloodstream infection**s. Several anti-**biofilm** strategies are being evaluated, but nothing has reached clinical testing at this time.
 
 ### Clinical Features
 
@@ -177,7 +177,7 @@ Because of the non-specific nature of these clinical findings, the diagnosis of 
 
 ### Diagnosis
 
-The diagnosis of catheter-related septicemia requires a positive blood culture from a site other than the catheter, plus some evidence that the catheter is the source of the positive blood culture. The recommended culture methods are summarized below.
+The diagnosis of **catheter-related septicemia** requires a positive blood culture from a site other than the catheter, plus some evidence that the catheter is the source of the positive blood culture. The recommended culture methods are summarized below.
 
 ### Recommended Culture Methods for the Diagnosis of Catheter-Related Infection
 
@@ -203,13 +203,13 @@ Central venous catheters typically have three lumens (and can have four), and ea
 | Rank | Organism | Percentage |
 |:----:|:---------|:----------:|
 | 1 | Coagulase-negative staphylococci | 16% |
-| 2 | Staphylococcus aureus | 13% |
-| 3 | Enterococcus faecalis | 8.4% |
+| 2 | **Staphylococcus aureus** | 13% |
+| 3 | **Enterococcus** faecalis | 8.4% |
 | 4 | Klebsiella pneumoniae | 8.4% |
-| 5 | Enterococcus faecium | 7% |
-| 6 | Candida albicans | 6% |
+| 5 | **Enterococcus** faecium | 7% |
+| 6 | **Candida** albicans | 6% |
 | 7 | Escherichia coli | 5.4% |
-| 8 | Other Candida spp. | 5% |
+| 8 | Other **Candida** spp. | 5% |
 | 9 | Enterobacter spp. | 4.4% |
 | 10 | Pseudomonas aeruginosa | 4% |
 
@@ -223,10 +223,10 @@ Empiric antibiotics are recommended for all ICU patients with suspected catheter
 
 | Organism | Antibiotic | Comment |
 |:---------|:-----------|:--------|
-| Staphylococci | Vancomycin | If MRSA isolates with MIC greater than 2 mg/mL are prevalent, use daptomycin. |
-| Enterococci | Vancomycin | If vancomycin resistance is a concern, use daptomycin. |
-| Gram-negative bacilli | Carbapenem or Cefepime or Piperacillin-Tazobactam | Add aminoglycoside for neutropenia or concern for multidrug-resistant organisms. |
-| Candida species | Echinocandin | Indications: femoral catheter, TPN, hematologic malignancy, prolonged antibiotic therapy, recent transplant, or Candida spp. elsewhere. |
+| Staphylococci | Vancomycin | If MRSA isolates with MIC greater than 2 mg/mL are prevalent, use **daptomycin**. |
+| Enterococci | Vancomycin | If **vancomycin** resistance is a concern, use **daptomycin**. |
+| Gram-negative bacilli | Carbapenem or **Cefepime** or **Piperacillin-Tazobactam** | Add aminoglycoside for neutropenia or concern for multidrug-resistant organisms. |
+| **Candida** species | Echinocandin | Indications: femoral catheter, TPN, hematologic malignancy, prolonged antibiotic therapy, recent transplant, or **Candida** spp. elsewhere. |
 
 *Echinocandins include caspofungin, micafungin, and anidulafungin.*
 
@@ -236,37 +236,37 @@ Most cases of suspected catheter-related infections are not confirmed by culture
 
 **Indications for Catheter Removal:**
 1. Hemodynamic instability or progressive multiorgan dysfunction.
-2. Evidence of endocarditis or septic thrombophlebitis.
-3. Infections with Staphylococcus aureus, Candida species, Pseudomonas species, or multidrug-resistant gram-negative bacilli.
+2. Evidence of **endocarditis** or septic thrombophlebitis.
+3. Infections with **Staphylococcus aureus**, **Candida** species, Pseudomonas species, or multidrug-resistant gram-negative bacilli.
 4. Persistent bacteremia for more than 96 hours despite appropriate antimicrobial therapy.
 
 Catheters should not be replaced over a guidewire but should be removed and reinserted at a new venipuncture site. Guidewire replacement may be the best option if there is very limited venous access.
 
 #### Antibiotic Lock Therapy
 
-Instilling concentrated antibiotic solutions into indwelling catheters and allowing an extended dwell time will enhance the ability to disrupt biofilms and eradicate persistent organisms. The antibiotic "lock" solution contains the same antibiotic used systemically, in a concentration of 2–5 mg/mL in heparinized saline. This solution is injected into each lumen of the indwelling catheter and allowed to dwell for 24 hours, and is replaced every 24 hours for the duration of the systemic antibiotic therapy.
+Instilling concentrated antibiotic solutions into indwelling catheters and allowing an extended dwell time will enhance the ability to disrupt **biofilm**s and eradicate persistent organisms. The antibiotic "lock" solution contains the same antibiotic used systemically, in a concentration of 2–5 mg/mL in heparinized saline. This solution is injected into each lumen of the indwelling catheter and allowed to dwell for 24 hours, and is replaced every 24 hours for the duration of the systemic antibiotic therapy.
 
 #### Duration of Antimicrobial Treatment
 
-1. If the infection involves a microbe with limited pathogenicity (e.g., coagulase-negative staphylococci) and there is a favorable response to antimicrobial therapy within 72 hours, then no more than 7 days of treatment is necessary.
-2. For cases of Staph aureus bacteremia, the accepted practice is to look for evidence of endocarditis with transesophageal ultrasound. If there is no evidence of endocarditis, antibiotic therapy can be limited to 14 days if the catheter has been removed, the patient is not immunocompromised, and there are no intravascular prosthetic devices in place. Evidence of endocarditis mandates 4–6 weeks of antimicrobial therapy.
+1. If the infection involves a microbe with limited pathogenicity (e.g., **coagulase-negative staphylococci**) and there is a favorable response to antimicrobial therapy within 72 hours, then no more than 7 days of treatment is necessary.
+2. For cases of Staph aureus bacteremia, the accepted practice is to look for evidence of **endocarditis** with transesophageal ultrasound. If there is no evidence of **endocarditis**, antibiotic therapy can be limited to 14 days if the catheter has been removed, the patient is not immunocompromised, and there are no intravascular prosthetic devices in place. Evidence of **endocarditis** mandates 4–6 weeks of antimicrobial therapy.
 3. For infections caused by enterococci or gram-negative bacilli, 7–14 days of antibiotic therapy is advised, regardless of whether the catheter is replaced or retained.
 
 ### Persistent Sepsis
 
-Continued signs of sepsis or persistent septicemia after 72 hours of antimicrobial therapy should prompt a search for suppurative thrombophlebitis or endocarditis.
+Continued signs of sepsis or persistent septicemia after 72 hours of antimicrobial therapy should prompt a search for **suppurative thrombophlebitis** or **endocarditis**.
 
 #### Suppurative Thrombophlebitis
 
-The thrombi that form around indwelling vascular catheters can trap microbes from a colonized catheter. These microbes can then proliferate and transform the thrombus into an intravascular abscess. This condition is known as suppurative thrombophlebitis, and the most common offending organism is Staphylococcus aureus.
+The thrombi that form around indwelling vascular catheters can trap microbes from a colonized catheter. These microbes can then proliferate and transform the thrombus into an intravascular abscess. This condition is known as **suppurative thrombophlebitis**, and the most common offending organism is **Staphylococcus aureus**.
 
 The diagnosis requires evidence of thrombosis in the cannulated blood vessel (by ultrasound) and persistent septicemia with no other apparent source. Treatment includes catheter removal and systemic antibiotic therapy for 4–6 weeks. Surgical excision of the infected thrombus is usually not necessary and is reserved for cases of refractory septicemia.
 
 #### Endocarditis
 
-Nosocomial endocarditis is uncommon, with a reported incidence of 2–3 cases annually in university teaching hospitals. Vascular catheters are implicated in 30 to 50% of cases, and staphylococci (mostly S. aureus) are the offending organisms in up to 75% of cases.
+Nosocomial **endocarditis** is uncommon, with a reported incidence of 2–3 cases annually in university teaching hospitals. Vascular catheters are implicated in 30 to 50% of cases, and staphylococci (mostly S. aureus) are the offending organisms in up to 75% of cases.
 
-Typical manifestations of endocarditis (e.g., new or changing cardiac murmur) can be absent in as many as two-thirds of patients with nosocomial endocarditis involving Staphylococcus aureus. This is why a search for endocarditis (with transesophageal ultrasound) is advised for all patients with S. aureus bacteremia.
+Typical manifestations of **endocarditis** (e.g., new or changing cardiac murmur) can be absent in as many as two-thirds of patients with nosocomial **endocarditis** involving **Staphylococcus aureus**. This is why a search for **endocarditis** (with transesophageal ultrasound) is advised for all patients with S. aureus bacteremia.
 
 ---
 
@@ -275,11 +275,11 @@ Typical manifestations of endocarditis (e.g., new or changing cardiac murmur) ca
 The following points deserve emphasis:
 
 1. Catheters should not be routinely replaced.
-2. Occluded catheters can often be salvaged with thrombolytic therapy (alteplase).
+2. Occluded catheters can often be salvaged with thrombolytic therapy (**alteplase**).
 3. Catheter-related thrombosis is common but usually silent.
 4. Biofilms make catheter-related infections difficult to treat with antibiotics alone.
 5. The diagnosis of catheter-related infection requires paired blood cultures from the catheter and a peripheral site.
-6. Catheters should be removed for hemodynamic instability, persistent bacteremia, or infection with S. aureus, Candida, or multidrug-resistant organisms.
+6. Catheters should be removed for **hemodynamic instability**, persistent bacteremia, or infection with S. aureus, **Candida**, or multidrug-resistant organisms.
 7. Blood cultures should be drawn from each lumen of multilumen catheters.
 
 ---

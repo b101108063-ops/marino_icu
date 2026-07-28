@@ -10,7 +10,7 @@ title: "Systemic Oxygenation"
 
 ## Introduction
 
-The management of critically ill patients is dominated by interventions that promote tissue oxygenation, yet it is not possible to monitor tissue O₂ levels in a clinical setting. Instead, tissue oxygenation is evaluated indirectly using global measures of systemic oxygen transport (O₂ delivery and O₂ uptake) along with a presumed marker of inadequate tissue oxygenation (the plasma lactate level).
+The management of critically ill patients is dominated by interventions that promote tissue oxygenation, yet it is not possible to monitor tissue O₂ levels in a clinical setting. Instead, tissue oxygenation is evaluated indirectly using global measures of systemic oxygen transport (O₂ delivery and O₂ uptake) along with a presumed marker of inadequate tissue oxygenation (the plasma **lactate** level).
 
 ---
 
@@ -36,7 +36,7 @@ The oxygenation of the hemoglobin pool is expressed as the oxygen saturation of 
 1. The arterial PO₂ is on the upper flat part, so a large drop in PaO₂ (down to 60 mm Hg) results in only minor changes in SO₂.
 2. The venous PO₂ is on the steep portion, facilitating O₂ uptake in pulmonary capillaries.
 
-The position of the curve is indicated by the P50 (the PO₂ corresponding to SO₂ of 50%), normally about 27 mm Hg.
+The position of the curve is indicated by the **P50** (the PO₂ corresponding to SO₂ of 50%), normally about 27 mm Hg.
 
 **Curve Shifts:**
 - **Right shift:** Facilitates O₂ release in tissues
@@ -108,7 +108,7 @@ The oxygen transport system maintains constant VO₂ in the face of decreases in
 
 $$VO_2 = DO_2 \times O_2ER$$
 
-When O₂ delivery decreases, VO₂ initially remains constant. Eventually a point is reached where VO₂ begins to decrease, marking the onset of oxygen-limited (anaerobic) metabolism.
+When O₂ delivery decreases, VO₂ initially remains constant. Eventually a point is reached where VO₂ begins to decrease, marking the onset of oxygen-limited (**an**aerobic****) metabolism.
 
 ### Surrogate Measures of O₂ Extraction
 
@@ -131,13 +131,13 @@ The ScvO₂ is lower than SvO₂ in healthy subjects but higher in critically il
 
 ### Lactate and Survival
 
-Clinical studies consistently show that mortality is directly related to initial plasma lactate level and the time required for lactate to return to normal. However, this relationship is not evidence that lactate is a marker of inadequate tissue oxygenation.
+Clinical studies consistently show that mortality is directly related to initial plasma **lactate** level and the time required for **lactate** to return to normal. However, this relationship is not evidence that **lactate** is a marker of inadequate tissue oxygenation.
 
 ### Aerobic Lactate Production
 
-The traditional view that pyruvate is converted to lactate only when O₂ is unavailable is incorrect. Lactate is produced under aerobic conditions, and the daily production averages 20 mmol/kg body weight.
+The traditional view that pyruvate is converted to **lactate** only when O₂ is unavailable is incorrect. Lactate is produced under **aerobic** conditions, and the daily production averages 20 mmol/kg body weight.
 
-### Sources of Aerobic Hyperlactatemia
+### Sources of Aerobic Hyper**lactate**mia
 
 | Category | Examples |
 |:---------|:---------|
@@ -148,15 +148,15 @@ The traditional view that pyruvate is converted to lactate only when O₂ is una
 
 ### Sepsis
 
-Hyperlactatemia is a universal consequence of sepsis. The principal source is inhibition of the pyruvate dehydrogenase enzyme, diverting pyruvate to lactate production. Sepsis also causes a catecholamine-driven increase in glycolysis.
+Hyper**lactate**mia is a universal consequence of **sepsis**. The principal source is inhibition of the **pyruvate dehydrogenase** enzyme, diverting pyruvate to **lactate** production. Sepsis also causes a **catecholamine**-driven increase in glycolysis.
 
 ### Thiamine Deficiency
 
-The pyruvate dehydrogenase enzyme requires thiamine pyrophosphate as a cofactor. Deficiency diverts pyruvate to lactate production.
+The **pyruvate dehydrogenase** enzyme requires **thiamine** pyrophosphate as a cofactor. Deficiency diverts pyruvate to **lactate** production.
 
 ### Lactate as an Oxidative Fuel
 
-Lactate can be viewed as an alternative fuel source during metabolic stress. The energy yield from oxidative metabolism of lactate is equivalent to glucose. In conditions like sepsis, lactate can provide 60% of the energy needs of the myocardium and 25–30% of the brain's energy needs.
+Lactate can be viewed as an alternative fuel source during metabolic stress. The energy yield from oxidative metabolism of **lactate** is equivalent to glucose. In conditions like **sepsis**, **lactate** can provide 60% of the energy needs of the myocardium and 25–30% of the brain's energy needs.
 
 ---
 
@@ -166,7 +166,7 @@ Lactate can be viewed as an alternative fuel source during metabolic stress. The
 2. Anemia reduces O₂ content more than hypoxemia.
 3. O₂ delivery is the product of cardiac output and arterial O₂ content.
 4. SvO₂ reflects the balance between O₂ delivery and consumption.
-5. Increased lactate production in critical illness is predominantly aerobic, not anaerobic.
+5. Increased **lactate** production in critical illness is predominantly **aerobic**, not **an**aerobic****.
 6. Lactate serves as an oxidative fuel during metabolic stress.
 7. Cellular hypoxia may not be a common cause of death in critical illness.
 

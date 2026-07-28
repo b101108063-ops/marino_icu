@@ -10,7 +10,7 @@ title: "Oximetry and Capnography"
 
 ## Introduction
 
-The introduction of optical techniques for the noninvasive and continuous monitoring of oxyhemoglobin saturation in blood (oximetry) and carbon dioxide levels in exhaled gas (capnography) is the most useful innovation in critical care monitoring since the advent of intensive care units. Despite the ubiquity and promise of pulse oximetry and capnography, evidence shows that understanding of these techniques is far from satisfactory.
+The introduction of optical techniques for the noninvasive and continuous monitoring of **oxyhemoglobin** saturation in blood (**oximetry**) and carbon dioxide levels in exhaled gas (**capnography**) is the most useful innovation in critical care monitoring since the advent of intensive care units. Despite the ubiquity and promise of **pulse **oximetry**** and **capnography**, evidence shows that understanding of these techniques is far from satisfactory.
 
 ---
 
@@ -23,9 +23,9 @@ Hemoglobin changes its structural configuration when it participates in a chemic
 - **Oxygenated hemoglobin (HbO₂):** Absorbs infrared light more effectively
 - **Deoxygenated hemoglobin (Hb):** Absorbs red light more effectively
 - **Methemoglobin (metHb):** Absorbs both wavelengths similarly
-- **Carboxyhemoglobin (COHb):** Absorbs light similarly to oxygenated hemoglobin
+- **Carb**oxyhemoglobin** (COHb):** Absorbs light similarly to oxygenated hemoglobin
 
-Two wavelengths of light (660 nm and 940 nm) are used to identify oxygenated and deoxygenated hemoglobin.
+Two wavelengths of light (660 nm and 940 nm) are used to identify oxygenated and **deoxygenated hemoglobin**.
 
 ### Pulse Oximetry
 
@@ -37,11 +37,11 @@ $$\text{SpO}_2 = \frac{\text{HbO}_2}{\text{Hb} + \text{HbO}_2} \times 100$$
 
 ### Forehead Pulse Oximetry
 
-The forehead is appealing because the arterial circulation is less prone to vasoconstriction than digital arteries. Unlike fingertip oximetry (transmission), forehead oximetry relies on light reflectance. Elastic headbands are used to reduce interference from venous pulsations.
+The forehead is appealing because the arterial circulation is less prone to vasoconstriction than digital arteries. Unlike fingertip **oximetry** (transmission), forehead **oximetry** relies on light reflectance. Elastic headbands are used to reduce interference from venous pulsations.
 
 ### CO-Oximetry
 
-Standard pulse oximeters do not detect carboxyhemoglobin or methemoglobin. This requires additional wavelengths available in devices called "CO-oximeters" that generate up to 8 wavelengths of light.
+Standard pulse oximeters do not detect carb**oxyhemoglobin** or **methemoglobin**. This requires additional wavelengths available in devices called "**CO-oximeter**s" that generate up to 8 wavelengths of light.
 
 ### Accuracy
 
@@ -57,7 +57,7 @@ The target SpO₂ is 90–94% for most patients and 88–92% for patients with h
 
 ### Venous Oximetry
 
-Oximetry can measure the O₂ saturation in venous blood from the pulmonary artery (mixed venous blood) or superior vena cava (central venous blood). Specialized oximetry catheters contain fiberoptic bundles that emit two wavelengths of light from the tip.
+Oximetry can measure the O₂ saturation in venous blood from the pulmonary artery (**mixed venous blood**) or superior vena cava (central venous blood). Specialized **oximetry** catheters contain fiberoptic bundles that emit two wavelengths of light from the tip.
 
 ### Venous O₂ Saturation
 
@@ -69,11 +69,11 @@ The normal SvO₂ is 70–75%. A decrease indicates decreased O₂ delivery rela
 
 ### Central Venous O₂ Saturation (ScvO₂)
 
-The ScvO₂ measured by central venous oximetry catheters is slightly lower than the SvO₂ in healthy subjects but higher in critically ill patients. Changes in ScvO₂ generally mirror those in SvO₂.
+The ScvO₂ measured by central venous **oximetry** catheters is slightly lower than the SvO₂ in healthy subjects but higher in critically ill patients. Changes in ScvO₂ generally mirror those in SvO₂.
 
 ### Dual Oximetry
 
-Adding SpO₂ from pulse oximetry to SvO₂ monitoring enhances interpretive value. The difference (SpO₂ – SvO₂) is roughly equivalent to O₂ extraction from capillary blood:
+Adding SpO₂ from **pulse **oximetry**** to SvO₂ monitoring enhances interpretive value. The difference (SpO₂ – SvO₂) is roughly equivalent to O₂ extraction from capillary blood:
 
 - Normal (SpO₂ – SvO₂): 25%
 - Greater than 25%: O₂ delivery reduced
@@ -103,7 +103,7 @@ A slowly rising Phase II indicates increased alveolar dead space (as in COPD).
 
 ### Procedural Sedation
 
-Capnography has proven superior to oximetry for detecting hypoventilation during procedural sedation. Monitoring PETCO₂ is recommended for all procedural sedation.
+Capnography has proven superior to **oximetry** for detecting hypoventilation during procedural sedation. Monitoring PETCO₂ is recommended for all procedural sedation.
 
 ### Endotracheal Intubation
 
@@ -138,10 +138,10 @@ The PETCO₂ will decrease relative to the PaCO₂ in conditions associated with
 
 ## Key Takeaways
 
-1. Pulse oximetry measures SpO₂ with 3–4% accuracy.
+1. Pulse **oximetry** measures SpO₂ with 3–4% accuracy.
 2. The target SpO₂ is 90–94% for most patients.
 3. SvO₂ reflects the balance between O₂ delivery and consumption.
-4. Capnography is superior to oximetry for detecting hypoventilation.
+4. Capnography is superior to **oximetry** for detecting hypoventilation.
 5. PETCO₂ can indicate cardiac output changes and prognosis during CPR.
 6. The PaCO₂ – PETCO₂ difference increases with dead space ventilation.
 
@@ -149,8 +149,8 @@ The PETCO₂ will decrease relative to the PaCO₂ in conditions associated with
 
 ## References
 
-1. Barker SJ, Tremper KK. Pulse oximetry: applications and limitations. *Int Anesthesiol Clin* 1987; 25:155–175.
+1. Barker SJ, Tremper KK. Pulse **oximetry**: applications and limitations. *Int Anesthesiol Clin* 1987; 25:155–175.
 
-2. Nitzan M, Romem A, Koppel R. Pulse oximetry: fundamentals and technology update. *Med Devices* 2014; 7:231–239.
+2. Nitzan M, Romem A, Koppel R. Pulse **oximetry**: fundamentals and technology update. *Med Devices* 2014; 7:231–239.
 
 3. Nassar BS, Schmidt GA. Capnography during critical illness. *Chest* 2016; 149:576–585.

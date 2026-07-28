@@ -14,7 +14,15 @@ The ability to recognize and interact with surroundings (consciousness) is the s
 
 ---
 
-## Altered Consciousness
+## Introduction
+
+## 導讀摘要
+
+- **意識障礙**的兩大要素：**覺醒**（Arousal）與**覺知**（Awareness）。狀態包括：焦慮、嗜睡（可喚醒+覺知正常）；**瞻妄**（Delirium，可喚醒+覺知障礙，波动性精神狀態）；**木僵/植物人/腦死**（不可喚醒）。
+- **瞻妄**（Delirium）在ICU常見，風險因子包括**高齡**、**苯二氮平類**（benzodiazepines）、鎮靜、 sleep deprivation；**CAM-ICU** 為標準篩檢工具。**Haloperidol**（2–5 mg IV）為首選藥物，**quetiapine**、**dexmedetomidine** 為替代。
+- **Glasgow Coma Scale（GCS）**：總分3–15，**GCS ≤8** 定義為昏迷，亦為氣道保護反射缺陷的門檻。**瞳孔檢查**：針尖瞳孔見於**類鴉片過量**或**橋腦出血**；單側放大固定瞳孔提示**CN III 壓迫**（腦疝）。
+- **酒精戒斷/譫妄性震顫**（Delirium Tremens）發生於停酒後 **72–96小時**，特徵包括：意識混亂、發燒、自律神經不穩；首選 **lorazepam** 或 **diazepam**；**thiamine**（100 mg）需在葡萄糖前給予以防 **Wernicke腦病**。
+- **腦死判定**：需已知昏迷原因、排除混淆因素（低溫、藥物、電解質）、無所有腦幹反射、無對疼痛的運動反應、**apnea test** 陽性；確認性檢查（EEG、腦血管造影、核醫、TCD）可作為輔助。
 
 Consciousness has two components:
 

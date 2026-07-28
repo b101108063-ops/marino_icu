@@ -16,7 +16,15 @@ This chapter describes the management of ischemic strokes, strokes caused by spo
 
 ---
 
-## Ischemic Stroke
+## Introduction
+
+## 導讀摘要
+
+- **缺血性中風**（Ischemic Stroke）佔所有中風 **85%**，ICU支持性治療重點包括：維持**血氧饱和度90–92%**（高血氧有害）、血壓>220/120 mmHg才需降壓（血栓溶解/取栓術後24小時內維持**<180/105 mmHg**）、血糖控制在 **140–180 mg/dL**。
+- **血栓溶解後出血轉化**（Hemorrhagic Transformation）症狀性發生率 **6.4–8.8%**，需冷沉澱（fibrinogen <200 mg/dL時再加）、tranexamic acid 1,000 mg IV及神經外科諮詢。
+- **自發性顱內出血**（Spontaneous ICH）占中風10–15%，預後差（30天死亡率約50%），需立即逆轉抗血栓藥物；**Warfarin** 用 **Vitamin K + 4-factor PCC**；**Dabigatran** 用 **Idarucizumab**；**Apixaban/Rivaroxaban** 用 **Andexanet alfa**。
+- **蜘蛛膜下腔出血**（SAH）30天內死亡率近50%，再出血為首要威脅（需3天內閉鎖动脉瘤）；遲發性腦缺血（DCI）發生於 **30%** 患者（4–14天），**Nimodipine**（60 mg PO q4h，3週）為標準預防。
+- **高滲鹽水**（Hypertonic Saline）用於顱內壓管理：目標血鈉 **145–155 mEq/L**，常用 **3%**（250 mL over 20 min）或 **23.4%**（30 mL over 20 min）。
 
 ### General Support Measures
 

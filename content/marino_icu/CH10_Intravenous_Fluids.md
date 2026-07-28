@@ -10,7 +10,7 @@ title: "Intravenous Fluids"
 
 ## Introduction
 
-The first intravenous fluid was a mixture of opium, wine and beer, infused through a goose quill into the vein of a dog in 1656. The therapeutic benefit of intravenous fluids was first recognized during the cholera epidemic in the early 19th century. The care of critically ill patients would not be possible without the use of asanguinous intravenous fluids, which are classified as crystalloid or colloid fluids.
+The first intravenous fluid was a mixture of opium, wine and beer, infused through a goose quill into the vein of a dog in 1656. The therapeutic benefit of intravenous fluids was first recognized during the cholera epidemic in the early 19th century. The care of critically ill patients would not be possible without the use of asanguinous intravenous fluids, which are classified as **crystalloid** or **colloid** fluids.
 
 ---
 
@@ -32,7 +32,7 @@ The first intravenous fluid was a mixture of opium, wine and beer, infused throu
 
 The distribution of water between intracellular and extracellular compartments is determined by relative osmotic activity. Sodium is the most abundant solute in extracellular fluid and is the principal determinant of extracellular fluid volume.
 
-**Colloid Osmotic Pressure:** Large molecules in plasma (especially albumin) create oncotic pressure that holds water in the intravascular compartment.
+**Colloid Osmotic Pressure:** Large molecules in plasma (especially **albumin**) create **oncotic pressure** that holds water in the intravascular compartment.
 
 ---
 
@@ -40,7 +40,7 @@ The distribution of water between intracellular and extracellular compartments i
 
 ### Normal Saline
 
-0.9% sodium chloride (normal saline) has annual sales of 200 million liters in the United States.
+0.9% sodium chloride (**normal saline**) has annual sales of 200 million liters in the United States.
 
 **Normal Saline is NOT Normal:**
 | Property | Normal Saline | Plasma |
@@ -65,7 +65,7 @@ The distribution of water between intracellular and extracellular compartments i
 | **0.9% Saline** | 154 | 154 | — | 308 |
 | **Ringer's Lactate** | 130 | 109 | 28 | 273 |
 | **Ringer's Acetate** | 130 | 109 | — | 273 |
-| **Normosol/Plasma-Lyte** | 140 | 98 | — | 295 |
+| ****Normosol**/**Plasma-Lyte**** | 140 | 98 | — | 295 |
 
 ### Ringer's Lactate
 
@@ -79,7 +79,7 @@ Each mmol of lactate generates 1 mmol of bicarbonate.
 
 ### Other Balanced Salt Solutions
 
-Normosol® and Plasma-Lyte® are identical in composition and offer advantages:
+**Normosol**® and **Plasma-Lyte**® are identical in composition and offer advantages:
 - pH closer to plasma
 - Non-lactate buffers
 - Chloride concentration close to plasma
@@ -95,7 +95,7 @@ Hypertonic saline solutions (e.g., 7.5% NaCl) are more effective at expanding ex
 
 ### 5% Dextrose Solutions
 
-5% dextrose solutions are no longer desirable because:
+5% **dextrose** solutions are no longer desirable because:
 - **Volume effects:** Infusion of 1 L results in only 350 mL increase in extracellular fluid
 - **Enhanced lactate production:** Up to 85% of glucose metabolism can lead to lactate production in hemodynamically compromised patients
 - **Hyperglycemia:** Deleterious in critically ill patients
@@ -104,19 +104,19 @@ Hypertonic saline solutions (e.g., 7.5% NaCl) are more effective at expanding ex
 
 ## Colloid Fluids
 
-A colloid solution contains large solute molecules that do not pass readily from plasma to interstitial fluid, creating oncotic pressure that holds water in the vascular compartment.
+A **colloid** solution contains large solute molecules that do not pass readily from plasma to interstitial fluid, creating **oncotic pressure** that holds water in the vascular compartment.
 
 ### Volume Effects
 
-Infusion of 1 L of 5% albumin produces:
+Infusion of 1 L of 5% **albumin** produces:
 - 700 mL increment in plasma volume
 - 300 mL increment in interstitial fluid volume
 
-**Colloids are approximately 3 times more effective than crystalloids** for expanding plasma volume.
+**Colloids are approximately 3 times more effective than **crystalloid**s** for expanding plasma volume.
 
 ### Colloid Fluid Comparisons
 
-| Fluid | COP (mm Hg) | Duration of Effect |
+| Fluid | **COP** (mm Hg) | Duration of Effect |
 |:------|:------------:|:-----------------:|
 | 25% Albumin | 70 | 12 h |
 | 10% Dextran-40 | 40 | 6 h |
@@ -124,27 +124,27 @@ Infusion of 1 L of 5% albumin produces:
 | 5% Albumin | 20 | 24 h |
 | Plasma | 28 | — |
 
-*COP = colloid osmotic pressure.*
+***COP** = **colloid** osmotic pressure.*
 
 ### Albumin Solutions
 
-Albumin is responsible for about 80% of plasma COP.
+Albumin is responsible for about 80% of plasma **COP**.
 
 **5% Albumin:**
-- COP: 20 mm Hg
+- **COP**: 20 mm Hg
 - Plasma volume increment: ≥70% of infused volume
 - Duration: Begins to dissipate at 6 h, lost after 12 h
 
 **25% Albumin:**
-- COP: 70 mm Hg (2.5× plasma)
+- **COP**: 70 mm Hg (2.5× plasma)
 - Produces 3–4× increment in plasma volume
 - Not for resuscitation; shifts fluid from interstitium to plasma
 
 **Safety:** Albumin solutions pose no danger in most patients. One possible exception is traumatic brain injury.
 
-### Hydroxyethyl Starches (HES)
+### Hydroxyethyl Starches (**HES**)
 
-HES is a polysaccharide with branched glucose polymers substituted by hydroxyl radicals.
+**HES** is a polysaccharide with branched glucose polymers substituted by hydroxyl radicals.
 
 **Characteristics:**
 - Molecular weight (MW): 130–450 kD
@@ -153,12 +153,12 @@ HES is a polysaccharide with branched glucose polymers substituted by hydroxyl r
 
 **Adverse Effects:**
 1. **Altered hemostasis:** Especially with high molar substitution ratios
-2. **Nephrotoxicity:** Association with acute kidney injury (controversial)
-3. **Hyperamylasemia:** From amylase binding to HES molecules
+2. **Nephrotoxicity:** Association with **acute kidney injury** (controversial)
+3. **Hyperamylasemia:** From amylase binding to **HES** molecules
 
 ### The Dextrans
 
-The dextrans are glucose polymers produced by bacteria. They are not popular due to perceived risk of adverse reactions.
+The **dextran**s are glucose polymers produced by bacteria. They are not popular due to perceived risk of adverse reactions.
 
 **Disadvantages:**
 - Dose-related bleeding tendency
@@ -171,37 +171,37 @@ The dextrans are glucose polymers produced by bacteria. They are not popular due
 
 ### Early Focus on Crystalloids
 
-Early studies showed that replacement of shed blood alone was almost universally fatal, while adding crystalloid fluid (Ringer's lactate) reduced mortality. This cemented the popularity of crystalloids.
+Early studies showed that replacement of shed blood alone was almost universally fatal, while adding **crystalloid** fluid (Ringer's lactate) reduced mortality. This cemented the popularity of **crystalloid**s.
 
 ### Current Concerns
 
-Despite enhanced ability of colloids to promote cardiac output, crystalloids remain popular because:
-- Lack of proven survival benefit with colloids
-- Lower cost of crystalloids
+Despite enhanced ability of **colloid**s to promote cardiac output, **crystalloid**s remain popular because:
+- Lack of proven survival benefit with **colloid**s
+- Lower cost of **crystalloid**s
 
-Arguments against crystalloids:
-- Relatively large volumes needed (3× greater than colloids)
+Arguments against **crystalloid**s:
+- Relatively large volumes needed (3× greater than **colloid**s)
 - Attendant risk of fluid accumulation and edema
 
 ### A Tailored Approach
 
 Different fluids are appropriate for different clinical situations:
 
-1. **Life-threatening hypovolemia:** Colloid fluid (e.g., 5% albumin)
+1. **Life-threatening hypovolemia:** Colloid fluid (e.g., 5% **albumin**)
 2. **Hypovolemia from dehydration:** Crystalloid (e.g., Ringer's lactate)
-3. **Hypovolemia with hypoalbuminemia:** Hyperoncotic colloid (e.g., 25% albumin)
+3. **Hypovolemia with hypo**albumin**emia:** Hyperoncotic **colloid** (e.g., 25% **albumin**)
 
 ---
 
 ## Key Takeaways
 
-1. Normal saline is not normal; the high chloride causes hyperchloremic metabolic acidosis.
-2. Isotonic crystalloids expand interstitial volume more than plasma volume.
+1. Normal saline is not normal; the high chloride causes **hyperchloremic metabolic acidosis**.
+2. Isotonic **crystalloid**s expand interstitial volume more than plasma volume.
 3. Dextrose-containing fluids promote lactate formation and hyperglycemia.
-4. Colloids are superior to crystalloids for expanding plasma volume and promoting cardiac output.
+4. Colloids are superior to **crystalloid**s for expanding plasma volume and promoting cardiac output.
 5. Albumin solutions support transport function and antioxidant activity.
-6. HES solutions are associated with bleeding and renal risks.
-7. The colloid-crystalloid controversy is misguided; different fluids suit different situations.
+6. **HES** solutions are associated with bleeding and renal risks.
+7. The **colloid**-**crystalloid** controversy is misguided; different fluids suit different situations.
 
 ---
 
