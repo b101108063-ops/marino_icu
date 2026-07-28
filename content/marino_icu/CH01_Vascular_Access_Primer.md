@@ -10,9 +10,9 @@ title: "Vascular Access Primer"
 
 ## Introduction
 
-One of the most dramatic events in medical self-experimentation took place in a small German hospital during the summer of 1929, when an intrepid surgical resident named Werner Forssmann inserted a plastic urethral catheter into the basilic vein in his right arm and advanced the catheter into the right atrium of his heart. This was the first documented instance of a right-heart catheterization in a human subject, but Dr. Forssmann received no accolades, as he had acted in defiance of the senior surgical staff at his hospital. Instead, he was promptly dismissed from his residency for actions that were perceived as inappropriate and reckless. Upon dismissal, he was told that "such methods are good for a circus, but not for a respected hospital." Dr. Forssmann went on to become a country doctor, but his achievement in vascular cannulation was finally recognized in 1956, when he was awarded the Nobel Prize in Medicine.
+1929 年夏天，在德國一家小醫院裡，發生了一起醫學自我實驗史上最戲劇性的事件：一位名叫 Werner Forssmann 的勇敢外科住院醫師，將一根塑料尿道導管插入右臂的貴要靜脈，並將導管推進到心臟的右心房。這是人類身上首例有記錄的右心導管術，但 Forssmann 醫師並未獲得任何讚譽，因為他的行為違背了醫院資深外科人員的指示。最終，他因被視為不當且魯莽的行為而被迫退訓。退訓時，他被告知：「這種方法適合馬戲團，但不適合受人尊敬的醫院。」Forssmann 醫師後來成為一名鄉村醫生，但他的血管導管置入成就終於在 1956 年獲得認可，獲頒諾貝爾醫學獎。
 
-Werner Forssmann's achievement was possible because he used a flexible plastic catheter that could safely follow the contours of the venous system as it was advanced. This was a departure from the traditional practice of cannulating blood vessels with rigid needles and metal cannulas, and it heralded the modern era of vascular cannulation, which employs a wide array of flexible plastic catheters like the ones described in this chapter.
+Werner Forssmann 的成之所以可能，是因為他使用了一根柔性塑料導管，能在推進過程中安全地順著靜脈系統的輪廓前進。這打破了傳統使用硬針和金屬套管進行血管插管的慣例，開創了現代血管導管時代，採用了多種多樣的柔性塑料導管，如本章所述。
 
 ## 導讀摘要
 
@@ -26,33 +26,33 @@ Werner Forssmann's achievement was possible because he used a flexible plastic c
 
 ## Catheter Basics
 
-Vascular catheters are made of synthetic plastic polymers that are chemically inert, biocompatible, and resistant to chemical and thermal degradation. Catheters that are used for short-term cannulation (days to weeks) are typically made of **polyurethane**, a versatile polymer that is pliable yet provides enough tensile strength to resist kinking during catheter insertion. Catheters that are used for long-term vascular access (months) are typically made of **silicone**, which is much more pliable than **polyurethane** and is less likely to cause vascular damage. Because of their pliability, **silicone** catheters are difficult to insert percutaneously and are used primarily as implantable catheters (such as those used for long-term chemotherapy).
+血管導管由合成塑料聚合物製成，具有化學惰性、生物相容性，並且耐化學和熱降解。用於短期插管（數天至數週）的導管通常由 **polyurethane**（聚氨酯）製成，這是一種多用途的聚合物，柔韌且具有足夠的拉伸強度，能抵抗導管插入時的彎折。用於長期血管通路（數月）的導管通常由 **silicone**（矽膠）製成，比 **polyurethane** 更柔軟，更不易造成血管損傷。由於其柔軟性，**silicone** 導管難以經皮穿刺插入，主要用作植入式導管（例如用於長期化療的導管）。
 
 ### Catheter Size
 
-The size of vascular catheters is a reflection of the outside diameter of the catheter. There are two expressions of catheter size: **gauge size** and **French size**.
+血管導管的尺寸指的是導管的外徑。導管尺寸有兩種表示方式：**gauge size** 和 **French size**。
 
 #### Gauge Size
 
-The gauge system was introduced in England for sizing solid iron wires and was later adopted for hollow needles and catheters. Gauge size is a measure of how many wires (or catheters) can be placed side-by-side in a given space, and it varies inversely with outside diameter (OD). The higher the **gauge size**, the more catheters will fit in a given space, and thus the smaller the OD.
+Gauge 系統起源於英國，最初用於測量實心鐵絲的尺寸，後來被採用於空心針和導管。Gauge 尺寸代表有多少根導絲（或導管）可以並排放置在特定空間中，與外徑（OD）成反比。**gauge size** 越大，可放入的導管越多，因此外徑越小。
 
-Unfortunately, the actual OD for each **gauge size** is not standardized and varies with each manufacturer. Gauge sizes are typically used for needles, small-bore single-lumen catheters, and the infusion channels in multilumen catheters. Sizes typically range from 16 gauge (largest diameter) to 21 gauge (smallest diameter).
+不幸的是，每個 **gauge size** 的實際外徑並未標準化，且因製造商而異。Gauge 尺寸通常用於針頭、小口徑單腔導管以及多腔導管的輸液通道。尺寸範圍通常從 16 gauge（最大直徑）到 21 gauge（最小直徑）。
 
 #### French Size
 
-The French system was introduced for sizing hollow tubes (catheters), and it provides a more predictable measure than the gauge system. The French scale begins at zero, and each increment of one French unit represents an increase in OD of 0.33 millimeters. The relationship is expressed as:
+French 系統是為測量空心管（導管）而設計的，比 gauge 系統提供了更可預測的測量方法。French 刻度從零開始，每增加一個 French 單位代表外徑增加 0.33 毫米。關係式表示為：
 
 $$\text{French size (Fr)} \times 0.33 = \text{OD (mm)}$$
 
-**French size**s are used for multilumen catheters and large-bore single-lumen catheters. Sizes typically range from 4 Fr (1.2 mm OD) to 9 Fr (3.2 mm OD). French sizing is also used for urinary catheters, nasogastric tubes, and pleural drainage tubes.
+**French size** 用於多腔導管和大口徑單腔導管。尺寸範圍通常從 4 Fr（外徑 1.2 mm）到 9 Fr（外徑 3.2 mm）。French 尺寸也用於導尿管、鼻胃管和胸腔引流管。
 
 ### Flow Through Catheters
 
-The determinants of flow through narrow, rigid tubes (e.g., catheters) were first described by a German civil engineer (Gotthilf Hagen) and a French physician (Jean Marie Poiseuille), working independently in the mid-19th century. Their observations are expressed in the following equation, known as the Hagen-Poiseuille equation:
+狹窄硬質管（如導管）流量決定因素最早由德國土木工程師 Gotthilf Hagen 和法國醫師 Jean Marie Poiseuille 在 19 世紀中葉獨立發現。他們的觀察結果以下列方程式表示，稱為 Hagen-Poiseuille 方程式：
 
 $$Q = \Delta P \times \frac{\pi r^4}{8\mu L}$$
 
-This equation states that the steady or laminar flow rate (Q) in a rigid tube is directly related to the pressure gradient along the tube ($\Delta P = P_{\text{in}} - P_{\text{out}}$) and the fourth power of the radius of the tube ($r^4$), and is inversely related to the length of the tube (L) and the viscosity of the fluid ($\mu$). The term enclosed in parentheses is equivalent to the reciprocal of resistance (according to the relationship: $Q = \Delta P \times 1/R$), so the resistance to flow can be expressed as:
+此方程式指出，剛性管中的穩態或層流流率（Q）與管內的壓力梯度（$\Delta P = P_{\text{in}} - P_{\text{out}}$）及管徑半徑的四次方（$r^4$）成正比，與管長（L）及流體黏度（$\mu$）成反比。括號內的項相當於阻力的倒數（根據關係式：$Q = \Delta P \times 1/R$），因此流體阻力可表示為：
 
 $$R = \frac{8\mu L}{\pi r^4}$$
 
@@ -71,62 +71,62 @@ $$R = \frac{8\mu L}{\pi r^4}$$
 
 ### Catheter Dimensions
 
-The Hagen-Poiseuille equation describes the influence of catheter dimensions on flow through the catheter. This is an important consideration because the infusion rate of intravenous fluids is determined by the dimensions of the indwelling catheter, and not by the size of the cannulated vein.
+Hagen-Poiseuille 方程式描述了導管尺寸對導管內流量的影響。這是一個重要的考量，因為靜脈輸液的輸注速率取決於留置導管的尺寸，而非被插管靜脈的大小。
 
-The inner radius of the catheter has a profound influence on flow because flow rate is directly related to the fourth power of the radius. The gravity-driven flow of water through a 16 gauge catheter is more than double the flow through an 18 gauge catheter and is almost four times greater than the flow through a 20 gauge catheter (with all catheters being equal in length). The large difference in flow rates between 16 and 20 gauge catheters is associated with less than a one millimeter difference in outside diameter.
+導管的內徑對流速有極大影響，因為流速與半徑的四次方成正比。16 gauge 導管的水重力流速是 18 gauge 導管的兩倍以上，且幾乎是 20 gauge 導管的四倍（在所有導管長度相同的情況下）。16 gauge 和 20 gauge 導管之間流速的巨大差異，僅與小於一毫米的外徑差異有關。
 
-The Hagen-Poiseuille equation also shows that flow will vary in an opposite direction to changes in the length of a catheter. The transition from a two-inch catheter (a common length for peripheral vein catheters) to a six-inch catheter (a common length for **central venous catheters**) is associated with a 40% reduction in flow, and a further transition to a 12-inch catheter (an available length for **central venous catheters**) is associated with an additional 40% decline in flow.
+Hagen-Poiseuille 方程式也顯示，流量變化方向與導管長度變化相反。從兩吋導管（周邊靜脈導管的常見長度）轉換到六吋導管（**central venous catheters** 的常見長度）會使流量減少 40％，而進一步更換到十二吋導管（**central venous catheters** 的可選長度）會再減少 40％ 的流量。
 
-**Summary:** When rapid volume infusion is needed, a large-bore catheter is the appropriate choice, and a short, large-bore catheter is the optimal choice.
+**摘要：** 當需要快速輸液時，大口徑導管是適當的選擇，而短的大口徑導管是最理想的選擇。
 
 ### Infusion Pressure
 
-The resistance to flow created by vascular catheters can be overcome by increasing the pressure gradient for flow. In a gravity-driven infusion system, this is accomplished by increasing the height of the infusate container (bag or bottle) above the cannulation site. A height of 68 cm (27 inches) will create an infusion pressure of 50 mm Hg (or one pound per square inch, psi), and an increase in height to 100 cm (39 inches) will increase the infusion pressure to 75 mm Hg (1.5 psi).
+血管導管所產生的流動阻力可以透過增加流量壓力梯度來克服。在重力驅動的輸液系統中，這是透過提高輸液容器（袋或瓶）相對於插管部位的高度來實現的。高度 68 cm（27 吋）會產生 50 mm Hg（或每平方英吋一磅，psi）的輸液壓力，高度增加到 100 cm（39 吋）會將輸液壓力提高到 75 mm Hg（1.5 psi）。
 
 #### Infusion Pumps
 
-Intravenous fluids and drugs are typically delivered at specific infusion (or dose) rates, and this control is achieved with programmable infusion pumps that adjust the infusion pressure (up to 15 psi) to deliver a preselected infusion (or dosage) rate.
+靜脈輸液和藥物通常以特定的輸注（或劑量）速率給予，這種控制透過可編程的輸液泵來實現，輸液泵可調整輸液壓力（高達 15 psi）以提供預選的輸注（或劑量）速率。
 
-There are two types of infusion pumps:
+輸液泵有兩種類型：
 
-- **Volumetric pumps** can deliver one liter of fluid (from a bag or bottle) at flow rates of 0.1 to 1,000 mL/hr.
-- **Syringe drivers** operate with a lower volume (up to 100 mL) and deliver fluid at rates of 0.1 to 100 mL/hr.
+- **Volumetric pumps**（容積式輸液泵）可以從一袋或一瓶液體中以 0.1 至 1,000 mL/hr 的流速輸出一升液體。
+- **Syringe drivers**（注射筒驅動器）操作體積較低（最高 100 mL），以 0.1 至 100 mL/hr 的速率輸出液體。
 
-Volumetric pumps are general-purpose devices used to deliver intravenous fluids and most intravenous drugs, while syringe pumps are popular for patient-controlled analgesia.
+容積式輸液泵是通用設備，用於輸注靜脈液體和大部份靜脈藥物，而注射筒泵則常用於病人自控止痛。
 
-There are also specialized infusion pumps for the resuscitation of massive hemorrhage. These devices deliver warmed fluids or blood products at rates of up to 1.5 L/min when combined with specialized "rapid infusion catheters" that are typically 7–8 French in diameter and 2–2.5 inches in length.
+也有專門用於大量出血復甦的輸液泵。這些裝置配合專用的「快速輸液導管」（通常為 7–8 French 直徑，2–2.5 吋長）時，可以高達 1.5 L/min 的速率輸注溫熱液體或血液製品。
 
 ---
 
 ## General-Purpose Catheters
 
-Intravenous catheters are classified as central or **peripheral catheters** based on the following distinction: central catheters extend into one of the vena cavae, and **peripheral catheters** do not. The following is a description of the peripheral and central catheters used in everyday patient care in the ICU.
+靜脈導管根據以下區別分為 central 或 **peripheral catheters**：central 導管延伸進入腔靜脈之一，而 **peripheral catheters** 則不然。 以下描述的是 ICU 日常病人照護中使用的周邊和 central 導管。
 
 ### Peripheral Catheters
 
-Peripheral catheters are typically inserted into one of the veins in the upper extremity and do not extend beyond the shoulder. Three distinct types of peripheral catheter have been identified:
+周邊導管通常插入上肢的靜脈中，不會延伸到肩膀以外。 周邊導管有三種不同類型：
 
-- **Short **peripheral catheters**:** Less than 6 cm in length
-- **Long **peripheral catheters**:** 6 to less than 15 cm in length
-- **Midline catheters:** 15 to 20 cm in length
+- **Short **peripheral catheters**：** 長度少於 6 cm
+- **Long **peripheral catheters**：** 6 至少於 15 cm 的長度
+- **Midline catheters：** 15 至 20 cm 的長度
 
 #### Short Peripheral Catheters
 
-The traditional method of cannulating peripheral veins involves a 16–22 gauge catheter that is 3–5 cm (1–2 in) in length, placed in a visible or palpable vein (usually in the upper extremity) using a catheter-over-needle device. The tip of the catheter is recessed back from the tip of the introducer needle and is tapered to prevent fraying as the catheter is advanced into the blood vessel. When the tip of the probe needle enters the vein, a "flashback" of blood appears in the clear hub of the needle. When this occurs, the catheter is advanced over the needle and into the lumen of the blood vessel.
+傳統的周邊靜脈插管方法是使用 16–22 gauge、長度 3–5 cm（1–2 吋）的導管，透過導管套針裝置放置於可見或可觸及的靜脈中（通常在上肢）。 導管尖端從引導針尖端向後縮回並呈錐形，以防止導管進入血管時磨損。 當探測針尖端進入靜脈時，針的透明針座中會出現血液的「回血」。 當此情況發生時，導管沿著針滑入血管腔內。
 
-Cannulation with short **peripheral catheters** is favored because it provides rapid vascular access (when a superficial vein is visible or palpable), although the initial cannulation attempt fails in about one-third of cases. The major disadvantage of short catheters is their limited "dwell time" (the time an indwelling catheter remains functional); the reported failure rate of these catheters is 40–60% within the first 3 days. Common causes of failure include localized phlebitis, catheter occlusion or dislodgement, and vascular perforation with extravasation of infused fluids. Short **peripheral catheters** are especially problematic in ICU patients, who are often agitated and prone to dislodging these catheters.
+Short **peripheral catheters** 插管受到青睞，因為它能提供快速的血管通路（當淺層靜脈可見或可觸及時），儘管初始插管嘗試約有三分之一會失敗。 短導管的主要缺點是其有限的「留置時間」（留置導管保持功能的時間）；這些導管在第一天內的失敗率為 40–60%。 常見的失敗原因包括局部靜脈炎、導管阻塞或脫落，以及血管穿孔導致輸液外滲。 Short **peripheral catheters** 在 ICU 病人中特別容易出問題，因為他們通常會躁動，容易使這些導管脫落。
 
 #### Long Peripheral Catheters
 
-Long **peripheral catheters** (also known as "extended dwell catheters") are typically 8 cm (3.1 inches) in length and were introduced to improve the stability and dwell time of short **peripheral catheters**. Clinical studies have consistently shown a longer dwell time with the longer catheters (about 7–9 days). Despite this advantage, long **peripheral catheters** have not been embraced (at least not in North America), possibly due to the growing popularity of **midline catheters**.
+Long **peripheral catheters**（又稱「延長留置導管」）通常長 8 cm（3.1 吋），引進是為了改善短 **peripheral catheters** 的穩定性和留置時間。 臨床研究一致顯示，較長的導管有較長的留置時間（約 7–9 天）。 儘管有這項優點，long **peripheral catheters** 並未受到青睞（至少在北美洲如此），可能是因為 **midline catheters** 日益普及。
 
 #### Midline Catheters
 
-Midline catheters are the longest of the peripheral vein catheters (15–20 cm in length) and are inserted into one of three deep veins above the antecubital fossa: the basilic, brachial, or cephalic veins. The basilic vein is preferred because it runs a direct course up the arm and is not in close proximity to an artery or nerve (like the brachial vein).
+Midline catheters 是周邊靜脈導管中最長的（15–20 cm），插入肘窩上方的三條深靜脈之一：貴要靜脈、臂靜脈或頭靜脈。 首選貴要靜脈，因為它在手臂上行走路徑直接，且不接近动脉或神經（如臂靜脈）。
 
-Because the major veins in the upper arm are deeply situated, **ultrasound guidance** is used for midline catheter insertion. When properly placed and maintained, **midline catheters** can remain functional for weeks. In one clinical study, the average dwell time for **midline catheters** was 14 days. This same study also demonstrates that vasopressors can be infused through **midline catheters** for as long as 7–8 days without evidence of extravasation or limb compromise.
+因為上臂的主要靜脈位置較深，midline catheter 插入時使用 **ultrasound guidance**。 當放置正確並維護得當時，**midline catheters** 可以保持功能達數週。 在一項臨床研究中，**midline catheters** 的平均留置時間為 14 天。 同一項研究也顯示，血管加壓素可以透過 **midline catheters** 輸注達 7–8 天，而沒有外滲或肢體損害的證據。
 
-The extended dwell time of **midline catheters** has made them a popular choice when more than a few days of venous access is anticipated. In fact, **midline catheters** are now considered a safer alternative to the much longer "**peripherally inserted central catheters**" (**PICCs**), which have traditionally been favored for prolonged venous access. Comparative studies have shown that **midline catheters** have a lower incidence of catheter occlusions and catheter-related bloodstream infections than **PICCs**. Although there is a slightly higher risk of deep vein thrombosis (DVT) with **midline catheters**, the incidence of DVT with **midline catheters** is low (<5%), and the difference between midlines and **PICCs** is small (<2%).
+**midline catheters** 的延長留置時間使其成為預期需要超過數天血管通路時的熱門選擇。 事實上，**midline catheters** 現在被認為是比傳統較受歡迎的長期血管通路選擇——「**peripherally inserted central catheters**」（**PICCs**）——更安全的替代方案。 比較研究顯示，**midline catheters** 的導管阻塞和導管相關血流感染發生率比 **PICCs** 低。 儘管 **midline catheters** 的深層靜脈血栓形成（DVT）風險略高，但 **midline catheters** 的 DVT 發生率很低（<5%），且與 **PICCs** 的差異很小（<2%）。
 
 ### Comparative Features of Selected Peripheral Catheters
 
@@ -139,41 +139,41 @@ The extended dwell time of **midline catheters** has made them a popular choice 
 
 *Note: All flow rates are for the gravity-driven flow of water from a height of 40 inches.*
 
-Midline catheters are available in lengths of 15 cm and 20 cm and can have one to three infusion channels. The double-lumen catheter that is 15 cm in length is a popular choice. The increased length of the midline catheter is accompanied by a decrease in flow capacity; the gravity-driven flow rate in each lumen of the midline catheter is only about 20% of the flow rate in the short peripheral catheter. Despite this flow decrement, the gravity-driven flow capacity in the midline catheter still exceeds the maximum flow provided by volumetric infusion pumps (i.e., 1 L/hr).
+Midline catheters 有 15 cm 和 20 cm 兩種長度，可有一至三個輸液通道。 15 cm 長的雙腔導管是受歡迎的選擇。 Midline catheter 長度增加伴隨著流量能力的下降；midline catheter 每個腔的重力流速僅約為短周邊導管的 20%。 儘管流量有所下降，midline catheter 的重力流速容量仍超過容積式輸液泵提供的最大流量（即 1 L/hr）。
 
 ### Central Catheters
 
-As mentioned earlier, central vein catheters have a tip in one of the vena cavae. There are two types of central catheters, based on the location of the insertion site:
+如前所述，central vein catheters 的尖端在腔靜脈之一。 根據插入部位的位置，central catheters 有兩種類型：
 
-- **Peripherally inserted central catheters (**PICCs**)** are inserted into one of the veins in the upper arm.
-- **Centrally inserted central catheters** (commonly known as **central venous catheters**) are inserted into one of the major veins near the thoracic inlet or in the groin.
+- **Peripherally inserted central catheters (**PICCs**)** 插入上肢的靜脈之一。
+- **Centrally inserted central catheters**（通常稱為 **central venous catheters**）插入胸腔入口附近或腹股溝的主要靜脈之一。
 
 #### **Peripherally Inserted Central Catheters** (**PICCs**)
 
-**PICCs** are essentially a longer version of the **midline catheters**; they are inserted via the same veins as the **midline catheters** but are long enough to be advanced into the superior vena cava. These catheters have been popularized as a safer alternative to **central venous catheters** when peripheral vein cannulation is problematic or when more than one week of vascular access is anticipated.
+**PICCs** 本質上是 **midline catheters** 的加長版；它們透過與 **midline catheters** 相同的靜脈插入，但長度足以延伸到上腔靜脈。 這些導管已普及作為 **central venous catheters** 的更安全替代方案，特別是在周邊靜脈插管有問題或預期需要超過一週血管通路時。
 
-**PICCs** are available in lengths ranging from 40 cm to 55 cm and can have one to three infusion channels. A popular choice is the double-lumen PICC that is 50 cm in length. The extended length of the PICC results in a marked decrease in flow capacity. The PICC is more than three times the length of the midline catheter, and the resulting flow capacity is only 20% of that in the midline catheter. The compromised flow capacity in **PICCs** may explain the relatively high incidence of occlusions in these catheters.
+**PICCs** 的長度範圍為 40 cm 至 55 cm，可有一至三個輸液通道。 受歡迎的選擇是 50 cm 長的雙腔 PICC。 PICC 的加長導致流量能力顯著下降。 PICC 比 midline catheter 長三倍多，而流量能力僅為 midline catheter 的 20%。 **PICCs** 受損的流量能力可能解釋了這些導管相對較高的阻塞發生率。
 
 #### **Central Venous Catheters** (**CVCs**)
 
-Central venous catheters have played a prominent role in providing both secure and multifunctional venous access in critically ill patients. These catheters are available in lengths of 15 cm, 20 cm, and 30 cm and can have as many as 4 infusion channels.
+Central venous catheters 在為重症病人提供安全和多功能血管通路方面發揮了重要作用。 這些導管有 15 cm、20 cm 和 30 cm 三種長度，最多可有 4 個輸液通道。
 
-The most popular CVC is a triple-lumen catheter. The distal lumen has a larger bore (16 gauge) than the proximal or medial lumens (18 gauge); as a result, the flow capacity in the distal lumen is more than double that in the other lumens. For this reason, the distal lumen of a CVC is best suited for rapid volume infusions.
+最受歡迎的 CVC 是三腔導管。 遠端腔的口徑（16 gauge）比近端或中段腔（18 gauge）大；因此，遠端腔的流量能力是其他腔的兩倍以上。 因此，CVC 的遠端腔最適合快速輸液。
 
-The insertion of **CVCs** has been a staple of patient care in ICUs, but the popularity of **CVCs** is waning as safer alternatives (**PICCs** and **midline catheters**) have emerged.
+**CVCs** 插入一直是 ICU 病人照護的核心，但隨著更安全的替代方案（**PICCs** 和 **midline catheters**）出現，**CVCs** 的受歡迎程度正在下降。
 
 ### Comparative Features of Selected Central Catheters
 
-*See Table 1.3 in the original text for detailed comparison.*
+*詳細比較請參見原文表 1.3。*
 
 ### The Guidewire
 
-Cannulation of all but the most superficial, palpable veins is accomplished by advancing the catheter over a guidewire that is placed in the lumen of the vein. This technique of guidewire-assisted vascular cannulation, first introduced by a Swedish angiographer named Sven-Ivar **Seldinger** (and known as the **Seldinger** technique), is illustrated in Figure 1.5. The steps are as follows:
+除了最淺層、可觸及的靜脈外，所有靜脈的插管都是透過將導管沿著放置在靜脈腔內的導絲推進來完成的。 這種導絲輔助血管插管技術由瑞典血管造影師 Sven-Ivar **Seldinger** 首創（稱為 **Seldinger** 技術），如圖 1.5 所示。 步驟如下：
 
-1. A small bore needle is used to probe for the target vessel.
-2. When the tip of the needle enters the vessel, a thin wire with a flexible tip is passed through the needle and into lumen of the blood vessel. The flexible tip reduces the risk of endothelial injury as the guidewire is advanced.
-3. The needle is then withdrawn over the guidewire.
-4. The catheter is advanced over the guidewire and into the lumen of the blood vessel. In actual practice, a "dilator catheter" is first threaded over the guidewire to create a tract that facilitates catheter insertion.
+1. 使用小口徑針頭來探測目標血管。
+2. 當針頭尖端進入血管時，一根帶有柔軟尖端的細導絲穿過針頭進入血管腔。 柔軟的尖端減少了導絲推進時內皮損傷的風險。
+3. 然後將針頭沿著導絲撤回。
+4. 導管沿著導絲推進進入血管腔。 在實際操作中，先將「擴張導管」沿導絲插入以建立一個通道，促進導管插入。
 
 ### Summary of General-Purpose Venous Catheters
 
@@ -185,150 +185,150 @@ Cannulation of all but the most superficial, palpable veins is accomplished by a
 | **PICC** | Less risk, and greater patient acceptance, than **central venous catheters** | High occlusion rate; Increased length can compromise infusion rate |
 | **Central Venous Catheter** | Most versatile general-purpose catheter | Risk of serious complications |
 
-**Clinical Practice Summary:** Short **peripheral catheters** are preferred for quick IV access at the outset, but in patients who spend more than a few days in the ICU, more stable IV access is needed. This has been traditionally supplied by **CVCs**, but over the past decades, **PICCs** began to replace **CVCs** for longer-term IV access. More recently, **midline catheters** have emerged as an acceptable choice for longer-term IV access and are replacing **CVCs** and **PICCs** for this purpose. However, **PICCs** continue to be popular for patients who require extended (several weeks) IV therapy. Central venous catheters are the final (go-to) catheters for stable venous access and are especially preferred in patients with life-threatening hemodynamic instability.
+**Clinical Practice Summary:** 在開始時首選 short **peripheral catheters** 以快速建立 IV 通路，但在 ICU 停留超過數天的病人需要更穩定的 IV 通路。 傳統上這由 **CVCs** 提供，但在過去幾十年中，**PICCs** 開始取代 **CVCs** 用於長期 IV 通路。 最近，**midline catheters** 已成為長期 IV 通路可接受的選擇，正在取代 **CVCs** 和 **PICCs** 用於此目的。 然而，**PICCs** 對於需要長期（數週）IV 治療的病人仍然受歡迎。 Central venous catheters 是穩定血管通路的最終（首選）導管，在有危及生命的血流動力學不穩定的病人中尤其受到青睞。
 
 ---
 
 ## Vascular Ultrasound
 
-The emergence of real-time ultrasound to guide vascular cannulation has added considerably to the success rate and safety of cannulating both central and peripheral veins.
+即時超聲引導血管插管的出現，大大提高了 central 和周邊靜脈插管的成功率和安全性。
 
 ### The Method
 
-Vascular ultrasound uses linear array probes that emit high-frequency ultrasound waves (5–15 MHz). This produces high-resolution images but limits the depth of tissue penetration (to about 9 cm). The waves that are reflected back to the probe (called echoes) are processed by a transducer that converts the ultrasound waves to gray scale images. Higher amplitude echoes produce brighter or whiter images, while lower amplitude echoes produce darker or blacker images. This methodology is known as B-mode (brightness-mode) ultrasound and produces two-dimensional, gray-scale images. Ultrasound waves pass readily through fluids, so blood vessels will have a dark gray or black interior on the ultrasound image.
+血管超聲使用發射高頻超聲波（5–15 MHz）的線性陣列探頭。 這產生高解析度圖像，但限制了組織穿透深度（約 9 cm）。 反射回探頭的波（稱為回聲）由換能器處理，將超聲波轉換為灰階圖像。 高振幅回聲產生更亮或更白的圖像，而低振幅回聲產生更暗或更黑的圖像。 這種方法稱為 B-mode（亮度模式）超聲，產生二維灰階圖像。 超聲波容易穿過液體，因此血管在超聲圖像上呈現深灰色或黑色內部。
 
 ### Orientation of the Beam
 
-The ultrasound beam can be aligned along the long axis of a blood vessel to produce a sagittal image of the vessel (long-axis view), or it can be oriented to transect a blood vessel, which produces a cross-sectional view of the vessel (short-axis view).
+超聲束可以沿著血管的長軸排列，產生血管的矢狀圖像（long-axis view），或者可以定向橫切血管，產生血管的橫截面圖像（short-axis view）。
 
-In the long-axis view, the probe needle advances along the plane of the ultrasound beam and can be visualized along its entire path. In the short-axis view, the probe needle does not meet the ultrasound beam until it reaches the target vessel, where it is visible only as a high-intensity dot on the ultrasound image.
+在 long-axis view 中，穿刺針沿著超聲束的平面前進，可以在其整個路徑上被看到。 在 short-axis view 中，穿刺針只有在到達目標血管時才與超聲束接觸，在超聲圖像上僅可見為一個高強度光點。
 
 ### Which View is Better?
 
-Neither view is clearly superior to the other, and each has advantages and disadvantages:
+兩種視圖各有優缺點，沒有明顯優於另一種：
 
 | Feature | Short-Axis View | Long-Axis View |
 |:--------|:---------------|:---------------|
 | **Advantage** | Greater ease in locating target vein; Ability to visualize both vein and affiliated artery (reduces risk of arterial puncture) | Visualization of probe needle, guidewire, and catheter during cannulation |
 | **Disadvantage** | Limited ability to view the probe needle | Unable to visualize an affiliated artery; Requires a vein that runs a relatively straight course |
 
-At the present time, the short-axis view seems to be the preferred one for locating the target vessel and confirming puncture of the vessel with the probe needle. The long-axis view is preferred for confirming intraluminal placement of the guidewire and catheter.
+目前，short-axis view 似乎是用於定位目標血管和確認用穿刺針穿刺血管的首選。 Long-axis view 優先用於確認導絲和導管的管腔內放置。
 
 ### Protocol
 
-The recommended protocol for ultrasound-guided vascular cannulation includes the following sequential steps:
+超聲引導血管插管的建議流程包括以下順序步驟：
 
-1. Identify the target vein.
-2. Verify puncture of the vein by the probe needle.
-3. Confirm intraluminal placement of the guidewire and catheter.
+1. 識別目標靜脈。
+2. 確認穿刺針穿刺靜脈。
+3. 確認導絲和導管在管腔內的放置。
 
 ### Distinguishing Veins from Arteries
 
-There are two methods for distinguishing arteries from veins using ultrasonography:
+超聲檢查有兩種區分動靜脈的方法：
 
-1. **Compressibility test:** When pressure is applied to the skin overlying a blood vessel, a vein will collapse much more readily than an artery. One exception is the presence of venous thrombosis, because a vein that is filled with a thrombus will not be compressible.
+1. **壓迫測試：** 當對覆蓋血管的皮膚施加壓力時，靜脈比动脉更容易塌陷。 一個例外是靜脈血栓形成，因為充滿血栓的靜脈是不可壓縮的。
 
-2. **Color Doppler imaging:** The frequency shift produced by the direction of blood flow (the Doppler effect) is converted into color images and superimposed on the gray-scale ultrasound image. An example shows the femoral artery in red and the femoral vein in blue. These colors represent the direction of blood flow in relation to the ultrasound probe, not specific vessel identity.
+2. **彩色都卜勒成像：** 由血流方向產生的頻率偏移（都卜勒效應）被轉換為彩色圖像並疊加在灰階超聲圖像上。 一個例子顯示股動脈為紅色，股靜脈為藍色。 這些顏色代表血流方向相對於超聲探頭的關係，而非特定血管身份。
 
 ### The Probe Needle
 
-Advancing the probe needle to puncture the target vein is easily visualized in the long-axis view. In the short-axis view, the probe needle is advanced using short, stabbing thrusts to produce tissue displacement, which marks the path of the needle, and puncture of the target vein is verified by observing a high-intensity dot in the lumen of the vessel.
+在 long-axis view 中可以輕鬆看到穿刺針前進穿刺目標靜脈。 在 short-axis view 中，穿刺針使用短促的刺入來推進，產生組織位移，標記針的路徑，並透過觀察血管腔內的高強度光點來確認目標靜脈的穿刺。
 
 ### Confirming Catheter Placement
 
-Veins tend to collapse when punctured, creating a tendency for probe needles to puncture the posterior wall of the vein. In one study, posterior wall perforation occurred in 40% of ultrasound-guided cannulations using the short-axis view and 18% of cannulations using the long-axis view. Because of this risk (and the popularity of the short-axis view), it is important to confirm that the catheter has been placed in the lumen of the blood vessel. This begins by confirming that the guidewire has been advanced into the vessel lumen. The catheter can then be advanced over the guidewire, and the intraluminal placement of the catheter is then confirmed.
+靜脈在穿刺時容易塌陷，造成穿刺針穿刺靜脈後壁的傾向。 在一項研究中，後壁穿孔在 short-axis view 超聲引導插管中發生率為 40%，在 long-axis view 插管中為 18%。 由於這個風險（以及 short-axis view 的普及），確認導管已放置在血管腔內是很重要的。 這首先要確認導絲已進入血管腔。 然後導管可以沿著導絲推進，然後確認導管的管腔內放置。
 
 ---
 
 ## Intraosseous Vascular Access
 
-The discovery that fluids could be infused into the marrow cavity of bones and reach the systemic circulation occurred in the mid-1930s. However, this observation gained little attention until the London bombings during World War II, when the poor lighting from frequent citywide blackouts created difficulties in establishing venous access, and an enterprising surgeon named Hamilton Bailey began infusing fluids into the marrow cavity of the sternum to resuscitate bombing victims.
+在 1930 年代中期，發現液體可以注入骨髓腔並到達體循環。 然而，這項觀察結果並未受到關注，直到二戰期間倫敦轟炸時，由於頻繁的全城停電造成的昏暗照明使建立靜脈通路變得困難，一位名叫 Hamilton Bailey 的進取外科醫生開始將液體注入胸骨骨髓腔來復甦轟炸受害者。
 
-Despite early enthusiasm, the **intraosseous** (**IO**) route was relegated to obscurity when plastic catheters were introduced for intravenous cannulation (in the 1950s). A rebirth of the **IO** route occurred in the 1980s, when it was adopted for pediatric resuscitation, and it has subsequently gained favor in adults as an alternative route for emergency vascular access.
+儘管早期充滿熱情，但當 1950 年代引進塑料導管進行靜脈插管後，**intraosseous**(**IO**) 途徑被遺忘了。 **IO** 途徑在 1980 年代復甦，當時被採用於兒科復甦，此後作為緊急血管通路的替代途徑而在成人中獲得青睞。
 
 ### Indications
 
-The principal indication for **IO** access is the need for emergent vascular access when intravenous (IV) access is problematic or is not immediately available. This scenario is most likely to occur in patients with cardiac arrest, major trauma, or circulatory shock. In each of these conditions, **IO** access has proven to be a viable alternative to IV access.
+**IO** 通路的主要適應症是在靜脈（IV）通路有問題或無法立即獲得時需要緊急血管通路。 這種情況最可能發生在心臟驟停、重大創傷或循環休克的病人身上。 在這些情況下，**IO** 通路已證明是 IV 通路的可行替代方案。
 
-One appealing feature of the **IO** route is the rigid structure of the medullary cavity and its drainage system, which (unlike veins) will not collapse in the setting of hypotension, hypovolemia, or cardiovascular collapse.
+**IO** 途徑的一個吸引人特點是骨髓腔及其引流系統的剛性結構，與靜脈不同，它們在低血壓、低血容量或心血管衰竭的情況下不會塌陷。
 
-Acceptance of the **IO** route is demonstrated in the most recent guidelines on advanced life support from the American Heart Association, which recommends proceeding to **IO** access when an initial attempt at IV access is unsuccessful or IV access is not feasible. Since about two-thirds of cases of cardiac arrest occur outside the hospital, the need for **IO** access occurs primarily in the field. As a result, prehospital personnel have been the major focus of training for **IO** access, and the success rate in the field is as high as 97%. **IO** access in the field is also important for the early management of major trauma, including combat casualties, and **IO** access is included in the knowledge base for Advanced Trauma Life Support (ATLS) certification.
+美國心臟協會最新的高級生命支持指南證明了對 **IO** 途徑的接受，該指南建議在初始 IV 通路嘗試失敗或 IV 通路不可行時進行 **IO** 通路。 由於約三分之二的心臟驟停發生在醫院外，**IO** 通路的需要主要發生在現場。 因此，院前人員一直是 **IO** 通路培訓的重點，現場成功率高達 97%。 現**IO** 通路對於重大創傷（包括戰鬥傷亡）的早期處理也很重要，**IO** 通路已包含在高級創傷生命支持（ATLS）認證的知識庫中。
 
 ### Contraindications
 
-Contraindications to **IO** access include:
+**IO** 通路的禁忌症包括：
 
-- A fractured or previously entered bone (because of possible leakage of infused fluids)
-- Vascular injury in the target extremity
-- Burn injury, cellulitis, or **osteomyelitis** at the cannulation site
-- Osteopetrosis (abnormally dense bone) — a rare condition
+- 骨折或曾經插入過的骨骼（因為輸液可能洩漏）
+- 目標肢體的血管損傷
+- 插管部位的燒傷、蜂窩組織炎或 **osteomyelitis**
+- 骨質石化癥（異常緻密的骨骼）——一種罕見情況
 
 ### Establishing **IO** Access
 
-There are two popular sites for **IO** access in adults:
+成人 **IO** 通路有兩個常用部位：
 
-- **Proximal tibia** (just below the knee)
-- **Proximal humerus** (just below the shoulder)
+- **近端脛骨**（膝蓋下方）
+- **近端肱骨**（肩膀下方）
 
-The proximal tibia has two advantages: a higher success rate and a location that does not interfere with intubation or chest compressions. The proximal humerus has the advantage of a higher flow capacity, but the proximal tibia is the favored site in adults.
+近端脛骨有兩個優點：較高的成功率和位置不會干擾插管或胸外按壓。 近端肱骨的優點是流量能力較高，但近端脛骨是成人首選部位。
 
 #### The Proximal Tibia Site
 
-The access site in the proximal tibia is on a flat surface of bone just below the medial condyle. The point of needle insertion is 3 cm below the inferior tip of the patella and 2 cm medial to that point.
+近端脛骨的進入部位在內側髁下方平坦的骨面上。 進針點在髕骨下尖下方 3 cm 處，該點內側 2 cm。
 
 #### Inserting the Needle
 
-Inserting the **IO** needle can be done manually, but a powered "needle driver" is preferred. There are three different **IO** needles that attach to this device: each is a 15 gauge needle, available in lengths of:
+插入 **IO** 針可以手動完成，但最好使用電動「針驅動器」。 有三種不同的 **IO** 針可以連接到這個裝置：每種都是 15 gauge 針，長度有：
 
-- 15 mm (for children)
-- 25 mm (for average-sized adults)
-- 45 mm (for large or obese adults)
+- 15 mm（用於兒童）
+- 25 mm（用於一般成人）
+- 45 mm（用於大型或肥胖成人）
 
-The appropriate length for an individual patient can be determined by first advancing a probe needle until it hits the bone. In awake patients, the probe needle should also be used to inject **lidocaine** locally, especially at the level of the periosteum, which is well endowed with pain fibers. The **IO** needles have horizontal markers, and the measured distance from the skin to the periosteum should leave the horizontal marker closest to the hub of the needle at or slightly above the skin surface.
+個別病人的適當長度可以透過先推進探測針直到碰到骨頭來確定。 在清醒的病人中，探測針也應用於局部注射 **lidocaine**，特別是在骨膜層，因為骨膜有豐富的疼痛纖維。 **IO** 針有橫向標記，從皮膚到骨膜的測量距離應使靠近針座的最接近的橫向標記在皮膚表面或略高於皮膚表面。
 
-After appropriate skin antisepsis (sterile gloves are not required for inserting **IO** needles), the **IO** needle is advanced manually until it hits the bony surface of the tibia. The needle driver is then attached and, with the needle at an angle of 90° from the skin surface, the needle driver is engaged. This will spin the needle in a clockwise direction, and the needle is then advanced while applying downward pressure until a sudden loss of resistance indicates entry into the medullary cavity. This should be verified by the aspiration of blood. Flushing the needle with 5–10 mL of saline can liquify enough marrow to correct aspiration problems.
+在適當的皮膚消毒後（插入 **IO** 針不需要無菌手套），手動推進 **IO** 針直到碰到脛骨骨面。 然後連接針驅動器，並將針與皮膚表面成 90° 角，啟動針驅動器。 這將使針順時針旋轉，然後在施加向下壓力的同時推進針，直到突然感到阻力消失表示進入骨髓腔。 這應透過抽血來驗證。 用 5–10 mL 生理鹽水沖洗針頭可以液化足夠的骨髓來解決抽吸問題。
 
 ### Pre-Infusion Pain Control
 
-The infusion of fluids into the marrow cavity is painful, presumably from stretching the periosteum. Therefore in awake patients, **lidocaine** injection into the medullary cavity is advised prior to infusing fluids. The recommended protocol is as follows:
+將液體注入骨髓腔是痛苦的，可能是由於拉伸骨膜。 因此，在清醒的病人中，建議在輸液前向骨髓腔注射 **lidocaine**。 建議的流程如下：
 
-1. Use a 2% solution (20 mg/mL) of preservative-free **lidocaine** for intravenous use and inject 40 mg (2 mL) into the marrow cavity over 2 minutes.
-2. Allow **lidocaine** to dwell for one minute, then flush with 10 mL of saline.
-3. Start the desired **IO** infusion. If pain relief is incomplete, readminister **lidocaine** at half the initial dose (20 mg) over one minute.
+1. 使用不含防腐劑的靜脈用 2% **lidocaine** 溶液（20 mg/mL），在 2 分鐘內向骨髓腔注入 40 mg（2 mL）。
+2. 讓 **lidocaine** 停留一分鐘，然後用 10 mL 生理鹽水沖洗。
+3. 開始所需的 **IO** 輸液。 如果疼痛緩解不完全，以初始劑量的一半（20 mg）在一分鐘內重新給予 **lidocaine**。
 
-The **lidocaine** effect may be lost after one hour, and additional analgesia may be necessary. Intraosseous **fentanyl** (in the usual IV doses) can be used for this purpose.
+**lidocaine** 效果可能在一小時後消失，可能需要額外的止痛。 可以用於此目的的 **fentanyl**（以通常的 IV 劑量）進行骨髓腔內給藥。
 
 ### **IO** Infusions
 
-Intraosseous infusions are relatively sluggish, with flow rates that are about 25% of peripheral vein infusions. This is due to the viscous nature of bone marrow and the relatively high pressure in the marrow cavity (which averages about 30 mm Hg). To counter the sluggish flow rates, **IO** infusions are routinely pressurized (with infusion pumps or inflatable pressure bags). However, pressures of 300 mm Hg or even higher may be inadequate for replacing massive blood loss, and dual **IO** infusions have been advocated by some in this situation.
+骨髓腔內輸液相對緩慢，流量約為周邊靜脈輸液的 25%。 這是由於骨髓的黏稠性質和骨髓腔內相對較高的壓力（平均約 30 mm Hg）。 為了對抗緩慢的流速，**IO** 輸液通常加壓（使用輸液泵或充氣壓力袋）。 然而，300 mm Hg 或更高的壓力可能不足以替代大量失血，在此情況下有些人建議使用雙側 **IO** 輸液。
 
-Intraosseous access is considered a temporary intervention, and **IO** infusions are not recommended for longer than 24 hours. When **IO** infusions are discontinued, the **IO** needle is removed by attaching a luer-lock syringe and slowly rotating the needle in a clockwise direction as it is pulled upward at a 90° angle with the skin surface. Rocking the needle back and forth to facilitate removal is not advised and will promote leakage from the bone.
+骨髓腔內通路被認為是臨時措施，不建議 **IO** 輸液超過 24 小時。 當 **IO** 輸液停止時，透過連接 luer-lock 注射器並在以 90° 角向上拉的同時順時針緩慢旋轉針頭來移除 **IO** 針。 不建議來回搖晃針頭以方便移除，這會促進骨頭的洩漏。
 
 ### Complications
 
-Complications of **IO** access are infrequent, with several studies showing complication rates below 1%. Potential complications include:
+**IO** 通路的併發癥很少見，多項研究顯示併發癥發生率低於 1%。 潛在併發癥包括：
 
-- Skin abscesses
-- Osteomyelitis
-- Tibial fracture
-- Compartment syndrome
-- Fat or marrow emboli
+- 皮膚膿腫
+- 骨髓炎
+- 脛骨骨折
+- 腔室癥候群
+- 脂肪或骨髓栓塞
 
 ---
 
 ## Key Takeaways
 
-One of the rarest sights in any ICU is a patient with no intravenous access. While this may not be a revelation, it does indicate that a working knowledge of vascular access has universal relevance for patient care in the ICU. The following points deserve emphasis:
+任何 ICU 中最罕見的情景之一是沒有靜脈通路的病人。 雖然這可能不是什麼新發現，但它表明血管通路的實用知識對 ICU 病人照護具有普遍重要性。 以下要點值得強調：
 
-1. **Infusion rates are influenced by the dimension of a vascular catheter, not by the size of the cannulated vein.**
+1. **輸液速率受血管導管尺寸的影響，而非被插管靜脈的大小。**
 
-2. **The radius (lumen size) of a catheter has a much greater influence on flow than the length of the catheter.** For rapid infusions, a large bore catheter is desirable, and a short, large-bore catheter is optimal.
+2. **導管的半徑（腔徑）比導管的長度對流量的影響大得多。** 對於快速輸液，大口徑導管是理想的，而短的大口徑導管是最優的。
 
-3. **Midline catheters** (15–20 cm catheters inserted into one of the major veins above the antecubital fossa) have become a popular choice for extended venous access and can be used for prolonged vasopressor infusions.
+3. **Midline catheters**（插入肘窩上方主要靜脈之一的 15–20 cm 導管）已成為長期血管通路的熱門選擇，可用於長期血管加壓素輸液。
 
-4. **Real-time ultrasonography** has become an essential tool for cannulating veins that are not visible or palpable.
+4. **即時超聲檢查**已成為插管不可見或不可觸及的靜脈的必備工具。
 
-5. **The **intraosseous** (**IO**) route** is recommended for emergency vascular access when intravenous access is problematic or not immediately available. The proximal tibia is a popular site for **IO** access because the procedure does not interfere with intubation or chest compressions.
+5. **當靜脈通路有問題或無法立即獲得時，建議使用 **intraosseous**(**IO**) 途徑**進行緊急血管通路。 近端脛骨是 **IO** 通路的熱門部位，因為這個操作不會干擾插管或胸外按壓。
 
 ---
 

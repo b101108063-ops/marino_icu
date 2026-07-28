@@ -272,7 +272,7 @@ Typical manifestations of **endocarditis** (e.g., new or changing cardiac murmur
 
 ## Key Takeaways
 
-The following points deserve emphasis:
+以下要點值得強調：
 
 1. Catheters should not be routinely replaced.
 2. Occluded catheters can often be salvaged with thrombolytic therapy (**alteplase**).
