@@ -1,1 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marino ICU - 搜尋</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { font-size: 15px; line-height: 1.7; background: #1a1a1a; color: #d0d0d0; margin: 0; padding: 1rem; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+    .page-header { background: #2a2a2a; padding: 1rem; border-radius: 8px 8px 0 0; }
+    .site-title { color: #888; font-size: 0.8rem; margin: 0 0 0.2rem 0; }
+    .site-title a { color: #60a5fa; text-decoration: none; }
+    .page-title { color: #ffffff; font-size: 1.2rem; font-weight: 600; margin: 0; }
+    .back-link { display: inline-block; color: #60a5fa; text-decoration: none; font-size: 13px; margin-top: 0.5rem; }
+    .search-content { background: #2a2a2a; padding: 1rem; border-radius: 0 0 8px 8px; max-width: 800px; }
+    .search-input { width: 100%; padding: 1rem; font-size: 1rem; border: 2px solid #38393a; border-radius: 8px; background: #242526; color: #e5e7eb; box-sizing: border-box; }
+    .search-input:focus { border-color: #3a86ff; outline: none; }
+    .search-results { margin-top: 1rem; }
+    .search-result { display: block; padding: 1rem; background: #242526; border-radius: 8px; border: 1px solid #38393a; margin-bottom: 0.5rem; text-decoration: none; transition: all 0.2s; }
+    .search-result:hover { background: #2a2b2c; border-color: #3a86ff; transform: translateX(4px); }
+    .result-chapter { color: #3a86ff; font-size: 0.85rem; font-weight: 600; }
+    .result-title { color: #e5e5e5; font-size: 1rem; font-weight: 500; margin-top: 0.3rem; }
+    .no-results { color: #888; text-align: center; padding: 2rem; }
+    .status { color: #888; font-size: 0.85rem; margin-top: 0.5rem; text-align: center; }
+  </style>
+</head>
+<body>
+  <div class="page-header">
+    <p class="site-title"><a href="/marino_icu/">Marino's ICU Book</a></p>
+    <h1 class="page-title">🔍 搜尋章節</h1>
+    <a class="back-link" href="/marino_icu/">← 回清單</a>
+  </div>
+  <div class="search-content">
+    <input type="text" id="search-input" class="search-input" placeholder="輸入關鍵字搜尋..." autocomplete="off">
+    <div id="status" class="status"></div>
+    <div id="search-results" class="search-results"></div>
+  </div>
 
+<script>
+var pages = [];
+
+async function init() {
+  document.getElementById('status').textContent = '載入搜尋索引...';
+  try {
+    var res = await fetch('/marino_icu/index.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    pages = await res.json();
+    document.getElementById('status').textContent = '已載入 ' + pages.length + ' 個章節';
+    setTimeout(function() { document.getElementById('status').textContent = ''; }, 2000);
+  } catch(e) {
+    document.getElementById('status').textContent = '載入失敗: ' + e.message;
+  }
+}
+
+function doSearch() {
+  var query = document.getElementById('search-input').value.trim();
+  var resultsDiv = document.getElementById('search-results');
+  if (!query) { resultsDiv.innerHTML = ''; return; }
+  if (pages.length === 0) { resultsDiv.innerHTML = '<p class="no-results">索引載入中，請稍候</p>'; return; }
+  
+  var q = query.toLowerCase();
+  var results = [];
+  for (var i = 0; i < pages.length; i++) {
+    var p = pages[i];
+    if (p.title && p.title.toLowerCase().includes(q)) {
+      results.push({item: p, score: 2});
+    } else if (p.content && p.content.toLowerCase().includes(q)) {
+      results.push({item: p, score: 1});
+    }
+  }
+  
+  if (results.length === 0) {
+    resultsDiv.innerHTML = '<p class="no-results">沒有找到符合「' + query + '」的結果</p>';
+    return;
+  }
+  
+  var html = '';
+  for (var i = 0; i < Math.min(results.length, 20); i++) {
+    var r = results[i];
+    var p = r.item;
+    var chapterMatch = p.permalink.match(/\/ch(\d+)-/);
+    var chapter = chapterMatch ? 'Chapter ' + chapterMatch[1] : '';
+    html += '<a href="' + p.permalink + '" class="search-result">';
+    html += '<div class="result-chapter">' + chapter + '</div>';
+    html += '<div class="result-title">' + p.title + '</div>';
+    html += '</a>';
+  }
+  resultsDiv.innerHTML = html;
+}
+
+document.getElementById('search-input').addEventListener('input', doSearch);
+init();
+</script>
+</body>
+</html>
