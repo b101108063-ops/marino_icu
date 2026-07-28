@@ -19,108 +19,108 @@ title: "Venous Thromboprophylaxis"
 
 ## Risk Factors
 
-There are a wide variety of risk factors for **venous thromboembolism** (**VTE**) in hospitalized patients.
+住院病人有許多不同的 **venous thromboembolism** (**VTE**) 風險因素。
 
-### Categories of Risk Factors
+### 風險因素的分類
 
-| Category | Conditions |
+| 分類 | 條件 |
 |:---------|:----------|
-| **Surgery** | Major surgery, especially hip and knee replacement, cancer-related surgery, and bariatric surgery |
-| **Trauma** | Traumatic brain injury, fractures of the spine, pelvis, hip, or lower extremities, extensive tissue and burn injuries |
-| **Malignancy** | Solid tumors (especially pancreatic and gastric cancer), hematologic malignancies, chemotherapy |
-| **Acute Medical Illness** | Acute stroke with lower extremity weakness, heart failure with leg edema, COVID-19, sepsis, limited mobility |
-| **ICU-Related** | Mechanical ventilation, neuromuscular paralysis, central venous catheters, circulatory shock, vasopressors, platelet transfusions, prolonged immobility |
-| **Patient-Specific** | Prior **VTE**, family history of **VTE**, genetic risk factors, age greater than 70, obesity, pregnancy or postpartum |
+| **手術** | 大手術，特別是髖關節和膝關節置換手術、癌症相關手術、以及減重手術 |
+| **創傷** | 創傷性腦損傷、脊椎、骨盆、髖關節或下肢骨折、大範圍組織和燒傷 |
+| **惡性腫瘤** | 實體腫瘤（尤其是胰臟癌和胃癌）、血液系統惡性腫瘤、化療 |
+| **急性內科疾病** | 伴隨下肢無力的急性腦中風、伴隨腿部水腫的心臟衰竭、COVID-19、膿毒症、活動受限 |
+| **ICU 相關** | Mechanical ventilation、神經肌肉癱瘓、中心靜脈導管、循環性休克、血管加壓劑、血小板輸注、長期臥床 |
+| **病人特定因素** | 過往 **VTE** 病史、**VTE** 家族史、遺傳風險因素、年齡大於 70 歲、肥胖、妊娠或產後 |
 
-### Major Surgery
+### 大手術（Major Surgery）
 
-Major surgery (surgery performed under general or spinal anesthesia that lasts longer than 45 minutes) is the most recognized cause of **VTE** in hospitalized patients and is responsible for about one-third of deaths from **VTE**. All major surgical procedures create a heightened risk of **VTE**, which can persist for 6–12 weeks after hospital discharge. The risk is particularly high with cancer-related surgery, bariatric surgery, and orthopedic procedures involving the hip and knee.
+大手術（在全身麻醉或脊椎麻醉下進行的手術，持續時間超過 45 分鐘）是住院病人 **VTE** 最被認可的原因，約占 **VTE** 死亡的三分之一。所有大手術都會造成 **VTE** 風險升高，可持續至出院後 6–12 週。癌症相關手術、減重手術以及涉及髖關節和膝關節的骨科手術風險特別高。
 
-The risk of **VTE** after major surgery is attributed to thromboplastin release during the procedure, inflammation from prolonged procedures, vascular injury, and extended periods of bed rest in the perioperative period.
+大手術後 **VTE** 的風險歸因於手術過程中 thromboplastin 的釋放、長期手術的炎症、血管損傷以及術後初期長期臥床休息。
 
-### Major Trauma
+### 主要創傷（Major Trauma）
 
-The risk of **VTE** is highest following major or multisystem trauma, where the reported incidence of **DVT** is 58% without prophylaxis. The trauma conditions with the highest risk of **VTE** are brain and spinal cord injuries, spinal fractures, and fractures of the pelvis, hip, and long bones of the legs.
+**VTE** 風險在主要或多系統創傷後最高，無預防情況下 **DVT** 的報告發生率為 58%。**VTE** 風險最高的創傷條件是腦和脊髓損傷、脊椎骨折以及骨盆、髖關節和腿部長骨的骨折。
 
-### Acute Medical Illness
+### 急性內科疾病（Acute Medical Illness）
 
-Hospitalization for acute medical illness is associated with an eightfold increase in the risk of **VTE**. Although **VTE** is less common in medical patients than in surgical patients or trauma victims, medical patients account for a majority (50% to 75%) of **VTE** events in hospitalized patients.
+因急性內科疾病住院與 **VTE** 風險增加八倍相關。雖然 **VTE** 在內科病人中不如外科病人或創傷受害者常見，但內科病人占住院病人 **VTE** 事件的大部分（50% 至 75%）。
 
-### ICU Patients
+### ICU 病人（ICU Patients）
 
-A majority of ICU patients have one or more of the risk factors listed in the table above. There are also ICU-specific factors that add further to the risk of **VTE**, which include prolonged mechanical ventilation (greater than 48 hours), systemic inflammatory conditions, circulatory shock, vasopressor infusions, platelet transfusions, and the presence of central venous catheters or PICCs.
+大多數 ICU 病人具有上表中的一項或多項風險因素。還有 ICU 特有的因素進一步增加 **VTE** 風險，包括長期 mechanical ventilation（大於 48 小時）、全身性炎症狀態、循環性休克、血管加壓劑輸注、血小板輸注以及中心靜脈導管或 PICCs 的存在。
 
-### Patient-Specific Factors
+### 病人特定因素（Patient-Specific Factors）
 
-Patient-specific risk factors include advanced age, obesity, pregnancy, personal or family history of **VTE**, and genetic predisposition to thrombosis. The factors that confer the highest risk of **VTE** include a prior history of **VTE** and genetic risk factors; for example, inherited **antithrombin III** deficiency creates a 14-fold increase in the risk of **VTE**.
+病人特定風險因素包括高齡、肥胖、妊娠、個人或家族 **VTE** 病史以及遺傳性血栓傾向。造成最高 **VTE** 風險的因素包括 **VTE** 病史和遺傳風險因素；例如，遺傳性 **antithrombin III** 缺乏會使 **VTE** 風險增加 14 倍。
 
 ---
 
 ## Parenteral Prophylactic Regimens
 
-### Contraindications to Anticoagulant Prophylaxis
+### 抗凝預防的禁忌症
 
-- **Absolute contraindications:** Intracranial hemorrhage and "clinically important" bleeding (blood loss associated with a decrease in systolic blood pressure 20 mm Hg or more, a decrease in hemoglobin 2 g/dL or more, or the need to transfuse at least 2 units of packed red blood cells)
-- **Relative contraindications:** Traumatic head and spinal injury, history of recurrent GI bleeding, and severe coagulopathy
-- **Note:** Menstrual bleeding is not a contraindication
+- **絕對禁忌症：** 顱內出血和「臨床重要」出血（失血伴隨收縮壓下降 20 mm Hg 或以上、血紅蛋白下降 2 g/dL 或以上，或需要輸注至少 2 個單位濃縮紅血球）
+- **相對禁忌症：** 創傷性頭部和脊髓損傷、反覆 GI 出血病史、嚴重 coagulopathy
+- **注意：** 月經出血不是禁忌症
 
-### Thromboprophylaxis with Parenteral Agents
+### Parenteral 制劑的血栓預防
 
-| Agent | Standard Dose | Obesity | Renal Adjustment |
+| 藥物 | 標準劑量 | 肥胖 | 腎臟調整 |
 |:------|:-------------|:--------|:-----------------|
-| **Unfractionated Heparin (**UFH**)** | 5,000 units SC every 8–12 hrs | 7,500 units every 8 hrs for BMI 40 kg/m² or greater | No dose adjustment |
-| **Enoxaparin (Lovenox)** | 40 mg SC once daily, or 30 mg SC every 12 hrs | 40 mg SC every 12 hrs for BMI 40 kg/m² or greater | If CrCL less than 30 mL/min, reduce to 30 mg SC once daily, or use **UFH** |
-| **Dalteparin (Fragmin)** | 2,500–5,000 units SC once daily | Not adequately studied | No dose adjustment |
-| **Fondaparinux (Arixtra)** | 2.5 mg SC once daily | No recommendations | If CrCL 35–50 mL/min, reduce to 1.5 mg SC once daily. Do not use if CrCL less than 30 mL/min |
+| **Unfractionated Heparin (**UFH**)** | 5,000 單位 SC 每 8–12 小時 | BMI 40 kg/m² 或以上：每 8 小時 7,500 單位 | 無需調整劑量 |
+| **Enoxaparin (Lovenox)** | 40 mg SC 每日一次，或 30 mg SC 每 12 小時 | BMI 40 kg/m² 或以上：40 mg SC 每 12 小時 | 若 CrCL 低於 30 mL/min，減至 30 mg SC 每日一次，或使用 **UFH** |
+| **Dalteparin (Fragmin)** | 2,500–5,000 單位 SC 每日一次 | 研究不足 | 無需調整劑量 |
+| **Fondaparinux (Arixtra)** | 2.5 mg SC 每日一次 | 無建議 | 若 CrCL 為 35–50 mL/min，減至 1.5 mg SC 每日一次。若 CrCL 低於 30 mL/min，請勿使用 |
 
 ### Unfractionated Heparin (**UFH**)
 
-Heparin is a naturally occurring mucopolysaccharide made by mast cells. Native or "unfractionated" heparin (**UFH**) is a heterogeneous collection of molecules that vary in size (molecular weight) from 3,000 to 30,000 Daltons.
+Heparin 是一種由肥大細胞天然產生的 mucopolysaccharide。天然或「未分離」heparin（**UFH**）是由大小（分子量）從 3,000 到 30,000 Daltons 不等的分子組成的異質集合。
 
-#### Mechanisms
+#### 作用機制
 
-Heparin exerts its anticoagulant effect in two ways:
-1. **Anti-Xa effect:** Heparin binds to **antithrombin III** (AT) in circulating blood, which activates AT and leads to inhibition of activated factor Xa.
-2. **Anti-IIa effect:** The heparin molecule forms electrostatic bonds with thrombin, which inhibits the ability of thrombin to convert fibrinogen to fibrin.
+Heparin 以兩種方式發揮抗凝作用：
+1. **抗-Xa 效果：** Heparin 與血液循環中的 **antithrombin III** (AT) 結合，活化 AT 並導致活化因子 Xa 的抑制。
+2. **抗-IIa 效果：** Heparin 分子與 thrombin 形成電靜電結合，抑制 thrombin 將 fibrinogen 轉化為 fibrin 的能力。
 
-The anti-IIa effect is 10 times greater than the anti-Xa effect, which is a testament to heparin's ability to form electrostatic bonds with other molecules.
+抗-IIa 效果是抗-Xa 效果的 10 倍，這證明了 heparin 與其他分子形成電靜電結合的能力。
 
-#### Prophylactic Dosing
+#### 預防劑量
 
-The activation of AT by heparin is a highly sensitive reaction, which means that low doses of heparin can inhibit thrombogenesis. The dose of **unfractionated heparin** used for thromboprophylaxis is 5,000 units injected subcutaneously every 8–12 hours.
+Heparin 活化 AT 是一個高度敏感的反應，這意味著低劑量 heparin 就能抑制血栓形成。用於血栓預防的 **unfractionated heparin** 劑量為 5,000 單位，皮下注射，每 8–12 小時一次。
 
-**Obesity:** Standard doses of heparin are considered suboptimal in patients with obesity. For patients with morbid obesity (BMI 40 kg/m² or greater), 7,500 units every 8 hours has proven to be more effective than the standard low-dose regimen.
+**肥胖：** 標準劑量 heparin 在肥胖病人中被認為是次優的。對於病態肥胖病人（BMI 40 kg/m² 或以上），每 8 小時 7,500 單位被證明比標準低劑量療法更有效。
 
 ### **Low-Molecular-Weight Heparin** (**LMWH**)
 
-**LMWH** is produced by enzymatic cleavage of heparin molecules, which produces smaller molecules of more uniform size (average molecular weight of 4,500 Daltons).
+**LMWH** 是由 heparin 分子經酶切製備，產生更均勻尺寸的較小分子（平均分子量為 4,500 Daltons）。
 
-#### Advantages over **UFH**
+#### 與 **UFH** 相比的優勢
 
-1. **More predictable response:** Reduced binding to plasma proteins gives **LMWH** a more predictable dose-response profile.
-2. **Greater bioavailability:** The bioavailability of **LMWH** is 90% versus 15–30% for **UFH**.
-3. **Longer duration:** Reduced binding to endothelial cells and macrophages gives **LMWH** a longer duration of action.
-4. **Lower **HIT** risk:** Reduced platelet binding results in a lower risk of **heparin-induced thrombocytopenia** (0.2% with **LMWH** versus 2.6% with **UFH**).
+1. **更可預測的反應：** 與血漿蛋白結合減少，使 **LMWH** 具有更可預測的劑量-反應曲線。
+2. **更高的生物利用度：** **LMWH** 的生物利用度為 90%，而 **UFH** 為 15–30%。
+3. **更長的作用時間：** 與內皮細胞和巨噬細胞結合減少，使 **LMWH** 具有更長的作用時間。
+4. **更低的 **HIT** 風險：** 與血小板結合減少，導致 **heparin-induced thrombocytopenia** 風險更低（**LMWH** 為 0.2%，**UFH** 為 2.6%）。
 
 #### Enoxaparin
 
-Enoxaparin was the first **LMWH** approved for use in the United States. It is cleared by the kidneys; for patients with severe renal impairment (CrCL less than 30 mL/min), the standard prophylactic dose should be reduced to 30 mg once daily, or an alternative anticoagulant should be used.
+Enoxaparin 是美國批准使用的第一種 **LMWH**。由腎臟清除；對於嚴重腎功能損害的病人（CrCL 低於 30 mL/min），標準預防劑量應減至 30 mg 每日一次，或應使用替代抗凝劑。
 
 #### Dalteparin
 
-The prophylactic dose of **dalteparin** is 2,500–5,000 units given subcutaneously once daily. One notable advantage over **enoxaparin** is that no dose reduction is required in patients with renal failure.
+**dalteparin** 的預防劑量為 2,500–5,000 單位，皮下注射，每日一次。與 **enoxaparin** 相比的一個顯著優勢是腎衰竭病人不需要調整劑量。
 
-#### Monitoring Anti-Factor Xa Levels
+#### 監測抗因子 Xa 水平
 
-The adequacy of **LMWH** dosing can be evaluated by measuring the anti-factor Xa level in blood. The recommended target range for prophylactic dosing is a peak anti-factor Xa level of 0.2–0.5 IU/mL.
+**LMWH** 劑量的充足性可以透過測量血液中的抗因子 Xa 水平來評估。預防劑量的建議目標範圍是峰值抗因子 Xa 水平為 0.2–0.5 IU/mL。
 
 ### Fondaparinux
 
-Fondaparinux (also known as "tiny heparin") is a synthetic analog of the pentasaccharide sequence on heparin that binds it to **antithrombin III**. It is the first selective factor Xa inhibitor approved for clinical use and has proven effective for thromboprophylaxis in medical patients and in orthopedic procedures involving the hip and knee.
+Fondaparinux（也稱為「迷你 heparin」）是 heparin 上與 **antithrombin III** 結合的五糖序列的合成類似物。這是第一個批准用於臨床的選擇性因子 Xa 抑制劑，已被證明對內科病人和涉及髖關節和膝關節的骨科手術的血栓預防有效。
 
-The dose of **fondaparinux** for thromboprophylaxis is 2.5 mg by subcutaneous injection once daily. Fondaparinux has a half-life of 17 hours and is excreted by the kidneys. In patients with moderate-to-severe renal impairment (CrCL of 20–50 mL/min), a reduced dose of 1.5 mg daily is recommended, and the drug should not be used when the CrCL is less than 20 mL/min.
+用於血栓預防的 **fondaparinux** 劑量為 2.5 mg，皮下注射，每日一次。Fondaparinux 的半衰期為 17 小時，由腎臟排泄。在中度至重度腎功能損害的病人（CrCL 為 20–50 mL/min）中，建議使用減少的劑量每日 1.5 mg，當 CrCL 低於 20 mL/min 時不應使用。
 
-**When to Use:** Fondaparinux is recommended for hospitalized medical patients who require thromboprophylaxis and can be used for prophylaxis in patients with suspected or prior history of **heparin-induced thrombocytopenia** (**HIT**).
+**使用時機：** Fondaparinux 建議用於需要血栓預防的住院內科病人，也可用於疑似或既往 **heparin-induced thrombocytopenia** (**HIT**) 病人的預防。
 
 ---
 
@@ -128,120 +128,120 @@ The dose of **fondaparinux** for thromboprophylaxis is 2.5 mg by subcutaneous in
 
 ### **Direct Oral Anticoagulant**s (**DOAC**s)
 
-The newer oral anticoagulants include a direct thrombin inhibitor (**dabigatran**) and three direct factor Xa inhibitors (**rivaroxaban**, **apixaban**, and edoxaban). These agents have a more rapid onset of action (1–4 hours) and do not require routine monitoring of anticoagulation status.
+較新的口服抗凝劑包括直接 thrombin 抑制劑（**dabigatran**）和三種直接因子 Xa 抑制劑（**rivaroxaban**、**apixaban** 和 edoxaban）。這些藥物具有更快的作用開始時間（1–4 小時），不需要常規監測抗凝狀態。
 
-At the present time, prophylaxis with **DOAC**s is recommended only for hip and knee replacement surgery.
+目前，**DOACs** 的預防僅推薦用於髖關節和膝關節置換手術。
 
-### Thromboprophylaxis with Oral Agents
+### 口服制劑的血栓預防
 
-| Agent | Standard Dose | Obesity | Renal |
+| 藥物 | 標準劑量 | 肥胖 | 腎臟 |
 |:------|:-------------|:--------|:------|
-| **Dabigatran (Pradaxa)** | 110 mg initially, then 220 mg once daily | Do not use if BMI 40 kg/m² or greater or wt greater than 120 kg | Do not use if CrCL less than 30 mL/min |
-| **Apixaban (Eliquis)** | 2.5 mg twice daily | Standard dosing for BMI 40 kg/m² or greater or wt greater than 120 kg | Do not use if CrCL less than 15 mL/min |
-| **Rivaroxaban (Xarelto)** | 10 mg once daily | Standard dosing for BMI 40 kg/m² or greater or wt greater than 120 kg | Do not use if CrCL less than 15 mL/min |
-| **Warfarin** | 2.5–5 mg once daily; adjust to INR of 1.5–2.5 | No known dose adjustment | No dose adjustment |
+| **Dabigatran (Pradaxa)** | 初始 110 mg，之後 220 mg 每日一次 | 若 BMI 40 kg/m² 或以上或體重超過 120 kg，請勿使用 | 若 CrCL 低於 30 mL/min，請勿使用 |
+| **Apixaban (Eliquis)** | 2.5 mg 每日兩次 | BMI 40 kg/m² 或以上或體重超過 120 kg：標準劑量 | 若 CrCL 低於 15 mL/min，請勿使用 |
+| **Rivaroxaban (Xarelto)** | 10 mg 每日一次 | BMI 40 kg/m² 或以上或體重超過 120 kg：標準劑量 | 若 CrCL 低於 15 mL/min，請勿使用 |
+| **Warfarin** | 2.5–5 mg 每日一次；調整至 INR 1.5–2.5 | 無已知劑量調整 | 無需調整劑量 |
 
-### Key Points
+### 要點
 
-1. **DOAC**s are contraindicated in patients with severe renal impairment; in this setting, **warfarin** is the only oral agent that can be used safely.
-2. Standard prophylactic doses of **apixaban** and **rivaroxaban** are equally effective in morbidly obese patients.
-3. All **DOAC**s have proven superior to **LMWH** for thromboprophylaxis in hip and knee replacement surgery.
+1. **DOACs** 在嚴重腎功能損害病人中是禁忌的；在這種情況下，**warfarin** 是唯一可以安全使用的口服藥物。
+2. 標準預防劑量的 **apixaban** 和 **rivaroxaban** 在病態肥胖病人中效果相同。
+3. 所有 **DOACs** 已被證明優於 **LMWH**，用於髖關節和膝關節置換手術的血栓預防。
 
-### Aspirin
+### 阿斯匹靈
 
-The most recent guidelines from the American Society of Hematology include a conditional recommendation for aspirin as an effective alternative to anticoagulants for hip or knee replacement surgery. Although a dose is not specified, most studies involved low-dose aspirin (81 mg daily).
+美國血液學會的最新指南包含了對阿斯匹靈作為髖關節或膝關節置換手術抗凝劑的有效替代方案的條件性建議。雖然未指定劑量，但大多數研究涉及低劑量阿斯匹靈（每日 81 mg）。
 
-### Neuraxial Procedures
+### 神經軸突操作
 
-Anticoagulant prophylaxis can promote hematoma formation from spinal punctures or from the insertion and removal of intrathecal and epidural catheters. To limit this risk:
+抗凝預防可促進脊髓穿刺或鞘內和硬膜外導管置入和移除時的血腫形成。為限制此風險：
 
-- For subcutaneous injections of **unfractionated heparin**, wait at least 12 hours after the last dose.
-- For once daily dosing of **enoxaparin**, wait at least 24 hours.
-- For **DOAC**s, the recommended wait time depends on renal function: at least 48 hours for **dabigatran** and **rivaroxaban**, and at least 24 hours for **apixaban** (with normal or moderately reduced renal function).
+- 對於皮下注射 **unfractionated heparin**，請等待最後一次劑量後至少 12 小時。
+- 對於 **enoxaparin** 每日一次劑量，請等待至少 24 小時。
+- 對於 **DOACs**，建議的等待時間取決於腎功能：**dabigatran** 和 **rivaroxaban** 至少 48 小時，**apixaban**（腎功能正常或中度降低）至少 24 小時。
 
 ---
 
 ## Mechanical Thromboprophylaxis
 
-External compression of the lower extremities can be used to promote venous outflow from the legs and reduce the risk of **VTE** from venous stasis. This method is typically used as a replacement for anticoagulant regimens in patients who are bleeding or have a high risk of bleeding, but it can also be used as an adjunct to anticoagulant prophylaxis.
+外部加壓下肢可用於促進腿部靜脈回流並減少靜脈瘀滯導致 **VTE** 的風險。此方法通常作為出血或出血風險高的病人的抗凝療法的替代方案，但也可作為抗凝預防的輔助手段。
 
-### Graded Compression Stockings
+### 漸進式加壓襪
 
-Graded compression stockings (**GCS**), also known as thromboembolism-deterrent or TED stockings, are designed to create 18 mm Hg external pressure at the ankles and 8 mm Hg external pressure in the thigh. These stockings have been shown to reduce the incidence of **VTE** when used alone after major surgery. However, they are the least effective method of thromboprophylaxis and are never used as sole means of preventing **VTE** in hospitalized patients.
+漸進式加壓襪（**GCS**），也稱為血栓預防襪或 TED 襪，設計為在腳踝處產生 18 mm Hg 外部壓力，在大腿處產生 8 mm Hg 外部壓力。這些襪子已被證明可在大手術後單獨使用時減少 **VTE** 的發生率。然而，它們是血栓預防方法中效果最差的，從不被用作住院病人預防 **VTE** 的唯一手段。
 
-### Intermittent Pneumatic Compression
+### 間歇性氣壓加壓
 
-Intermittent pneumatic compression (**IPC**) has a dual antithrombotic effect because it promotes both venous flow and fibrinolysis. **IPC** devices typically have two or three inflatable bladders that are pressurized in sequence (from distal to proximal). The external leg pressure is about 35–40 mm Hg at the ankle and 20 mm Hg at the thigh, and the compression cycle is typically 10 seconds.
+間歇性氣壓加壓（**IPC**）具有雙重抗血栓效果，因為它同時促進靜脈血流和纖維蛋白溶解。**IPC** 裝置通常有兩個或三個充氣囊，按順序（從遠端到近端）加壓。外部腿部壓力在腳踝處約為 35–40 mm Hg，在大腿處為 20 mm Hg，加壓週期通常為 10 秒。
 
-The **IPC** method can be as effective as anticoagulant prophylaxis and also adds to the effectiveness of anticoagulant regimens. Therefore, **IPC** is the standard method of mechanical prophylaxis in hospitalized patients.
+**IPC** 方法可以像抗凝預防一樣有效，並可增加抗凝療法的效果。因此，**IPC** 是住院病人機械預防的標準方法。
 
-**Note:** The applied pressure should never be greater than the diastolic blood pressure to prevent arterial compression.
+**注意：** 施加的壓力永遠不應超過舒張壓，以防止动脉压迫。
 
-### Inferior Vena Cava Filters
+### 下腔靜脈 filters
 
-Inferior vena cava (IVC) filters do not prevent deep vein thrombosis but reduce the risk of **pulmonary embolism** by trapping thrombi that break loose from **DVT** in the legs. These devices are occasionally used in patients with **DVT** who cannot be anticoagulated, but otherwise they are not recommended for **VTE** prophylaxis.
+下腔靜脈（IVC）filters 不能預防 deep vein thrombosis，而是透過捕捉從腿部 **DVT** 脫落的血栓來降低 **pulmonary embolism** 的風險。這些裝置偶爾用於無法接受抗凝治療的 **DVT** 病人，但除此之外不建議用於 **VTE** 預防。
 
 ---
 
 ## Prophylaxis in Special Circumstances
 
-### General Considerations
+### 一般考量
 
-1. **Renal failure (CrCL less than 15 mL/min):** Only **UFH** and **warfarin** can be used.
-2. **Morbid obesity (BMI greater than 40 kg/m²):** Consider adjusting the dose of heparins.
-3. **Suspected or prior **HIT**:** Fondaparinux can be used.
+1. **腎衰竭（CrCL 低於 15 mL/min）：** 只能使用 **UFH** 和 **warfarin**。
+2. **病態肥胖（BMI 大於 40 kg/m²）：** 考慮調整 heparin 劑量。
+3. **疑似或既往 **HIT**：** 可使用 Fondaparinux。
 
-### Major General Surgery
+###  일반腹部外科
 
-- **UFH** or **LMWH** is recommended, with **IPC** added in high-risk patients.
-- Higher doses of **UFH** (5,000 units every 8 hours) and **LMWH** (**enoxaparin**, 30 mg twice daily) are popular for high-risk patients.
-- Prophylaxis can be started preoperatively, but the last doses of **UFH** and **LMWH** should be at least 6 hours and 12 hours (respectively) before the surgical procedure.
-- For cancer surgery involving the abdomen and pelvis in high-risk patients, extended prophylaxis (with **LMWH**) for up to 4 weeks is favored.
+- 建議使用 **UFH** 或 **LMWH**，高風險病人加用 **IPC**。
+- 高風險病人流行使用較高劑量的 **UFH**（每 8 小時 5,000 單位）和 **LMWH**（**enoxaparin**，30 mg 每日兩次）。
+- 預防可在手術前開始，但 **UFH** 和 **LMWH** 的最後一次劑量應分別在手術前至少 6 小時和 12 小時。
+- 對於涉及腹部和骨盆的高風險癌症手術，建議術後延長預防（使用 **LMWH**）長達 4 週。
 
-### Bariatric Surgery
+### 減重手術
 
-- **LMWH** plus **IPC** is favored.
-- Enoxaparin dose: 40 mg twice daily for BMI 30–49 kg/m², and 60 mg twice daily for BMI 50 kg/m² or greater.
-- Extended prophylaxis for about 2 weeks after hospital discharge is recommended.
+- 建議使用 **LMWH** 加上 **IPC**。
+- Enoxaparin 劑量：BMI 30–49 kg/m² 為 40 mg 每日兩次，BMI 50 kg/m² 或以上為 60 mg 每日兩次。
+- 建議在出院後約 2 週延長預防。
 
-### Orthopedic Surgery
+### 骨科手術
 
-- For hip or knee replacement surgery, a **DOAC** is favored over **LMWH**, with **IPC** added in the early postoperative period.
-- For hip fracture surgery, **LMWH** is recommended.
-- Extended prophylaxis for up to 35 days is recommended for major surgery involving the hip and knee.
+- 對於髖關節或膝關節置換手術，**DOAC** 優於 **LMWH**，術後早期加用 **IPC**。
+- 對於髖關節骨折手術，建議使用 **LMWH**。
+- 建議大手術涉及髖關節和膝關節時延長預防長達 35 天。
 
-### Neurosurgery
+### 神經外科
 
-- For major neurosurgical procedures, mechanical prophylaxis with **IPC** is recommended.
-- When the risk of postoperative bleeding has subsided, **LMWH** is added for high-risk patients.
+- 對於重大神經外科手術，建議使用 **IPC** 進行機械預防。
+- 當術後出血風險降低時，高風險病人加用 **LMWH**。
 
-### Cardiac Surgery
+### 心臟外科
 
-- For uncomplicated cases, mechanical prophylaxis with **IPC** is recommended.
-- For complicated cardiac surgery or high-risk patients, **LMWH** is added to **IPC**.
+- 對於不複雜的病例，建議使用 **IPC** 進行機械預防。
+- 對於複雜的心臟手術或高風險病人，在 **IPC** 基礎上加用 **LMWH**。
 
-### Major Trauma
+### 主要創傷
 
-- For solid organ injury or trauma to extremities, prophylaxis with **LMWH** (**enoxaparin** 40 mg SC every 12 hrs) should be started when bleeding is not a concern, optimally 12–24 hours after injury.
-- For traumatic brain injury, **IPC** is used until the CT scan shows no bleeding or progression of bleeding for 24 hours, then **LMWH** is added.
-- For spinal trauma, prophylaxis with **LMWH** should be started as soon as anticoagulation is considered safe, while **IPC** should be started as soon as possible.
+- 對於實體器官損傷或四肢創傷，當出血不成問題時（最佳為受傷後 12–24 小時）應開始 **LMWH**（**enoxaparin** 40 mg SC 每 12 小時）預防。
+- 對於創傷性腦損傷，使用 **IPC** 直到 CT 掃描顯示 24 小時內無出血或出血無進展，然後加用 **LMWH**。
+- 對於脊髓創傷，只要抗凝被認為安全就應盡快開始 **LMWH** 預防，同時應盡快開始 **IPC**。
 
-### Acute Medical Illness
+### 急性內科疾病
 
-- For high-risk patients with an acute medical illness, prophylaxis with **LMWH** is recommended without adding mechanical prophylaxis.
-- Extended prophylaxis after hospital discharge is not recommended.
+- 對於有急性內科疾病的高風險病人，建議使用 **LMWH** 預防，不加用機械預防。
+- 不建議出院後延長預防。
 
 ---
 
 ## Key Takeaways
 
-1. **VTE** is a leading cause of preventable death in hospitalized patients.
-2. Risk assessment should be performed for all admitted patients.
-3. Pharmacologic prophylaxis is preferred in most patients; mechanical prophylaxis is an alternative when bleeding risk is high.
-4. **LMWH** (**enoxaparin**) is the most popular agent for **VTE** prophylaxis.
-5. Extended prophylaxis is recommended for high-risk surgical patients (especially orthopedic).
-6. **IPC** is the standard mechanical prophylaxis method and can be combined with pharmacologic prophylaxis in high-risk patients.
-7. The indication for immobility as a risk factor for **DVT** is questionable.
+1. **VTE** 是住院病人可預防性死亡的主要原因。
+2. 應對所有入院病人進行風險評估。
+3. 藥物預防在大多數病人中是首選；當出血風險高時，機械預防是替代方案。
+4. **LMWH**（**enoxaparin**）是最受歡迎的 **VTE** 預防藥物。
+5. 建議對高風險外科病人（尤其是骨科）延長預防。
+6. **IPC** 是標準的機械預防方法，可與高風險病人的藥物預防結合使用。
+7. 活動受限作為 **DVT** 風險因素的適應症值得懷疑。
 
 ---
 
