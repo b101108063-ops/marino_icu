@@ -14,6 +14,16 @@ Adrenal and thyroid disorders are rarely the primary reason for admission to an 
 
 ---
 
+## Introduction
+
+## 導讀摘要
+
+- **Critical Illness-Related Corticosteroid Insufficiency（CIRCI）**：ICU發生率 **10–20%**，敗血性休克可達 **60%**；主要表現為**頑固性低血壓**（對 volume resuscitation 無效）；診斷：random cortisol <10 mcg/dL 或 ACTH刺激後 cortisol 增加 <9 mcg/dL；治療：**hydrocortisone 200–300 mg/day IV**。
+- **甲狀腺功能異常**：ICU患者中高達 **90%** 甲狀腺功能實驗室數值異常，但多數為**非甲狀腺疾病症候群**（Euthyroid Sick Syndrome），無需治療。
+- **甲狀腺風暴**（Thyroid Storm）：死亡率達 **25%**，特徵為超高燒（>104°F）、意識障礙、嚴重心動過速；治療：**propranolol**（首選，阻止T4→T3）、**PTU**（抑制甲狀腺素合成）、**potassium iodide**（阻斷甲狀腺素釋放）、**dexamethasone**（同樣阻止T4→T3）。
+- **甲狀腺機能低下/黏液水腫昏迷**（Myxedema Coma）：首選 **levothyroxine**（200–400 mcg IV loading，之後 50–100 mcg/day IV）；需先給予 **hydrocortisone**（100 mg IV q8h）以防腎上腺危機。
+- **正常甲狀腺病態症候群**（Euthyroid Sick）：低游離T3（重症可達30–50%患者同時低T3/T4），TSH正常，**不建議治療**。
+
 ## Adrenal Suppression in the ICU
 
 The adrenal gland plays a major role in the adaptive response to stress:

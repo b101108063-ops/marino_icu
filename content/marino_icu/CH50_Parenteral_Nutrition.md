@@ -14,7 +14,15 @@ The intravenous route is used for nutrition support when the enteral route is no
 
 ---
 
-## Substrate Solutions
+## Introduction
+
+## 導讀摘要
+
+- **全靜脈營養**（TPN）使用 **D50**（50% dextrose）提供 **1,700 kcal/L**，高滲透壓需由**中心靜脈**輸注；胺基酸溶液（10%）提供 **100 g蛋白質/L**；20% Lipid emulsion（Intralipid®）提供 **2 kcal/mL**。
+- **TPN配方計算（70 kg範例）**：REE = 25 × 70 = 1,750 kcal/day；蛋白質 1.4 g/kg/day = 98 g；非蛋白質熱量 1,750 −（98×4）= 1,358 kcal；脂質目標30% → 250 mL（500 kcal）；D50填補其餘 → 500 mL（850 kcal）；總量 1,780 mL，速率 **~74 mL/hr**。
+- **高血糖處理**：TPN時血糖 >200 mg/dL 達45%；目標 **140–180 mg/dL**；首選 **regular insulin** 持續輸注；亦可加入TPN混合袋或使用皮下 **lispro**。
+- **再進食症候群**（Refeeding Syndrome）高風險族群（BMI ≤18.5、體重丢失>10%、營養缺乏≥5天）：先糾正電解質、給予 **thiamine**，起始劑量僅 **40–50%** 需求量，4–7天內漸增。
+- **周邊靜脈營養**（PPN）：滲透壓需維持 **<900 mOsm/L** 以防血管損傷；配方為3%胺基酸 + 20% dextrose（~500 mOsm/L），添加250 mL 20% Intralipid可提供約 **1,350 kcal/day**；不適用於高代謝或營養不良患者。
 
 ### Dextrose Solutions
 

@@ -14,6 +14,25 @@ Magnesium is essential for energy utilization in the organic world. Magnesium is
 
 Magnesium is also essential for the proper functioning of the Na⁺–K⁺ exchange pump (which is a magnesium-dependent ATPase) that is responsible for the electrical gradient across cell membranes. As a result, magnesium plays an important role in the activity of excitable tissues (1–4). Magnesium also regulates the movement of calcium into smooth muscle cells, which gives it a pivotal role in the maintenance of cardiac contractile strength and peripheral vascular tone (4).
 
+## 導讀摘要
+
+- **鎂離子**（Mg²⁺）是 ATPase 的必要輔因子，參與 ATP 能量釋放；同時也是 Na⁺–K⁺ 幫浦正常運作所必需，調控細胞膜電位
+- 成人體內約含 **24 g（2,000 mEq）** 鎂離子，超過一半儲存於骨骼，血漿僅占 < 1%，血漿鎂正常不代表整體鎂充足
+- ICU 常見鎂耗竭原因：**利尿劑**、**aminoglycosides**、**cisplatin**、**慢性酒精中毒**、**腹瀉**
+- 低血鎂的臨床表徵：心電圖改變（QT 延長、心律不整）、神經肌肉過度興奮、癲癇發作
+- 鎂離子 Retention Test：靜脈輸注 **6 g MgSO₄**（24 mmol）後 24 小時尿液鎂排泄 ≤ 12 mmol（≤ 50%）提示鎂持續耗竭
+
+| 臨床數值 | 說明 |
+|---|---|
+| 正常血清鎂（總鎂） | 1.7–2.4 mg/dL（1.4–2.0 mEq/L） |
+| 正常游離鎂（Ionized Mg） | 0.8–1.1 mg/dL（0.7–1.0 mEq/L） |
+| 血漿中離子化鎂比例 | ~67% |
+| 單位換算（mg/dL → mEq/L） | mEq/L = (mg/dL × 10) / 12（即 ÷ 0.12） |
+| 單位換算（mEq/L → mmol/L） | mmol/L = mEq/L × 0.5 |
+| MgSO₄ 元素鎂含量 | 98 mg/g（8 mEq/g） |
+| MgCl₂ 元素鎂含量 | 120 mg/g（10 mEq/g） |
+| MgO 元素鎂含量 | 603 mg/g（50 mEq/g） |
+
 ---
 
 ## Magnesium Basics

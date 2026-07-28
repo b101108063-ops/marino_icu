@@ -14,7 +14,15 @@ This chapter describes the toxic syndromes produced by exposure to nonpharmaceut
 
 ---
 
-## Carbon Monoxide Poisoning
+## Introduction
+
+## 導讀摘要
+
+- **一氧化碳（CO）中毒**：CO對血紅素的親和力為氧氣的 **200倍以上**；臨床表現多樣，**COHb數值與臨床嚴重度相關性差**；**脈搏血氧儀無法區分COHb與oxyhemoglobin**（顯示正常值），需使用 **CO-oximetry** 確診。
+- **CO治療**：100%氧氣吸入（COHb半衰期： room air 320 min → 100% O₂ 74 min）；高流量、加热、加濕鼻導管（最高40 L/min）；高壓氧療效證據不足。
+- **氰化物中毒**：源於煙霧吸入（含CO及HCN）、口服氰化物鹽、**sodium nitroprusside**輸注；抑制**cytochrome oxidase**，阻斷細胞氧化磷酸化，導致**乳酸性酸中毒**；血漿乳酸常 **>10 mmol/L**；首選解毒劑：**Hydroxocobalamin**（5 g IV，cardia arrest時10 g）。
+- **甲醇/乙二醇中毒**：皆由**alcohol dehydrogenase**代謝；乙二醇最終產物為**草酸**（與鈣形成不溶性草酸鈣結晶，沉積於腎小管→急性腎損傷）；甲醇最終產物為**蟻酸**（破壞視網膜/視神經→視力障礙為特徵）。
+- **解毒療程**：首選 **Fomepizole**（15 mg/kg loading，10 mg/kg q12h維持）；血漿濃度 **>20 mg/dL** 或嚴重酸血症（pH <7.1）、顯著器官損傷時需**血液透析**；乙二醇中毒另加 **thiamine** 及 **pyridoxine**；甲醇中毒改用 **Folinic acid**（而非thiamine/pyridoxine）。
 
 Carbon monoxide (CO) is produced by the incomplete combustion of organic matter. The principal sources are smoke inhalation from house fires, poorly functioning heating systems, and automobile exhaust. Catalytic converters have reduced CO emissions from automobiles by more than 95%.
 

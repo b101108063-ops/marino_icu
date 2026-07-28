@@ -12,6 +12,25 @@ title: "Potassium"
 
 The last chapter introduced the notion that the ocean served as extracellular fluid for the first unicellular organisms. Seawater is essentially a saline solution that is rich in sodium and chloride, and "poor" in potassium, similar to our extracellular fluid. Why there is so little potassium in seawater is not entirely explained, but the paucity of potassium in our extracellular fluid is the consequence of a membrane pump that keeps potassium in cells. About **98% of the total body potassium** is located inside cells, and only **2%** remains in the extracellular fluid (1–3). As a result, monitoring the plasma (extracellular) potassium level as an index of total body potassium is like evaluating an iceberg by its tip.
 
+## 導讀摘要
+
+- 體內 **98%** 的鉀離子存在細胞內，僅 **2%** 在細胞外液（血漿），故血漿 K⁺ 只是冰山一角
+- 總體鉀離子缺乏 **200–400 mEq** 才會使血漿 K⁺ 下降 1 mEq/L；而總體 K⁺ 過多 **100–200 mEq** 才會使血漿 K⁺ 上升 1 mEq/L（不對稱性源於細胞內庫的緩衝）
+- **低血鉀**（Hypokalemia）原因分為兩大類：**跨細胞轉移**（β₂-agonists、鹼中毒、胰島素）與**鉀離子耗竭**（利尿劑、腸胃道流失）
+- 低血鉀的臨床表徵主要在心電圖：顯著 **U 波**、**T 波低平或倒置**、**QT 延長**；但低血鉀本身並不直接導致嚴重心律不整
+- **高血鉀**（Hyperkalemia）處理原則：優先穩定心臟（**10% calcium gluconate**），再將 K⁺ 移入細胞（胰島素 + dextrose、albuterol），最後排除體外
+
+| 臨床數值 | 說明 |
+|---|---|
+| 正常血漿 K⁺ | 3.5–5.0 mEq/L |
+| 70 kg 成人總體 K⁺ | ~3,500 mEq（50 mEq/kg） |
+| 細胞外液 K⁺ | ~70 mEq（2%） |
+| 低血鉀：血漿 K⁺ 下降 1 mEq/L 所需的總體 K⁺ 流失 | 200–400 mEq |
+| 高血鉀：血漿 K⁺ 上升 1 mEq/L 所需的總體 K⁺ 增加 | 100–200 mEq |
+| 低血鉀嚴重程度（需留意 ECG） | 血清 K⁺ < 2.5 mEq/L |
+| 糞便 K⁺ 每日流失量 | 5–10 mEq/day（腹瀉可達 400 mEq/day） |
+| 尿液 K⁺ 每日流失量 | 40–120 mEq/day |
+
 ---
 
 ## Potassium Basics

@@ -14,7 +14,15 @@ Deaths from drug overdoses have increased more than 5-fold in the past 20 years 
 
 ---
 
-## Acetaminophen
+## Introduction
+
+## 導讀摘要
+
+- **Acetaminophen中毒**：美國急性肝衰竭主因；毒性閾值 **7.5–15 g**，安全劑量 **≤4 g/day**；glutathione耗盡70%時出現肝細胞損傷；可用 **Rumack-Matthew nomogram** 評估（治療線：4小時血漿濃度150 mcg/mL）。
+- **N-acetylcysteine（NAC）**為acetaminophen解毒劑：療程共 **150+50+100=300 mg/kg**（三階段）；亦可用於對乙醯胺酚肝毒性預防；停止標準：血清acetaminophen測不到、AST/ALT及膽紅素下降、INR正常化。
+- **Benzodiazepine中毒**：單獨使用罕見致命；**Flumazenil**（GABA-A拮抗劑）為解毒劑（0.2 mg IV，每次增量至總量1 mg）；不良反應包括癲癇（尤其與其他藥物合用時）。
+- **Beta-blocker中毒**：首選 **Glucagon**（3–5 mg IV bolus，之後5 mg/hr輸注）；其他選項包括phosphodiesterase抑制劑（milrinone）、高劑量胰島素/血糖夾治。
+- **Salicylate（Aspirin）中毒**：致死劑量 **10–30 g（150 mg/kg）**；特徵：早期**呼吸性鹼中毒**（呼吸中樞刺激），晚期**乳酸性酸中毒**（氧化磷酸化解偶聯）；水楊酸浓度 **>90 mg/dL** 需**血液透析**。
 
 Acetaminophen is a ubiquitous over-the-counter analgesic-antipyretic agent included in over 600 commercial preparations. It is the leading cause of acute liver failure in North America, Europe, and Australia. In the United States, it is responsible for almost half of the cases of acute liver failure, and about half of overdoses are unintentional.
 

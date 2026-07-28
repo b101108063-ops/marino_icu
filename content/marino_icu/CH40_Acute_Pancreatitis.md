@@ -14,6 +14,25 @@ Acute pancreatitis is cited as one of the leading abdominal disorders that requi
 
 This chapter describes the clinical features and management of acute pancreatitis, with emphasis on the severe cases that require ICU-level care. Management of severe pancreatitis is challenging because there is no specific treatment (other than removing any predisposing condition), and the overall mortality rate (about 25%) has not changed over the past two decades (2).
 
+## 導讀摘要
+
+- **急性胰臟炎**主因為**膽結石**（21–33%）與**酒精**（16–27%）；約 75% 病例由此二因素或不明原因所致
+- **高三酸甘油酯血症**（Hypertriglyceridemia）已成為急性胰臟炎的重要病因，當血清三酸甘油酯 > **1,000 mg/dL** 時可能引發胰臟炎，且症狀通常較嚴重
+- 急性胰臟炎分為**水腫性**（占約 80%，多為輕症自限）與**壞死性**（占約 20%，嚴重且死亡率高）
+- 胰臟外分泌細胞受損會釋放消化酶，**胰蛋白酶**（trypsin）進一步促進自體消化與全身性發炎反應，導致多重器官衰竭
+- 急性胰臟炎的 ICU 處理重點在於積極輸液復甦、疼痛控制、營養支持（儘早開始腸道營養）以及移除致病因素
+
+| 臨床數值 | 說明 |
+|---|---|
+| 急性胰臟炎住院病人常見病因：膽結石 | 21–33% |
+| 急性胰臟炎住院病人常見病因：酒精 | 16–27% |
+| 急性胰臟炎住院病人常見病因：不明原因 | 10–15% |
+| 高三酸甘油酯血症引發胰臟炎閾值 | > 1,000 mg/dL |
+| 高三酸甘油酯血症占所有胰臟炎比例 | 2–7% |
+| 水腫性胰臟炎占比 | ~80% |
+| 壞死性胰臟炎占比 | ~20% |
+| 嚴重急性胰臟炎整體死亡率 | ~25% |
+
 ---
 
 ## Pathogenesis & Presentation

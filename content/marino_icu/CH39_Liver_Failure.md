@@ -18,6 +18,29 @@ The management of patients with liver failure is a particular challenge because 
 
 This chapter describes the major problems that prompt ICU admission in patients with liver failure, including both acute liver failure (with no prior history of liver disease) and decompensated cirrhosis.
 
+## 導讀摘要
+
+- **急性肝衰竭**（ALF）最常見原因為**acetaminophen**（美國占 46%，英國占 64%）；且半數中毒病人的血漿中檢不出 acetaminophen
+- **肝性腦病變**（Hepatic Encephalopathy）致病機轉核心是**氨**（ammonia）累積導致星狀細胞水腫；arterial ammonia > 150 μmol/L 為腦水腫高風險指標
+- 肝性腦病變治療：口服或鼻胃管給予 **lactulose**（200–300 mL 初始劑量，後調整至每日 2–3 次軟便）；合併 **rifaximin**（400 mg TID）效果更佳；ALF 伴有 ammonia > 150 μmol/L 或寡尿時應考慮 **CVVH**
+- **自發性細菌性腹膜炎**（SBP）診斷：腹水絕對嗜中性球計數（ANC）> **250/mm³**；經驗性抗生素需依感染來源調整（社區性 → 第三代頭孢菌素；院內/醫療相關 → carbapenem ± vancomycin）
+- **肝腎症候群**（HRS）屬功能性腎損傷，治療以 **terlipressin**（首選）或 **norepinephrine** 收縮內臟血管，並補充 **albumin**（20–40 g/day）；最終需**肝臟移植**
+
+| 臨床數值 | 說明 |
+|---|---|
+| Acetaminophen 毒性治療時限 | 10 小時內開始 NAC 效果最佳 |
+| NAC 治療後 ALF 緩解率 | ~75% |
+| 肝移植使 ALF 死亡率 | 從 80% 降至 33% |
+| 肝性腦病變动脉血氨臨界值（腦水腫風險） | > 150 μmol/L（正常 < 60 μmol/L） |
+| SBP 診斷閾值（腹水 ANC） | > 250/mm³ |
+| SBP 抗生素療程 | 至少 7 天 |
+| SBP 治療後 favorable response | 48 小時後 ANC 下降 ≥ 25% |
+| Albumin（SBP）：第一天 | 1.5 g/kg |
+| Albumin（SBP）：第三天 | 1 g/kg |
+| HRS 白蛋白劑量 | 20–40 g/day（25% 溶液） |
+| 大容量腹膜穿刺閾值（腹內壓） | ≥ 4 L 且腹內壓 > 12 cm H₂O |
+| Variceal bleeding 頑固性比例 | ~20% |
+
 ---
 
 ## Acute Liver Failure
@@ -34,7 +57,7 @@ The conditions included in Figure 39.1 were responsible for about 80% of cases o
 
 #### Acetaminophen
 
-Acetaminophen is the leading cause of ALF in both the United States and the United Kingdom (being responsible for 46% and 64% of cases, respectively) (6). Acetaminophen hepatotoxicity is described in detail in Chapter 52 and is only briefly reviewed here. The source of the liver injury is depletion of hepatic glutathione stores, which results in oxidative cell injury from an acetaminophen metabolite. (Glutathione is the major intracellular antioxidant in the body, as described in Chapter 25.) The liver injury can begin as early as 12 hours after ingestion, and it peaks in 3 to 5 days (7). The laboratory abnormalities in the early stages of injury are characterized by high alanine aminotransferase (ALT) levels with only mild increases in bilirubin (6).
+Acetaminophen is the leading cause of ALF in both the United States and the United Kingdom (being responsible for 46% and 64% of cases, respectively) (6). Acetaminophen hepatotoxicity is described in detail in Chapter 52 and is only briefly reviewed here. The source of the liver injury is depletion of hepatic glutathione stores, which results in oxidative cell injury from an acetaminophen metabolite. (Glutathione is the major intracellular antioxidant in the body, as described in Chapter 25.) The liver injury can begin as early as 12 hours after ingestion, and it peaks in 3 to 5 days (7). The laboratory abnormalities in the early stages of injury is characterized by high alanine aminotransferase (ALT) levels with only mild increases in bilirubin (6).
 
 Acetaminophen-induced liver injury has two unfortunate features:
 
@@ -267,7 +290,7 @@ One of the recurring themes in this book is the importance of the bowel as a sou
 
 1. Nanchal R, Subramanian R, Alhazzani W, et al. Guidelines for the management of adult acute and acute-on-chronic liver failure in the ICU: neurology, peri-transplant medicine, infectious disease, and gastroenterology considerations. *Crit Care Med* 2023; 51:657–676.
 
-2. Nanchal R, Subramanian R, Karvellas CJ, et al. Guidelines for the management of adult acute and acute-on-chronic liver failure in the ICU: cardiovascular, endocrine, hematologic, pulmonary, and renal considerations. *Crit Care Med* 2020;48:e173–e191.
+2. Nanchal R, Subramanian R, Karvellas CJ, et al. Guidelines for the management of adult acute and acute-on-chronic liver failure in the ICU: cardiovascular, endocrine, hematologic, pulmonary, and renal considerations. *Crit Care Med* 2020; 48:e173–e191.
 
 3. European Association for the Study of the Liver. Clinical Practice Guidelines Panel. EASL Clinical Practical Guidelines on the management of acute (fulminant) liver failure. *J Hepatol* 2017;66:1047–1081.
 

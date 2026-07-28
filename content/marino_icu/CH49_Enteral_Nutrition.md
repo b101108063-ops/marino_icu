@@ -14,7 +14,15 @@ For patients who are unable to eat, the preferred method of nutrition support is
 
 ---
 
-## General Considerations
+## Introduction
+
+## 導讀摘要
+
+- **腸道營養的優勢**：維持黏膜屏障完整性（trophic effect）、促進免疫防禦（IgA分泌）、防止腸道細菌 translocation；研究顯示早期腸道灌食（48小時內）可降低感染率。
+- **禁忌症**：未控制的循環性休克、腸道缺血、威脅生命的低血氧/高碳酸血症、活動性上消化道出血、腸阻塞、高輸出率腸道瘻管、腹腔內壓過高；**胃殘餘量（GRV）>500 mL/6小時** 應暫停灌食。
+- **灌食管位置**：首選胃部；需X光確認（管子走直線經縱膈，在氣管分叉處平分角度，末端在左橫膈膜下約10 cm）；**禁用"whoosh test"**。
+- **誤置偵測**：**End-tidal CO₂監測**（敏感度96%、特異度99%），PCO₂ ≥15 mmHg 提示肺部誤置；**超聲**確認胃部放置（敏感度96%、特異度91%）。
+- **腹瀉處理**：常見併發症，主因包括高滲透壓配方、抗生素相關 *C. difficile* 感染、含 **sorbitol** 或 **magnesium** 藥物；GRV常規監測**不建議**（不能預測aspiration風險）。
 
 ### Infectious Risk
 

@@ -12,6 +12,25 @@ title: "Calcium and Phosphorus"
 
 Calcium and phosphorus are responsible for much of the structural integrity of the bony skeleton. Although neither element is found in abundance in soft tissue, both have important roles in vital cell functions. Phosphorus participates in aerobic energy production, whereas calcium participates in blood coagulation, neuromuscular transmission, and smooth muscle contraction. Abnormalities in calcium and phosphorus balance are devoid of adverse consequences in most patients.
 
+## 導讀摘要
+
+- 成人體內含超過 **0.5 kg** 的鈣，其中 **99%** 儲存於骨骼；血漿鈣分為游離型（**50%**，為活性形式）、與白蛋白結合型（**40%**）、與硫酸根/磷酸根結合型（**10%**）
+- ICU 低血鈣常見原因：**敗血症**、**大量輸血**（citrate 整合）、**急性胰臟炎**、**外科低副甲狀腺症**
+- 症狀性低血鈣治療：先用 **200 mg 元素鈣**（約 22 mL 的 10% calcium gluconate）靜脈注射 > 10 分鐘，後以 **1–2 mg/kg/hr** 連續輸注 6–12 小時
+- 靜脈注射鈣制劑在危重症病人可能加重**多器官衰竭**（細胞內鈣超載導致細胞損傷），應謹慎使用
+- 磷酸鹽置換時，若血漿 K⁺ ≥ 4 mEq/L 選用** sodium phosphate**；若 K⁺ < 4 mEq/L 選用 **potassium phosphate**
+
+| 臨床數值 | 說明 |
+|---|---|
+| 總血清鈣正常值 | 8.5–10.5 mg/dL |
+| 游離血清鈣正常值 | 4.5–5.6 mg/dL |
+| 血清磷酸鹽正常值 | 2.5–4.5 mg/dL |
+| 游離鈣占血漿鈣比例 | ~50% |
+| 10% CaCl₂ 元素鈣含量 | 27 mg/mL |
+| 10% Ca gluconate 元素鈣含量 | 9 mg/mL |
+| 10% CaCl₂ 滲透壓 | 2,000 mosm/L |
+| 10% Ca gluconate 滲透壓 | 680 mosm/L |
+
 ---
 
 ## Calcium Basics
