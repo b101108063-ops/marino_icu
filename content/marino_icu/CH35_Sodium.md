@@ -6,19 +6,17 @@ chapter: "CH35"
 title: "Sodium"
 ---
 
-## Chapter 35: Sodium
-
-> People say life can't exist without air, but it does under water; in fact, it started in the sea.
+> 人們說沒有空氣就無法生存，但在水下可以；事實上，生命起源於海洋。
 > — Richard Feynman
 
-Life originated in a 3.5% salt water solution (i.e., the salinity of the ocean), and humans have retained some of that heritage, since our cells are bathed in a 0.6% salt water solution. The salinity (sodium concentration) of this extracellular bath is highly regulated, because it plays an important role in determining the volume of the intracellular and extracellular fluid compartments.
+生命起源於 3.5% 的鹽水溶液（即海洋的鹽度），而人類保留了部分這種特質，因為我們的細胞浸泡在 0.6% 的鹽水溶液中。這個細胞外液的鹽度（sodium 濃度）受到嚴格調控，因為它在決定細胞內液和細胞外液區室體積方面起著重要作用。
 
-This chapter begins by describing the forces that determine the distribution of total body water, and the importance of sodium in determining these forces, and then presents an organized approach to the "dysnatremias" (1,2); i.e., hypernatremia and hyponatremia.
+本章首先描述決定全身水份分佈的力量，以及 sodium 在決定這些力量中的重要性，然後介紹「滲透異常」（dysnatremias）的系統性處理方法（1,2）；即高血鈉和低血鈉。
 
 ## 導讀摘要
 
 - **滲透活性**（Osmotic Activity）決定水分子在細胞內外液之間的分佈；**有效滲透活性**（Effective Osmotic Activity）才是驅動水分子跨膜移動的力量
-- **鈉離子**占血漿有效滲透壓的約 **98%**，是調控細胞外液體積與分佈的首要因子
+- **Sodium 離子**占血漿有效滲透壓的約 **98%**，是調控細胞外液體積與分佈的首要因子
 - **高血鈉**（Hypernatremia）可分為低血容量性、等血容量性、高血容量性；所有高血鈉病人的體液均為低張性
 - **低血鈉**（Hyponatremia）需先排除**假性低血鈉**（Pseudohyponatremia）；有症狀性低血鈉建議用 **3% NaCl** 治療，增量上限：5 mEq/L per 2 hr、10 mEq/L per 5 hr
 - 血漿滲透壓計算公式：**Posm = (2 × Na) + (glucose / 18) + (BUN / 2.8)**；有效滲透壓不計 BUN
@@ -134,7 +132,7 @@ Effective Posm = (2 × Na) + (glucose / 18)
 
 如果從有效血漿滲透壓公式中移除 glucose，計算的 Posm 為 280 mosm/kg H₂O，這是包含 glucose 的計算 Posm（即 285 mosm/kg H₂O）的 98%。這說明了以下事實：
 
-1. **Sodium 佔有效血漿滲透壓的 98%。**
+1. **Sodium 占有效血漿滲透壓的 98%。**
 
 2. **細胞外液（血漿）中的 sodium 濃度是決定全身水分布在細胞內與細胞外液區室之主要因素**，因此也是細胞外液體積的主要決定因素。
 
@@ -162,31 +160,37 @@ Hypernatremia 會增加細胞外液的滲透壓，這會將水從細胞中抽出
 
 ## Hyponatremia
 
-*（來源有完整內容繼續）*
+低血鈉（Hyponatremia）在 ICU 中常見，且可能危及生命，特別是當血清 Na⁺ 快速下降時。本節介紹 hyponatremia 的系統性處理方法。
 
 ### Clinical Conditions Associated with Pseudohyponatremia
+
+**假性低血鈉**（Pseudohyponatremia）是指血清 sodium 濃度降低但滲透壓正常的狀況，常見於以下臨床狀況：
 
 **表 35.2 — 與假性低血鈉相關的臨床狀況**
 
 | 機制 | 疾病狀況 |
 |---|---|
-| Hyperlipidemia | |
-| Hyperproteinemia | |
-| Glucose 升高 | |
+| **Hyperlipidemia** | 乳糜性血清 |
+| **Hyperproteinemia** | 多發性骨髓瘤、Waldenström 巨球蛋白血症 |
+| **Glucose 升高** | 未控制之糖尿病 |
 
 ### Hypertonic Saline for Symptomatic Hyponatremia
+
+有症狀的低血鈉（症狀包括意識障礙、癲癇發作、昏迷）需要積極治療以防止腦水腫惡化。
 
 **表 35.3 — 有症狀低血鈉的高張鹽水治療**
 
 1. **使用 3% NaCl**（Na⁺ = 153 mEq/L，滲透壓 = 1,026 mosm/L）。
 2. 給予靜脈注射 **2 mL/kg**（或 150 mL）的靜脈注射劑量，每隔數小時重複一次，直至症狀緩解。此療程可經周邊靜脈給予。
 3. 在血清 Na⁺ 增加 **5 mEq/L** 後進行評估——如果沒有改善，應考慮其他導致症狀的原因。
-4. **建議遵循以下限制**作為預防滲透性脫髓鞘的措施：
+4. **建議遵循以下限制**作為預防滲透性脫髓鞘（osmotic demyelination syndrome）的措施：
    - **(a)** 血清 Na⁺ 的初始增量不應超過 **2 小時內 5 mEq/L**，或 **5 小時內 10 mEq/L**。
    - **(b)** 血清 Na⁺ 的每日增量不應超過**第一天 10 mEq/L**，以及**後續每天 8 mEq/L**。
    - **(c)** 最終血漿 Na⁺ 不應超過 **130 mEq/L**。
 
 ### Desmopressin to Prevent or Reverse Overcorrection of Hyponatremia
+
+如果低血鈉的校正速度超過上述限制，可以使用 desmopressin 來預防或逆轉過度校正。
 
 **表 35.4 — Desmopressin 預防或逆轉低血鈉過度校正**
 
@@ -202,5 +206,5 @@ Hypernatremia 會增加細胞外液的滲透壓，這會將水從細胞中抽出
 
 **注意事項：**
 
-- 當低血鈉是由於 ADH 不受調節的釋放所引起時，**不建議使用** desmopressin。
+- 當低血鈉是由於 ADH 不受調節的釋放所引起時（syndrome of inappropriate ADH secretion, SIADH），**不建議使用** desmopressin。
 - 在使用 desmopressin 治療期間，必須限制水分攝取。

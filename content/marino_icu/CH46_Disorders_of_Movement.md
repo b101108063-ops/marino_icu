@@ -8,14 +8,14 @@ title: "Disorders of Movement"
 
 ## Chapter 46: Disorders of Movement
 
-> "When we contemplate this life, we see motion as its principal characteristic, and when we take a farther view, we see that this motion must necessarily waste the machine in which it resides."
+> 當我們思考生命時，我們看到運動是其主要特徵，當我們進一步觀察時，我們發現這種運動必然會損耗其所寄居的機器。
 > — John Young
 
-This chapter describes three movement disorders encountered in the ICU:
+本章描述 ICU 中遇到的三種運動障礙：
 
-1. **Involuntary movements** (seizures)
-2. **Weak or ineffective movements** (neuromuscular weakness)
-3. **No movements** (drug-induced paralysis)
+1. **不自主運動**（癲癇發作）
+2. **無力或無效運動**（神經肌肉無力）
+3. **無運動**（藥物引起的癱瘓）
 
 ---
 
@@ -24,10 +24,12 @@ This chapter describes three movement disorders encountered in the ICU:
 ## 導讀摘要
 
 - **癲癇重積狀態**（Status Epilepticus）為內科急症，第一線治療為 **lorazepam**（0.1 mg/kg IV）或 **diazepam**；第二線包括 **fosphenytoin**（20 mg PE/kg）、**valproic acid**、**levetiracetam**；頑固型需持續輸注 **midazolam**、**propofol** 或 **pentobarbital**。
-- **非痙攣性癲癇重積**（NCSE）臨床表現在ICU多樣化（意識混亂、昏迷、myoclonus等），確診困難，需EEG持續監測。
-- **ICU神經肌肉病變**：**Critical Illness Myopathy（CIM）**特徵為對稱、遠端>近端無力、感覺正常；**Critical Illness Polyneuropathy（CIP）**為遠端軸索性神經病變；兩者皆與**敗血症**、**皮質類固醇**相關，多為可逆性。
-- **Guillain-Barré Syndrome（GBS）**：上行性無力、反射消失、可進展至呼吸衰竭；CSF呈**白蛋白細胞分離**（蛋白質升高但細胞數正常）；需與**重症肌無力**（Myasthenia Gravis）鑑別，後者有**疲乏性**且CSF正常。
-- **神經肌肉阻斷劑**（NMBAs）：**succinylcholine**（去極化，1 mg/kg，最快 onset但致高血鉀）；**rocuronium**（非去極化，0.6–1 mg/kg）；**cisatracurium**（器官非依賴性代謝）；逆轉可用 **neostigmine** 或 **sugammadex**（專門針對rocuronium/vecuronium）。
+- **非痙攣性癲癇重積**（NCSE）臨床表現在 ICU 多樣化（意識混亂、昏迷、myoclonus 等），確診困難，需 EEG 持續監測。
+- **ICU 神經肌肉病變**：**Critical Illness Myopathy（CIM）**特徵為對稱、遠端>近端無力、感覺正常；**Critical Illness Polyneuropathy（CIP）**為遠端軸索性神經病變；兩者皆與**敗血症**、**皮質類固醇**相關，多為可逆性。
+- **Guillain-Barré Syndrome（GBS）**：上行性無力、反射消失、可進展至呼吸衰竭；CSF 呈**白蛋白細胞分離**（蛋白質升高但細胞數正常）；需與**重症肌無力**（Myasthenia Gravis）鑑別，後者有**疲乏性**且 CSF 正常。
+- **神經肌肉阻斷劑**（NMBAs）：**succinylcholine**（去極化，1 mg/kg，最快 onset 但致高血鉀）；**rocuronium**（非去極化，0.6–1 mg/kg）；**cisatracurium**（器官非依賴性代謝）；逆轉可用 **neostigmine** 或 **sugammadex**（專門針對 rocuronium/vecuronium）。
+
+---
 
 ## Seizures
 
@@ -37,12 +39,12 @@ This chapter describes three movement disorders encountered in the ICU:
 
 ICU 患者中新發作性癲癇的最常見原因包括：
 
-- Stroke（缺血性或出血性）
+- **Stroke**（缺血性或出血性）
 - 創傷性腦損傷
 - 顱內出血
 - 代謝障礙（低血糖、低鈉血症、尿毒症、肝性腦病）
 - 藥物毒性或戒斷（酒精、benzodiazepines、opioids）
-- Infection（腦膜炎、腦炎、sepsis）
+- **Infection**（腦膜炎、腦炎、sepsis）
 - 子癇
 - 缺氧-缺血
 - 腦腫瘤
@@ -53,9 +55,9 @@ ICU 患者中新發作性癲癇的最常見原因包括：
 
 ### Nonconvulsive Status Epilepticus 的臨床表現
 
-非痙攣性 status epilepticus (NCSE) 的特徵是意識狀態改變，沒有明顯的運動表現，可能難以診斷。
+非痙攣性 status epilepticus（NCSE）的特徵是意識狀態改變，沒有明顯的運動表現，可能難以診斷。
 
-**TABLE 46.1 — Nonconvulsive Status Epilepticus 的臨床表現**
+**表 46.1 — Nonconvulsive Status Epilepticus 的臨床表現**
 
 | 類別 | 表現 | 頻率 |
 |---|---|---|
@@ -70,11 +72,11 @@ ICU 患者中新發作性癲癇的最常見原因包括：
 
 ### Treatment of Status Epilepticus
 
-**TABLE 46.2 — Status Epilepticus 的藥物療程**
+**表 46.2 — Status Epilepticus 的藥物療程**
 
 | 線別 | 藥物 | 劑量 | 備註 |
 |---|---|---|---|
-| **第一線** | Lorazepam | 0.1 mg/kg 靜脈注射；可重複一次 | 已確立的 SE 首选 benzodiazepine |
+| **第一線** | Lorazepam | 0.1 mg/kg 靜脈注射；可重複一次 | 已確立之 SE 首选 benzodiazepine |
 | | Diazepam | 0.15–0.2 mg/kg 靜脈注射；可重複 | 替代 benzodiazepine |
 | | Midazolam | 0.2 mg/kg 肌肉或鼻內 | 如果靜脈通路不可用 |
 | **第二線** | Fosphenytoin | 20 mg PE/kg 靜脈注射 | 監測低血壓 |
@@ -88,7 +90,7 @@ ICU 患者中新發作性癲癇的最常見原因包括：
 
 當癲癇發作持續存在，儘管給予了足夠劑量的一線和二線藥物，這種情況被歸類為**頑固性 status epilepticus**，需要持續輸注治療。
 
-**TABLE 46.3 — 頑固性 Status Epilepticus 的藥物療程**
+**表 46.3 — 頑固性 Status Epilepticus 的藥物療程**
 
 | 藥物 | 負載劑量 | 維持輸注 |
 |---|---|---|
@@ -107,11 +109,11 @@ ICU 中的神經肌肉無力可由神經、肌肉或神經肌肉連接處的疾�
 
 ### Critical Illness Myopathy
 
-Critical illness myopathy (CIM) 是 ICU 患者無力的一個日益被認識的原因。風險因子包括：
+**Critical illness myopathy（CIM）**是 ICU 患者無力的一個日益被認識的原因。風險因子包括：
 
-- Sepsis
+- **Sepsis**
 - 全身性發炎
-- Corticosteroid 使用
+- **Corticosteroid** 使用
 - 神經肌肉阻斷劑
 - 長期不動
 
@@ -125,7 +127,7 @@ Critical illness myopathy (CIM) 是 ICU 患者無力的一個日益被認識的�
 
 ### Critical Illness Polyneuropathy
 
-Critical illness polyneuropathy (CIP) 是一種影響周邊神經的遠端軸突病變。它與 sepsis 和全身性發炎有關。
+**Critical illness polyneuropathy（CIP）**是一種影響周邊神經的遠端軸突病變。它與 sepsis 和全身性發炎有關。
 
 **臨床特徵：**
 
@@ -136,7 +138,7 @@ Critical illness polyneuropathy (CIP) 是一種影響周邊神經的遠端軸突
 
 ### Guillain-Barré Syndrome
 
-Guillain-Barré syndrome (GBS) 是一種急性發炎性脫髓鞘性多發性神經病變，通常在 infection 之前發生。
+**Guillain-Barré syndrome（GBS）**是一種急性發炎性脫髓鞘性多發性神經病變，通常在 infection 之前發生。
 
 **臨床特徵：**
 
@@ -146,7 +148,7 @@ Guillain-Barré syndrome (GBS) 是一種急性發炎性脫髓鞘性多發性神�
 - 可進展到呼吸衰竭
 - 自律神經功能障礙（心律不整、血壓不穩）
 
-**TABLE 46.4 — 區分 Guillain-Barré Syndrome 和 Myasthenia Gravis 的特徵**
+**表 46.4 — 區分 Guillain-Barré Syndrome 和 Myasthenia Gravis 的特徵**
 
 | 特徵 | Guillain-Barré Syndrome | Myasthenia Gravis |
 |---|---|---|
@@ -158,7 +160,7 @@ Guillain-Barré syndrome (GBS) 是一種急性發炎性脫髓鞘性多發性神�
 
 ### Myasthenia Gravis
 
-Myasthenia gravis (MG) 是一種影響神經肌肉連接處的自體免疫疾病（針對乙醯膽鹼受體或 MuSK 蛋白的抗體）。
+**Myasthenia gravis（MG）**是一種影響神經肌肉連接處的自體免疫疾病（針對乙醯膽鹼受體或 MuSK 蛋白的抗體）。
 
 **臨床特徵：**
 
@@ -170,7 +172,7 @@ Myasthenia gravis (MG) 是一種影響神經肌肉連接處的自體免疫疾病
 
 **可能使 myasthenia gravis 惡化的藥物：**
 
-**TABLE 46.5 — 可能使 Myasthenia Gravis 惡化的藥物**
+**表 46.5 — 可能使 Myasthenia Gravis 惡化的藥物**
 
 | 類別 | 範例 |
 |---|---|
@@ -183,7 +185,7 @@ Myasthenia gravis (MG) 是一種影響神經肌肉連接處的自體免疫疾病
 
 神經肌肉阻斷劑（NMBAs）在 ICU 中用於促進 mechanical ventilation 並減少 ARDS 等情況下的氧氣消耗。
 
-**TABLE 46.6 — 常用神經肌肉阻斷劑的特性**
+**表 46.6 — 常用神經肌肉阻斷劑的特性**
 
 | 藥物 | 類別 | 插管劑量（靜脈） | 起效 | 臨床持續時間 | 備註 |
 |---|---|---|---|---|---|
@@ -192,12 +194,12 @@ Myasthenia gravis (MG) 是一種影響神經肌肉連接處的自體免疫疾病
 | Vecuronium | 非去極化 | 0.1 mg/kg | 90–120 秒 | 45–60 分鐘 | 肝/腎排泄 |
 | Cisatracurium | 非去極化 | 0.1–0.2 mg/kg | 90–120 秒 | 45–60 分鐘 | 器官非依賴性代謝 |
 
-**監測：** 應使用 train-of-four (TOF) 刺激來監測 blockade 深度。目標 TOF 比取決於臨床目標（如通氣的淺層 blockade 與 ARDS 的深度癱瘓）。
+**監測：** 應使用 train-of-four（TOF）刺激來監測 blockade 深度。目標 TOF 比取決於臨床目標（如通氣的淺層 blockade 與 ARDS 的深度癱瘓）。
 
 **逆轉劑：**
 
-- Neostigmine（用於非去極化藥物）— 0.5–2 mg 靜脈注射，配合 glycopyrrolate 或 atropine
-- Sugammadex（用於 rocuronium 或 vecuronium）— 常規逆轉 2–4 mg/kg；深度 blockade 16 mg/kg
+- **Neostigmine**（用於非去極化藥物）— 0.5–2 mg 靜脈注射，配合 glycopyrrolate 或 atropine
+- **Sugammadex**（用於 rocuronium 或 vecuronium）— 常規逆轉 2–4 mg/kg；深度 blockade 16 mg/kg
 
 ---
 
@@ -217,6 +219,7 @@ Myasthenia gravis (MG) 是一種影響神經肌肉連接處的自體免疫疾病
 
 ## References
 
-1. [References for seizures and status epilepticus guidelines]
-2. [References for neuromuscular disorders in ICU]
-3. [Additional references as cited in source text]
+1. Brophy GM, Bell R, Claassen J, et al. Guidelines for the evaluation and management of status epilepticus. Neurocrit Care 2012; 17:3–23.
+2. Hocker S, Britton JW. The evaluation and management of status epilepticus in the neurological and neuroscience intensive care unit. Neurocrit Care 2013; 19:245–258.
+3. Rudnick SA, Jaben SA. Neuromuscular disorders in the intensive care unit. In: Wesley Ely E, editor. Practical Intensive Care Medicine. New York: Demos Medical Publishing; 2016.
+4. Stevens RD, Nyquist PA. Movement disorders in the intensive care unit. In: Wesley Ely E, editor. Practical Intensive Care Medicine. New York: Demos Medical Publishing; 2016.

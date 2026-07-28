@@ -8,7 +8,7 @@ title: "Severe Sepsis and Decreased Oxygen delivery"
 
 ## Chapter 22: Acute Pulmonary Embolism
 
-> "Doubt is not a pleasant condition, but certainty is absurd."
+> 懷疑是不愉快的狀態，但確定是荒謬的。
 > — Voltaire
 
 靜脈血栓栓塞（VTE）——包括深層靜脈血栓和肺栓塞——是全球心血管死亡的第三大原因，僅次於心肌梗塞和腦中風（1）。VTE 在 45 歲以上成人中的年發生率將近 10%（2）。ICU 患者發生 VTE 的風險較高，這使得第 5 章所述的 VTE 預防措施成為必要。本章聚焦於賦予 VTE 致命潛力的病症：急性肺栓塞。
@@ -26,7 +26,6 @@ title: "Severe Sepsis and Decreased Oxygen delivery"
 - 抗凝治療分層：低風險可用 **apixaban** 或 **rivaroxaban**；中風險用 **enoxaparin** **1 mg/kg** q12h**；高風險用 **unfractionated heparin** **80 IU/kg** IV** 起始
 - 急性肺栓塞的 CTPA 陰性結果需注意對比劑腎病風險（**CrCL <30** mL/min** 慎用）
 - VTE 在 ICU 患者中發生率高，屍體解剖研究顯示約 30% 住院患者有肺栓塞但生前未懷疑
-
 
 ### 臨床評估
 
@@ -60,7 +59,7 @@ title: "Severe Sepsis and Decreased Oxygen delivery"
 | 檢查 | 特點 |
 |---|---|
 | **靜脈超聲** | 陽性結果（30–50% 的急性 PE 可發現近端腿部深層靜脈血栓）可免除進一步檢查的必要。陰性結果不能排除 PE。 |
-| **CT 肺血管造影（CTPA）** | 陽性結果是偵測 PE 的首選方法。陰性結果在肌酸酐清除率（CrCL）**<30** mL/min** 時有對比劑誘發腎病變的風險；同時涉及高輻射劑量。 |
+| **CT 肺血管造影（CTPA）** | 陽性結果是偵測 PE 的首選方法。陰性結果在肌酸酐清除率（CrCL）**<30** mL/min 時有對比劑誘發腎病變的風險；同時涉及高輻射劑量。 |
 | **通氣-灌流肺部掃描** | 陽性結果可避免放射性對比劑暴露，且輻射劑量低於 CTPA。陰性結果在有肺部浸潤或 COPD 的情況下價值有限。 |
 | **導管定向血栓溶解** | 適用於有血流動力學不穩定的高風險 PE；需要專門技術。 |
 
