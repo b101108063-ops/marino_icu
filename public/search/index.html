@@ -42,7 +42,7 @@ var pages = [];
 async function init() {
   document.getElementById('status').textContent = '載入搜尋索引...';
   try {
-    var res = await fetch('/marino_icu/index.json');
+    var res = await fetch('https://b101108063-ops.github.io/marino_icu/index.json');
     if (!res.ok) throw new Error('HTTP ' + res.status);
     pages = await res.json();
     document.getElementById('status').textContent = '已載入 ' + pages.length + ' 個章節';
