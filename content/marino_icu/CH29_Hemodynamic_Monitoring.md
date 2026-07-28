@@ -10,37 +10,37 @@ title: "Hemodynamic Monitoring"
 > "Everything hinges on the matter of evidence."
 > — Carl Sagan
 
-Pneumonias that develop during mechanical ventilation can be characterized by one word: problematic. The problems include the nonspecific clinical presentation of ventilator-associated pneumonia, the uncertainties in identifying the culprit organism, and the difficulties created by the emergence of multidrug resistant organisms in this condition.
+在機械通氣期間發生的肺炎可以用一個詞來形容：棘手。問題包括：呼吸器相關肺炎的臨床表現不具特異性、識別致病菌的不確定性、以及此病中多重抗藥性生物出現的困難。
 
-This chapter addresses the multiple problems encountered in the approach to ventilator-associated pneumonia, and includes recommendations from the most recent clinical practice guidelines on the subject (1,2).
+本章討論呼吸器相關肺炎方法中遇到的多重問題，並包括該主題最新臨床實踐指南的建議（1,2）。
 
 ## 導讀摘要
 
 - VAP 占 ICU 院內肺炎 80%，又分早期（2–4 天）和晚期（**≥5** 天）；致病菌以革蘭氏陰性桿菌和葡萄球菌為主
 - 定量培養診斷 VAP：以 **10⁵ CFU/mL（氣管吸出物）**、**10³ CFU/mL（保護性刷檢）**、**10⁴ CFU/mL（支氣管肺泡灌洗）**為閾值
 - 胸膜積液分類：pH **<7.20** 且葡萄糖 <**60 mg**/dL 為需放置胸管的候選（第 3、4 類）
-- 經驗性抗生素選擇：低風險用 ****cefepime**** 或 ****levofloxacin**** 或 ****piperacillin**/tazobactam**；高風險需加覆蓋 MRSA（****vancomycin**** 或 ****linezolid****）
+- 經驗性抗生素選擇：低風險用 **cefepime** 或 **levofloxacin** 或 **piperacillin/tazobactam**；高風險需加覆蓋 MRSA（**vancomycin** 或 **linezolid**）
 - 多重耐藥菌風險因素：90 天內曾接受靜脈抗生素、免疫抑制、腎替代治療、敗血症休克
 
 
-### General Information
+### 一般資訊
 
-The following statements include some basic information about ventilator-associated pneumonia (VAP):
+以下陈述包括一些關於呼吸器相關肺炎（VAP）的基本資訊：
 
-1. ICU-acquired pneumonias are divided into ventilator-associated pneumonia (VAP), with onset **≥48** hours after intubation, and hospital-acquired pneumonia (HAP), with onset **≥48** hours after ICU admission in nonintubated patients. VAP is further classified as early onset (2–4 days after intubation) or late-onset (**≥5** days after intubation).
-2. VAP accounts for 80% of ICU-acquired pneumonias, and 60% of VAPs are late-onset.
-3. The predominant pathogens in VAP and HAP are gram-negative enteric organisms and staphylococci (see Table 29.1) (3). Approximately one-quarter of the infections are polymicrobial.
-4. Multidrug-resistant pathogens are a growing concern and are more likely to appear in patients who have received intravenous antibiotics in the past 90 days, in patients who are immunocompromised or receiving renal replacement therapy, and in patients with septic shock (2).
-5. Viruses are implicated in about 20% of cases of VAP and HAP (4). Candida species are common isolates in respiratory secretions but are not known to cause pneumonia (5).
-6. VAP prolongs the duration of mechanical ventilation and increases the length of stay in the ICU (5), but the impact of VAP on survival is unclear (6). Some studies show that VAP has little or no effect on mortality rate (7,8), while others show a small but significant increase in mortality rate (3).
+1. ICU 獲得性肺炎分為：呼吸器相關肺炎（VAP），即插管後 **≥48** 小時發病；以及院內獲得性肺炎（HAP），即非插管患者 ICU 入住後 **≥48** 小時發病。VAP 進一步分為早期發病（插管後 2–4 天）或晚期發病（**≥5** 天）。
+2. VAP 占 ICU 獲得性肺炎的 80%，60% 的 VAP 為晚期發病。
+3. VAP 和 HAP 的主要致病菌是革蘭氏陰性腸道生物和葡萄球菌（見表 29.1）（3）。大約四分之一的感染是多菌種的。
+4. 多重耐藥致病菌是一個日益關注的問題，更可能出現在過去 90 天內接受過靜脈抗生素的患者、免疫抑制或接受腎替代治療的患者、以及敗血症休克患者中（2）。
+5. 病毒在大約 20% 的 VAP 和 HAP 病例中被涉及（4）。Candida 種是呼吸道分泌物中的常見分離物，但已知不會引起肺炎（5）。
+6. VAP 延長了機械通氣的持續時間並增加了 ICU 住院時間（5），但 VAP 對存活的影響尚不清楚（6）。一些研究表明 VAP 對死亡率幾乎沒有或沒有影響（7,8），而其他研究表明死亡率有小幅但顯著的增加（3）。
 
-### Preventive Measures
+### 預防措施
 
-Aspiration of microbes from the oropharynx is the inciting event in most cases of VAP (9). Gram-negative aerobic bacilli are the predominant pathogens in the oropharynx of ICU patients (see Figure 4.4), and they are also the predominant pathogens in VAP, as shown in Table 29.1 (3). Early cases of VAP (i.e., those appearing 2–4 days after intubation) are most likely caused by pathogens that are dragged into the airways during intubation.
+口腔咽部分泌物的吸引是大多數 VAP 病例中的誘發事件（9）。革蘭氏陰性需氧桿菌是 ICU 患者口腔咽部分泌物中的主要致病菌（見圖 4.4），它們也是 VAP 中的主要致病菌，如表 29.1 所示（3）。早期 VAP（即插管後 2–4 天出現的那些）最有可能是由插管期間拖入氣道的致病菌引起的。
 
-**Table 29.1: Common Isolates in ICU-Acquired Pneumonia**
+**表 29.1：ICU 獲得性肺炎的常見分離物**
 
-| Pathogen | Early VAP (Day 2–4) | Late VAP (≥Day 5) | HAP (**≥48** hrs) |
+| 致病菌 | 早期 VAP（第 2–4 天） | 晚期 VAP（≥第 5 天） | HAP（**≥48** 小時） |
 |---|---|---|---|
 | Enterobacteriaceae | 32% | 30% | 26% |
 | P. aeruginosa | 14% | 21% | 20% |
@@ -50,68 +50,68 @@ Aspiration of microbes from the oropharynx is the inciting event in most cases o
 | Polymicrobial | 25% | 22% | 38% |
 | None identified | 34% | 21% | 16% |
 
-#### The Ventilator Bundle
+#### 呼吸器套組
 
-The "ventilator bundle" is a set of evidence-based interventions designed to reduce the incidence of VAP:
+「呼吸器套組」是一組旨在減少 VAP 發生率的循證干預措施：
 
-**Table 29.2: The Ventilator Bundle**
+**表 29.2：呼吸器套組**
 
 | # | Bundle Element |
 |---|---|
-| 1 | Elevate head of the bed to 30–45° above horizontal |
-| 2 | Prophylaxis for stress ulcer bleeding |
-| 3 | Prophylaxis for venous thromboembolism |
-| 4 | Daily sedation holiday |
-| 5 | Daily assessment of readiness to extubate |
+| 1 | 將床頭抬高至水平面以上 30–45° |
+| 2 | 預防應激性潰瘍出血 |
+| 3 | 預防靜脈血栓栓塞 |
+| 4 | 每日鎮靜假期 |
+| 5 | 每日評估拔管就緒性 |
 
-### Diagnosis of VAP
+### VAP 的診斷
 
-The diagnosis of VAP is challenging because the clinical findings are neither sensitive nor specific. The diagnostic value of clinical findings and microbiological tests is summarized below.
+VAP 的診斷具有挑戰性，因為臨床發現既不敏感也不具特異性。臨床發現和微生物測試的診斷價值摘要如下。
 
-#### Clinical Findings
+#### 臨床發現
 
-**Table 29.3: Diagnostic Value of Clinical Findings in VAP Verified by Lung Biopsy**
+**表 29.3：VAP 臨床發現的診斷價值（經肺部切片驗證）**
 
-| Finding | Sensitivity | Specificity | Diagnostic Odds Ratio |
+| 發現 | 敏感性 | 特異性 | 診斷勝算比 |
 |---|---|---|---|
-| Fever | 66% | 54% | 2.3 |
-| Leukocytosis | 64% | 59% | 2.6 |
-| Purulent secretions | 77% | 39% | 2.1 |
-| Infiltrate on chest X-ray | 89% | 26% | 2.8 |
+| 發燒 | 66% | 54% | 2.3 |
+| 白血球增多 | 64% | 59% | 2.6 |
+| 膿性分泌物 | 77% | 39% | 2.1 |
+| 胸部 X 光浸潤 | 89% | 26% | 2.8 |
 
-#### Quantitative Cultures
+#### 定量培養
 
-**Table 29.4: Diagnostic Value of Quantitative Cultures in VAP Verified by Lung Biopsy**
+**表 29.4：定量培養在 VAP 診斷中的價值（經肺部切片驗證）**
 
-| Method | Sensitivity | Specificity | Diagnostic Odds Ratio |
+| 方法 | 敏感性 | 特異性 | 診斷勝算比 |
 |---|---|---|---|
-| Tracheal aspirate (**≥10**⁵ CFU/mL) | 76% | 68% | 6.6 |
-| Protected brush specimen (**≥10**³ CFU/mL) | 61% | 77% | 5.1 |
-| Bronchoalveolar lavage (**≥10**⁴ CFU/mL) | 71% | 80% | 9.6 |
+| 氣管吸出物（**≥10⁵** CFU/mL） | 76% | 68% | 6.6 |
+| 保護性刷檢標本（**≥10³** CFU/mL） | 61% | 77% | 5.1 |
+| 支氣管肺泡灌洗（**≥10⁴** CFU/mL） | 71% | 80% | 9.6 |
 
-### Parapneumonic Effusions
+### 肺炎旁肋膜積液
 
-Patients with VAP may develop pleural effusions, which require assessment to determine whether chest tube drainage is necessary.
+VAP 患者可能出現肋膜積液，需要評估以確定是否需要胸管引流。
 
-**Table 29.5: Classification of Parapneumonic Effusions**
+**表 29.5：肺炎旁肋膜積液的分級**
 
-| Character of Effusion | Pleural Fluid Analysis | Chest Tube |
+| 積液特徵 | 肋膜液分析 | 胸管 |
 |---|---|---|
-| **Category 1:** **<10** mm, free-flowing | Thoracentesis not necessary | No |
-| **Category 2:** **>10** mm but **<50**% hemithorax, free-flowing | pH **>7.20**, Glucose >**60 mg**/dL, negative Gram stain & culture | No |
-| **Category 3:** Loculated, or **>50**% hemithorax | pH **<7.20**, Glucose <**60 mg**/dL, positive Gram stain or culture | Yes |
-| **Category 4:** Purulent | Same as Category 3 | Yes |
+| **類別 1：<10** mm，游離流動 | 不需要胸腔穿刺 | 否 |
+| **類別 2：>10** mm 但 **<50%** 半胸，游離流動 | pH **>7.20**，葡萄糖 >**60 mg**/dL，Gram 染色和培養陰性 | 否 |
+| **類別 3：分隔，或 >50%** 半胸 | pH **<7.20**，葡萄糖 **<60 mg**/dL，Gram 染色或培養陽性 | 是 |
+| **類別 4：化膿性** | 與類別 3 相同 | 是 |
 
-### Empiric Antibiotic Therapy
+### 經驗性抗生素治療
 
-**Table 29.6: Empiric Antibiotic Regimens for Suspected VAP**
+**表 29.6：懷疑 VAP 的經驗性抗生素療程**
 
-| Patient Risk | Antibiotic Regimen |
+| 患者風險 | 抗生素療程 |
 |---|---|
-| **Low risk:** MSSA + gram-negative (including antipseudomonal) coverage | Cefepime OR Levofloxacin OR Piperacillin/Tazobactam |
-| **High risk:** Add MRSA coverage | Vancomycin OR Linezolid |
-| **Gram-negative + antipseudomonal β-lactam** | Piperacillin/Tazobactam OR Cefepime OR Meropenem |
-| **Gram-negative + antipseudomonal non-β-lactam (high MDR risk)** | Levofloxacin OR aminoglycoside |
+| **低風險：** MSSA + 革蘭氏陰性（包括抗銅綠假單胞菌）覆蓋 | Cefepime 或 Levofloxacin 或 Piperacillin/Tazobactam |
+| **高風險：** 加 MRSA 覆蓋 | Vancomycin 或 Linezolid |
+| **革蘭氏陰性 + 抗銅綠假單胞菌 β-內醯胺** | Piperacillin/Tazobactam 或 Cefepime 或 Meropenem |
+| **革蘭氏陰性 + 抗銅綠假單胞菌非 β-內醯胺（高 MDR 風險）** | Levofloxacin 或 aminoglycoside |
 
 ### Bibliography
 

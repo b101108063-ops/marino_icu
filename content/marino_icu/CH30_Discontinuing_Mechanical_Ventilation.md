@@ -10,53 +10,53 @@ title: "Discontinuing Mechanical Ventilation"
 > "The spirit indeed is willing, but the flesh is weak."
 > — Matthew 26:41
 
-Discontinuing mechanical ventilation (popularly known as weaning from mechanical ventilation) is often a rapid and uneventful affair, but approximately one in three patients experiences difficulties in the transition to unassisted breathing (1). This chapter describes the process of removing patients from mechanical ventilation and the problems that can arise. The most recent clinical practice guidelines on this process are included in the bibliography at the end of the chapter (2–4).
+撤離機械通氣（俗稱從機械通氣「脫離」）通常是一個快速且順利的過程，但大約三分之一的患者在過渡到無輔助呼吸時會遇到困難（1）。本章描述將患者從機械通氣中移除的過程以及可能出現的問題。本章包括了該過程的最新臨床實踐指南（2–4）。
 
 ## 導讀摘要
 
 - 約 **1/3** 的患者在撤離呼吸器時遇到困難（weaning failure）；控制性通氣 48 小時內可使橫膈肌力下降約 50%
 - 每日中斷鎮靜（sedation holiday）和淺層鎮靜可縮短呼吸器使用時間；benzodiazepine（尤其 midazolam）會延遲甦醒
-- **Spontaneous Breathing Trial（SBT）**條件：****SpO₂** **≥90**%** with ****FiO₂** **≤50**%**，****PEEP** ≤**8 cm H₂O****，**PaCO₂** 正常或符合基準
-- SBT 成功預測指標：tidal volume ****4–**6 mL/kg**** **PBW****，呼吸頻率 ****<40** 次/分鐘**，RR/VT 比 ****60–**105 breaths/min****/L**，最大吸氣壓 **>−**20 cm H₂O****
+- **Spontaneous Breathing Trial（SBT）**條件：**SpO₂ ≥90%** with **FiO₂ ≤50%**，**PEEP** ≤**8 cm H₂O**，**PaCO₂** 正常或符合基準
+- SBT 成功預測指標：tidal volume **4–6 mL/kg** **PBW**，呼吸頻率 **<40 次/分鐘**，RR/VT 比 **60–105 breaths/min**/L，最大吸氣壓 **>−20 cm H₂O**
 - 早期活動和物理治療可促進脫離呼吸器的成功率，建議對穩定患者執行漸進式復健計畫
 
 
-### Ventilator Strategies That Facilitate Discontinuation
+### 有助於撤離的呼吸器策略
 
-Attention to the following issues during mechanical ventilation can facilitate the transition to spontaneous breathing.
+在機械通氣期間注意以下問題可以促進過渡到自發呼吸。
 
-#### Patient-Triggered Breaths
+#### 患者觸發的呼吸
 
-The diaphragm is an involuntary muscle that contracts whenever we take a breath, and this continues as long as there is a central drive to breathe. However, mechanical ventilation can promote diaphragm weakness (5), and this ventilator-induced diaphragm dysfunction is particularly prominent during controlled ventilation, when the patient is not allowed to initiate a ventilator breath. Controlled ventilation is associated with a significant (~50%) reduction in the force of diaphragmatic contractions.
+橫膈是一塊不隨意肌，只要我們有呼吸的中樞驅動力就會收縮，這種情況會持續。然而，機械通氣可以促進橫膈無力（5），這種呼吸器誘發的橫膈功能障礙在控制性通氣期間尤其突出，因為患者不被允許啟動呼吸器呼吸。控制性通氣與橫膈收縮力的大約 50% 減少有關。
 
-Observations like those described above indicate that allowing patients to trigger ventilator breaths (e.g., by avoiding neuromuscular paralysis or heavy sedation) will help to preserve the strength of the diaphragm and should facilitate the transition from ventilatory support to spontaneous breathing.
+上述觀察表明，允許患者觸發呼吸器呼吸（例如，避免使用神經肌肉麻痺或深度鎮靜）將有助於保持橫膈的強度，並應促進從通氣支持過渡到自發呼吸。
 
-#### Physiotherapy
+#### 物理治療
 
-Prolonged bed rest and physical inactivity leads to deconditioning and generalized muscle weakness, and this is considered a contributing factor in difficulties weaning from mechanical ventilation. A program of progressive physiotherapy—including sitting on the edge of the bed, standing, and ambulation—has been shown to facilitate weaning from mechanical ventilation (7), and protocolized physiotherapy is recommended for all ventilator-dependent patients who are otherwise clinically stable (2).
+長時間臥床休息和身體不活動導致體能下降和全身肌肉無力，這被認為是從機械通氣撤離困難的促成因素。包括坐在床邊、站立和行走在內的漸進式物理治療計畫已被證明可以促進從機械通氣撤離（7），建議對所有依賴呼吸器且臨床穩定的患者執行方案化物理治療（2）。
 
-#### Sedation Practices
+#### 鎮靜實踐
 
-Deep sedation (where the patient is not arousable) and sustained use of benzodiazepines (especially midazolam) will delay awakening (8), and this delays liberation from mechanical ventilation (8). As a result, the most recent guidelines on sedation in ventilator-dependent patients (9) include the following recommendations:
+深度鎮靜（患者不可喚醒）和持續使用 benzodiazepine（特別是 midazolam）會延遲甦醒（8），這會延遲從機械通氣中解放（8）。因此，最新的依賴呼吸器患者鎮靜指南（9）包括以下建議：
 
-1. Maintain a light level of sedation, where patients are easily aroused.
-2. Consider daily "sedation holidays" to prevent the accumulation of sedative agents.
-3. Avoid or minimize the use of benzodiazepines for sedation.
+1. 維持淺層鎮靜，患者易於喚醒。
+2. 考慮每日「鎮靜假期」以防止鎮靜劑的累積。
+3. 避免或盡量減少使用 benzodiazepine 進行鎮靜。
 
-For more on sedation during mechanical ventilation, see Chapter 6.
+有關機械通氣期間鎮靜的更多內容，見第 6 章。
 
-### The Spontaneous Breathing Trial
+### 自發呼吸試驗
 
-#### Readiness
+#### 就緒性
 
-The management of ventilator-dependent patients requires constant vigilance for signs that the patient is ready for a trial of spontaneous breathing. These "readiness criteria" are listed in the table below. Suitable candidates should have adequate arterial oxygenation (i.e., **SpO₂** **≥90**%) while breathing non-toxic concentrations of oxygen (FIO₂ **≤50**%) at low levels of **PEEP** (≤**8 cm H₂O**), and should have an arterial PCO₂ that is normal or at baseline levels. Patients should also be hemodynamically stable and either awake or arousable and cooperative.
+依賴呼吸器患者的處置需要持續警覺患者已準備好進行自發呼吸試驗的跡象。這些「就緒性標準」列於下表中。合適的候選人應該有足夠的动脉氧合（即，在非毒性濃度的氧氣（FIO₂ **≤50%**）和低 **PEEP** 水平（≤**8 cm H₂O**）下呼吸時 **SpO₂** **≥90%**），並且應該有正常的或處於基準水平的动脉 PCO₂。患者也應該血流動力學穩定，且清醒或可喚醒並配合。
 
-**Table 30.1: Parameters for a Spontaneous Breathing Trial**
+**表 30.1：自發呼吸試驗的參數**
 
-| Parameter | Value |
+| 參數 | 數值 |
 |---|---|
-| **Readiness Criteria** | **SpO₂** **≥90**% with FIO₂ **≤50**%; **PEEP** ≤**8 cm H₂O**; **PaCO₂** normal or at baseline; hemodynamically stable; arousable and cooperative |
-| **Predictors of Success** | Tidal volume (VT) **4–**6 mL/kg**** predicted body weight (**PBW**); respiratory rate (RR) <**40 breaths/min**; RR/VT ratio = **60–**105 breaths/min****/L; maximum inspiratory pressure >−**20 cm H₂O** |
+| **就緒標準** | FIO₂ **≤50%** 下 **SpO₂** **≥90%**；**PEEP** ≤**8 cm H₂O**；**PaCO₂** 正常或處於基準；血流動力學穩定；可喚醒並配合 |
+| **成功預測指標** | Tidal volume（VT）**4–6 mL/kg** 預測體重（**PBW**）；呼吸頻率（RR）**<40 breaths/min**；RR/VT 比 = **60–105 breaths/min**/L；最大吸氣壓 >−**20 cm H₂O** |
 
 ### Bibliography
 
