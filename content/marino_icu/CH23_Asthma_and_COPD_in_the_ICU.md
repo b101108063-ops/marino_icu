@@ -16,13 +16,22 @@ This chapter describes the management of acute exacerbations of asthma and COPD,
 
 One point of interest deserves mention before proceeding: The management of asthma and COPD is centered on dilating the airways with adrenergic agents, which is very similar to the statement in the introductory quote. This statement was made almost 100 years ago, in 1931 (a).
 
+## 導讀摘要
+
+- 急性呼吸道阻塞的嚴重程度以 **PEFR（巔峰呼氣流速）** 判定：**≥70**% 預測值為輕度，**40–69%** 為中度，**<40**% 為重度
+- 藥物治療核心為 **短效 β₂- agonist（**albuterol**）**，哮喘可用 ****ipratropium**** 輔助；類固醇首選 ****methylprednisolone** **1 mg/kg** IV q6h**
+- 霧化器肺部沉積僅約 9%，MDI + spacer 可將肺部沉積提升至 20%，但呼出量顯著減少
+- COPD 急性惡化使用 ****prednisone** **40 mg** 等效劑量 daily ×5 天**，口服與靜脈療效相當
+- 嚴重氣流阻塞會導致內源性 **PEEP**（intrinsic **PEEP**），是由於無法完全吐氣導致肺過度充氣
+
+
 ### Monitoring Airway Obstruction
 
 The management of obstructive airways disease is guided by the severity of obstruction in the airways.
 
 #### Clinical Evaluation
 
-During acute exacerbations of asthma or COPD, the clinical examination is often unreliable for determining the severity of airway obstruction (7). There are usually signs of respiratory distress, including tachycardia, tachypnea, use of accessory muscles of respiration, and inability to complete sentences without taking a breath. There may also be altered mentation and pulsus paradoxus (i.e., an inspiratory drop in systolic pressure >12 mm Hg). However, none of these clinical findings is sensitive or specific for severe airway obstruction, and more objective measures are recommended (3).
+During acute exacerbations of asthma or COPD, the clinical examination is often unreliable for determining the severity of airway obstruction (7). There are usually signs of respiratory distress, including tachycardia, tachypnea, use of accessory muscles of respiration, and inability to complete sentences without taking a breath. There may also be altered mentation and pulsus paradoxus (i.e., an inspiratory drop in systolic pressure >**12 mm Hg**). However, none of these clinical findings is sensitive or specific for severe airway obstruction, and more objective measures are recommended (3).
 
 #### Measures of Peak Expiratory Flow
 
@@ -30,17 +39,17 @@ For spontaneously breathing patients, a readily obtainable bedside measure of ai
 
 | % Predicted PEFR | Severity of Obstruction |
 |---|---|
-| ≥70% | Mild |
-| 40–69% | Moderate |
-| <40% | Severe |
+| **≥70**% | Mild |
+| **40–69%** | Moderate |
+| **<40**% | Severe |
 
-In general, a PEFR <200 L/min indicates severe airway obstruction, and hypercapnia does not occur until the PEFR falls below 25% of predicted (8).
+In general, a PEFR <**200 L/min** indicates severe airway obstruction, and hypercapnia does not occur until the PEFR falls below 25% of predicted (8).
 
 > **Limitation:** The PEFR is effort-dependent, and accurate measurements require a maximum inspiratory effort (to total lung capacity) followed by a maximum expiratory effort (to residual lung volume). Patients with acute exacerbations of asthma and COPD are typically unable to perform these maneuvers because of respiratory distress, and monitoring PEFR has not been popular in the acute care setting (9). However, after respiratory distress subsides, periodic measurements of the PEFR can be used to monitor the course of the illness.
 
-#### Intrinsic PEEP
+#### Intrinsic **PEEP**
 
-One consequence of severe airflow obstruction is the inability to fully exhale the volume of air that is inhaled. The retained volume causes hyperinflation of the lungs and a positive pressure in the alveoli at the end of expiration. This positive end-expiratory pressure—called intrinsic PEEP—is a reflection of the severity of airflow obstruction, and it can be monitored during mechanical ventilation.
+One consequence of severe airflow obstruction is the inability to fully exhale the volume of air that is inhaled. The retained volume causes hyperinflation of the lungs and a positive pressure in the alveoli at the end of expiration. This positive end-expiratory pressure—called intrinsic **PEEP**—is a reflection of the severity of airflow obstruction, and it can be monitored during mechanical ventilation.
 
 ### Aerosol Drug Delivery
 
@@ -50,13 +59,13 @@ Aerosolized bronchodilators are the backbone of management for obstructive airwa
 
 The pneumatic or jet nebulizer operates on the same principle as an air-entrainment mask. A high-pressure gas source (e.g., 50 psi from a wall outlet) is passed through a narrow opening in the nebulizer, creating a high-velocity (jet) stream of gas that is passed over the opening of a narrow tube submerged in a drug solution. The gas jet draws the drug solution up the tube (by creating viscous drag) and then pulverizes the solution to create an aerosol spray that is inhaled by the patient.
 
-Small-volume jet nebulizers have a reservoir volume of 3–6 mL and can completely aerosolize the reservoir volume in less than 10 minutes (10). Large-volume nebulizers have a reservoir volume >200 mL and are used for continuous aerosol therapy.
+Small-volume jet nebulizers have a reservoir volume of 3–6 mL and can completely aerosolize the reservoir volume in less than 10 minutes (10). Large-volume nebulizers have a reservoir volume **>200** mL and are used for continuous aerosol therapy.
 
-> **Lung Deposition:** Although small-volume nebulizers can completely aerosolize a drug solution, only a fraction of the drug aerosol reaches the lungs. This is demonstrated in Table 23.1, which shows the distribution of aerosolized albuterol with different aerosol generator systems (11). When a nebulizer is used, most of the drug aerosol impacts on the delivery apparatus or is exhaled, and only 9% of the intended dose reaches the lungs.
+> **Lung Deposition:** Although small-volume nebulizers can completely aerosolize a drug solution, only a fraction of the drug aerosol reaches the lungs. This is demonstrated in Table 23.1, which shows the distribution of aerosolized **albuterol** with different aerosol generator systems (11). When a nebulizer is used, most of the drug aerosol impacts on the delivery apparatus or is exhaled, and only 9% of the intended dose reaches the lungs.
 
 **Table 23.1: Distribution of Aerosolized Albuterol by Delivery System**
 
-| Site of Deposition | Nebulizer (2.5 mg) | MDI (200 µg) | MDI + Spacer (200 µg) |
+| Site of Deposition | Nebulizer (**2.5 mg**) | MDI (200 µg) | MDI + Spacer (200 µg) |
 |---|---|---|---|
 | Exhaled gas | 20% | 66% | 2% |
 | Apparatus | 12% | 1% | 10% |
@@ -71,10 +80,10 @@ Small-volume jet nebulizers have a reservoir volume of 3–6 mL and can complete
 
 | Drug | Dosing Regimens |
 |---|---|
-| **Albuterol** | 2.5–5 mg (or 4–8 puffs) every 20 minutes for 3 doses, then hourly if needed, or continuous inhalation 5–15 mg/hr for up to 3 hours. Maintenance: 2.5 mg (or 2 puffs) every 4–6 hours. ⚠️ Aggressive dosing can elevate lactate levels. |
-| **Levalbuterol** | 1.25–2.5 mg (or 4–8 puffs) every 20 minutes for 3 doses, then hourly if needed for up to 3 hours. Maintenance: 1.25 mg (or 2 puffs) every 4–6 hours. Comment: No proven benefit over albuterol. |
-| **Ipratropium** | 0.5 mg every 20 minutes for 3 doses, then as needed. Can be added (0.5 mg/hr) to continuous albuterol inhalation. Use only if initial response to albuterol is unsatisfactory. |
-| **Corticosteroids** | Methylprednisolone 1 mg/kg intravenously every 6 hours, or prednisone 40–60 mg intravenously or orally daily. Taper as clinical improvement occurs. Administer early (within 1 hour of presentation). |
+| **Albuterol** | **2.5–**5 mg**** (or 4–8 puffs) every 20 minutes for 3 doses, then hourly if needed, or continuous inhalation **5–**15 mg****/hr for up to 3 hours. Maintenance: **2.5 mg** (or 2 puffs) every 4–6 hours. ⚠️ Aggressive dosing can elevate lactate levels. |
+| **Levalbuterol** | **1.25–**2.5 mg**** (or 4–8 puffs) every 20 minutes for 3 doses, then hourly if needed for up to 3 hours. Maintenance: **1.25 mg** (or 2 puffs) every 4–6 hours. Comment: No proven benefit over **albuterol**. |
+| **Ipratropium** | **0.5 mg** every 20 minutes for 3 doses, then as needed. Can be added (**0.5 mg**/hr) to continuous **albuterol** inhalation. Use only if initial response to **albuterol** is unsatisfactory. |
+| **Corticosteroids** | Methylprednisolone **1 mg/kg** intravenously every 6 hours, or **prednisone** **40–**60 mg**** intravenously or orally daily. Taper as clinical improvement occurs. Administer early (within 1 hour of presentation). |
 
 **Table 23.3: Comparison of Therapeutic Steroids**
 
@@ -91,10 +100,10 @@ Small-volume jet nebulizers have a reservoir volume of 3–6 mL and can complete
 
 | Drug | Dosing Regimens |
 |---|---|
-| **Albuterol** | 2.5–5 mg by nebulizer, or 2–8 puffs by MDI with spacer, every 4–6 hours. MDI is favored over nebulizer due to equivalent response at much lower dose. |
-| **Levalbuterol** | 1.25–2.5 mg by nebulizer, or 2–8 puffs by MDI with spacer, every 4–6 hours. More potent form of albuterol; no proven advantage. |
-| **Ipratropium** | 0.5 mg by nebulizer, or 2–8 puffs by MDI with spacer, every 4–6 hours. Use as combination therapy only when response to short-acting β₂-agonists is less than satisfactory. |
-| **Corticosteroids** | Prednisone-equivalents 40 mg daily for 5 days. Oral therapy is equivalent to intravenous therapy. |
+| **Albuterol** | **2.5–**5 mg**** by nebulizer, or 2–8 puffs by MDI with spacer, every 4–6 hours. MDI is favored over nebulizer due to equivalent response at much lower dose. |
+| **Levalbuterol** | **1.25–**2.5 mg**** by nebulizer, or 2–8 puffs by MDI with spacer, every 4–6 hours. More potent form of **albuterol**; no proven advantage. |
+| **Ipratropium** | **0.5 mg** by nebulizer, or 2–8 puffs by MDI with spacer, every 4–6 hours. Use as combination therapy only when response to short-acting β₂-agonists is less than satisfactory. |
+| **Corticosteroids** | Prednisone-equivalents **40 mg** daily for 5 days. Oral therapy is equivalent to intravenous therapy. |
 
 ### Bibliography
 

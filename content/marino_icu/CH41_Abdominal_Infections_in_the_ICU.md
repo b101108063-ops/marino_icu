@@ -16,7 +16,15 @@ This chapter describes abdominal infections that are related to the ICU stay, in
 
 ---
 
-## Acalculous Cholecystitis
+## Introduction
+
+## 導讀摘要
+
+- **無石性膽囊炎**（Acalculous Cholecystitis）好發於ICU重症患者，致病機轉與**低灌注**、**膽汁淤積**有關，診斷以**超聲**為首選，HIDA掃描為金標準。抗生素穿透膽汁佳者包括 **piperacillin-tazobactam**、**ceftriaxone**。
+- **困難梭狀桿菌感染**（*Clostridium difficile* Infection, CDI）為院內感染最常見病因之一，風險因子包括**高齡**、接觸醫療機構、**抗生素使用**，病理機轉為毒素A、B造成腸黏膜損傷，糞便移植（FMT）對復發性 CDI 治癒率高達 **80–100%**。
+- **院內CDI**（34–48%）與**氫離子幫浦抑制劑**（PPI）使用有潛在關聯，過度使用PPI應受節制。
+- **複雜性腹內感染**需積極源頭控制（手術修復），經驗性抗生素應覆盖**ESBL菌株**（首選 **meropenem**）及可能之**念珠菌**感染。
+- **腹部膿瘻**（Abscess）CT導引引流成功率高達 **90–95%**，手術大多無需。
 
 Acalculous cholecystitis is inflammation of the gallbladder without cystic duct obstruction by gallstones. It is an uncommon form of acute cholecystitis that typically occurs in critically ill patients and is more severe than its calculous counterpart.
 

@@ -14,7 +14,15 @@ Indwelling bladder catheters are commonplace in critically ill patients, and cat
 
 ---
 
-## Pathogenesis
+## Introduction
+
+## 導讀摘要
+
+- **導尿管相關泌尿道感染**（CAUTI）最常見致病菌為 **大腸桿菌**（*Escherichia coli*，28%）、**肺炎克雷伯氏菌**（23%）及**腸球菌**（17%），生物膜形成是持續菌尿的關鍵機制。
+- **NHSN診斷標準**：需導尿管留置**≥2天**、至少一項**發燒**（>38°C）或泌尿道症狀、且尿培養**≥10⁵ CFU/mL**。膿尿（>10 WBC/HPF）無特異性，但**無膿尿**可排除CAUTI。
+- **無症狀菌尿**不需抗生素治療；CAUTI治療時間通常**7–14天**，首選 **piperacillin-tazobactam** 或 **carbapenem**。
+- **念珠菌尿**（Candiduria）在留置導尿管患者多為 colonisation，若有系統性症狀則需評估是否為**散播性念珠菌病**（血培養陰性率>50%），首選 **fluconazole**，*C. glabrata* 對 fluconazole 有抗藥性則用 **amphotericin B**。
+- **預防核心**：縮短導尿管留置時間為最有效措施；每日清潔導尿管 insertion site、系統性抗生素預防**不建議**使用。
 
 The presence of an indwelling bladder catheter is associated with a 3–8% incidence of bacteriuria (≥10⁵ CFU/mL) per day. Bacteria (mostly of bowel origin) form biofilms on the inner and outer surface of urethral catheters, and these biofilms can serve as a source of continued microbial colonization in the bladder. However, this is not the full story, because direct injection of pathogens into the bladder of healthy subjects does not result in infection.
 

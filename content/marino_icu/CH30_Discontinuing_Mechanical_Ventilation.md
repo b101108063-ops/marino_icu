@@ -12,6 +12,15 @@ title: "Discontinuing Mechanical Ventilation"
 
 Discontinuing mechanical ventilation (popularly known as weaning from mechanical ventilation) is often a rapid and uneventful affair, but approximately one in three patients experiences difficulties in the transition to unassisted breathing (1). This chapter describes the process of removing patients from mechanical ventilation and the problems that can arise. The most recent clinical practice guidelines on this process are included in the bibliography at the end of the chapter (2–4).
 
+## 導讀摘要
+
+- 約 **1/3** 的患者在撤離呼吸器時遇到困難（weaning failure）；控制性通氣 48 小時內可使橫膈肌力下降約 50%
+- 每日中斷鎮靜（sedation holiday）和淺層鎮靜可縮短呼吸器使用時間；benzodiazepine（尤其 midazolam）會延遲甦醒
+- **Spontaneous Breathing Trial（SBT）**條件：****SpO₂** **≥90**%** with ****FiO₂** **≤50**%**，****PEEP** ≤**8 cm H₂O****，**PaCO₂** 正常或符合基準
+- SBT 成功預測指標：tidal volume ****4–**6 mL/kg**** **PBW****，呼吸頻率 ****<40** 次/分鐘**，RR/VT 比 ****60–**105 breaths/min****/L**，最大吸氣壓 **>−**20 cm H₂O****
+- 早期活動和物理治療可促進脫離呼吸器的成功率，建議對穩定患者執行漸進式復健計畫
+
+
 ### Ventilator Strategies That Facilitate Discontinuation
 
 Attention to the following issues during mechanical ventilation can facilitate the transition to spontaneous breathing.
@@ -40,14 +49,14 @@ For more on sedation during mechanical ventilation, see Chapter 6.
 
 #### Readiness
 
-The management of ventilator-dependent patients requires constant vigilance for signs that the patient is ready for a trial of spontaneous breathing. These "readiness criteria" are listed in the table below. Suitable candidates should have adequate arterial oxygenation (i.e., SpO₂ ≥90%) while breathing non-toxic concentrations of oxygen (FIO₂ ≤50%) at low levels of PEEP (≤8 cm H₂O), and should have an arterial PCO₂ that is normal or at baseline levels. Patients should also be hemodynamically stable and either awake or arousable and cooperative.
+The management of ventilator-dependent patients requires constant vigilance for signs that the patient is ready for a trial of spontaneous breathing. These "readiness criteria" are listed in the table below. Suitable candidates should have adequate arterial oxygenation (i.e., **SpO₂** **≥90**%) while breathing non-toxic concentrations of oxygen (FIO₂ **≤50**%) at low levels of **PEEP** (≤**8 cm H₂O**), and should have an arterial PCO₂ that is normal or at baseline levels. Patients should also be hemodynamically stable and either awake or arousable and cooperative.
 
 **Table 30.1: Parameters for a Spontaneous Breathing Trial**
 
 | Parameter | Value |
 |---|---|
-| **Readiness Criteria** | SpO₂ ≥90% with FIO₂ ≤50%; PEEP ≤8 cm H₂O; PaCO₂ normal or at baseline; hemodynamically stable; arousable and cooperative |
-| **Predictors of Success** | Tidal volume (VT) 4–6 mL/kg predicted body weight (PBW); respiratory rate (RR) <40 breaths/min; RR/VT ratio = 60–105 breaths/min/L; maximum inspiratory pressure >−20 cm H₂O |
+| **Readiness Criteria** | **SpO₂** **≥90**% with FIO₂ **≤50**%; **PEEP** ≤**8 cm H₂O**; **PaCO₂** normal or at baseline; hemodynamically stable; arousable and cooperative |
+| **Predictors of Success** | Tidal volume (VT) **4–**6 mL/kg**** predicted body weight (**PBW**); respiratory rate (RR) <**40 breaths/min**; RR/VT ratio = **60–**105 breaths/min****/L; maximum inspiratory pressure >−**20 cm H₂O** |
 
 ### Bibliography
 

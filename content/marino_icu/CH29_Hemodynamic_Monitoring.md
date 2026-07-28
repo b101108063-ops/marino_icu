@@ -14,11 +14,20 @@ Pneumonias that develop during mechanical ventilation can be characterized by on
 
 This chapter addresses the multiple problems encountered in the approach to ventilator-associated pneumonia, and includes recommendations from the most recent clinical practice guidelines on the subject (1,2).
 
+## 導讀摘要
+
+- VAP 占 ICU 院內肺炎 80%，又分早期（2–4 天）和晚期（**≥5** 天）；致病菌以革蘭氏陰性桿菌和葡萄球菌為主
+- 定量培養診斷 VAP：以 **10⁵ CFU/mL（氣管吸出物）**、**10³ CFU/mL（保護性刷檢）**、**10⁴ CFU/mL（支氣管肺泡灌洗）**為閾值
+- 胸膜積液分類：pH **<7.20** 且葡萄糖 <**60 mg**/dL 為需放置胸管的候選（第 3、4 類）
+- 經驗性抗生素選擇：低風險用 ****cefepime**** 或 ****levofloxacin**** 或 ****piperacillin**/tazobactam**；高風險需加覆蓋 MRSA（****vancomycin**** 或 ****linezolid****）
+- 多重耐藥菌風險因素：90 天內曾接受靜脈抗生素、免疫抑制、腎替代治療、敗血症休克
+
+
 ### General Information
 
 The following statements include some basic information about ventilator-associated pneumonia (VAP):
 
-1. ICU-acquired pneumonias are divided into ventilator-associated pneumonia (VAP), with onset ≥48 hours after intubation, and hospital-acquired pneumonia (HAP), with onset ≥48 hours after ICU admission in nonintubated patients. VAP is further classified as early onset (2–4 days after intubation) or late-onset (≥5 days after intubation).
+1. ICU-acquired pneumonias are divided into ventilator-associated pneumonia (VAP), with onset **≥48** hours after intubation, and hospital-acquired pneumonia (HAP), with onset **≥48** hours after ICU admission in nonintubated patients. VAP is further classified as early onset (2–4 days after intubation) or late-onset (**≥5** days after intubation).
 2. VAP accounts for 80% of ICU-acquired pneumonias, and 60% of VAPs are late-onset.
 3. The predominant pathogens in VAP and HAP are gram-negative enteric organisms and staphylococci (see Table 29.1) (3). Approximately one-quarter of the infections are polymicrobial.
 4. Multidrug-resistant pathogens are a growing concern and are more likely to appear in patients who have received intravenous antibiotics in the past 90 days, in patients who are immunocompromised or receiving renal replacement therapy, and in patients with septic shock (2).
@@ -31,7 +40,7 @@ Aspiration of microbes from the oropharynx is the inciting event in most cases o
 
 **Table 29.1: Common Isolates in ICU-Acquired Pneumonia**
 
-| Pathogen | Early VAP (Day 2–4) | Late VAP (≥Day 5) | HAP (≥48 hrs) |
+| Pathogen | Early VAP (Day 2–4) | Late VAP (≥Day 5) | HAP (**≥48** hrs) |
 |---|---|---|---|
 | Enterobacteriaceae | 32% | 30% | 26% |
 | P. aeruginosa | 14% | 21% | 20% |
@@ -76,9 +85,9 @@ The diagnosis of VAP is challenging because the clinical findings are neither se
 
 | Method | Sensitivity | Specificity | Diagnostic Odds Ratio |
 |---|---|---|---|
-| Tracheal aspirate (≥10⁵ CFU/mL) | 76% | 68% | 6.6 |
-| Protected brush specimen (≥10³ CFU/mL) | 61% | 77% | 5.1 |
-| Bronchoalveolar lavage (≥10⁴ CFU/mL) | 71% | 80% | 9.6 |
+| Tracheal aspirate (**≥10**⁵ CFU/mL) | 76% | 68% | 6.6 |
+| Protected brush specimen (**≥10**³ CFU/mL) | 61% | 77% | 5.1 |
+| Bronchoalveolar lavage (**≥10**⁴ CFU/mL) | 71% | 80% | 9.6 |
 
 ### Parapneumonic Effusions
 
@@ -88,9 +97,9 @@ Patients with VAP may develop pleural effusions, which require assessment to det
 
 | Character of Effusion | Pleural Fluid Analysis | Chest Tube |
 |---|---|---|
-| **Category 1:** <10 mm, free-flowing | Thoracentesis not necessary | No |
-| **Category 2:** >10 mm but <50% hemithorax, free-flowing | pH >7.20, Glucose >60 mg/dL, negative Gram stain & culture | No |
-| **Category 3:** Loculated, or >50% hemithorax | pH <7.20, Glucose <60 mg/dL, positive Gram stain or culture | Yes |
+| **Category 1:** **<10** mm, free-flowing | Thoracentesis not necessary | No |
+| **Category 2:** **>10** mm but **<50**% hemithorax, free-flowing | pH **>7.20**, Glucose >**60 mg**/dL, negative Gram stain & culture | No |
+| **Category 3:** Loculated, or **>50**% hemithorax | pH **<7.20**, Glucose <**60 mg**/dL, positive Gram stain or culture | Yes |
 | **Category 4:** Purulent | Same as Category 3 | Yes |
 
 ### Empiric Antibiotic Therapy

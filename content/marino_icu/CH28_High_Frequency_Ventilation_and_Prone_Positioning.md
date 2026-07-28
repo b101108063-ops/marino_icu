@@ -10,7 +10,16 @@ title: "High Frequency Ventilation and Prone Positioning"
 > "Eyes and ears are bad witnesses to men if they have souls that understand not their language."
 > — Heraclitus, 6th Century BC
 
-This chapter describes the common practices and daily concerns involved in the care of ventilator-dependent patients. The focus is on artificial airways (endotracheal and tracheostomy tubes), the management of respiratory secretions, and mechanical complications of positive-pressure ventilation (i.e., barotrauma and occult PEEP). The infectious complications of mechanical ventilation are described in the next chapter.
+This chapter describes the common practices and daily concerns involved in the care of ventilator-dependent patients. The focus is on artificial airways (endotracheal and tracheostomy tubes), the management of respiratory secretions, and mechanical complications of positive-pressure ventilation (i.e., barotrauma and occult **PEEP**). The infectious complications of mechanical ventilation are described in the next chapter.
+
+## 導讀摘要
+
+- 氣管內管尺寸選擇：身高 **≤5**'2" 用 **size 7**，5'3"–5'10" 用 **size 7.5**，**≥5**'11" 用 **size 8**
+- ** cuff pressure（氣囊壓力）**不可超過 ****25 mm Hg****，否則會壓迫氣管黏膜毛細血管導致缺血性損傷
+- 氣管切開術時機：建議在插管後 **1 週**評估，若短時間內無法拔管則考慮；微創擴張式（percutaneous）為首選
+- 吸痰常規不做推薦，只有出現可見分泌物、支氣管通氣波形鋸齒狀、或突發低血氧時才需執行；生理食鹽水灌注無助於清除分泌物
+- **N-acetylcysteine（NAC）**用於黏稠痰液，霧化可用 **10% 溶液**，氣管內注射用 **20% 溶液**，但可能引起支氣管痙攣
+
 
 ### Artificial Airways
 
@@ -20,7 +29,7 @@ Positive pressure ventilation is delivered through a variety of plastic tubes th
 
 Endotracheal (ET) tubes vary in length from 25 to 35 cm and are sized according to their internal diameter, which varies from 5 to 10 mm (e.g., a size 7 ET tube has an internal diameter of 7 mm). The size of the airways is primarily related to body height, and the recommended size of ET tubes according to height is as follows:
 
-- Size 7 ET tube for height ≤5 feet, 2 inches (5'2")
+- Size 7 ET tube for height **≤5** feet, 2 inches (5'2")
 - Size 7.5 for height 5'3" to 5'10"
 - Size 8 for height 5'11" or taller (1)
 
@@ -54,7 +63,7 @@ Tracheostomy is preferred in patients who require prolonged mechanical ventilati
 
 The technique known as cricothyroidotomy is used only for emergency access to the airway. The trachea is entered through the cricothyroid membrane, just below the larynx, and there is a high incidence of laryngeal injury and subglottic stenosis. Patients who survive following a cricothyroidotomy should have a regular tracheostomy (surgical or percutaneous) as soon as they are stable.
 
-**Complications:** Combining surgical and percutaneous tracheostomy, the mortality rate is less than 1%, the incidence of major bleeding is <5%, and the infection rate is 2–10% (with the lower rates in percutaneous tracheostomies) (12).
+**Complications:** Combining surgical and percutaneous tracheostomy, the mortality rate is less than 1%, the incidence of major bleeding is **<5**%, and the infection rate is **2–10%** (with the lower rates in percutaneous tracheostomies) (12).
 
 - **Accidental decannulation:** One acute complication that deserves mention is accidental decannulation. If the tracheostomy tube is dislodged before the stoma tract is mature (which takes about one week), the tract closes quickly, and blind reinsertion of the tube can create false tracts. If a tracheostomy tube is dislodged within a few days of insertion, the patient should be reintubated orally before attempting to reinsert the tracheostomy tube.
 - **Tracheal stenosis:** The most feared complication of tracheostomy is tracheal stenosis, which is a late complication that appears in the first 6 months after the tracheostomy tube is removed. Most cases of tracheal stenosis occur at the site of the tracheal incision and are the result of tracheal narrowing after the stoma closes. The incidence of tracheal stenosis ranges from zero to 15% in individual reports (14), but most cases are asymptomatic. The risk of tracheal stenosis is the same with surgical and percutaneous tracheostomies (15).
@@ -63,7 +72,7 @@ The technique known as cricothyroidotomy is used only for emergency access to th
 
 Positive pressure ventilation requires a seal in the trachea that prevents gas from escaping out through the larynx during lung inflation, and this seal is created by inflatable balloons (called cuffs) that surround the distal portions of endotracheal and tracheostomy tubes. The cuff is attached to a pilot balloon that has a one-way valve. A syringe is attached to the pilot balloon and air is injected into the cuff until there is no audible leak around the cuff. (The pilot balloon will inflate as the cuff inflates.)
 
-The pressure in the cuff (measured with a pressure gauge attached to the pilot balloon) should not exceed 25 mm Hg (16). This pressure limit is based on the assumption that the capillary hydrostatic pressure in the wall of the trachea is 25 mm Hg, and thus external (cuff) pressures above 25 mm Hg can compress the underlying capillaries and produce ischemic injury in the tracheal mucosa. Modern cuffs have an elongated design that reduces the pressure needed for a tracheal seal.
+The pressure in the cuff (measured with a pressure gauge attached to the pilot balloon) should not exceed **25 mm Hg** (16). This pressure limit is based on the assumption that the capillary hydrostatic pressure in the wall of the trachea is **25 mm Hg**, and thus external (cuff) pressures above **25 mm Hg** can compress the underlying capillaries and produce ischemic injury in the tracheal mucosa. Modern cuffs have an elongated design that reduces the pressure needed for a tracheal seal.
 
 **Cuff Leaks:** Cuff leaks are usually detected by audible sounds during lung inflation (created by gas flowing through the vocal cords). When a cuff leak becomes audible, the volume of the leak can be estimated as the difference between the desired tidal volume and the exhaled tidal volume measured by the ventilator. Cuff leaks are usually not caused by disruption of the cuff (17), but are instead the result of:
 
@@ -72,7 +81,7 @@ The pressure in the cuff (measured with a pressure gauge attached to the pilot b
 
 **Troubleshooting:** If a cuff leak is apparent, the patient should be separated from the ventilator and the lungs should be manually inflated with an anesthesia bag. Then check the pilot balloon:
 
-1. If the pilot balloon is inflated, then the cuff is inflated, and the problem is likely to be a non-uniform seal with the wall of the trachea. In this situation, deflate the cuff, reposition the tube, then re-inflate the cuff. (More air can be added to the cuff, but the pressure should not exceed 25 cm H₂O.) If this does not correct the leak, then replace the tube with a larger one.
+1. If the pilot balloon is inflated, then the cuff is inflated, and the problem is likely to be a non-uniform seal with the wall of the trachea. In this situation, deflate the cuff, reposition the tube, then re-inflate the cuff. (More air can be added to the cuff, but the pressure should not exceed **25 cm H₂O**.) If this does not correct the leak, then replace the tube with a larger one.
 2. If the pilot balloon is deflated, then the likely problem is a faulty one-way valve on the pilot balloon, or a disrupted cuff. In this situation, attempt to re-inflate the cuff, and if the pilot balloon does not inflate, then replace the tube.
 
 ### Airway Care
@@ -81,7 +90,7 @@ The clearance of respiratory secretions in intubated patients is often referred 
 
 #### Suctioning
 
-Aspiration of airway secretions is a standard practice in the care of ventilator-dependent patients. However, this can have a number of unfavorable effects, including increases in heart rate, blood pressure, intracranial pressure, and occult PEEP (described later), and a decrease in arterial O₂ saturation (18). More importantly, biofilms containing pathogenic organisms are found on the inner surface of ET tubes and tracheostomy tubes, and passing a suction catheter through the tubes can dislodge these biofilms and inoculate the lungs with pathogenic organisms (19). As a result of these risks, clinical practice guidelines do not recommend routine suctioning of the airways (18). Instead, suctioning should be performed only when there is evidence of respiratory secretions.
+Aspiration of airway secretions is a standard practice in the care of ventilator-dependent patients. However, this can have a number of unfavorable effects, including increases in heart rate, blood pressure, intracranial pressure, and occult **PEEP** (described later), and a decrease in arterial O₂ saturation (18). More importantly, biofilms containing pathogenic organisms are found on the inner surface of ET tubes and tracheostomy tubes, and passing a suction catheter through the tubes can dislodge these biofilms and inoculate the lungs with pathogenic organisms (19). As a result of these risks, clinical practice guidelines do not recommend routine suctioning of the airways (18). Instead, suctioning should be performed only when there is evidence of respiratory secretions.
 
 **Indications for suctioning include:**
 
@@ -111,7 +120,7 @@ When respiratory secretions are thick and tenacious, a mucolytic agent like N-ac
 | Method | Regimen |
 |---|---|
 | **Aerosol therapy** | Use 10% NAC solution. Mix 2.5 mL NAC + 2.5 mL saline = 5 mL in small-volume nebulizer. Repeat every 8 hours. ⚠️ Can provoke bronchospasm; not recommended in asthmatics. |
-| **Tracheal injection** | Use 20% NAC solution. Mix 1 mL NAC + 1 mL saline = 2 mL injected into trachea. Repeat every 8 hours. ⚠️ Prolonged use (>48 hrs) can promote bronchorrhea (excessive secretions). |
+| **Tracheal injection** | Use 20% NAC solution. Mix 1 mL NAC + 1 mL saline = 2 mL injected into trachea. Repeat every 8 hours. ⚠️ Prolonged use (**>48** hrs) can promote bronchorrhea (excessive secretions). |
 
 ### Bibliography
 

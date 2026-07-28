@@ -18,6 +18,15 @@ There are two features of pulmonary embolism that deserve emphasis at the outset
 
 The emphasis in this chapter is on acute pulmonary embolism that requires admission to an ICU, or develops during the ICU stay. Many of the recommendations in this chapter are based on clinical practice guidelines, which are listed in the bibliography at the end of the chapter (6–9).
 
+## 導讀摘要
+
+- 肺栓塞（PE）臨床表現（呼吸困難、心搏過速、低血氧）缺乏特異性，陽性預測值皆 **<50**%
+- 診斷工具：靜脈超聲（**30–50%** 可發現深層靜脈血栓）、CT 肺血管造影（首選）、通氣-灌流掃描
+- 抗凝治療分層：低風險可用 ****apixaban**** 或 ****rivaroxaban****；中風險用 ****enoxaparin** **1 mg/kg** q12h**；高風險用 **unfractionated **heparin** **80 IU/kg** IV** 起始
+- 急性肺栓塞的 CTPA 陰性結果需注意對比劑腎病風險（**CrCL **<30** mL/min** 慎用）
+- VTE 在 ICU 患者中發生率高，自體解剖研究顯示約 30% 住院患者有肺栓塞但生前未懷疑
+
+
 ### Clinical Evaluation
 
 The diagnostic challenges mentioned in the introduction are explained by the clinical manifestations of acute pulmonary embolism, which are neither sensitive nor specific.
@@ -49,8 +58,8 @@ Several imaging modalities are available for the diagnosis of acute pulmonary em
 
 | Study | Features |
 |---|---|
-| **Venous Ultrasound** | Positive result (proximal leg deep vein thrombosis in 30–50% of acute PE) eliminates the need for further testing. Negative result does not rule out PE. |
-| **CT Pulmonary Angiography (CTPA)** | Positive result is the method of choice for detecting PE. Negative result carries risk of contrast-induced nephropathy when creatinine clearance (CrCL) <30 mL/min; also involves high radiation dose. |
+| **Venous Ultrasound** | Positive result (proximal leg deep vein thrombosis in **30–50%** of acute PE) eliminates the need for further testing. Negative result does not rule out PE. |
+| **CT Pulmonary Angiography (CTPA)** | Positive result is the method of choice for detecting PE. Negative result carries risk of contrast-induced nephropathy when creatinine clearance (CrCL) **<30** mL/min; also involves high radiation dose. |
 | **Ventilation-Perfusion Lung Scan** | Positive result avoids radiocontrast exposure and delivers lower radiation than CTPA. Negative result has limited yield in the presence of pulmonary infiltrates or COPD. |
 | **Catheter-Directed Thrombolysis** | Indicated for high-risk PE with hemodynamic instability; requires specialized expertise. |
 
@@ -62,9 +71,9 @@ The management of acute pulmonary embolism is stratified based on risk category,
 
 | Risk Category | Recommendations |
 |---|---|
-| **Low Risk** | 1. Apixaban 10 mg orally twice daily for 7 days, then 5 mg twice daily. OR Rivaroxaban 15 mg orally twice daily for 3 weeks, then 20 mg once daily. 2. If CrCL ≤30 mL/min: warfarin combined with enoxaparin 1 mg/kg subcutaneously every 24 hours until INR is therapeutic. |
-| **Intermediate Risk** | 1. Enoxaparin 1 mg/kg subcutaneously every 12 hours. 2. If the patient is stable at 24–48 hours, switch to an oral anticoagulant per the low-risk regimen. |
-| **High Risk** | 1. Unfractionated heparin: 80 IU/kg intravenously as a bolus, followed by 18 IU/kg/hour infusion. 2. Check partial thromboplastin time (PTT) at 6 hours; titrate to 1.5–2.5 times the control value. |
+| **Low Risk** | 1. Apixaban **10 mg** orally twice daily for 7 days, then **5 mg** twice daily. OR Rivaroxaban **15 mg** orally twice daily for 3 weeks, then **20 mg** once daily. 2. If CrCL **≤30** mL/min: **warfarin** combined with **enoxaparin** **1 mg/kg** subcutaneously every 24 hours until INR is therapeutic. |
+| **Intermediate Risk** | 1. Enoxaparin **1 mg/kg** subcutaneously every 12 hours. 2. If the patient is stable at 24–48 hours, switch to an oral anticoagulant per the low-risk regimen. |
+| **High Risk** | 1. Unfractionated **heparin**: **80 IU/kg** intravenously as a bolus, followed by **18 IU/kg**/hour infusion. 2. Check partial thromboplastin time (PTT) at 6 hours; titrate to 1.5–2.5 times the control value. |
 
 ### Bibliography
 

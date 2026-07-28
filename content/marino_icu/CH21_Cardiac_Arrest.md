@@ -16,6 +16,15 @@ Since its inception, CPR has become a universally mandated practice that is with
 
 This chapter describes the practical aspects of CPR and the management that follows a successful resuscitation effort. The recommendations are drawn from the most recent and relevant guidelines and instruction manuals on CPR, which are listed in the bibliography at the end of the chapter (3–8).
 
+## 導讀摘要
+
+- **CPR** 的核心在於高質量胸外按摩（按壓深度 **5–6 cm**，速率 ****100–**120 次/分****鐘**），強調最小中斷
+- 心室顫動/無脈搏 VTACH 處理：最多 3 次電擊，必要時加用 ****epinephrine** **1 mg** IV** 及 ****amiodarone** **300 mg** IV/IO**
+- **目標體溫管理（TTM）**：ROSC 後維持體溫 **≤37.5**°C 達 72 小時，避免高溫傷害神經預後
+- 復甦後需維持 **MAP ≥**75 mm Hg****，首選 ****norepinephrine****；氧合控制在 ****SpO₂** **<90**%** 才給予氧氣
+- 預後評估：第 4 天仍無瞳孔反射、角膜反射，或腦波顯示非痙攣性癲癇持續狀態，提示不良神經學預後
+
+
 ### Epidemiology of Cardiac Arrest
 
 Cardiac arrest outcomes vary significantly based on the setting (in-hospital vs. out-of-hospital), the underlying rhythm, and the quality of resuscitation efforts. Survival rates are generally low, emphasizing the importance of high-quality CPR and rapid defibrillation when indicated.
@@ -54,8 +63,8 @@ The management includes a series of up to 3 defibrillation attempts, if needed:
 
 1. The initial shock is delivered as soon as a shockable rhythm is identified.
 2. Chest compressions are paused when the defibrillation shock is delivered, and are resumed immediately afterward.
-3. If a second defibrillation is needed, epinephrine is started using a bolus dose of 1 mg intravenously.
-4. If a third defibrillation is needed, amiodarone is administered as a bolus dose of 300 mg (IV or intraosseous).
+3. If a second defibrillation is needed, **epinephrine** is started using a bolus dose of **1 mg** intravenously.
+4. If a third defibrillation is needed, **amiodarone** is administered as a bolus dose of **300 mg** (IV or intraosseous).
 
 #### Post-Cardiac Arrest Syndrome
 
@@ -74,17 +83,17 @@ Targeted temperature management (TTM) is a cornerstone of post-cardiac arrest ca
 | Feature | Recommendation |
 |---|---|
 | **Indication** | Patients who do not regain consciousness after return of spontaneous circulation (ROSC) |
-| **Goal** | Body temperature ≤37.5°C (≤99.5°F) for 72 hours |
+| **Goal** | Body temperature **≤37.5**°C (**≤99.5**°F) for 72 hours |
 | **Monitoring** | Continuous core body temperature (e.g., bladder catheter with thermistor) |
-| **Treatment Plan** | 1. Mild hypothermia (32–36°C) after ROSC: do NOT actively rewarm. 2. Maintain ≤37.5°C with acetaminophen and reduced room temperature. 3. If temperature exceeds 37.7°C: start active cooling, target 37.5°C. 4. Surface cooling is acceptable. 5. Continue ≤37.5°C for 72 hours unless patient awakens. |
+| **Treatment Plan** | 1. Mild hypothermia (32–36°C) after ROSC: do NOT actively rewarm. 2. Maintain **≤37.5**°C with acetaminophen and reduced room temperature. 3. If temperature exceeds 37.7°C: start active cooling, target 37.5°C. 4. Surface cooling is acceptable. 5. Continue **≤37.5**°C for 72 hours unless patient awakens. |
 
 ### Other Concerns in Post-Arrest Management
 
 | Intervention | Comment |
 |---|---|
-| **Oxygen Inhalation** | Hyperoxia aggravates neurologic injury — use supplemental oxygen only when SaO₂ <90%. |
-| **Vasopressor Therapy** | Maintain mean arterial pressure (MAP) ≥75 mm Hg to benefit neurologic recovery. |
-| **Vasopressor Agent** | Norepinephrine is preferred over epinephrine. |
+| **Oxygen Inhalation** | Hyperoxia aggravates neurologic injury — use supplemental oxygen only when **SaO₂** **<90**%. |
+| **Vasopressor Therapy** | Maintain mean arterial pressure (MAP) ≥**75 mm Hg** to benefit neurologic recovery. |
+| **Vasopressor Agent** | Norepinephrine is preferred over **epinephrine**. |
 | **Glycemic Control** | Hyperglycemia aggravates neurologic injury; avoid very tight control, as hypoglycemia is also harmful. |
 
 ### Prognostication After Cardiac Arrest
@@ -121,8 +130,8 @@ Predictors of a poor neurologic outcome with a high degree of certainty include 
 16. Bartos JA, Carlson K, Carlson C, et al. Surviving refractory out-of-hospital ventricular fibrillation cardiac arrest: critical care and extracorporeal membrane oxygenation. Crit Care Med 2020; 48:1150–1158.
 17. Herlitz J, Ekstrom L, Wennerblom B, et al. Adrenaline in out-of-hospital ventricular fibrillation. Does it make any difference? Resuscitation 1997; 34:213–219.
 18. Jacobs IG, Finn JC, Jelineck GA, et al. Effect of adrenaline on survival in out-of-hospital cardiac arrest: A randomized placebo-controlled trial. Resuscitation 2011; 82:1138–1143.
-19. Perkins GD, Ji C, Deakin CD, et al; and the PARAMEDIC2 Collaborators. A randomized trial of epinephrine in out-of-hospital cardiac arrest. N Engl J Med 2018; 379:711–721.
-20. Sun S, Tang W, Song F, et al. The effects of epinephrine on outcomes of normothermic and therapeutic hypothermic porcine models of cardiac arrest. Crit Care Med 2018; 46:e1147–e1153.
+19. Perkins GD, Ji C, Deakin CD, et al; and the PARAMEDIC2 Collaborators. A randomized trial of **epinephrine** in out-of-hospital cardiac arrest. N Engl J Med 2018; 379:711–721.
+20. Sun S, Tang W, Song F, et al. The effects of **epinephrine** on outcomes of normothermic and therapeutic hypothermic porcine models of cardiac arrest. Crit Care Med 2018; 46:e1147–e1153.
 21. Rolston DM. Time is running out for manual pulse checks, as ultrasound races past. Resuscitation 2022; 179:59–60.
 22. Ochoa FJ, Ramalle-Gomara E, Carpintero JM, et al. Competence of health professionals to check the carotid pulse. Resuscitation 1998; 38:187–189.
 23. Kang SY, Jo IJ, Park JE, et al. Point-of-care ultrasound compression of the carotid artery for pulse determination in cardiopulmonary resuscitation. Resuscitation 2022; 177:34–40.
@@ -147,7 +156,7 @@ Predictors of a poor neurologic outcome with a high degree of certainty include 
 42. Roberts BW, Kilgannon JH, Hunter BR, et al. Association between early hyperoxia exposure after resuscitation from cardiac arrest and neurologic outcome. JAMA 2019; 321:1789–1798.
 43. Müllner M, Sterz F, Binder M, et al. Arterial blood pressure after human cardiac arrest and neurologic recovery. Stroke 1996; 27:59–62.
 44. Kilgannon JH, Roberts BW, Jones AE, et al. Arterial blood pressure and neurologic outcome after resuscitation from cardiac arrest. Crit Care Med 2014; 42:1373–1378.
-45. Bougouin W, Slimani K, Renaudier M, et al; for the Sudden Death Expertise Center Investigators. Epinephrine versus norepinephrine in out-of-hospital cardiac arrest. Circulation 2023; 148:1847–1856.
+45. Bougouin W, Slimani K, Renaudier M, et al; for the Sudden Death Expertise Center Investigators. Epinephrine versus **norepinephrine** in out-of-hospital cardiac arrest. Circulation 2023; 148:1847–1856.
 46. Calle PA, Buylaert WA, Vanhaute OA. Glycemia in the post-resuscitation period. The Cerebral Resuscitation Study Group. Resuscitation 1989; 17:S181–S188.
 47. Marik PE, Preiser J-C. Towards understanding tight glycemic control in the ICU. A systematic review and meta-analysis. Chest 2010; 137:544–551.
 48. Peberdy MA, Callaway CW, Neumar RW, et al. Part 9: post-cardiac arrest care. 2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation 2010; 122:S768–S786.

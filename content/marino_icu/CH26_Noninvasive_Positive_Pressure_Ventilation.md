@@ -14,6 +14,15 @@ Noninvasive positive pressure breathing was introduced in the 1940s (about a dec
 
 This chapter describes the fundamentals of using noninvasive ventilation, including what to use, what to monitor, and what to expect in different types of acute respiratory failure (4). The last section describes the effects of positive pressure breathing on cardiac performance.
 
+## 導讀摘要
+
+- NIV 適用於非立即危及生命的急性呼吸衰竭，患者需清醒可合作、無重大血流動力學崩潰、無持續癲癇
+- **CPAP**（持續正壓 ****5–**10 cm H₂O******）主要用於阻塞性睡眠呼吸中止和心源性肺水腫；**BiPAP** 提供更高的 inspiratory pressure
+- **Pressure Support Ventilation (PSV)**：患者觸發，吸氣流量降至 peak flow 25% 時終止，促進人機同步
+- 面罩是 NIV 常見失敗原因（18% 失敗源於面罩不耐受），**helmet** 介面可減少插管和死亡率但使用不普及
+- 正壓通氣對心臟的影響：降低左心室後負荷（對心源性肺水腫有利），但增加右心室後負荷
+
+
 ### Methods of Noninvasive Ventilation
 
 The following describes the principal methods of pressure-assisted breathing that do not require endotracheal intubation.
@@ -22,13 +31,13 @@ The following describes the principal methods of pressure-assisted breathing tha
 
 During normal breathing, the descent of the diaphragm creates a negative intrathoracic pressure that draws air into the lungs, and exhalation proceeds passively until the intrathoracic pressure returns to atmospheric (zero reference) pressure. When breathing with CPAP, the pressure at the end of expiration is positive relative to atmospheric pressure, and the positive pressure is maintained through the respiratory cycle.
 
-The positive pressure in CPAP is created by a constant flow of air or oxygen that is adjusted to achieve the desired pressure level (usually 5–10 cm H₂O). This pressure helps to prevent collapse of the small airways and alveoli at the end of expiration, and increases the end-expiratory lung volume (i.e., the functional residual capacity), but it does not augment the tidal volume.
+The positive pressure in CPAP is created by a constant flow of air or oxygen that is adjusted to achieve the desired pressure level (usually **5–**10 cm H₂O****). This pressure helps to prevent collapse of the small airways and alveoli at the end of expiration, and increases the end-expiratory lung volume (i.e., the functional residual capacity), but it does not augment the tidal volume.
 
 > **Clinical Uses:** The principal use of CPAP is in patients with obstructive sleep apnea, where the positive pressure prevents the inspiratory collapse of the pharynx that causes the obstruction to airflow (5). CPAP has also been successful in managing patients with acute cardiogenic pulmonary edema (6). Overall, CPAP provides only limited pressure support, and it is rarely used to manage patients with acute respiratory failure.
 
 #### Bi-Level Positive Airway Pressure
 
-Noninvasive ventilation is typically a patient-triggered, pressure-targeted mode of ventilation that provides pressure-augmented tidal volumes along with positive end-expiratory pressure (PEEP) (7). The patient triggers each positive-pressure lung inflation (indicated by the negative pressure swings), and the inspiratory pressure gradually rises until it reaches a pre-selected pressure. Exhalation then proceeds until the pressure reaches a pre-selected positive end-expiratory pressure (PEEP). Peak inspiratory pressures are typically 10–20 cm H₂O, and PEEP levels are usually 5–10 cm H₂O. Higher pressures are generally not advised because they are poorly tolerated by patients and they promote leaks around the face mask.
+Noninvasive ventilation is typically a patient-triggered, pressure-targeted mode of ventilation that provides pressure-augmented tidal volumes along with positive end-expiratory pressure (**PEEP**) (7). The patient triggers each positive-pressure lung inflation (indicated by the negative pressure swings), and the inspiratory pressure gradually rises until it reaches a pre-selected pressure. Exhalation then proceeds until the pressure reaches a pre-selected positive end-expiratory pressure (**PEEP**). Peak inspiratory pressures are typically **10–**20 cm H₂O****, and **PEEP** levels are usually **5–**10 cm H₂O****. Higher pressures are generally not advised because they are poorly tolerated by patients and they promote leaks around the face mask.
 
 > **Note:** The mode of ventilation just described is typically called bi-level positive airway pressure, or simply BiPAP. However, this is a proprietary name (registered as a trademark by Philips Respironics), and it is used sparingly in this chapter.
 

@@ -12,6 +12,15 @@ title: "Acute Respiratory Distress Syndrome"
 
 The disease entity described in this chapter has had several names over the years, including shock lung, Da Nang lung (from the Vietnam war), stiff-lung, leaky capillary pulmonary edema, noncardiogenic pulmonary edema, acute lung injury, adult respiratory distress syndrome, and most recently, acute respiratory distress syndrome (ARDS). However, none of these names provides any useful information about the disease, which is a diffuse inflammatory injury of the lungs and one of the leading causes of acute respiratory failure in modern times (1–3).
 
+## 導讀摘要
+
+- ARDS 為瀰漫性肺炎症性損傷，誘發條件包括肺炎（約 60%）、肺外敗血症（16%）、胃內容物吸入（14%）
+- 診斷標準：****PaO₂**/FIO₂ ≤**300 mm Hg****（with **PEEP** ≥**5 mm Hg**），雙側肺浸潤，7 天內急性發作
+- **肺部保護性通氣**為改善預後的唯一策略： tidal volume ****6–**8 mL/kg**** 預測體重**，plateau pressure **≤**30 cm H₂O****
+- 類固醇治療：COVID-19 使用 ****dexamethasone** **6 mg** IV/PO daily ×10 天**；中重度 ARDS 使用 ****methylprednisolone** **1–**2 mg/kg****/day**
+- 俯臥姿勢（prone positioning）可改善中重度 ARDS（**PaO₂**/FIO₂ <**150 mm Hg**）存活率
+
+
 ### Pathogenesis
 
 The first clinical report of ARDS appeared in 1967 (4), and included 12 patients with refractory hypoxemia and bilateral, diffuse infiltrates on chest x-ray. Seven patients died, and autopsy findings revealed dense infiltration of the lungs with an inflammatory exudate. There was no evidence of infection, which indicated that ARDS is an acute inflammatory lung injury.
@@ -47,7 +56,7 @@ The pneumonia caused by severe acute respiratory syndrome coronavirus 2 (SARS-Co
 |---|---|
 | 1 | Acute onset (within 7 days) |
 | 2 | Bilateral alveolar infiltrates on chest x-ray |
-| 3 | PaO₂/FIO₂ ≤300 mm Hg with PEEP ≥5 mm Hg |
+| 3 | **PaO₂**/FIO₂ ≤**300 mm Hg** with **PEEP** ≥**5 mm Hg** |
 | 4 | No evidence of left heart failure or fluid overload |
 | 5 | Presence of a predisposing condition |
 
@@ -57,9 +66,9 @@ The pneumonia caused by severe acute respiratory syndrome coronavirus 2 (SARS-Co
 
 | Condition | Drug Regimen |
 |---|---|
-| **COVID-19 (requiring O₂, NIV, or MV)** | Dexamethasone 6 mg intravenously or orally once daily for up to 10 days |
-| **Moderate-to-Severe ARDS (<72 hrs onset)** | Methylprednisolone 1 mg/kg/day ideal body weight (IBW) by continuous infusion; taper over 14 days |
-| **Moderate-to-Severe ARDS (7–14 days, persistent)** | Methylprednisolone 2 mg/kg/day IBW (same taper protocol) |
+| **COVID-19 (requiring O₂, NIV, or MV)** | Dexamethasone **6 mg** intravenously or orally once daily for up to 10 days |
+| **Moderate-to-Severe ARDS (**<72** hrs onset)** | Methylprednisolone **1 mg/kg**/day ideal body weight (IBW) by continuous infusion; taper over 14 days |
+| **Moderate-to-Severe ARDS (7–14 days, persistent)** | Methylprednisolone **2 mg/kg**/day IBW (same taper protocol) |
 
 ### Prone Positioning
 
@@ -70,7 +79,7 @@ Prone positioning is an important therapeutic intervention in ARDS that has been
 | Indications | Contraindications |
 |---|---|
 | Prevent intubation in patients breathing spontaneously who require high-flow nasal O₂ or NIV | Active hemorrhage |
-| Promote survival in mechanically ventilated patients with moderate-to-severe ARDS (PaO₂/FIO₂ <150 mm Hg, FIO₂ ≥60%, PEEP ≥5 cm H₂O) with tidal volume ~6 mL/kg predicted body weight (PBW) | Spinal instability |
+| Promote survival in mechanically ventilated patients with moderate-to-severe ARDS (**PaO₂**/FIO₂ <**150 mm Hg**, FIO₂ **≥60**%, **PEEP** ≥**5 cm H₂O**) with tidal volume ~**6 mL/kg** predicted body weight (**PBW**) | Spinal instability |
 | | Multiple fractures |
 | | Increased intracranial pressure (ICP) |
 | | Recent tracheostomy or sternotomy (within 2 weeks) |
@@ -83,9 +92,9 @@ Lung protective ventilation is the only ventilator strategy that has demonstrate
 
 | Stage | Action |
 |---|---|
-| **First Stage** | 1. Calculate predicted body weight (PBW): Males: PBW = 50 + [2.3 × (height in inches – 60)]; Females: PBW = 45.5 + [2.3 × (height in inches – 60)]. 2. Set tidal volume (VT) = 8 mL/kg PBW. 3. Set PEEP = 5 cm H₂O. 4. Titrate FIO₂ to maintain SpO₂ 88–95%. 5. Reduce VT by 1 mL/kg every 2 hours until VT = 6 mL/kg. |
-| **Second Stage** | 1. When VT = 6 mL/kg, measure plateau pressure (Pplat). 2. If Pplat >30 cm H₂O: decrease VT by 1 mL/kg until Pplat <30 or VT = 4 mL/kg. |
-| **Third Stage** | 1. Monitor blood gases for respiratory acidosis. 2. If pH 7.15–7.30: increase respiratory rate (RR) until pH >7.30 or RR = 35 breaths/min. 3. If pH <7.15: increase RR to 35 breaths/min; consider prone positioning or ECMO. |
+| **First Stage** | 1. Calculate predicted body weight (**PBW**): Males: **PBW** = 50 + [2.3 × (height in inches – 60)]; Females: **PBW** = 45.5 + [2.3 × (height in inches – 60)]. 2. Set tidal volume (VT) = **8 mL/kg** **PBW**. 3. Set **PEEP** = **5 cm H₂O**. 4. Titrate FIO₂ to maintain **SpO₂** **88–95%**. 5. Reduce VT by **1 mL/kg** every 2 hours until VT = **6 mL/kg**. |
+| **Second Stage** | 1. When VT = **6 mL/kg**, measure plateau pressure (Pplat). 2. If Pplat >**30 cm H₂O**: decrease VT by **1 mL/kg** until Pplat **<30** or VT = **4 mL/kg**. |
+| **Third Stage** | 1. Monitor blood gases for respiratory acidosis. 2. If pH 7.15–7.30: increase respiratory rate (RR) until pH **>7.30** or RR = **35 breaths/min**. 3. If pH **<7.15**: increase RR to **35 breaths/min**; consider prone positioning or ECMO. |
 
 ### Bibliography
 

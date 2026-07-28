@@ -14,6 +14,14 @@ One of the most dramatic events in medical self-experimentation took place in a 
 
 Werner Forssmann's achievement was possible because he used a flexible plastic catheter that could safely follow the contours of the venous system as it was advanced. This was a departure from the traditional practice of cannulating blood vessels with rigid needles and metal cannulas, and it heralded the modern era of vascular cannulation, which employs a wide array of flexible plastic catheters like the ones described in this chapter.
 
+## 導讀摘要
+
+- **歷史里程碑**：1929 年 Werner Forssmann 以導尿管完成首例右心導管，2002 年 Lucchino 採用 **urethane** 導管建立靜脈通路，開啟現代血管導管時代
+- **導管尺寸**：**French** 尺寸（1 Fr = 0.33 mm OD）比 **gauge** 更標準化；流率由 **Hagen-Poiseuille** 方程式決定，與半徑的四次方成正比，與長度成反比
+- **導管選擇原則**：快速輸液選大口徑、短導管；中期（數天）選 **midline catheter**（15–20 cm），長期選 **PICC** 或 **CVC**
+- **超聲導引**：已成為必備工具，**short-axis view** 定位目標血管，**long-axis view** 確認導絲與導管位置
+- **骨髓腔內（IO）輸液**：緊急靜脈通路失敗時的首選，適用於心臟驟停、重大創傷、休克；近端脛骨為成人首選部位
+
 ---
 
 ## Catheter Basics
