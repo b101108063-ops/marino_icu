@@ -9,108 +9,108 @@ title: "Acute Coronary Syndromes"
 >
 > — John Hughlings Jackson
 
-One of the seminal moments in cardiac critical care was the discovery (in 1980) that transmural myocardial infarction was the result of an occlusive thrombus in a coronary artery. Advances in reperfusion therapy have improved outcomes and contributed to a 20% decline in the annual mortality rate from coronary disease over the past decade. However, coronary artery disease continues to be the leading cause of death in the United States.
+心臟重症監護的一個重要時刻是發現（1980 年）透壁性心肌梗塞是由於冠狀动脉中的閉塞性血栓。再灌注治療的進步改善了結局，並在過去十年中貢獻了冠狀动脉疾病年死亡率 20% 的下降。然而，冠狀动脉疾病仍然是美國的主要死亡原因。
 
-This chapter describes the diagnosis and early management of acute myocardial infarction and unstable angina (the acute coronary syndromes).
+本章描述急性心肌梗塞和不穩定心絞痛（急性冠狀動脈症候群）的診斷和早期管理。
 
 ## Coronary Thrombosis
 
 ### Pathogenesis
 
-Acute myocardial infarction is the result of an occlusive thrombus in one or more coronary arteries. The trigger for thrombus formation is rupture of an atherosclerotic plaque, which releases thrombogenic lipids. Plaque disruption is attributed to inflammation.
+急性心肌梗塞是由於一根或多根冠狀动脉中的閉塞性血栓。血栓形成的觸發因素是粥樣硬化斑塊的破裂，釋放血栓源性脂質。斑塊破裂歸因於炎症。
 
 ### Role of Oxidative Injury
 
-Inflammation plays a major role in both the genesis and rupture of atherosclerotic plaques. The damaging effects of inflammation are largely due to the oxidative actions of reactive oxygen species. Myeloperoxidase (MPO), an enzyme released by leukocytes, generates hypochlorite and oxidizes lipoproteins in atherosclerotic plaques.
+炎症在粥樣硬化斑块的生成和破裂中都起主要作用。炎症的有害影響主要由活性氧種的氧化作用引起。髓過氧化物酶（MPO），一種由白細胞釋放的酶，在粥樣硬化斑块中產生次氯酸鹽並氧化脂蛋白。
 
 ### Clinical Syndromes
 
-Acute coronary thrombosis produces three distinct clinical syndromes:
+急性冠狀血栓產生三種不同的臨床症候群：
 
-1. **ST-elevation myocardial infarction (STEMI):** Transmural infarction caused by complete occlusion of the infarct-related artery.
+1. **ST 抬高型心肌梗塞（STEMI）：** 由閉塞相關动脉的完全閉塞引起的透壁性梗塞。
 
-2. **Non-ST-elevation myocardial infarction (NSTEMI):** Result of incomplete or partial occlusion of the infarct-related artery.
+2. **非 ST 抬高型心肌梗塞（NSTEMI）：** 由閉塞相關动脉的不完全或部分閉塞引起。
 
-3. **Unstable angina (UA):** Not associated with ST elevation on ECG; result of repetitive on-off episodes of coronary occlusion.
+3. **不穩定心絞痛（UA）：** 與心電圖上的 ST 抬高無關；由冠狀動脈反覆開-關閉合引起的。
 
-NSTEMI and UA are typically grouped together as "non-ST-elevation acute coronary syndromes" (NSTE-ACS).
+NSTEMI 和 UA 通常被歸為「非 ST 抬高型急性冠狀症候群」（NSTE-ACS）。
 
 ## Diagnostic Evaluation
 
 ### Clinical Presentation
 
-About 80% of patients have some type of chest discomfort (pain, pressure, tightness). The onset is abrupt and lasts longer than 15 minutes. Patients are often apprehensive and can complain of nausea, vomiting, and dyspnea.
+約 80% 的病人有某種胸部不適（疼痛、壓力、緊迫）。發作突然，持續超過 15 分鐘。病人常常焦慮，可以投訴惡心、嘔吐和呼吸困難。
 
 ### Electrocardiogram
 
-A 12-lead electrocardiogram (ECG) should be obtained within 10 minutes of the first patient contact.
+在首次接觸病人後 10 分鐘內應獲得 12 導聯心電圖（ECG）。
 
-**Table 20.1** ECG Changes in Acute Coronary Syndromes
+**Table 20.1** 急性冠狀症候群中的 ECG 變化
 
-| Condition | Pattern | Criteria |
+| 狀況 | 模式 | 標準 |
 |---|---|---|
-| **STEMI** | ST Elevation | ≥1.5 mm (female) or ≥2.0 mm (male) in V2–V3; ≥1 mm in other leads |
-| **Posterior STEMI** | ST Depression V1–V3 + Positive T wave | ST depression with upright T in V1–V3 |
-| **NSTE-ACS** | ST Depression ≥0.5 mm | Horizontal or downsloping ST depression; T wave inversion >1 mm in ≥5 leads |
+| **STEMI** | ST 抬高 | 女性 V2–V3 ≥1.5 mm 或男性 ≥2.0 mm；其他導聯 ≥1 mm |
+| **後壁 STEMI** | V1–V3 ST 壓低 + 正向 T 波 | V1–V3 中 ST 壓低伴有直立 T 波 |
+| **NSTE-ACS** | ST 壓低 ≥0.5 mm | 水平或下斜型 ST 壓低；≥5 個導聯中 T 波倒置 >1 mm |
 
 ### Troponin Assay
 
-Plasma levels of cardiac troponin (cTn) are used to detect myocardial cell injury. A high-sensitivity assay (hs-cTn) can detect elevations as early as 3 hours after symptom onset.
+血漿 cardiac troponin（cTn）水平用於檢測心肌細胞損傷。高敏感性測定（hs-cTn）可在症狀發作後最早 3 小時檢測到升高。
 
 **Protocol:**
-1. Plasma levels of hs-cTn are measured at presentation and again one hour later.
-2. Myocardial necrosis is likely if the initial hs-cTn level is elevated and there has been at least 3 hours since symptom onset.
-3. A significant change (>10%) in the second hs-cTn level is evidence of acute ischemia (acute MI).
+1. 在就診時測量血漿 hs-cTn 水平，然後 1 小時後再次測量。
+2. 如果初始 hs-cTn 水平升高且症狀發作後至少已有 3 小時，則心肌壞死可能。
+3. 第二個 hs-cTn 水平的顯著變化（>10%）是急性缺血的證據（急性心肌梗塞）。
 
 ## Reperfusion Therapy
 
 ### Thrombolytic Therapy
 
-**Table 20.2** Thrombolytic Therapy for Acute Coronary Occlusion
+**Table 20.2** 急性冠狀閉塞的溶血栓治療
 
-| Agent | Dosing Regimen | Patency Rate at 90 min |
+| 製劑 | 劑量方案 | 90 分鐘時通暢率 |
 |---|---|---|
-| Alteplase (tPA) | 15 mg IV bolus, then 0.75 mg/kg over 30 min, then 0.5 mg/kg over 60 min (max 100 mg total) | 73–84% |
-| Reteplase (rPA) | 10 Units IV bolus, repeat in 30 min | 84% |
-| Tenecteplase (TNK-tPA) | Single IV bolus: 30–50 mg based on weight | 85% |
+| Alteplase（tPA） | 15 mg IV bolus，然後 0.75 mg/kg 超過 30 分鐘，然後 0.5 mg/kg 超過 60 分鐘（總量最大 100 mg） | 73–84% |
+| Reteplase（rPA） | 10 Units IV bolus，30 分鐘後重複 | 84% |
+| Tenecteplase（TNK-tPA） | 基於體重的單次 IV bolus：30–50 mg | 85% |
 
 ## Cardioprotective Measures
 
-**Table 20.3** Cardioprotective Measures
+**Table 20.3** 心臟保護措施
 
-| Agent | Dosing Regimens and Comments |
+| 製劑 | 劑量方案和評論 |
 |---|---|
-| **Oxygen** | Whatever is needed to maintain SaO₂ ≥90%. Use supplemental O₂ judiciously — promotes coronary artery vasoconstriction. |
-| **Nitroglycerin** | Chest pain: 0.4 mg sublingual or spray every 5 min × 3. Recurrent pain/high BP/CHF: infuse at 5 μg/min initially, titrate upward. Avoid in RV infarction, aortic stenosis, and within 24–48 hrs of phosphodiesterase inhibitors. |
-| **Morphine** | 4–8 mg IV, then 2–8 mg IV every 5–15 min PRN. May reduce antiplatelet effect of P2Y12 inhibitors. |
-| **Metoprolol** | 5 mg IV bolus, repeat in 5 min × 2 if tolerated. Caution in acute heart failure, bradycardia, heart block. |
+| **氧氣** | 維持 SaO₂ ≥90% 所需的任何劑量。慎重使用補充 O₂ — 促進冠狀动脉血管收縮。 |
+| **Nitroglycerin** | 胸痛：0.4 mg 舌下或噴霧每 5 分鐘 × 3。反覆疼痛/高血壓/CHF：開始以 5 μg/min 輸注，向上滴定。避免用於 RV 梗塞、主動脈瓣狹窄和在磷酸二酯酶抑制劑使用後 24–48 小時內。 |
+| **Morphine** | 4–8 mg IV，然後每 5–15 分鐘 PRN 2–8 mg IV。可能減少 P2Y12 抑制劑的抗血小板作用。 |
+| **Metoprolol** | 5 mg IV bolus，如果耐受每 5 分鐘重複 × 2。在急性心臟衰竭、心搏過緩、心臟傳導阻滯中慎用。 |
 
 ## Antiplatelet Measures
 
-**Table 20.4** Antiplatelet Measures for Acute Coronary Thrombosis
+**Table 20.4** 急性冠狀血栓形成的抗血小板措施
 
-| Agent | Dosing Regimen |
+| 製劑 | 劑量方案 |
 |---|---|
-| **Aspirin** | 162–325 mg chewable at first contact, then 81 mg/day (or 325 mg/day). Use clopidogrel if aspirin allergy. |
-| **Clopidogrel** (P2Y12 inhibitor) | 300–600 mg loading dose PO, then 75 mg/day |
-| **Ticagrelor** (P2Y12 inhibitor) | 180 mg loading dose PO, then 90 mg BID |
-| **Prasugrel** (P2Y12 inhibitor) | 60 mg loading dose PO, then 10 mg/day |
-| **Eptifibatide** (GP IIb-IIIa) | 180 μg/kg bolus, then 2 μg/kg/min (reduce 50% if CrCL <50 mL/min) |
-| **Tirofiban** (GP IIb-IIIa) | 25 μg/kg bolus, then 0.15 μg/kg/min (reduce 50% if CrCL <30 mL/min) |
+| **Aspirin** | 首次接觸時 162–325 mg 咀嚼片，然後每天 81 mg（或每天 325 mg）。如果有 aspirin 過敏，使用 clopidogrel。 |
+| **Clopidogrel**（P2Y12 抑制劑） | 300–600 mg 負荷劑量 PO，然後每天 75 mg |
+| **Ticagrelor**（P2Y12 抑制劑） | 180 mg 負荷劑量 PO，然後每天 90 mg BID |
+| **Prasugrel**（P2Y12 抑制劑） | 60 mg 負荷劑量 PO，然後每天 10 mg |
+| **Eptifibatide**（GP IIb-IIIa） | 180 μg/kg bolus，然後 2 μg/kg/min（如果 CrCL <50 mL/min 減少 50%） |
+| **Tirofiban**（GP IIb-IIIa） | 25 μg/kg bolus，然後 0.15 μg/kg/min（如果 CrCL <30 mL/min 減少 50%） |
 
 ## Acute Aortic Dissection
 
-Acute aortic dissection has a clinical presentation that can be confused with acute coronary syndromes. It requires aggressive antihypertensive therapy.
+急性主動脈夾層的臨床表現可能與急性冠狀症候群混淆。它需要積極的抗高血壓治療。
 
 ### Antihypertensive Therapy
 
-**Table 20.5** Antihypertensive Therapy for Acute Aortic Dissection
+**Table 20.5** 急性主動脈夾層的抗高血壓治療
 
-| Drug | Dosing Regimens and Comments |
+| 藥物 | 劑量方案和評論 |
 |---|---|
-| **Esmolol** | 500 μg/kg IV bolus, then 50 μg/kg/min infusion; increase by 25 μg/kg/min to desired BP or max 200 μg/kg/min. Ultra rapid-acting β-blocker; avoid in acute heart failure. |
-| **Labetalol** | 20 mg IV over 2 min, then 20–40 mg IV every 10 min PRN, or infuse 1–2 mg/min and titrate. Combined α- and β-blocker; use as monotherapy. Avoid in acute heart failure. |
-| **Metoprolol** | 5 mg IV bolus, repeat in 5 min × 2 if tolerated. Caution in acute heart failure, bradycardia, heart block. |
+| **Esmolol** | 500 μg/kg IV bolus，然後 50 μg/kg/min 輸注；增加 25 μg/kg/min 至期望的血壓或最大 200 μg/kg/min。超快速 β-受體阻斷劑；避免用於急性心臟衰竭。 |
+| **Labetalol** | 20 mg IV 超過 2 分鐘，然後 PRN 每 10 分鐘 20–40 mg IV，或輸注 1–2 mg/min 並滴定。Combined α- 和 β-阻斷劑；用作單一療法。避免用於急性心臟衰竭。 |
+| **Metoprolol** | 5 mg IV bolus，如果耐受每 5 分鐘重複 × 2。在急性心臟衰竭、心搏過緩、心臟傳導阻滯中慎用。 |
 
 ---
 

@@ -26,110 +26,110 @@ For patients who are unable to eat, the preferred method of nutrition support is
 
 ### Infectious Risk
 
-The bowel is described as "the motor of multiorgan failure." The role of enteral tube feedings in mitigating this threat includes:
+腸道被描述為「多器官衰竭的馬達」。腸道灌食在減輕這種威脅方面的作用包括：
 
-1. **Preservation of mucosal barrier:** Bulk nutrients in the bowel lumen have a trophic effect that preserves the structural integrity of the mucosa, protecting against invasion from enteric pathogens via translocation across the bowel wall.
+1. **黏膜屏障的保存：** 腸道腔中的大量營養物質具有營養作用，保持黏膜的結構完整性，通過跨腸道壁的 translocation 防止腸道病原體的入侵。
 
-2. **Immune defense:** The trophic influence includes immune defenses in the bowel, such as production of immunoglobulin A (IgA) by monocytes, which blocks the attachment of pathogens to the bowel mucosa.
+2. **免疫防禦：** 營養作用包括腸道中的免疫防禦，例如單核細胞產生的免疫球蛋白 A (IgA)，它阻止病原體附著於腸道黏膜。
 
-3. **Trophic requirement:** The trophic effect requires nutritional bulk (not just nutrient fuels), because the oral administration of parenteral feeding solutions does not produce this effect. Glutamine is believed to be involved because it is the principal fuel for enterocytes.
+3. **營養要求：** 營養作用需要營養物質總量（而不僅僅是營養燃料），因為口服胃腸外餵養溶液不會產生這種效果。據信 glutamine 參與其中，因為它是腸細胞的主要燃料。
 
-4. **Bowel rest:** The trophic effect is lost during periods of bowel rest, accompanied by progressive atrophy of the bowel mucosa and increased risk of bacterial invasion.
+4. **腸道休息：** 在腸道休息期間，營養作用會喪失，伴隨著腸道黏膜的進行性萎縮和細菌入侵風險的增加。
 
-Clinical studies confirm a lower infection rate with early enteral tube feedings (within 48 hours of admission).
+臨床研究確認早期腸道灌食（入院後 48 小時內）可降低 infection 率。
 
 ### Who and When
 
-The enteral route is always preferred to the intravenous route for nutrition support. When oral food intake is not possible, enteral tube feedings should be started within 48 hours of admission unless there is a contraindication. The presence of bowel sounds is **not required** to initiate enteral tube feedings.
+對於營養支持，腸道途徑總是優於靜脈途徑。當口服食物攝入不可能時，除非有禁忌症，否則應在入院後 48 小時內開始腸道灌食。Bowel sounds 的存在**不是**開始腸道灌食的必要條件。
 
 ### Contraindications
 
-**TABLE 49.1 — Contraindications to Enteral Tube Feedings**
+**TABLE 49.1 — 腸道灌食的禁忌症**
 
-| # | Contraindication |
+| # | 禁忌症 |
 |---|---|
-| 1 | Uncontrolled circulatory shock |
-| 2 | Bowel ischemia (suspected or proven) |
-| 3 | Life-threatening, refractory hypoxemia or hypercapnia |
-| 4 | Active upper GI hemorrhage |
-| 5 | Bowel obstruction |
-| 6 | High-output intestinal fistula |
-| 7 | Abdominal compartment syndrome |
-| 8 | Gastric residual volume >500 mL in 6 hours |
+| 1 | 未控制的循環性休克 |
+| 2 | 腸道缺血（懷疑或已證實） |
+| 3 | 危及生命的難治性缺氧或高碳酸血症 |
+| 4 | 活動性上消化道出血 |
+| 5 | 腸道阻塞 |
+| 6 | 高輸出率腸道瘻管 |
+| 7 | 腹腔內壓過高 |
+| 8 | 6 小時內胃殘餘量 >500 mL |
 
-**Hemodynamic considerations:**
+**血液動力學考量：**
 
-- Enteral feeding is **not advised** in uncontrolled or progressive circulatory shock.
-- Stable or decreasing vasopressor infusions are **not a contraindication**.
-- If the norepinephrine infusion rate is >0.2 mcg/kg/min (>14 mcg/min in a 70 kg adult), a reduced caloric intake of 10–15 kcal/kg/day is recommended for the first 7 days.
+- 在未控制或進行性循環性休克中**不建議**腸道灌食。
+- 穩定或減少的 vasopressor 輸注**不是禁忌症**。
+- 如果 norepinephrine 輸注速率 >0.2 mcg/kg/min（70 kg 成人 >14 mcg/min），建議在最初 7 天減少熱量攝入至 10–15 kcal/kg/day。
 
 ---
 
 ## Feeding Formulas
 
-There are many tube feeding formulas available. The following describes characteristic features:
+有許多管灌配方可用。以下描述其特徵：
 
 ### Caloric Density
 
-| Caloric Density | Characteristics |
+| Caloric Density | 特徵 |
 |---|---|
-| 1.0–1.2 kcal/mL | Standard; lower osmolality; less likely to cause diarrhea |
-| 1.5–2.0 kcal/mL | Used when fluid restriction is a priority; higher osmolality |
+| 1.0–1.2 kcal/mL | 標準；較低滲透壓；較不易引起腹瀉 |
+| 1.5–2.0 kcal/mL | 當液體限制是優先考量時使用；較高滲透壓 |
 
 ### Protein Content
 
-- Standard formulas: 35–65 g/L
-- Protein-enriched (HN) formulas: ~20% more protein
-- **Polymeric formulas:** Contain intact proteins broken down into amino acids in the upper GI tract.
-- **Elemental/Semi-elemental formulas:** Contain pre-digested proteins (peptides or amino acids) to facilitate absorption; advantageous in patients with troublesome diarrhea.
+- 標準配方：35–65 g/L
+- 蛋白質強化（HN）配方：約多 20% 蛋白質
+- **聚合配方：** 含有在上消化道分解為胺基酸的完整蛋白質。
+- **元素/半元素配方：** 含有預消化的蛋白質（胜肽或胺基酸）以促進吸收；適用於有麻煩腹瀉的患者。
 
 ### Fiber
 
-- **Fermentable fiber:** Broken down by gut bacteria to produce short-chain fatty acids (butyrate being the most important), which are the principal fuel for colonic mucosa cells and promote growth of nonpathogenic bowel microbes.
-- **Nonfermentable fiber:** Not broken down by bacteria; creates osmotic force that draws water into the bowel lumen, increasing stool water content to facilitate laxation.
+- **可發酵纖維：** 被腸道細菌分解產生短鏈脂肪酸（butyrate 最重要），這是結腸黏膜細胞的主要燃料，促進非致病性腸道微生物的生長。
+- **不可發酵纖維：** 不被細菌分解；產生滲透力將水吸入腸道腔，增加糞便水分含量以促進通便。
 
 ### Lipid Content
 
-Standard feeding formulas contain polyunsaturated fatty acids (PUFAs) from vegetable oils, typically providing about 30% of total calories.
+標準灌食配方含有來自植物油的多不飽和脂肪酸（PUFAs），通常提供約 30% 的總熱量。
 
-### Omega-3 Fatty Acids
+### Omega-3 脂肪酸
 
-Feeding formulas containing fish oils (omega-3 fatty acids) do not promote inflammation (unlike PUFAs from vegetable oils, which can serve as precursors for inflammatory eicosanoids). The use of feeding formulas that influence the inflammatory response is known as **immunonutrition**.
+含有魚油（omega-3 脂肪酸）的灌食配方不會促進發炎（與來自植物油的 PUFAs 不同，後者可作為發炎性類花生酸的 前體）。使用影響發炎反應的灌食配方被稱為**免疫營養**。
 
-### Conditionally Essential Nutrients
+### 條件必需營養素
 
-**Arginine:**
+**Arginine：**
 
-- A preferred metabolic substrate for injured muscle
-- A precursor of nitric oxide (which maintains peripheral blood flow)
-- Can become depleted in conditions like multisystem trauma
-- Recommended as a "consideration" in patients with traumatic brain injury and perioperative patients in the surgical ICU
-- **Should not be used** in medical ICU patients, especially those with severe sepsis
+- 受傷肌肉的首選代謝基質
+- 一氧化氮的前體（維持周邊血流）
+- 在多系統創傷等情況下可能耗竭
+- 在創傷性腦損傷患者和外科 ICU 術後患者中建議「考慮」使用
+- **不應用於**內科 ICU 患者，特別是嚴重 sepsis 患者
 
-**Glutamine:**
+**Glutamine：**
 
-- The most abundant free amino acid in the body
-- A precursor for glutathione (major intracellular antioxidant)
-- Essential for nucleic acid synthesis and production of select neurotransmitters
-- An oxidative fuel for cells with rapid turnover (e.g., bowel mucosa)
-- **Additional doses recommended:**
-  - Critically ill trauma patients: 0.2–0.3 g/kg/day for the first 5 days
-  - Burns >20% body surface area: 0.3–0.5 g/kg/day for the first 10–15 days
+- 體內最豐富的游離胺基酸
+- Glutathione 的前體（主要細胞內抗氧化劑）
+- 對於核酸合成和某些神經傳導物質的產生必不可少
+- 快速更新細胞的氧化燃料（如腸道黏膜）
+- **建議追加劑量：**
+  - 重症創傷患者：最初 5 天 0.2–0.3 g/kg/day
+  - 燒傷 >20% 體表面積：最初 10–15 天 0.3–0.5 g/kg/day
 
-**Carnitine:**
+**Carnitine：**
 
-- Necessary for transport of long-chain fatty acids into mitochondria
-- Deficiency can result from genetic disorders, malnutrition, hypercatabolic states, and liver failure
-- Recommended dose: 20–30 mg/kg/day in adults
+- 長鏈脂肪酸轉運入粒線體所必需
+- 缺乏可由遺傳性疾病、營養不良、高分解代謝狀態和肝衰竭引起
+- 建議劑量：成年人 20–30 mg/kg/day
 
-**TABLE 49.2 — Representative Tube Feeding Formulas**
+**TABLE 49.2 — 代表性管灌配方**
 
-| Formula | Caloric Density | Protein | Key Features |
+| 配方 | Caloric Density | 蛋白質 | 關鍵特徵 |
 |---|---|---|---|
-| Isocal HN | 1.06 kcal/mL | 44 g/L | Standard polymeric |
-| Vital 1.0 | 1.0 kcal/mL | 38 g/L | Elemental (pre-digested) |
-| TwoCal HN | 2.0 kcal/mL | 83 g/L | High density, high protein |
-| Jevity | 1.2 kcal/mL | 55 g/L | High fiber content |
+| Isocal HN | 1.06 kcal/mL | 44 g/L | 標準聚合 |
+| Vital 1.0 | 1.0 kcal/mL | 38 g/L | 元素（預消化） |
+| TwoCal HN | 2.0 kcal/mL | 83 g/L | 高密度、高蛋白質 |
+| Jevity | 1.2 kcal/mL | 55 g/L | 高纖維含量 |
 
 ---
 
@@ -137,56 +137,56 @@ Feeding formulas containing fish oils (omega-3 fatty acids) do not promote infla
 
 ### Step 1: Determine Daily Energy and Protein Requirements
 
-- **REE measurement:** Use indirect calorimetry if available.
-- **REE estimation:** REE = 25 × weight (kg); use actual body weight unless >125% of ideal; use adjusted body weight if greater.
-- **Protein requirement:** 1.2–2.0 g/kg/day (median: 1.6 g/kg/day).
+- **REE 測量：** 如果可用，使用 indirect calorimetry。
+- **REE 估計：** REE = 25 × 體重 (kg)；使用實際體重除非 >125% 理想體重；如果更大，使用調整後體重。
+- **蛋白質需求：** 1.2–2.0 g/kg/day（中位數：1.6 g/kg/day）。
 
 ### Step 2: Select a Feeding Formula
 
-A standard formula (1–1.2 kcal/mL) should be sufficient for most patients. Use higher caloric density formulas only if volume restriction is a priority.
+大多數患者，標準配方（1–1.2 kcal/mL）應該足夠。只有在體積限制是優先考量時才使用較高熱量密度配方。
 
 ### Step 3: Calculate the Desired Infusion Rate
 
-- A continuous infusion is recommended (not bolus feedings).
-- **Volume calculation:** Volume = (Daily caloric requirement / Caloric density of formula)
-- **Rate:** Volume / 24 hours
+- 建議使用持續輸注（不是 bolus feedings）。
+- **體積計算：** 體積 =（每日熱量需求 / 配方的熱量密度）
+- **速率：** 體積 / 24 小時
 
-> **Propofol adjustment:** Propofol provides 1.1 kcal/mL. The hourly infusion rate (mL/hr) of propofol is equivalent to the hourly caloric yield (kcal/hr). Subtract propofol calories from the daily caloric requirement.
+> **Propofol 調整：** Propofol 提供 1.1 kcal/mL。Propofol 的每小時輸注速率（mL/hr）等於每小時熱量產量（kcal/hr）。從每日熱量需求中扣除 propofol 熱量。
 
 ### Step 4: Adjust Protein Intake if Necessary
 
-Verify that the feeding regimen satisfies the daily protein requirement. If not, powdered protein can be added.
+驗證餵養療程是否滿足每日蛋白質需求。如果沒有，可以添加粉末蛋白質。
 
 ### Initial Period Recommendations
 
-- Provide **no more than 70% of REE** for the first 3 days (if using indirect calorimetry) or first 7 days (if using predictive equations).
-- Gradually increase to 100% over the remainder of the first week.
-- This approach reduces the risk of overfeeding and refeeding syndrome in malnourished patients.
+- 在最初 3 天（如果使用 indirect calorimetry）或最初 7 天（如果使用預測方程式）提供**不超過 70% REE**。
+- 在第一週剩餘時間內逐漸增加到 100%。
+- 這種方法可降低營養不良患者過度餵養和再進食症候群的風險。
 
 ---
 
 ## Feeding Tubes
 
-Liquid feeding formulas are delivered via narrow-bore, flexible nasogastric (NG) tubes (typically 8–10 French diameter, 50–100 cm length). They are made of polyurethane and require a guidewire or stylet for placement.
+液態餵養配方通過窄徑柔性鼻胃（NG）管輸送（通常 8–10 French 直徑，50–100 cm 長度）。它們由聚氨酯製成，需要導絲或管芯用於放置。
 
 ### Placement
 
-- **Target:** The stomach is preferred unless there is evidence of regurgitation and aspiration.
-- **Distance:** Measure from the tip of the nose to the earlobe to the xiphoid process ("NEX" distance, typically 50–60 cm).
-- **Verification:** A portable chest X-ray is required after every insertion to confirm proper placement.
+- **目標：** 胃是首選，除非有反流和誤吸的證據。
+- **距離：** 從鼻尖到耳垂再到劍突測量（「NEX」距離，通常 50–60 cm）。
+- **驗證：** 每次插入後都需要便擕式胸部 X 光確認正確放置。
 
-**Chest X-ray appearance of proper placement:** The tube runs a straight course down the mediastinum and bisects the angle created by the tracheal bifurcation. The tip should be about 10 cm below the dome of the left hemidiaphragm.
+**正確放置的胸部 X 光表現：** 管道沿縱隔直線下行，並將氣管分叉形成的角度平分。尖端應在左側膈膜圓頂下方約 10 cm 處。
 
-> **The "whoosh test" (pushing air while listening with a stethoscope) should be abandoned** — it does not reliably confirm gastric placement and can be misleading.
+> **「whoosh test」（推注空氣同時用聽診器聆聽）應被放棄** — 它不能可靠地確認胃放置，可能具有誤導性。
 
 ### Detecting Misplaced Tubes
 
-- **End-tidal CO₂ monitoring:** Has 96% sensitivity and 99% specificity for detecting feeding tube entry into the lungs. Appearance of CO₂ waveform or PCO₂ ≥15 mmHg indicates lung placement.
-- **Ultrasound:** 96% sensitivity and 91% specificity for confirming gastric placement, but does not reliably detect lung misplacement.
+- **End-tidal CO₂ 監測：** 對於檢測餵養管進入肺部具有 96% 敏感度和 99% 特異度。CO₂ 波形出現或 PCO₂ ≥15 mmHg 表示肺部放置。
+- **超聲：** 確認胃放置具有 96% 敏感度和 91% 特異度，但不能可靠地檢測肺部錯誤放置。
 
 ### Gastric vs. Duodenal Feeding
 
-Gastric feeding is preferred because studies show no difference in aspiration risk between gastric and duodenal feedings. Duodenal feeding is a consideration in patients with problematic regurgitation and aspiration.
+首選胃灌食，因為研究顯示胃和十二指腸灌食之間的誤吸風險沒有差異。十二指腸灌食適用於有麻煩反流和誤吸的患者。
 
 ---
 
@@ -194,47 +194,47 @@ Gastric feeding is preferred because studies show no difference in aspiration ri
 
 ### Tube Occlusion
 
-Narrow-bore tubes can become occluded by protein precipitates when acidic gastric secretions reflux into the tube.
+窄徑管道可能因酸性胃分泌物回流到管道中而形成蛋白質沉澱物，導致阻塞。
 
-**Prevention:** Flush with 30 mL of water every 4 hours; 10 mL water flush after medications.
+**預防：** 每 4 小時用 30 mL 水沖洗；藥物後用 10 mL 水沖洗。
 
-**Restoring patency:**
+**恢復通暢：**
 
-1. Warm water flush (effective in ~30% of cases)
-2. Pancreatic enzyme mixture: Dissolve 1 tablet Viokase + 1 tablet sodium carbonate (324 mg) in 5 mL water; inject and clamp for 5 minutes; follow with warm water flush (~75% effective)
+1. 溫水沖洗（約 30% 病例有效）
+2. 胰酶混合物：將 1 片 Viokase + 1 片碳酸鈉（324 mg）溶於 5 mL 水中；注入並夾管 5 分鐘；然後用溫水沖洗（約 75% 有效）
 
 ### Regurgitation and Aspiration
 
-Microaspiration occurs in almost half of critically ill patients. Risk factors include impaired gastric motility and reduced lower esophageal sphincter tone.
+微量誤吸發生在幾乎一半的重症患者中。風險因子包括胃動力障礙和下食道括約肌張力降低。
 
-**Gastric residual volume (GRV):**
+**胃殘餘量（GRV）：**
 
-- Routine monitoring of GRV is **not recommended** as it does not reliably predict aspiration risk.
-- If measured, a GRV >500 mL in 6 hours warrants temporary interruption of feeding.
-- If feeding is interrupted, elevate the head of the bed ≥30° and consider prokinetic therapy.
+- **不建議**常規監測 GRV，因為它不能可靠地預測誤吸風險。
+- 如果測量，6 小時內 GRV >500 mL 需要暫停灌食。
+- 如果灌食中斷，將床頭抬高 ≥30° 並考慮促動力藥物治療。
 
-**TABLE 49.3 — Prokinetic Agents for Gastric Dysmotility**
+**TABLE 49.3 — 胃動力障礙的促動力藥物**
 
-| Agent | Dosing | Notes |
+| 藥物 | 劑量 | 備註 |
 |---|---|---|
-| Erythromycin | 100–200 mg IV every 8 hrs for 3 days | Most effective; tachyphylaxis after a few days |
-| Metoclopramide | 10 mg IV every 8 hrs for 3 days | Less effective than erythromycin |
-| Enteral naloxone | 8 mg via NG tube every 6 hrs | Blocks bowel opiate receptors without affecting analgesia |
+| Erythromycin | 100–200 mg 靜脈注射，每 8 小時一次，持續 3 天 | 最有效；數天後會快速減敏 |
+| Metoclopramide | 10 mg 靜脈注射，每 8 小時一次，持續 3 天 | 效果比 erythromycin 差 |
+| 腸道 naloxone | 8 mg 通過 NG 管，每 6 小時一次 | 阻斷腸道類鴉片受體而不影響鎮痛 |
 
 ### Diarrhea
 
-Diarrhea is a common complication. Contributing factors include:
+腹瀉是一種常見的併發症。促成因素包括：
 
-- High osmolality formulas
-- Antibiotic-associated *C. difficile* infection
-- Medications containing sorbitol or magnesium
+- 高滲透壓配方
+- 抗生素相關的 *C. difficile* infection
+- 含 sorbitol 或鎂的藥物
 
-**TABLE 49.4 — Liquid Drug Preparations That Can Promote Diarrhea**
+**TABLE 49.4 — 可能引起腹瀉的液體藥物製劑**
 
-| Category | Examples |
+| 類別 | 範例 |
 |---|---|
-| >3,000 mosm/kg H₂O | Hydroxyzine, acetaminophen, cimetidine, isoniazid, lithium, metoclopramide, theophylline, tetracycline |
-| Contain sorbitol | Dexamethasone, ferrous sulfate, potassium chloride, multivitamins |
+| >3,000 mosm/kg H₂O | Hydroxyzine、acetaminophen、cimetidine、isoniazid、Lithium、metoclopramide、theophylline、tetracycline |
+| 含 sorbitol | Dexamethasone、ferrous sulfate、potassium chloride、綜合維生素 |
 
 ---
 

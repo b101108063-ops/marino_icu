@@ -9,88 +9,88 @@ title: "Acute Heart Failure(s)"
 >
 > — Leonardo da Vinci
 
-Despite the emphasis on a "heart healthy" lifestyle in modern times, heart failure has grown in prevalence and associated mortality in recent years. Current surveys show that one of every 8 deaths in the United States is related to heart failure, indicating that heart failure is a leading health problem in this country.
+儘管現代強調「心臟健康」生活方式，心臟衰竭的患病率和相關死亡率近年來有所增加。目前的調查顯示，美國每 8 例死亡中就有 1 例與心臟衰竭相關，表明心臟衰竭是該國的一個主要健康問題。
 
-Heart failure is classified according to the portion of the cardiac cycle that is affected (systole or diastole) and the side of the heart that is involved. This chapter describes each type of heart failure, focusing on the acute, decompensated stage of heart failure.
+心臟衰竭根據受累的心臟周期（收縮或舒張）和心臟受累側進行分類。本章描述各種類型的心臟衰竭，聚焦於心臟衰竭的急性失代償期。
 
 ## Types of Heart Failure
 
-Heart failure can result from impaired cardiac filling (diastolic dysfunction) or a decrease in contractile strength (systolic dysfunction).
+心臟衰竭可由心臟充盈受損（舒張功能障礙）或收縮力量下降（收縮功能障礙）引起。
 
 ### Systolic vs. Diastolic Dysfunction
 
-**Compliance** is a measure of ventricular distensibility:
+**順應性**是心室擴展性的測量：
 
 $$Compliance = \frac{\Delta EDV}{\Delta EDP}$$
 
-where EDV is end-diastolic volume and EDP is end-diastolic pressure.
+其中 EDV 是 end-diastolic volume，EDP 是 end-diastolic pressure。
 
-An end-diastolic volume of 97 mL/m² is used to distinguish between systolic and diastolic dysfunction:
-- EDV >97 mL/m² indicates systolic dysfunction
-- EDV ≤97 mL/m² indicates diastolic dysfunction
+97 mL/m² 的 end-diastolic volume 用於區分收縮和舒張功能障礙：
+- EDV >97 mL/m² 表示收縮功能障礙
+- EDV ≤97 mL/m² 表示舒張功能障礙
 
 ### Ejection Fraction
 
-The ejection fraction (EF) is the ratio of stroke volume (SV) to end-diastolic volume (EDV):
+Ejection fraction（EF）是 stroke volume（SV）與 end-diastolic volume（EDV）的比值：
 
 $$EF = \frac{SV}{EDV} \times 100$$
 
-The normal ejection fraction of the left ventricle is ≥55%.
+左心室的正常 ejection fraction 為 ≥55%。
 
-**Table 18.1** Classification of Heart Failure Based on Left Ventricular Ejection Fraction (LVEF)
+**Table 18.1** 基於左心室 Ejection Fraction（LVEF）的心臟衰竭分類
 
-| Category | LVEF | Problem |
+| 類別 | LVEF | 問題 |
 |---|---|---|
-| Heart Failure with preserved ejection fraction (HFpEF) | ≥50% | Diastolic dysfunction |
-| Heart Failure with mildly reduced ejection fraction (HFmrEF) | 41–49% | Systolic dysfunction (mild) |
-| Heart Failure with reduced ejection fraction (HFrEF) | ≤40% | Systolic dysfunction (moderate/severe) |
+| Heart Failure with preserved ejection fraction（HFpEF） | ≥50% | 舒張功能障礙 |
+| Heart Failure with mildly reduced ejection fraction（HFmrEF） | 41–49% | 收縮功能障礙（輕度） |
+| Heart Failure with reduced ejection fraction（HFrEF） | ≤40% | 收縮功能障礙（中度/重度） |
 
 ## Natriuretic Peptides
 
-**Table 18.2** Causes of Elevated Natriuretic Peptide Levels
+**Table 18.2** 升高的 Natriuretic Peptide 水準的原因
 
-| Cardiac Causes | Noncardiac Causes |
+| 心臟原因 | 非心臟原因 |
 |---|---|
-| Heart failure (right and left) | Advanced age |
-| Myocarditis | Renal failure |
-| Ventricular hypertrophy | Anemia |
-| Acute coronary syndromes | Pulmonary embolism |
-| Pericardial disease | Pulmonary hypertension |
-| Atrial fibrillation | Bacterial sepsis |
-| Cardioversion | Critical illness |
-| Cardiac surgery | |
+| 心臟衰竭（右側和左側） | 高齡 |
+| 心肌炎 | 腎衰竭 |
+| 心室肥厚 | 貧血 |
+| 急性冠狀動脈症候群 | 肺栓塞 |
+| 心包疾病 | 肺高血壓 |
+| 心房顫動 | 細菌性敗血症 |
+| 心臟電復律 | 危重症 |
+| 心臟手術 | |
 
 ## Vasodilator Therapy
 
-**Table 18.3** Vasodilator Infusions for Acute Heart Failure
+**Table 18.3** 急性心臟衰竭的 Vasodilator 輸注
 
-| Agent | Dosing Recommendations |
+| 製劑 | 劑量建議 |
 |---|---|
-| **Nitroglycerin** | Start: 5 μg/min; increase by 5 μg/min every 5 min. Effective: 5–100 μg/min; max 200 μg/min. ⚠️ Tachyphylaxis after 24 hrs. Propylene glycol toxicity risk. High doses → methemoglobinemia. Use glass bottles + polyethylene tubing (PVC adsorbs drug). |
-| **Nitroprusside** | Start: 0.2 μg/kg/min; titrate every 5 min. Effective: 2–5 μg/kg/min; max 10 μg/kg/min. ⚠️ Cyanide toxicity at >3 μg/kg/min; avoid in renal/hepatic insufficiency; add thiosulfate 500 mg to infusate. ⚠️ Not recommended for coronary ischemia (coronary steal). |
+| **Nitroglycerin** | 起始：5 μg/min；每 5 分鐘增加 5 μg/min。有效劑量：5–100 μg/min；最大 200 μg/min。⚠️ 24 小時後發生快速減敏。丙二醇毒性風險。高劑量 → 正鐵血紅蛋白血症。使用玻璃瓶和聚乙烯管（PVC 會吸附藥物）。 |
+| **Nitroprusside** | 起始：0.2 μg/kg/min；每 5 分鐘滴定。有效劑量：2–5 μg/kg/min；最大 10 μg/kg/min。⚠️ >3 μg/kg/min 時有氰化物毒性；避免用於腎/肝功能不全；添加 thiosulfate 500 mg 到輸注液中。⚠️ 不推薦用於冠狀動脈缺血（冠狀動脈竊血）。 |
 
 ## Diuretic Therapy
 
-**Table 18.4** Diuretic Therapy for Acute Heart Failure
+**Table 18.4** 急性心臟衰竭的利尿劑治療
 
-| Agent | Dosing Recommendations |
+| 製劑 | 劑量建議 |
 |---|---|
-| **Furosemide** | Naïve: IV 40 mg (normal renal function) or 60–80 mg (renal impairment). Already on furosemide: IV dose = total daily outpatient dose. If inadequate at 2 hrs: double dose to max 200 mg. Effective IV dose given twice daily. |
-| **Bumetanide / Torsemide** | Greater bioavailability than furosemide; effective in furosemide resistance. Equivalence: 40 mg furosemide = 1 mg bumetanide = 20 mg torsemide. |
-| **Metolazone** | Thiazide that augments loop diuretics. Dose: 2.5–10 mg PO daily, given a few hours before loop diuretic. ⚠️ Combination increases hypokalemia risk. |
+| **Furosemide** | 初次：IV 40 mg（正常腎功能）或 60–80 mg（腎功能障礙）。已在使用 furosemide：IV 劑量 = 總每日門診劑量。如果 2 小時後效果不佳：加倍至最大 200 mg。有效 IV 劑量每天兩次。 |
+| **Bumetanide / Torsemide** | 生物利用度比 furosemide 高；在 furosemide 耐藥時有效。等效劑量：40 mg furosemide = 1 mg bumetanide = 20 mg torsemide。 |
+| **Metolazone** | 增強 loop 利尿劑的噻嗪類。劑量：2.5–10 mg PO 每天，與 loop 利尿劑間隔幾小時服用。⚠️ 組合增加低鉀血症風險。 |
 
 ## Therapies that Improve Outcomes
 
-**Table 18.5** Therapies that Improve Outcomes in Heart Failure with Reduced Ejection Fraction
+**Table 18.5** 改善 HFrEF 結局的治療
 
-| Agent Category | Specific Agent | Initial Dose | Target Dose |
+| 製劑類別 | 特定製劑 | 起始劑量 | 目標劑量 |
 |---|---|---|---|
-| **RAA Suppression** | Sacubitril/Valsartan | 24/26 mg BID (normotension); 49/51 mg BID (hypertension) | 97/103 mg BID |
-| **Beta Blockers** | Carvedilol | 3.125 mg BID | 25 mg BID |
-| **Beta Blockers** | Metoprolol succinate ER | 12.5–25 mg once daily | 200 mg once daily |
-| **SGLT2 Inhibitors** | Dapagliflozin or Empagliflozin | 10 mg once daily | 10 mg once daily |
-| **Aldosterone Antagonists** | Spironolactone | 12.5–25 mg once daily | 25–50 mg once daily |
-| **Aldosterone Antagonists** | Eplerenone | 25 mg once daily | 50 mg once daily |
+| **RAA 抑制** | Sacubitril/Valsartan | 24/26 mg BID（正常血壓）；49/51 mg BID（高血壓） | 97/103 mg BID |
+| **β 受體阻斷劑** | Carvedilol | 3.125 mg BID | 25 mg BID |
+| **β 受體阻斷劑** | Metoprolol succinate ER | 12.5–25 mg 每天一次 | 200 mg 每天一次 |
+| **SGLT2 抑制劑** | Dapagliflozin 或 Empagliflozin | 10 mg 每天一次 | 10 mg 每天一次 |
+| **醛固酮拮抗劑** | Spironolactone | 12.5–25 mg 每天一次 | 25–50 mg 每天一次 |
+| **醛固酮拮抗劑** | Eplerenone | 25 mg 每天一次 | 50 mg 每天一次 |
 
 ---
 

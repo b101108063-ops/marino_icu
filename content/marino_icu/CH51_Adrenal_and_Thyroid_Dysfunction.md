@@ -26,178 +26,178 @@ Adrenal and thyroid disorders are rarely the primary reason for admission to an 
 
 ## Adrenal Suppression in the ICU
 
-The adrenal gland plays a major role in the adaptive response to stress:
+腎上腺在對 stress 的適應反應中起主要作用：
 
-- **Adrenal cortex:** Releases glucocorticoids (promote glucose availability) and mineralocorticoids (maintain extracellular volume)
-- **Adrenal medulla:** Releases catecholamines (support circulation)
+- **腎上腺皮質：** 釋放 glucocorticoids（促進葡萄糖可用性）和 mineralocorticoids（維持細胞外液體積）
+- **腎上腺髓質：** 釋放 catecholamines（支持循環）
 
-Attenuation or loss of this adrenal response leads to hemodynamic instability, volume depletion, and defective energy metabolism. Adrenal insufficiency can remain silent until the adrenal gland is called upon to respond to physiologic stress — at which point it becomes an occult catalyst that speeds the progression of acute, life-threatening conditions.
+這種腎上腺反應的減弱或喪失導致血液動力學不穩、容量耗竭和能量代謝缺陷。Adrenal insufficiency 可以保持沉默，直到腎上腺被呼籲響應生理性 stress——此時它成為加速急性、危及生命的疾病進展的隱蔽催化劑。
 
 ### Adrenal Physiology
 
-The activity of the adrenal glands is governed by:
+腎上腺的活動由以下調節：
 
-- **CRH** (corticotropin-releasing hormone) from the hypothalamus
-- **ACTH** (adrenocorticotropic hormone) from the anterior pituitary gland
+- 來自下視丘的 **CRH**（促皮質素釋放激素）
+- 來自腦下垂體前葉的 **ACTH**（促皮質素）
 
 ### Cortisol
 
-Cortisol (hydrocortisone) is the major glucocorticoid released by the adrenal cortex:
+Cortisol（hydrocortisone）是腎上腺皮質釋放的主要 glucocorticoid：
 
-- Normal daily production: 15–25 mg/day
-- During maximum physiological stress: up to 350 mg/day
+- 正常每日產生：15–25 mg/day
+- 最大生理性 stress 期間：高達 350 mg/day
 
-**Plasma cortisol:** About 90% is bound to corticosteroid-binding globulin (CBG) and albumin; 10% is free (biologically active). Commercial assays measure total cortisol. Plasma CBG levels fall by as much as 50% during acute illness, which can affect interpretation.
+**血漿 cortisol：** 約 90% 與皮質類固醇結合球蛋白（CBG）和白蛋白結合；10% 是游離的（生物活性）。商業檢測測量總 cortisol。急性疾病期間血漿 CBG 水平可下降多達 50%，這可能影響解讀。
 
 ### Critical Illness-Related Corticosteroid Insufficiency (CIRCI)
 
-Adrenal insufficiency is common in critically ill patients (overall incidence: 10–20%; up to 60% in severe sepsis and septic shock). The mechanisms involved in CIRCI are complex. The systemic inflammatory response plays a major role, and suppression at the hypothalamic-pituitary level is responsible for up to 75% of cases in patients with severe sepsis and septic shock.
+Adrenal insufficiency 在重症患者中很常見（整體發生率：10–20%；嚴重 sepsis 和敗血性休克中高達 60%）。CIRCI 中涉及的機制是複雜的。全身性發炎反應起主要作用，而在嚴重 sepsis 和敗血性休克患者中，下視丘-腦下垂體水平的抑制佔病例的至高 75%。
 
-**Predisposing conditions:**
+**易感條件：**
 
-- **Infectious:** Severe sepsis, septic shock, HIV infection, systemic fungal infections, meningococcemia (adrenal hemorrhage)
-- **Noninfectious:** Abrupt discontinuation of chronic steroid therapy, adrenal hemorrhage from DIC or anticoagulant therapy, drugs that inhibit cortisol synthesis (etomidate, ketoconazole) or accelerate cortisol metabolism (phenytoin, rifampin)
+- **感染性：** 嚴重 sepsis、敗血性休克、HIV infection、全身性黴菌 infection、腦膜炎球菌血症（腎上腺出血）
+- **非感染性：** 突然停用慢性 steroid 治療、DIC 或抗凝治療引起的腎上腺出血、抑制 cortisol 合成的藥物（etomidate、ketoconazole）或加速 cortisol 代謝的藥物（phenytoin、rifampin）
 
-**Clinical manifestations:**
+**臨床表現：**
 
-- Hypotension that is **refractory to volume resuscitation** — the principal manifestation
-- Note: The typical electrolyte abnormalities of chronic adrenal insufficiency (hyponatremia, hyperkalemia) are **uncommon** in CIRCI
+- 對容量復甦**頑固的 hypotension** — 主要表現
+- 注意：慢性 adrenal insufficiency 的典型電解質異常（低鈉血症、高鉀血症）在 CIRCI 中**不常見**
 
-**Diagnosis:**
+**診斷：**
 
-The diagnosis of adrenal suppression in critically ill patients is challenging. The rapid ACTH stimulation test can be performed at any time of day:
+在重症患者中診斷 adrenal suppression 是具有挑戰性的。快速 ACTH 刺激試驗可以在一天中的任何時間進行：
 
-1. Obtain baseline (random) plasma cortisol.
-2. Give synthetic ACTH (cosyntropin) 250 mcg IV.
-3. Obtain repeat plasma cortisol 60 minutes later.
+1. 獲取基準（隨機）血漿 cortisol。
+2. 給予合成 ACTH（cosyntropin）250 mcg 靜脈注射。
+3. 60 分鐘後再次獲取血漿 cortisol。
 
-**Diagnostic criteria:**
+**診斷標準：**
 
-1. A random plasma cortisol level <10 mcg/dL, or an increment in plasma cortisol of <9 mcg/dL after ACTH injection, suggests adrenal suppression.
-2. In patients with septic shock, plasma cortisol levels are **not necessary** for identifying patients who might benefit from corticosteroid therapy. A trial of IV hydrocortisone is recommended when hypotension is refractory to volume resuscitation and moderate vasopressor doses.
+1. 隨機血漿 cortisol 水平 <10 mcg/dL，或 ACTH 注射後血漿 cortisol 增加 <9 mcg/dL，提示 adrenal suppression。
+2. 在敗血性休克患者中，血漿 cortisol 水平**對於識別可能受益於皮質類固醇治療的患者不是必需的**。當 hypotension 對容量復甦和中度 vasopressor 劑量頑固時，建議嘗試靜脈注射 hydrocortisone。
 
-**Additional notes:**
+**附加說明：**
 
-- Random plasma cortisol ≥35 mcg/dL indicates normal or adequate adrenal function.
-- A normal response to ACTH (increment ≥9 mcg/dL) does not eliminate secondary adrenal suppression from hypothalamic-pituitary dysfunction. Plasma ACTH level is needed for diagnosis of secondary adrenal insufficiency.
+- 隨機血漿 cortisol ≥35 mcg/dL 表示腎上腺功能正常或足夠。
+- 對 ACTH 的正常反應（增加 ≥9 mcg/dL）不能排除下視丘-腦下垂體功能障礙引起的繼發性 adrenal suppression。需要血漿 ACTH 水平來診斷繼發性 adrenal insufficiency。
 
-**Treatment:**
+**治療：**
 
-**TABLE 51.1 — Treatment of Critical Illness-Related Corticosteroid Insufficiency**
+**TABLE 51.1 — Critical Illness-Related Corticosteroid Insufficiency 的治療**
 
-| Indication | Treatment |
+| 適應症 | 治療 |
 |---|---|
-| Relative adrenal insufficiency | Hydrocortisone 200–300 mg/day IV (continuous or divided doses) |
-| Septic shock requiring vasopressors | Hydrocortisone 200 mg/day IV + fludrocortisone 0.05 mg/day PO (optional) |
+| 相對 adrenal insufficiency | Hydrocortisone 200–300 mg/day 靜脈注射（持續或分次劑量） |
+| 需要 vasopressors 的敗血性休克 | Hydrocortisone 200 mg/day 靜脈注射 + fludrocortisone 0.05 mg/day 口服（可選） |
 | Thyroid storm | PTU + potassium iodide + dexamethasone |
-| Myxedema coma | Levothyroxine 300–500 mcg IV loading, then 50–100 mcg/day IV |
+| Myxedema coma | Levothyroxine 300–500 mcg 靜脈注射負載，然後 50–100 mcg/day 靜脈注射 |
 
 ---
 
 ## Evaluation of Thyroid Function
 
-Laboratory tests of thyroid function can be abnormal in up to 90% of critically ill patients. In most cases, the abnormality is a consequence of non-thyroidal (systemic) illness, not pathologic thyroid disease.
+甲狀腺功能的實驗室檢查在多達 90% 的重症患者中可能異常。在大多數情況下，這種異常是非甲狀腺（全身性）疾病的後果，而非病理性甲狀腺疾病。
 
 ### Key Hormones
 
-- **Thyroxine (T4):** Principal hormone secreted by the thyroid gland
-- **Triiodothyronine (T3):** The active form; formed by deiodination of T4 in extrathyroidal tissues
-- **Thyroid-stimulating hormone (TSH):** The most reliable test for evaluating thyroid illness; distinguishes primary from secondary thyroid disorders and identifies nonthyroidal influences
+- **Thyroxine (T4)：** 甲狀腺分泌的主要激素
+- **Triiodothyronine (T3)：** 活性形式；在甲狀腺外組織由 T4 脫碘形成
+- **甲狀腺刺激激素（TSH）：** 評估甲狀腺疾病最可靠的檢查；區分原發性和繼發性甲狀腺疾病，並識別甲狀腺外的影響
 
-Both T3 and T4 are extensively (>99%) bound to plasma proteins (especially thyroxine-binding globulin). Less than 1% is free and biologically active. Free T4 levels are more reliable than total T4 in acutely ill patients.
+T3 和 T4 都廣泛地（>99%）與血漿蛋白質（尤其是甲狀腺素結合球蛋白）結合。不到 1% 是游離的和具有生物活性的。在急性疾病患者中，游離 T4 水平比總 T4 更可靠。
 
-### Patterns of Abnormal Thyroid Function Tests
+### 甲狀腺功能檢查異常的模式
 
-**TABLE 51.2 — Patterns of Thyroid Function Test Abnormalities**
+**TABLE 51.2 — 甲狀腺功能檢查異常的模式**
 
-| Condition | T3 / T4 | TSH | Reference Range |
+| 情況 | T3 / T4 | TSH | 參考範圍 |
 |---|---|---|---|
-| Euthyroid Sick Syndrome | Low T3, normal T4 | Normal or low | T4: 0.8–1.8 ng/dL; TSH: 0.3–4.5 mU/mL |
-| Low T3 Syndrome | Low T3, normal T4 | Normal | — |
-| High T4 Syndrome | High T4 | Normal | — |
-| Primary Hypothyroidism | Low T4 | High | — |
-| Primary Hyperthyroidism | High T4 | Low | — |
+| Euthyroid Sick Syndrome | 低 T3，正常 T4 | 正常或低 | T4: 0.8–1.8 ng/dL; TSH: 0.3–4.5 mU/mL |
+| 低 T3 症候群 | 低 T3，正常 T4 | 正常 | — |
+| 高 T4 症候群 | 高 T4 | 正常 | — |
+| 原發性甲狀腺機能低下 | 低 T4 | 高 | — |
+| 原發性甲狀腺機能亢進 | 高 T4 | 低 | — |
 
 ---
 
 ## Thyrotoxicosis
 
-Thyrotoxicosis is almost always the result of primary hyperthyroidism, most commonly caused by autoimmune thyroiditis (Graves disease).
+Thyrotoxicosis 幾乎總是原發性甲狀腺機能亢進的結果，最常由自體免疫甲狀腺炎（Graves disease）引起。
 
 ### Clinical Manifestations
 
-- Agitation, heat intolerance, tachycardia (including atrial fibrillation), fine tremors
-- **Apathetic thyrotoxicosis:** Elderly patients may present with lethargy rather than agitation; the combination of lethargy and atrial fibrillation is a classic presentation
+- 激動、對熱不耐、心搏過速（包括心房顫動）、細微顫抖
+- **淡漠性甲狀腺毒症：** 老年患者可能表現為嗜睡而非激動；嗜睡和心房顫動的組合是典型表現
 
 ### Thyroid Storm
 
-An uncommon but severe form of hyperthyroidism precipitated by acute illness or surgery, characterized by:
+一種罕見但嚴重的甲狀腺機能亢進形式，由急性疾病或手術誘發，特徵為：
 
-- Hyperpyrexia (body temperatures can exceed 104° F)
-- Severe agitation or delirium
-- Severe tachycardia with high-output heart failure
-- Obtundation, coma, generalized seizures, and hemodynamic instability in advanced cases
-- **Mortality rate:** Up to 25% even with treatment
+- 高熱（體溫可超過 104° F）
+- 嚴重激動或譫妄
+- 嚴重心搏過速伴隨高輸出量心臟衰竭
+- 晚期表現為遲鈍、昏迷、全身性癲癇和血液動力學不穩
+- **死亡率：** 即使治療也高達 25%
 
 ### Diagnosis
 
-- Plasma TSH assay is the most sensitive and specific initial screening test for hyperthyroidism
-- TSH levels are almost undetectable (<0.01 mU/dL) in most cases of primary hyperthyroidism
-- Free T4 level is typically elevated in overt hyperthyroidism
+- 血漿 TSH 檢測是甲狀腺機能亢進最敏感和特異的初步篩檢檢查
+- 在大多數原發性甲狀腺機能亢進病例中，TSH 水平幾乎檢測不到（<0.01 mU/dL）
+- 在明顯的甲狀腺機能亢進中，游離 T4 水平通常升高
 
 ### Management
 
-**TABLE 51.3 — Drug Therapy for Thyrotoxicosis and Thyroid Storm**
+**TABLE 51.3 — 甲狀腺毒症和 Thyroid Storm 的藥物治療**
 
-| Drug | Dose | Notes |
+| 藥物 | 劑量 | 備註 |
 |---|---|---|
-| **Propranolol** | 60–80 mg PO every 4–6 hrs | First-line; blocks T4→T3 conversion; non-selective β-blocker; use cautiously in asthma/SHF |
-| **Metoprolol** | 25–50 mg PO BID–TID | Selective β1-blocker; safer in asthma/SHF |
-| **Esmolol** | Continuous infusion | Ultra-rapid-acting; for rapid heart rate control |
-| **PTU** | 300–600 mg/day div doses | Inhibits thyroid hormone synthesis; also blocks T4→T3 conversion |
-| **Potassium iodide** | 5–10 drops SSKI PO daily | Inhibits thyroid hormone release |
-| **Dexamethasone** | 2 mg IV every 6 hrs | Inhibits T4→T3 conversion |
+| **Propranolol** | 60–80 mg 口服，每 4–6 小時一次 | 首選；阻斷 T4→T3 轉換；非選擇性 β-受體阻斷劑；在氣喘/SHF 中謹慎使用 |
+| **Metoprolol** | 25–50 mg 口服，每日兩到三次 | 選擇性 β1-受體阻斷劑；在氣喘/SHF 中更安全 |
+| **Esmolol** | 持續輸注 | 超快速作用；用於快速心率控制 |
+| **PTU** | 300–600 mg/day 分次劑量 | 抑制甲狀腺激素合成；也阻斷 T4→T3 轉換 |
+| **Potassium iodide** | 5–10 滴 SSKI 口服，每日一次 | 抑制甲狀腺激素釋放 |
+| **Dexamethasone** | 2 mg 靜脈注射，每 6 小時一次 | 抑制 T4→T3 轉換 |
 
 ---
 
 ## Hypothyroidism
 
-Symptomatic hypothyroidism is reported in 3–7% of the general population. Most cases result from chronic autoimmune thyroiditis (Hashimoto thyroiditis). Less common causes include treatment of hyperthyroidism (radioiodine or surgery), hypothalamic-pituitary dysfunction, drugs (lithium, amiodarone, tetracyclines, antineoplastic agents), and Sheehan syndrome.
+一般人口中報告有 3–7% 的有症狀甲狀腺機能低下。大多數病例由慢性自體免疫甲狀腺炎（Hashimoto thyroiditis）引起。較不常見的原因包括甲狀腺機能亢進的治療（放射性碘或手術）、下視丘-腦下垂體功能障礙、藥物（鋰、amiodarone、tetracyclines、抗腫瘤藥物）和 Sheehan syndrome。
 
 ### Clinical Manifestations
 
-- Dry skin, fatigue, muscle cramps, constipation (often subtle)
-- **Not** a cause of obesity
-- Advanced cases: hyponatremia, skeletal muscle myopathy with elevated CPK, increased serum creatinine (from creatine release)
+- 乾燥皮膚、疲勞、肌肉痙攣、便祕（通常輕微）
+- **不是**肥胖的原因
+- 晚期病例：低鈉血症、骨骼肌病變伴隨 CPK 升高、血清肌酸酐增加（來自肌酸釋放）
 
-**Cardiovascular:** Diastolic heart failure (from impaired relaxation), exudative pericardial effusions (from increased capillary permeability). Prolonged QT interval with increased risk of torsade de pointes.
+**心血管：** 舒張性心臟衰竭（來自舒張受損）、滲出性心包膜積液（來自毛細血管通透性增加）。QT 間期延長，增加 torsade de pointes 的風險。
 
 ### Myxedema Coma
 
-The most life-threatening presentation of hypothyroidism is characterized by:
+甲狀腺機能低下最危及生命的表現特徵為：
 
-- Depressed consciousness
-- Hypothermia
-- Hyponatremia
-- Cardiovascular instability
+- 意識減退
+- 體溫過低
+- 低鈉血症
+- 心血管不穩
 
-> *Note: Neither coma nor myxedema is typically a feature — this is a misnomer. Myxedema is nonpitting edema caused by intradermal accumulation of glycosaminoglycans.*
+> *注意：昏迷和 myxedema 通常都不是特徵——這是用詞不當。Myxedema 是由真皮內糖胺聚糖積累引起的非凹陷性水腫。*
 
 ### Diagnosis
 
-- Free T4: Always reduced in hypothyroidism
-- TSH: Increased (often >10 mU/dL) in primary hypothyroidism; depressed in hypothalamic-pituitary dysfunction
-- Euthyroid Sick: Low plasma free T3 (from impaired T4→T3 conversion); with increasing severity, both free T3 and free T4 are depressed (~30–50% of ICU patients). Associated with normal TSH levels. **No treatment recommended.**
+- 游離 T4：在甲狀腺機能低下中總是降低
+- TSH：在原發性甲狀腺機能低下中升高（通常 >10 mU/dL）；在下視丘-腦下垂體功能障礙中降低
+- Euthyroid Sick：血漿游離 T3 低（來自 T4→T3 轉換受損）；隨著嚴重度增加，游離 T3 和游離 T4 都降低（約 30–50% 的 ICU 患者）。與正常 TSH 水平相關。**不建議治療。**
 
 ### Treatment
 
-**Mild to moderate hypothyroidism:** Levothyroxine (T4), starting at 1.5–1.8 mcg/kg/day orally; advance while monitoring TSH. Optimal dose returns TSH to normal range. Typical dose: 75–150 mcg/day.
+**輕度至中度甲狀腺機能低下：** Levothyroxine (T4)，口服起始劑量 1.5–1.8 mcg/kg/day；監測 TSH 調整劑量。最佳劑量使 TSH 返回正常範圍。典型劑量：75–150 mcg/day。
 
-**Myxedema coma:**
+**Myxedema coma：**
 
-1. Give hydrocortisone 100 mg IV every 8 hours first (adrenal insufficiency often coexists).
-2. Levothyroxine: 200–400 mcg IV loading dose, then 50–100 mcg/day IV (or 1.6 mcg/kg/day; use 75% of oral dose for IV).
-3. Liothyronine (T3): Consider adding for severely ill patients; IV loading dose of 5–20 mcg, then 2.5–10 mcg IV every 8 hours until the patient awakens and stabilizes.
+1. 首先給予 hydrocortisone 100 mg 靜脈注射，每 8 小時一次（腎上腺機能低下常同時存在）。
+2. Levothyroxine：200–400 mcg 靜脈注射負載劑量，然後 50–100 mcg/day 靜脈注射（或 1.6 mcg/kg/day；靜脈使用口服劑量的 75%）。
+3. Liothyronine (T3)：考慮為重症患者添加；靜脈負載劑量 5–20 mcg，然後 2.5–10 mcg 靜脈注射，每 8 小時一次，直到患者甦醒並穩定。
 
 ---
 

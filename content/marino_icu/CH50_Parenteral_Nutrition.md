@@ -26,11 +26,11 @@ The intravenous route is used for nutrition support when the enteral route is no
 
 ### Dextrose Solutions
 
-Standard nutrition support regimens use carbohydrates to supply approximately 70% of daily (nonprotein) calorie requirements. The carbohydrate source for total parenteral nutrition (TPN) is dextrose (glucose).
+標準營養支持療程使用碳水化合物提供約 70% 的每日（非蛋白質）熱量需求。全靜脈營養（TPN）的碳水化合物來源是 dextrose（葡萄糖）。
 
-**TABLE 50.1 — Dextrose Solutions for Parenteral Nutrition**
+**TABLE 50.1 — 靜脈營養用的 Dextrose 溶液**
 
-| Solution | Concentration (g/L) | Energy Yield (kcal/L) | Osmolarity (mOsm/L) |
+| 溶液 | 濃度 (g/L) | 能量產量 (kcal/L) | 滲透壓 (mOsm/L) |
 |---|---|---|---|
 | D5 (5%) | 50 | 170 | 253 |
 | D10 (10%) | 100 | 340 | 505 |
@@ -38,23 +38,23 @@ Standard nutrition support regimens use carbohydrates to supply approximately 70
 | D40 (40%) | 400 | 1,360 | 2,220 |
 | D50 (50%) | 500 | 1,700 | 2,525 |
 
-Because the energy yield from dextrose is relatively low, concentrated solutions are necessary. The standard solution is D50, which provides 1,700 kcal per liter. Concentrated dextrose solutions have very high osmolarity, mandating infusion through large, central veins.
+因為 dextrose 的能量產量相對較低，需要濃縮溶液。標準溶液是 D50，每升提供 1,700 kcal。濃縮 dextrose 溶液具有非常高的滲透壓，必須通過大中心靜脈輸注。
 
 ### Lipid Emulsions
 
-**TABLE 50.2 — Characteristics of Standard Lipid Emulsions (Intralipid®)**
+**TABLE 50.2 — 標準 Lipid Emulsions 的特性（Intralipid®）**
 
-| Feature | Detail |
+| 特徵 | 詳情 |
 |---|---|
-| Composition | 50% linoleic acid (ω-6), 25% oleic acid (ω-9), 10% α-linolenic acid (ω-3) |
-| Strength | 10% (1 kcal/mL) or 20% (2 kcal/mL) |
-| Max Dosage | 2.5 g/kg/day (or 12.5 mL/kg/day of 20% Intralipid) |
-| Osmolarity | 260 mOsm/L |
-| Complications | Hypertriglyceridemia, inflammation, lipid overload syndrome |
+| 成分 | 50% linoleic acid (ω-6)、25% oleic acid (ω-9)、10% α-linolenic acid (ω-3) |
+| 強度 | 10% (1 kcal/mL) 或 20% (2 kcal/mL) |
+| 最大劑量 | 2.5 g/kg/day（或 20% Intralipid 12.5 mL/kg/day） |
+| 滲透壓 | 260 mOsm/L |
+| 併發症 | Hypertriglyceridemia、發炎、lipid 過載症候群 |
 
 ### Amino Acid Solutions
 
-Amino acid solutions provide protein for maintaining essential enzymatic and structural proteins. A 10% amino acid solution contains 100 g of protein per liter.
+Amino acid 溶液提供蛋白質以維持必需的酶和結構蛋白。10% amino acid 溶液每升含有 100 g 蛋白質。
 
 ---
 
@@ -62,17 +62,17 @@ Amino acid solutions provide protein for maintaining essential enzymatic and str
 
 ### Electrolytes
 
-Commercially available mixtures of electrolytes (typically 20 mL volume) contain sodium, chloride, potassium, and magnesium. Check the mixture used at your hospital to determine if additional electrolytes must be added.
+市售的電解質混合物（通常 20 mL 體積）含有鈉、氯、鉀和鎂。檢查您醫院使用的混合物以確定是否需要添加額外的電解質。
 
 ### Vitamins
 
-Aqueous multivitamin preparations provide normal daily requirements for most vitamins (see Table 48.2). Daily vitamin requirements in ICU patients are likely to be higher than normal.
+水溶性綜合維生素製劑提供大多數 vitamins 的正常每日需求（見表 48.2）。ICU 患者的每日 vitamin 需求可能高於正常。
 
 ### Trace Elements
 
-**TABLE 50.3 — Trace Element Requirements and Typical Additive Content**
+**TABLE 50.3 — 微量元素需求和典型添加含量**
 
-| Trace Element | Daily Requirement | Multi-Trace 5 Concentrated |
+| 微量元素 | 每日需求 | Multi-Trace 5 濃縮 |
 |---|---|---|
 | Chromium | 30 mcg | 10 mcg |
 | Copper | 900 mcg | 1 mcg |
@@ -82,115 +82,115 @@ Aqueous multivitamin preparations provide normal daily requirements for most vit
 | Selenium | 55 mcg | 60 mcg |
 | Zinc | 11 mg | 5 mg |
 
-*Note: Daily requirements for 5 of 7 trace elements are not satisfied by this product.*
+*注意：7 種微量元素中有 5 種的每日需求不能由此產品滿足。*
 
 ---
 
 ## Creating a TPN Regimen
 
-### Worked Example: 70 kg Adult Patient
+### 70 kg 成人患者的工作範例
 
-**Step 1: Determine daily calorie and protein requirements**
+**步驟 1：確定每日熱量和蛋白質需求**
 
-- Estimated REE = 25 × 70 kg = 1,750 kcal/day
-- Daily protein requirement = 1.4 g/kg = 98 g/day
-- Daily nonprotein calorie requirement = 1,750 − (98 × 4) = 1,358 kcal/day
+- 估計 REE = 25 × 70 kg = 1,750 kcal/day
+- 每日蛋白質需求 = 1.4 g/kg = 98 g/day
+- 每日非蛋白質熱量需求 = 1,750 − (98 × 4) = 1,358 kcal/day
 
-> **Propofol adjustment:** If propofol is being infused, determine calories from propofol (1 kcal/mL at the hourly rate) and subtract from the daily requirement.
+> **Propofol 調整：** 如果正在輸注 propofol，從 propofol（每小時速率 1 kcal/mL）確定熱量，並從每日需求中扣除。
 
-**Step 2: Determine amino acid solution volume**
+**步驟 2：確定胺基酸溶液體積**
 
-- A 10% amino acid solution provides 100 g of protein per liter
-- Volume needed = 98 g ÷ 100 g/L = ~1 L of 10% amino acid solution
+- 10% amino acid 溶液每升提供 100 g 蛋白質
+- 需要體積 = 98 g ÷ 100 g/L = ~1 L 的 10% amino acid 溶液
 
-**Step 3: Determine lipid and dextrose volumes**
+**步驟 3：確定 lipid 和 dextrose 體積**
 
-- Lipid emulsion (20%): Provides 2 kcal/mL
-  - Target: ~30% of nonprotein calories = ~410 kcal
-  - Volume needed = 410 ÷ 2 = ~205 mL → round to **250 mL** (500 kcal)
-- Remaining nonprotein calories = 1,358 − 500 = 858 kcal
-- Dextrose (D50): Provides 1.7 kcal/mL
-  - Volume needed = 858 ÷ 1.7 = ~505 mL → round to **500 mL** (850 kcal)
+- Lipid 乳劑（20%）：提供 2 kcal/mL
+  - 目標：~30% 非蛋白質熱量 = ~410 kcal
+  - 需要體積 = 410 ÷ 2 = ~205 mL → 四捨五入到 **250 mL**（500 kcal）
+- 剩餘非蛋白質熱量 = 1,358 − 500 = 858 kcal
+- Dextrose (D50)：提供 1.7 kcal/mL
+  - 需要體積 = 858 ÷ 1.7 = ~505 mL → 四捨五入到 **500 mL**（850 kcal）
 
-**Step 4: Determine infusion rate**
+**步驟 4：確定輸注速率**
 
-- Total volume = 1,000 mL (AA) + 250 mL (lipid) + 500 mL (D50) + 30 mL (additives) = **1,780 mL**
-- Infusion rate = 1,780 ÷ 24 hours = **~74 mL/hr**
+- 總體積 = 1,000 mL (AA) + 250 mL (lipid) + 500 mL (D50) + 30 mL (添加物) = **1,780 mL**
+- 輸注速率 = 1,780 ÷ 24 小時 = **~74 mL/hr**
 
-**For patients at risk of refeeding syndrome:** Start at 40–50% of goal (≈37–40 mL/hr) and advance over 4–7 days.
+**對於再進食症候群風險的患者：** 從目標的 40–50%（≈37–40 mL/hr）開始，並在 4–7 天內增加。
 
 ---
 
 ## Complications
 
-### Carbohydrate Complications
+### 碳水化合物併發症
 
 #### Hyperglycemia
 
-Hyperglycemia is common during TPN (blood glucose >200 mg/dL in 45% of patients in one report).
+TPN 期間高血糖很常見（在一份報告中 45% 的患者血糖 >200 mg/dL）。
 
-- **Target:** 140–180 mg/dL (tight glycemic control is not recommended due to hypoglycemia risk)
-- **Insulin:** Often necessary; continuous infusion of regular insulin is preferred for critically ill patients
-- Regular insulin can be added to the TPN admixture; subcutaneous lispro can be used for glycemic control
-- When clinically stable, half of daily insulin can be converted to long-acting glargine insulin
+- **目標：** 140–180 mg/dL（不建議嚴格血糖控制，因為低血糖風險）
+- **胰島素：** 常有必要；對於重症患者，持續輸注 regular insulin 是首選
+- Regular insulin 可以添加到 TPN 混合物中；皮下 lispro 可用於血糖控制
+- 臨床穩定後，一半的每日胰島素可以轉換為長效 glargine insulin
 
-**TABLE 50.4 — Insulin Preparations Used During TPN**
+**TABLE 50.4 — TPN 期間使用的胰島素製劑**
 
-| Preparation | Role | Notes |
+| 製劑 | 作用 | 備註 |
 |---|---|---|
-| Regular insulin | Continuous IV infusion | Preferred for critically ill patients |
-| Lispro | Subcutaneous injection | For glycemic control |
-| Glargine insulin | Long-acting | For stable phase; convert half of daily requirement |
+| Regular insulin | 持續靜脈輸注 | 對於重症患者是首選 |
+| Lispro | 皮下注射 | 用於血糖控制 |
+| Glargine insulin | 長效 | 用於穩定期；轉換一半的每日需求 |
 
 ### Refeeding Syndrome
 
-Refeeding syndrome occurs when nutrition support is initiated in severely malnourished or starved patients. The shift from fat to carbohydrate metabolism causes insulin release, driving glucose, phosphate, potassium, and magnesium into cells.
+當營養支持在嚴重營養不良或飢餓的患者中啟動時，就會發生再進食症候群。從脂肪到碳水化合物代謝的轉變導致胰島素釋放，將葡萄糖、磷酸鹽、鉀和鎂驅入細胞。
 
-**Mechanisms and manifestations:**
+**機制和表現：**
 
-**TABLE 50.5 — Refeeding Syndrome: Mechanisms and Manifestations**
+**TABLE 50.5 — Refeeding Syndrome：機制和表現**
 
-| Mechanism | Manifestation |
+| 機制 | 表現 |
 |---|---|
-| Hypophosphatemia | Generalized weakness, respiratory failure, cardiac dysfunction |
-| Hypokalemia | Hypotension, tachyarrhythmias |
-| Hypomagnesemia | Altered mentation, seizures |
-| Sodium retention | Pulmonary edema |
-| Thiamine deficiency | Cardiomyopathy (beriberi), Wernicke encephalopathy |
+| 低磷酸鹽血症 | 全身性無力、呼吸衰竭、心臟功能障礙 |
+| 低鉀血症 | Hypotension、心搏過速性心律不整 |
+| 低鎂血症 | 意識改變、癲癇 |
+| 鈉瀦留 | 肺水腫 |
+| Thiamine 缺乏 | Cardiomyopathy（腳氣病）、Wernicke 腦病 |
 
-**High-risk conditions:**
+**高風險條件：**
 
-- Weight loss >5% in 1 month or >10% in 6 months
+- 1 個月內體重減輕 >5% 或 6 個月內 >10%
 - BMI ≤18.5 kg/m²
-- Poor nutrient intake for ≥5 days
-- Low baseline serum potassium, phosphate, or magnesium
-- High risk of malnutrition (e.g., drug abuse)
+- 營養攝入不良 ≥5 天
+- 基準血清鉀、磷酸鹽或鎂低
+- 營養不良的高風險（如藥物濫用）
 
-**Recommendations for high-risk patients:**
+**高風險患者的建議：**
 
-1. Correct electrolyte abnormalities before starting nutrition support.
-2. Start thiamine (100–200 mg daily; the protocol in Table 48.3 is more appropriate than this dose).
-3. Begin nutrition support at 40–50% of estimated needs (or 10–15 kcal/kg/day), advancing over 4–7 days while monitoring serum phosphate, potassium, and magnesium.
+1. 開始營養支持前糾正電解質異常。
+2. 開始 thiamine（100–200 mg 每日；表 48.3 中的方案比這個劑量更合適）。
+3. 以估計需求的 40–50%（或 10–15 kcal/kg/day）開始營養支持，在 4–7 天內增加，同時監測血清磷酸鹽、鉀和鎂。
 
 ---
 
 ## Peripheral Parenteral Nutrition
 
-Peripheral parenteral nutrition (PPN) is a truncated form of TPN used to provide nonprotein calories (protein-sparing) when full nutrition support is not yet indicated. It can supplement enteral feeding or provide calories during brief periods of inadequate nutrition. It is **not** intended for hypercatabolic or malnourished patients.
+周邊靜脈營養（PPN）是 TPN 的一種簡化形式，用於在不完全需要全面營養支持時提供非蛋白質熱量（節省蛋白質）。它可以補充腸道灌食或在營養不足的短暫期間提供熱量。它**不是**為高分解代謝或營養不良患者設計的。
 
-**Constraints:**
+**限制：**
 
-- Peripheral vein osmolarity must remain below 900 mOsm/L (pH 7.2–7.4) to minimize vascular damage.
-- This requires dilute amino acid and dextrose solutions, limiting nutrient intake.
-- Lipid emulsions are isotonic to plasma and can provide a significant portion of nonprotein calories.
+- 周邊靜脈滲透壓必須保持在 900 mOsm/L（pH 7.2–7.4）以下，以最小化血管損傷。
+- 這需要稀釋的胺基酸和 dextrose 溶液，限制了營養攝入。
+- Lipid 乳劑與血漿等滲，可以提供相當一部分的非蛋白質熱量。
 
-**Popular PPN regimen:**
+**流行的 PPN 療程：**
 
-- 3% amino acids + 20% dextrose (final: 1.5% amino acids, 10% dextrose)
-- Osmolarity: ~500 mOsm/L
-- Dextrose provides 340 kcal/L; 2.5 L provides ~850 kcal
-- Adding 250 mL of 20% Intralipid (500 kcal) brings total to ~1,350 kcal/day
-- This approaches the nonprotein calorie requirement for an average, unstressed adult (~20 kcal/kg/day)
+- 3% 胺基酸 + 20% dextrose（最終：1.5% 胺基酸、10% dextrose）
+- 滲透壓：~500 mOsm/L
+- Dextrose 每升提供 340 kcal；2.5 L 提供 ~850 kcal
+- 添加 250 mL 20% Intralipid（500 kcal）可使總量達到 ~1,350 kcal/day
+- 這接近於平均、非緊張成人（約 20 kcal/kg/day）的非蛋白質熱量需求
 
 ---
 

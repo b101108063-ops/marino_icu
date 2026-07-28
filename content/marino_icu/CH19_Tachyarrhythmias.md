@@ -9,130 +9,130 @@ title: "Tachyarrhythmias"
 >
 > — William Osler
 
-A rapid heart rate or tachycardia while at rest is evidence of a problem. This chapter describes tachycardias that require prompt evaluation and management.
+心率快速或在休息時心搏過速是問題的證據。本章描述需要及時評估和管理的 tachycardias。
 
 ## Recognition
 
-The diagnostic evaluation of tachycardias (heart rate >100 beats/min) is based on three findings on the ECG:
-- The duration of the QRS complex
-- The uniformity of the R-R intervals
-- The characteristics of the atrial activity
+Tachycardias（心率 >100 beats/min）的診斷評估基於心電圖上的三個發現：
+- QRS 複合波的持續時間
+- R-R 間隔的一致性
+- 心房活動的特徵
 
-The duration of the QRS complex distinguishes narrow-QRS-complex tachycardias (QRS duration ≤0.12 sec) from wide-QRS-complex tachycardias (QRS duration >0.12 sec).
+QRS 複合波的持續時間區分窄 QRS 複合波 tachycardias（QRS 持續時間 ≤0.12 秒）和寬 QRS 複合波 tachycardias（QRS 持續時間 >0.12 秒）。
 
 ## Narrow-QRS-Complex Tachycardias
 
-Tachycardias with a narrow QRS complex originate from a site above the AV conduction system (supraventricular tachycardias).
+具有窄 QRS 複合波的 tachycardias 起起源於 AV 傳導系統上方的部位（室上性 tachycardias）。
 
 ### Regular Rhythm
 
-If the R-R intervals are uniform (regular rhythm), the possible arrhythmias include:
-- Sinus tachycardia (uniform P waves and P–R intervals)
-- AV nodal re-entrant tachycardia (absence of P waves)
-- Atrial flutter with fixed AV block (sawtooth waves)
+如果 R-R 間隔均勻（規律心律），可能的 arrhythmias 包括：
+- 竇性心搏過速（均勻的 P 波和 P–R 間隔）
+- AV 結折返性心搏過速（無 P 波）
+- 固定 AV 傳導阻滯的心房扑動（鋸齒波）
 
 ### Irregular Rhythm
 
-If the R-R intervals are not uniform (irregular rhythm), the possible arrhythmias include:
-- Multifocal atrial tachycardia (multiple P wave morphologies and variable PR intervals)
-- Atrial fibrillation (absence of P waves with highly disorganized atrial activity)
+如果 R-R 間隔不均勻（不規律心律），可能的 arrhythmias 包括：
+- 多源性心房心搏過速（多種 P 波形態和可變的 PR 間隔）
+- 心房顫動（無 P 波，心房活動高度紊亂）
 
 ## Wide-QRS-Complex Tachycardias
 
-Tachycardias with a wide QRS complex (>0.12 sec) can originate from a site below the AV conduction system (ventricular tachycardia), or represent a supraventricular tachycardia with prolonged AV conduction.
+具有寬 QRS 複合波（>0.12 秒）的 tachycardias 可起源於 AV 傳導系統下方的部位（心室心搏過速），或代表具有延長 AV 傳導的室上性心搏過速。
 
-An irregular rhythm is evidence of SVT with aberrant AV conduction. Certain ECG abnormalities (e.g., AV dissociation) provide evidence of VT.
+不規律心律是具有異常 AV 傳導的 SVT 的證據。某些心電圖異常（如 AV 分離）提供 VT 的證據。
 
 ## Atrial Fibrillation
 
-Atrial fibrillation (AF) is the most common cardiac arrhythmia in adults (prevalence = 2–4%), and is classified as paroxysmal (present ≤7 days), persistent (>7 days), long-standing persistent (>1 year), or permanent.
+心房顫動（AF）是成年人最常見的心律失常（患病率 = 2–4%），分類為陣發性（存在 ≤7 天）、持續性（>7 天）、長期持續性（>1 年）或永久性。
 
 ### Hospital-Related AF
 
 #### ICU-Related AF
 
-The reported incidence of ICU-related AF varies from 2% to 44%, and is more likely to appear in elderly patients with coronary disease, sepsis, shock, or respiratory failure. AF resolves spontaneously in up to 25% of cases.
+ICU 相關 AF 的報告發病率從 2% 到 44% 不等，更可能出現在有冠狀動脈疾病、敗血症、休克或呼吸衰竭的老年病人中。多達 25% 的病例中 AF 可自行緩解。
 
 #### Postoperative AF
 
-Postoperative AF is reported in up to 45% of cases involving cardiac and non-cardiac thoracic surgery, and up to 10% of cases involving other major surgeries. It usually appears in the first 5 postoperative days.
+在心臟和非心臟胸腔手術中，高達 45% 的病例報告了術後 AF，在其他大手術中也可達 10%。通常在術後前 5 天內出現。
 
 ### Adverse Consequences
 
 #### Cardiac Performance
 
-Atrial contraction is responsible for about 25% of the ventricular end diastolic volume. Loss of this atrial contribution has little noticeable effect unless diastolic filling is already impaired.
+心房收縮約負責 25% 的心室 end diastolic volume。失去這種心房貢獻在舒張充盈已經受損時幾乎沒有明顯影響。
 
 #### Stroke
 
-Atrial fibrillation predisposes to thrombus formation in the left atrium, especially in the left atrial appendage. AF increases the risk of stroke 5-fold.
+心房顫動使病人在左心房（特別是左心耳）中形成血栓。前 5 倍的卒中風險。
 
 ## Heart Rate Control
 
-**Table 19.1** Drug Regimens for Acute Rate Control in Atrial Fibrillation
+**Table 19.1** 心房顫動急性心率控制的藥物方案
 
-| Drug | Dosing Regimens and Comments |
+| 藥物 | 劑量方案和評論 |
 |---|---|
-| **Diltiazem** | 0.25 mg/kg IV over 2 min, then infuse at 5–15 mg/hr. Popular for acute rate control, but limited by hypotension (20–30%) and negative inotropic effects. |
-| **Amiodarone** | 150 mg IV over 10 min, repeat if needed, then 1 mg/min for 6 hr and 0.5 mg/min for 18 hr. Max 2.2 g/24 hr. Effective alternative; preferred in HFrEF. |
-| **Metoprolol** | 2.5–5 mg IV over 2 min, repeat every 5–10 min to total of 3 doses. Most effective in AF associated with hyperadrenergic states. |
-| **Esmolol** | 500 μg/kg IV bolus, then infuse at 50 μg/kg/min; increase by 25 μg/kg/min to max 200 μg/kg/min. Ultra short-acting β-blocker (half-life 9 min). |
-| **Digoxin** | 0.25 mg IV every 2 hrs to total dose of 1.5 mg, then 0.125–0.375 mg IV daily. Slow-acting; used for long-term rate control in HFrEF. |
+| **Diltiazem** | 0.25 mg/kg IV 超過 2 分鐘，然後以 5–15 mg/hr 輸注。急性心率控制的流行選擇，但受到 hypotension（20–30%）和負性肌力作用的限制。 |
+| **Amiodarone** | 150 mg IV 超過 10 分鐘，必要時重複，然後 1 mg/min 6 小時和 0.5 mg/min 18 小時。最大 2.2 g/24 hr。有效的替代選擇；在 HFrEF 中首選。 |
+| **Metoprolol** | 2.5–5 mg IV 超過 2 分鐘，每 5–10 分鐘重複至共 3 劑量。在與高腎上腺素能狀態相關的 AF 中最有效。 |
+| **Esmolol** | 500 μg/kg IV bolus，然後以 50 μg/kg/min 輸注；增加 25 μg/kg/min 至最大 200 μg/kg/min。超短效 β-受體阻斷劑（半衰期 9 分鐘）。 |
+| **Digoxin** | 0.25 mg IV 每 2 小時至總劑量 1.5 mg，然後 0.125–0.375 mg IV 每天。在 HFrEF 中用於長期心率控制。 |
 
 ## Anticoagulation for Atrial Fibrillation
 
 ### Risk Assessment
 
-**Table 19.2** CHA₂DS₂-VASc Scoring for Stroke Risk in Atrial Fibrillation
+**Table 19.2** 心房顫動卒中風險的 CHA₂DS₂-VASc 評分
 
-| Condition | Points | Anticoagulation Recommendation |
+| 條件 | 分數 | 抗凝建議 |
 |---|---|---|
-| Congestive heart failure (C) | 1 | Definite if score ≥2 (men) or ≥3 (women) |
-| Hypertension (H) | 1 | Consider if score = 1 (men) or = 2 (women) |
-| Age ≥75 years (A) | 2 | — |
-| Diabetes mellitus (D) | 1 | — |
-| Prior stroke/TIA/VTE (S) | 2 | — |
-| Vascular disease (V) | 1 | Consider if score = 1 (men) or = 2 (women) |
-| Age 65–74 years (A) | 1 | — |
-| Sex category female (Sc) | 1 | — |
+| 充血性心臟衰竭（C） | 1 | 明確如果分數 ≥2（男性）或 ≥3（女性） |
+| 高血壓（H） | 1 | 如果分數 = 1（男性）或 = 2（女性）考慮 |
+| 年齡 ≥75 歲（A） | 2 | — |
+| 糖尿病（D） | 1 | — |
+| 先前卒中/TIA/VTE（S） | 2 | — |
+| 血管疾病（V） | 1 | 如果分數 = 1（男性）或 = 2（女性）考慮 |
+| 年齡 65–74 歲（A） | 1 | — |
+| 女性性別（Sc） | 1 | — |
 
 ### Oral Anticoagulants
 
-**Table 19.3** Oral Anticoagulants for Atrial Fibrillation
+**Table 19.3** 心房顫動的口服抗凝劑
 
-| Drug | Standard Dose | Reduced Dose |
+| 藥物 | 標準劑量 | 減少劑量 |
 |---|---|---|
-| **Dabigatran** | 50 mg BID | 110 mg BID for age ≥80 yrs or CrCL <30 mL/min |
-| **Rivaroxaban** | 20 mg once daily | 15 mg once daily for CrCL <30 mL/min |
-| **Apixaban** | 5 mg BID | 2.5 mg BID if ≥2 of: age ≥80 yrs, weight ≤60 kg, serum Cr ≥1.5 mg/dL |
-| **Edoxaban** | 60 mg once daily | 30 mg once daily for CrCL <30 mL/min, weight ≤60 kg, or concurrent erythromycin/ketoconazole |
-| **Warfarin** | 5 mg once daily | Adjust to achieve INR 2–3 |
+| **Dabigatran** | 50 mg BID | 年齡 ≥80 歲或 CrCL <30 mL/min 時 110 mg BID |
+| **Rivaroxaban** | 每天一次 20 mg | CrCL <30 mL/min 時每天一次 15 mg |
+| **Apixaban** | 5 mg BID | 如果 ≥2 項：年齡 ≥80 歲、體重 ≤60 kg、血清 Cr ≥1.5 mg/dL，則 2.5 mg BID |
+| **Edoxaban** | 每天一次 60 mg | CrCL <30 mL/min、體重 ≤60 kg 或同時使用紅黴素/酮康唑時每天一次 30 mg |
+| **Warfarin** | 每天一次 5 mg | 調整至達到 INR 2–3 |
 
 ## Paroxysmal Supraventricular Tachycardia (PSVT)
 
-AVNRT is characterized by abrupt onset and termination. Adenosine is used for acute termination.
+AVNRT 的特徵是突然開始和終止。Adenosine 用於急性終止。
 
-**Table 19.4** Intravenous Adenosine for Paroxysmal SVT
+**Table 19.4** 靜脈注射 Adenosine 治療陣發性 SVT
 
-| Feature | Recommendation |
+| 特徵 | 建議 |
 |---|---|
-| **Dosing** | 1. Deliver through peripheral vein. 2. Give 6 mg by rapid IV injection and flush with saline. 3. If no response after 2 min, give 12 mg rapid IV. 4. Another 12 mg can be given if still inadequate. |
-| **Dose Adjustments** | Decrease dose by 50% for: delivery into superior vena cava; patient receiving calcium channel blocker, β-blocker, or dipyridamole. |
-| **Drug Interactions** | Dipyridamole (blocks adenosine uptake); Theophylline (blocks adenosine receptors). |
-| **Adverse Effects** | Bradycardia, AV Block (50%); Facial flushing (20%); Dyspnea (12%); Chest pressure (7%). |
-| **Contraindications** | Asthma; 2nd or 3rd degree AV block; Sick sinus syndrome. |
+| **劑量** | 1. 通過外周靜脈給予。2. 以快速 IV 注射給予 6 mg 並用鹽水冲注。3. 如果 2 分鐘後無反應，給予 12 mg 快速 IV。4. 如果仍然不足，可再給予 12 mg。 |
+| **劑量調整** | 減少 50% 劑量：用於至上腔靜脈的給予；病人正在服用鈣通道阻斷劑、β-受體阻斷劑或 dipyridamole。 |
+| **藥物相互作用** | Dipyridamole（阻斷 adenosine 攝取）；Theophylline（阻斷 adenosine 受體）。 |
+| **不良反應** | 心搏過緩、AV 傳導阻滯（50%）；面部潮紅（20%）；呼吸困難（12%）；胸部壓力（7%）。 |
+| **禁忌症** | 氣喘；2 級或 3 級 AV 傳導阻滯；病態竇房結症候群。 |
 
 ## Drugs That Can Induce Torsade de Pointes
 
-**Table 19.5** Drugs That Can Induce Torsade de Pointes
+**Table 19.5** 可誘發 Torsade de Pointes 的藥物
 
-| Drug Class | Examples |
+| 藥物類別 | 例子 |
 |---|---|
-| Antiarrhythmics | Class IA (quinidine, procainamide, disopyramide), Class III (sotalol, amiodarone, dofetilide) |
-| Antibiotics | Fluoroquinolones, Macrolides (erythromycin, clarithromycin), Antifungals (fluconazole) |
-| Antipsychotics | Haloperidol, Chlorpromazine, Thioridazine, Quetiapine |
-| Antidepressants | Tricyclic antidepressants (amitriptyline, nortriptyline) |
-| Others | Methadone, Ondansetron, Domperidone |
+| 抗心律失常藥 | IA 類（quinidine、procainamide、disopyramide）、III 類（sotalol、amiodarone、dofetilide） |
+| 抗生素 | Fluoroquinolones、大環內酯類（erythromycin、clarithromycin）、抗真菌藥（fluconazole） |
+| 抗精神病藥 | Haloperidol、Chlorpromazine、Thioridazine、Quetiapine |
+| 抗抑鬱藥 | 三環類抗抑鬱藥（amitriptyline、nortriptyline） |
+| 其他 | Methadone、Ondansetron、Domperidone |
 
 ---
 

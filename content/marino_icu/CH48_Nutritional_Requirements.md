@@ -26,56 +26,56 @@ The fundamental goal of nutritional support is to provide the daily nutrient and
 
 ### Oxidation of Nutritional Fuels
 
-The energy in organic fuels (lipids, proteins, and carbohydrates) is released by a chemical reaction with oxygen. This reaction breaks the carbon bonds and releases energy — a process known as oxidation.
+有機燃料（lipids、蛋白質和碳水化合物）中的能量通過與氧氣的化學反應釋放。這個反應斷開碳鍵並釋放能量——這個過程稱為氧化。
 
-**TABLE 48.1 — The Oxidation of Nutritional Fuels**
+**TABLE 48.1 — 營養燃料的氧化**
 
-| Fuel | Energy Yield | Respiratory Quotient (RQ) |
+| 燃料 | 能量產量 | 呼吸商 (RQ) |
 |---|---|---|
-| Carbohydrates | 4.1 kcal/g | 1.0 |
-| Proteins | 4.4 kcal/g | 0.8 |
+| 碳水化合物 | 4.1 kcal/g | 1.0 |
+| 蛋白質 | 4.4 kcal/g | 0.8 |
 | Lipids | 9.3 kcal/g | 0.7 |
 
-*Note: Energy yield is expressed as heat production (kilocalories per gram of fuel). The respiratory quotient (RQ) is the ratio of CO₂ produced to O₂ consumed (VCO₂/VO₂).*
+*注意：能量產量表示為熱量產生（每克燃料的千卡）。呼吸商（RQ）是產生的 CO₂ 與消耗的 O₂ 的比率（VCO₂/VO₂）。*
 
-Key points:
+關鍵點：
 
-1. The energy yield is highest with lipids (9.3 kcal/g) and lowest with carbohydrates (4.1 kcal/g).
-2. Carbohydrates have the highest RQ (1.0), meaning they produce the most CO₂ relative to O₂ consumed.
-3. Lipids have the lowest RQ (0.7).
+1. Lipids 的能量產量最高（9.3 kcal/g），碳水化合物最低（4.1 kcal/g）。
+2. 碳水化合物的 RQ 最高（1.0），意味著相對於消耗的 O₂ 產生最多的 CO₂。
+3. Lipids 的 RQ 最低（0.7）。
 
 ### Indirect Calorimetry
 
-It is not possible to directly measure energy expenditure (heat production) in hospitalized patients. However, resting energy expenditure (REE) can be calculated from whole-body VO₂ and VCO₂ using the **Weir equation**:
+直接測量住院患者的能量消耗（熱量產生）是不可能的。然而，可以通過使用 **Weir 方程式**從全身 VO₂ 和 VCO₂ 計算靜息能量消耗（REE）：
 
 REE (kcal/min) = (3.94 × VO₂) + (1.11 × VCO₂)
 
-This is the principle of **indirect calorimetry**.
+這是 **indirect calorimetry** 的原理。
 
-**Methodology:**
+**方法：**
 
-- Metabolic carts measure whole-body VO₂ and VCO₂ at the bedside.
-- For spontaneously breathing patients, a special canopy is placed over the head.
-- For mechanically ventilated patients, O₂ and CO₂ sensors are placed in line with the ventilator tubing.
-- Steady-state measurements are obtained for 15–30 minutes to determine REE (kcal/min), then multiplied by 1,440 minutes per day.
-- The oxygen sensor in the newest devices is accurate up to inhaled O₂ concentrations of 70%.
+- 代謝車在床邊測量全身 VO₂ 和 VCO₂。
+- 對於自發呼吸的患者，在頭部放置一個特殊的罩子。
+- 對於機械通氣的患者，O₂ 和 CO₂ 感測器放置在與呼吸機管路串聯的位置。
+- 獲得 15–30 分鐘的穩態測量以確定 REE (kcal/min)，然後乘以每天 1,440 分鐘。
+- 最新設備中的氧氣感測器準確度高達吸入 O₂ 濃度 70%。
 
 ### Predictive Equations
 
-When indirect calorimetry is not available, REE can be estimated using the following simple relationship:
+當 indirect calorimetry 不可用時，可以使用以下簡單關係估計 REE：
 
-**REE (kcal/day) = 25 × weight (kg)**
+**REE (kcal/day) = 25 × 體重 (kg)**
 
-- Use actual body weight unless it exceeds 125% of ideal body weight.
-- When actual body weight exceeds 125% of ideal, use **adjusted body weight**:
-  - Adjusted body weight = Ideal body weight + 0.4 × (Actual body weight − Ideal body weight)
+- 使用實際體重，除非它超過理想體重的 125%。
+- 當實際體重超過理想的 125% 時，使用 **調整後體重**：
+  - 調整後體重 = 理想體重 + 0.4 ×（實際體重 − 理想體重）
 
 ### Recommendations
 
-1. Some form of nutrition support should be provided within 24–48 hours of ICU admission.
-2. Most recent guidelines recommend beginning nutrition support at **less than measured or estimated REE** (i.e., 70% of REE) for the first 3–7 days, then gradually increasing to 100%.
-   - This is based on evidence that endogenous nutritional adjustments (e.g., increased gluconeogenesis) are operative in early stages of acute illness.
-3. In patients requiring norepinephrine >0.2 mcg/kg/min, consider 10–15 kcal/kg/day for 7 days or until clinical improvement.
+1. 應在 ICU 入院後 24–48 小時內提供某種形式的營養支持。
+2. 最新指南建議在最初的 3–7 天內以**少於測量或估計的 REE**（即 70% REE）開始營養支持，然後逐漸增加到 100%。
+   - 這基於證據表明內源性營養調整（如糖質新生增加）在急性疾病的早期階段是有效的。
+3. 在需要 norepinephrine >0.2 mcg/kg/min 的患者中，考慮 10–15 kcal/kg/day，持續 7 天或直到臨床改善。
 
 ---
 
@@ -83,49 +83,49 @@ When indirect calorimetry is not available, REE can be estimated using the follo
 
 ### Carbohydrates
 
-Standard nutrition regimens use carbohydrates to provide about 70% of nonprotein calories. The human body has limited carbohydrate stores, and daily intake of at least 130 grams is advised to ensure proper functioning of the central nervous system.
+標準營養療程使用碳水化合物提供約 70% 的非蛋白質熱量。人體的碳水化合物儲備有限，建議每天攝入至少 130 克以確保中樞神經系統的正常運作。
 
-However:
+然而：
 
-- Physiological stress promotes insulin resistance and hyperglycemia.
-- Excessive carbohydrate intake promotes CO₂ production and lipogenesis.
-- **Recommendation:** Limit carbohydrate intake to no more than 5 mg/kg/min (~500 g/day in a 70 kg adult).
+- 生理性 stress 促進胰島素抗性和高血糖。
+- 過量碳水化合物攝入促進 CO₂ 產生和脂肪生成。
+- **建議：** 限制碳水化合物攝入不超過 5 mg/kg/min（約 70 kg 成人每天 500 g）。
 
 ### Lipids
 
-Standard nutrition regimens use lipids to provide approximately 30% of daily energy needs.
+標準營養療程使用 lipids 提供約 30% 的每日能量需求。
 
-**Linoleic acid** is the only essential dietary fatty acid. Deficiency causes a scaly dermopathy, cardiac dysfunction, and increased susceptibility to infections. Soybean oil is the typical source in nutritional support regimens.
+**Linoleic acid** 是唯一必需的膳食脂肪酸。缺乏會導致鱗屑狀皮膚病、心臟功能障礙和感染易感性增加。黃豆油是營養支持療程中的典型來源。
 
-**Propofol consideration:** Propofol is mixed in a 10% lipid emulsion (1.1 kcal/mL). Calories from propofol infusions must be considered when calculating nonprotein calories.
+**Propofol 考量：** Propofol 混合在 10% lipid 乳劑中（1.1 kcal/mL）。計算非蛋白質熱量時必須考慮 propofol 輸注的熱量。
 
-**Maximum lipid intake:** 1.5 g/kg/day to prevent lipid overload and oxidative tissue damage.
+**最大 lipid 攝入：** 1.5 g/kg/day 以防止 lipid 過載和氧化組織損傷。
 
 ### Protein Requirements
 
-- Normal protein requirement: 0.8–1.0 g/kg/day in healthy patients
-- **Recommended in critically ill patients:** 1.2–2.0 g/kg/day
+- 正常蛋白質需求：健康患者 0.8–1.0 g/kg/day
+- **重症患者的建議：** 1.2–2.0 g/kg/day
 
 ### Nitrogen Balance
 
-Nitrogen balance evaluates the adequacy of protein intake:
+氮平衡評估蛋白質攝入的充分性：
 
-1. **Nitrogen excretion:** Two-thirds of nitrogen from protein breakdown is excreted in urine; ~85% of this is contained in urea. Urinary urea nitrogen (UUN) represents the bulk of nitrogen from protein breakdown.
-   - Protein-derived nitrogen excretion (g/day) = (UUN + 4–6)
-2. **Nitrogen intake:** Protein is 16% nitrogen.
-   - Nitrogen intake (g/day) = Protein intake (g/day) / 6.25
-3. **Nitrogen balance:** Nitrogen intake − Nitrogen excretion
-4. **Goal:** Positive nitrogen balance of 4–6 g/day
+1. **氮排泄：** 蛋白質分解產生的氮的三分之二是從尿液中排泄的；約 85% 存在於尿素中。尿液尿素氮（UUN）代表了蛋白質分解產生的氮的大部分。
+   - 蛋白質衍生的氮排泄（g/day）=（UUN + 4–6）
+2. **氮攝入：** 蛋白質是 16% 的氮。
+   - 氮攝入（g/day）= 蛋白質攝入（g/day）/ 6.25
+3. **氮平衡：** 氮攝入 − 氮排泄
+4. **目標：** 正氮平衡 4–6 g/day
 
-> **Important:** Increasing protein intake will not achieve a positive nitrogen balance unless nonprotein calorie intake is adequate to meet the REE.
+> **重要：** 除非非蛋白質熱量攝入足以滿足 REE，否則增加蛋白質攝入不會實現正氮平衡。
 
 ---
 
 ## Vitamin Requirements
 
-**TABLE 48.2 — Daily Vitamin Requirements (Healthy Adults)**
+**TABLE 48.2 — 每日 Vitamin 需求（健康成年人）**
 
-| Vitamin | Men | Women |
+| Vitamin | 男性 | 女性 |
 |---|---|---|
 | Vitamin A | 900 mcg/d | 700 mcg/d |
 | Vitamin C | 90 mg/d | 75 mg/d |
@@ -143,54 +143,54 @@ Nitrogen balance evaluates the adequacy of protein intake:
 
 ### Thiamine Deficiency
 
-Thiamine deficiency is common in critically ill patients, particularly those with alcohol abuse, malnutrition, septic shock, or diuretic use.
+Thiamine 缺乏在重症患者中很常見，特別是那些有酒精濫用、營養不良、septic shock 或使用利尿劑的患者。
 
-**Clinical manifestations:**
+**臨床表現：**
 
-**TABLE 48.3 — Thiamine Deficiency: Predisposing Factors and Treatment**
+**TABLE 48.3 — Thiamine 缺乏：易感因素和治療**
 
-| Predisposing Factor | Clinical Manifestation | Treatment |
+| 易感因素 | 臨床表現 | 治療 |
 |---|---|---|
-| Alcohol abuse, malnutrition | Cardiomyopathy (Beriberi) | Thiamine 500 mg IV every 8 hrs for 2–3 days; then 250 mg IV daily for 3–5 days; then 100 mg PO TID for 1–2 weeks; then 100 mg PO daily |
-| Alcohol abuse, malnutrition | Encephalopathy (Wernicke's) | Same as above |
-| Septic shock, furosemide use | Peripheral neuropathy | Same as above |
-| Mg⁺⁺ depletion | Lactic acidosis | Correct magnesium deficiency first; thiamine as above |
+| 酒精濫用、營養不良 | Cardiomyopathy（腳氣病） | Thiamine 500 mg 靜脈注射，每 8 小時一次，持續 2–3 天；然後 250 mg 靜脈注射，每日一次，持續 3–5 天；然後 100 mg 口服，每日三次，持續 1–2 週；然後 100 mg 口服，每日一次 |
+| 酒精濫用、營養不良 | 腦病（Wernicke's） | 與上相同 |
+| Septic shock、利尿劑使用 | 周邊神經病變 | 與上相同 |
+| Mg⁺⁺ 耗竭 | 乳酸性酸中毒 | 首先糾正鎂缺乏；thiamine 如上 |
 
-**Lactic acidosis:** Thiamine deficiency impairs the movement of pyruvate into mitochondria, increasing lactate formation. Thiamine deficiency may be responsible for some lactic acidosis in sepsis.
+**乳酸性酸中毒：** Thiamine 缺乏損害丙酮酸進入粒線體的移動，增加乳酸形成。Thiamine 缺乏可能是 sepsis 中一些乳酸性酸中毒的原因。
 
-**Diagnosis:** Plasma thiamine levels are unreliable. Whole blood assay for thiamine pyrophosphate (TPP) is more useful (normal: 63–229 nmol/L). Thiamine deficiency is primarily a clinical diagnosis.
+**診斷：** 血漿 thiamine 水平不可靠。全血檢測 thiamine pyrophosphate (TPP) 更有用（正常：63–229 nmol/L）。Thiamine 缺乏主要是一個臨床診斷。
 
-**Imaging:** MRI is the most reliable method for confirming Wernicke's encephalopathy. Common abnormalities include increased T2 signal bilaterally in the medial thalamus, hypothalamus, mamillary bodies, and midline cerebellum. Sensitivity: 53%; specificity: 93%.
+**影像學：** MRI 是確認 Wernicke's 腦病最可靠的方法。常見異常包括雙側內側丘腦、下視丘、乳頭體和中線小腦的 T2 信號增加。敏感度：53%；特異度：93%。
 
 ### Vitamin D Deficiency
 
-Vitamin D deficiency is reported in 40–100% of ICU patients.
+ICU 患者中報告有 40–100% 的 Vitamin D 缺乏。
 
-- Recommended daily requirement: 600 IU for adults
-- Typical provision in nutrition regimens: 200–400 IU daily
+- 建議每日需求：成年人 600 IU
+- 營養療程中的典型補充：每日 200–400 IU
 
-**Consequences:** Bone health is the major concern. Vitamin D is also involved in immune regulation, and deficiency is associated with increased rates of infection.
+**後果：** 骨骼健康是主要關注點。Vitamin D 也涉及免疫調節，缺乏與 infection 率增加有關。
 
-**Diagnosis:** Based on plasma 25-hydroxyvitamin D (25-OHD) level. Below 50 nmol/L indicates deficiency; below 30 nmol/L indicates severe deficiency.
+**診斷：** 基於血漿 25-hydroxyvitamin D (25-OHD) 水平。低於 50 nmol/L 表示缺乏；低於 30 nmol/L 表示嚴重缺乏。
 
-**Treatment:** A single IM injection of 150,000 IU of cholecalciferol can normalize plasma 25-OHD levels in 90% of ICU patients.
+**治療：** 150,000 IU cholecalciferol 的單次肌肉注射可以使 90% ICU 患者的血漿 25-OHD 水平正常化。
 
-### Antioxidant Vitamins
+### 抗氧化 Vitamins
 
-1. **Vitamin E (α-tocopherol):** Major lipid-soluble antioxidant; protects all cell membranes from oxidative damage.
-2. **Vitamin C (ascorbic acid):** Major water-soluble antioxidant; scavenges reactive oxygen species and is essential for maintaining vitamin E in its active form.
+1. **Vitamin E (α-tocopherol)：** 主要的脂溶性抗氧化劑；保護所有細胞膜免受氧化損傷。
+2. **Vitamin C (ascorbic acid)：** 主要的水溶性抗氧化劑；清除活性氧物質，對於維持 Vitamin E 在其活性形式中至關重要。
 
-Both can be deficient in critically ill patients, and supplementation may improve outcomes.
+兩者都可能缺乏於重症患者，補充可能改善結局。
 
 ---
 
 ## Essential Trace Elements
 
-A trace element is present in amounts less than 50 mcg per gram of body tissue.
+微量元素存在於每克身體組織少於 50 mcg 的量。
 
-**TABLE 48.4 — Daily Trace Element Requirements (Healthy Adults)**
+**TABLE 48.4 — 每日微量元素需求（健康成年人）**
 
-| Element | Men | Women |
+| 元素 | 男性 | 女性 |
 |---|---|---|
 | Chromium | 30 mcg/d | 20 mcg/d |
 | Copper | 900 mcg/d | 900 mcg/d |
@@ -202,16 +202,16 @@ A trace element is present in amounts less than 50 mcg per gram of body tissue.
 
 ### Iron
 
-Healthy adults have about 4.5 grams of iron, mostly bound to hemoglobin, with the remainder bound to ferritin and transferrin. Circulating transferrin is only 30% saturated, so increases in iron are quickly bound, preventing rises in free plasma iron.
+健康成年人約有 4.5 克鐵，大部分與血紅素結合，其餘與 ferritin 和 transferrin 結合。循環中的 transferrin 只有 30% 飽和，因此鐵的增加會很快被結合，防止游離血漿鐵的升高。
 
-**Iron and oxidative injury:**
+**鐵和氧化損傷：**
 
-1. Iron in its reduced form (Fe²⁺) is necessary for the production of hydroxyl radicals — the most destructive reactive oxygen species.
-2. Iron-induced lipid peroxidation can produce **ferroptosis**, a form of regulated cell death triggered by inflammation.
+1. 還原形式的鐵（Fe²⁺）是產生氫氧自由基所必需的——這是最具破壞性的活性氧物質。
+2. 鐵誘導的脂肪過氧化可產生 **ferroptosis**，這是一種由發炎引發的調節性細胞死亡形式。
 
-**Clinical implication:** Hypoferremia is common in conditions with systemic inflammation. Administering iron in critically ill patients should be avoided unless there is evidence of tissue iron depletion with resultant anemia.
+**臨床意義：** 在全身性發炎的情況下，低鐵血症是常見的。除非有組織鐵耗竭導致貧血的證據，否則應避免在重症患者中給予鐵。
 
-**Tissue iron assessment:** Plasma ferritin level. Below 18 mcg/L indicates probable iron deficiency; above 100 mcg/L makes iron deficiency unlikely.
+**組織鐵評估：** 血漿 ferritin 水平。低於 18 mcg/L 表示可能是鐵缺乏；高於 100 mcg/L 使鐵缺乏不太可能。
 
 ---
 

@@ -9,310 +9,310 @@ title: "Approaches to Clinical Shock"
 >
 > — Samuel Gross, MD
 
-One of the recognizable features of the clinical condition known as "shock" is its name, which lacks any scientific or pathological merit. The clinical use of this term can be traced back to 1731, when a French surgeon named Henri LeDran published his experience with gunshot wounds, and used the term "chock" to describe the injuries that often had fatal outcomes. This chapter is the first in a series devoted to clinical shock, and attempts to present a unified view of shock, including what it is, how it is classified, how it presents, and how it is managed.
+「休克」這一臨床狀況的一個可識別特徵是其名稱，它缺乏任何科學或病理學價值。這個術語的臨床使用可以追溯到 1731 年，當時一位名叫 Henri LeDran 的法國外科醫生發表了他對槍傷的經驗，並使用「chock」一詞來描述那些往往致命後果的損傷。本章是系列臨床休克的第一章，試圖呈現休克的統一觀點，包括它是什麼、如何分類、如何表現以及如何管理。
 
 ## What is Clinical Shock?
 
-An updated definition of shock would state that shock is a life-threatening circulatory disorder that is characterized by inadequate cellular oxygen utilization. Shock can be the result of inadequate tissue oxygenation, or inadequate processing of oxygen by mitochondria, but the result is the same: there is a deficiency in oxidative ATP production.
+休克的更新定義是：休克是一種危及生命的循環障礙，其特徵是細胞氧利用不足。休克可能是組織氧合不足的結果，也可能是線粒體對氧處理不足的結果，但結果相同：氧化 ATP 產生存在缺陷。
 
 ### Clinical Features
 
-The clinical manifestations of shock typically include the following:
+休克的臨床表現通常包括以下內容：
 
-1. **A decrease in blood pressure**, which typically results in hypotension, defined as a systolic pressure <90 mm Hg or a mean pressure <70 mm Hg.
+1. **血壓下降，**這通常導致 hypotension，定義為收縮壓 <90 mm Hg 或平均壓 <70 mm Hg。
 
-2. **An increase in the plasma lactate level** (>2 mmol/L), which is considered evidence of impaired cellular O₂ utilization.
+2. **血漿乳酸水平升高**（>2 mmol/L），這被認為是細胞 O₂ 利用受損的證據。
 
-3. **Clinical signs of organ dysfunction**, which usually begins as oliguria (urine output <0.5 mL/kg per hour) and altered mentation, and can progress to involve any and all major organs.
+3. **器官功能障礙的臨床跡象，**這通常從寡尿（尿量 <0.5 mL/kg/小時）和意識改變開始，可進展為涉及任何和所有主要器官。
 
-4. **In cases of "low-flow shock"**, the skin may be cool to touch, and there may be cyanotic changes in the distal extremities.
+4. **在「低流量休克」的情況下，**皮膚可能觸之發涼，遠端肢體可能有發紺變化。
 
 ### Hypotension
 
-Hypotension has been one of the standard clinical criteria for the diagnosis of clinical shock, but the reliability of hypotension as a marker of clinical shock is questionable. Clinical studies have shown that the blood pressure can be normal when there is evidence of inadequate tissue oxygenation.
+Hypotension一直是臨床休克診斷的標準臨床標準之一，但 hypotension 作為臨床休克指標的可靠性值得懷疑。臨床研究表明，當有組織氧合不足的證據時，血壓可能是正常的。
 
 ## Types of Shock
 
-There are 4 different types of shock (shock syndromes), and these can be identified using hydraulic relationships: steady flow (Q) through a closed hydraulic circuit is directly related to the pressure gradient across the circuit, and is inversely related to the resistance to flow through the circuit.
+休克（休克症候群）有 4 種不同類型，可以使用液壓關係來識別：穩定流動（Q）通過封閉液壓迴路與迴路兩端的壓力梯度成正比，與迴路中的流動阻力成反比。
 
 $$Q = \frac{P_{in} - P_{out}}{R}$$
 
-If the hydraulic circuit is the circulatory system, then flow is the cardiac output (CO), the inflow pressure is the mean arterial pressure (MAP), the outflow pressure is the right atrial pressure (RAP), and the resistance to flow is the systemic vascular resistance (SVR):
+如果液壓迴路是循環系統，那麼流動是 cardiac output（CO），流入壓力是 mean arterial pressure（MAP），流出壓力是右心房壓力（RAP），流動阻力是 systemic vascular resistance（SVR）：
 
 $$CO = \frac{MAP - RAP}{SVR}$$
 
-The different shock syndromes are then identified by the determinants of MAP:
-- **Low RAP** = hypovolemic shock
-- **Low CO** = cardiogenic shock, obstructive shock
-- **Low SVR** = vasodilatory shock
+然後通過 MAP 的決定因素來識別不同的休克症候群：
+- **低 RAP** = hypovolemic shock
+- **低 CO** = cardiogenic shock、obstructive shock
+- **低 SVR** = vasodilatory shock
 
-**Table 14.1** Hemodynamic Patterns in the Shock Syndromes
+**Table 14.1** 休克症候群的血流動力學模式
 
-| Parameter | Hypovolemic (16%) | Obstructive (2%) | Cardiogenic (16%) | Vasodilatory (66%) |
+| 參數 | Hypovolemic（16%） | Obstructive（2%） | Cardiogenic（16%） | Vasodilatory（66%） |
 |---|---|---|---|---|
-| CVP | Low | High | High | Low |
-| Cardiac Output | Low | Low | Low | Normal or High |
-| SVR | High | High | High | Low |
+| CVP | 低 | 高 | 高 | 低 |
+| Cardiac Output | 低 | 低 | 低 | 正常或高 |
+| SVR | 高 | 高 | 高 | 低 |
 
 ### Hypovolemic Shock
 
-Hypovolemic shock is almost always the result of blood loss, and it usually appears when the decrease in blood volume exceeds 30%. Dehydration does not typically result in shock because the fluid loss leads to an increase in the colloid osmotic pressure of plasma.
+Hypovolemic shock 幾乎總是失血的結果，通常在血容量減少超過 30% 時出現。脫水通常不會導致休克，因為液體流失導致血漿膠體滲透壓增加。
 
 ### Cardiogenic Shock
 
-Shock from cardiac pump failure is most often the result of acute coronary syndromes, which account for almost half of the cases of cardiogenic shock. Cardiogenic shock presents the greatest challenge in shock management; i.e., despite advances in revascularization and mechanical cardiac support, the mortality rate remains at about 50%.
+心臟泵衰竭引起的休克最常見於急性冠狀動脈症候群，佔 cardiogenic shock 病例的近一半。Cardiogenic shock 在休克管理中面臨最大挑戰；即儘管血管重建和機械心臟支持取得了進步，死亡率仍保持在約 50%。
 
 ### Obstructive Shock
 
-Obstructive shock is caused by conditions that impede or block cardiac filling, such as massive pulmonary embolism, tension pneumothorax, and cardiac tamponade. This condition is uncommon, and accounts for only 2% of cases of clinical shock.
+Obstructive shock 是由阻礙或阻塞心臟充盈的狀況引起的，如大規模肺栓塞、張力性氣胸和心臟填塞。這種情況並不常見，僅佔臨床休克病例的 2%。
 
 ### Vasodilatory Shock
 
-Vasodilatory shock (also known as "distributive shock") is a condition of widespread vasodilation involving both arteries and veins. It is the most frequently encountered type of shock, and septic shock accounts for most cases. Septic shock is the leading cause of in-hospital deaths in the United States.
+Vasodilatory shock（也稱為「分布性休克」）是一種涉及动脉和靜脈廣泛血管舒張的狀況。這是最常見的休克類型，膿毒症休克佔大多數。膿毒症休克是美國院內死亡的主要原因。
 
 ## Blood Pressure Monitoring
 
-Blood pressure monitoring is mandatory in clinical shock, and direct intra-arterial recordings are preferred.
+臨床休克中血壓監測是強制性的，首選直接动脉內記錄。
 
 ### Direct Recordings
 
-Direct arterial pressure recordings are obtained from the radial, brachial, axillary, or femoral arteries. The arterial pressure waveform changes as it moves away from the proximal aorta: as the pressure wave moves toward the periphery, the systolic pressure gradually increases and the systolic portion of the waveform narrows. The systolic pressure can increase as much as 20 mm Hg from the proximal aorta to the radial or femoral arteries.
+直接动脉血壓記錄從橈动脉、肱动脉、腋动脉或股动脉獲得。动脉血壓波形在遠離近端主動脉時會發生變化：當壓力波向周圍移動時，收縮壓逐漸增加，波形的收縮部分變窄。從近端主動脉到橈动脉或股动脉，收縮壓可增加多達 20 mm Hg。
 
 ### Systolic Amplification
 
-The increase in systolic pressure in peripheral arteries is the result of pressure waves that are reflected back from vascular bifurcations and narrowed blood vessels. Reflected waves move faster when the arteries are stiff, and they reach the arterial pressure waveform before it has time to decrement.
+外周动脉收縮壓的增加是從血管分叉處和狹窄血管反射回來的壓力波的結果。當动脉僵硬時，反射波移動更快，它們在动脉血壓波形有時間遞減之前就到達了。
 
 ### Mean Arterial Pressure
 
-The mean arterial pressure (MAP) is the preferred pressure for hemodynamic monitoring for two reasons: it is the principal driving force for systemic blood flow, and it does not change as the pressure waveform moves peripherally. The management of clinical shock typically uses a target MAP of ≥65 mm Hg.
+Mean arterial pressure（MAP）是血流動力學監測的首選壓力，有兩個原因：它是全身血流的主要驅動力，並且它不會隨著壓力波形向外周移動而變化。臨床休克的管理通常使用 ≥65 mm Hg 的目標 MAP。
 
 ### Indirect Measurements
 
 #### The Principle
 
-The indirect blood pressure measurement uses an inflatable bladder (attached to the underside of a cloth sleeve) that is wrapped around the upper arm or thigh. As the cuff pressure increases and the underlying artery is compressed, the pulsations in the artery gradually increase and then decrease. These "counterpulsations" produce oscillations in the bladder pressure, and automated blood pressure devices convert them into measures of systolic, diastolic, and mean pressures.
+間接血壓測量使用纏繞在上臂或大腿上的充氣囊（附著在布套下側）。隨著套囊壓力增加並壓迫下方的动脉，动脉中的脈動逐漸增加然後減少。這些「對搏」在囊壓中產生振盪，自動化血壓設備將它們轉換為收縮壓、舒張壓和平均壓的測量值。
 
 #### Common Source of Error
 
-Counterpulsations are more reproducible when an artery is compressed uniformly. Uniform compression is more likely if the size of the bladder is appropriate for the circumference of the upper arm.
+當动脉被均勻壓迫時，對搏更具可重複性。如果囊的大小適合上臂周長，則更可能實現均勻壓迫。
 
-**Table 14.2** Appropriate Size of Blood Pressure Cuff in Relation to Upper Arm Circumference
+**Table 14.2** 根據上臂周長的血壓套囊適當尺寸
 
-| Upper Arm Circumference | Size | Dimensions |
+| 上臂周長 | 尺寸 | 尺寸 |
 |---|---|---|
-| 22 to 26 cm | Small Adult | 12 × 24 cm |
-| 27 to 34 cm | Adult | 16 × 30 cm |
-| 35 to 44 cm | Large Adult | 16 × 36 cm |
-| 45 to 52 cm | Adult Thigh | 16 × 42 cm |
+| 22 至 26 cm | Small Adult | 12 × 24 cm |
+| 27 至 34 cm | Adult | 16 × 30 cm |
+| 35 至 44 cm | Large Adult | 16 × 36 cm |
+| 45 至 52 cm | Adult Thigh | 16 × 42 cm |
 
 #### Simple Method for Assessing Cuff Size
 
-Align the cuff so that the long axis runs along the long axis of the arm. Then turn the cuff over so the bladder on the underside of the cuff is facing upward, and wrap the cuff around the upper arm. The bladder (width) should encircle close to half (40%) of the upper arm.
+對齊套囊，使長軸沿手臂的長軸方向。然後翻轉套囊，使下側的囊面朝上，將套囊纏繞在上臂上。囊的寬度應環繞上臂約一半（40%）。
 
 ## Tissue Perfusion and Oxygenation
 
-The approach to shock requires more than blood pressure monitoring, as measures of tissue perfusion and oxygenation are essential for both the detection and management of shock.
+休克的方法不僅需要血壓監測，因為組織灌注和氧合的測量對於休克的檢測和管理都是必不可少的。
 
 ### Oxygen Transport Parameters
 
-There are three measures of systemic oxygen transport: oxygen delivery ($DO_2$), oxygen uptake ($VO_2$), and oxygen extraction ($VO_2/DO_2$).
+全身氧合有三個測量指標：O₂ 輸送（$DO_2$）、O₂ 摄取（$VO_2$）和 O₂ extraction（$VO_2/DO_2$）。
 
 ### Cardiac Index
 
-Oxygen transport is dependent on the cardiac output. The stroke volume is multiplied by the heart rate to obtain the cardiac output. The size-adjusted cardiac output is called the cardiac index (CI), and the normal range is 2.4–4 L/min/m². A subnormal CI (<2.5 L/min/m²) is considered evidence of inadequate tissue perfusion.
+氧合取決於 cardiac output。Stroke volume 乘以心率得到 cardiac output。尺寸調整後的 cardiac output 稱為 cardiac index（CI），正常範圍為 2.4–4 L/min/m²。正常以下 CI（<2.5 L/min/m²）被認為是組織灌注不足的證據。
 
 ### Oxygen Delivery
 
-The rate of oxygen delivery in arterial blood ($DO_2$) is derived as the product of the cardiac index (CI) and the oxygen concentration in arterial blood ($CaO_2$):
+动脉血中 O₂ 輸送速率（$DO_2$）作為 cardiac index（CI）和动脉血中 O₂ 濃度（$CaO_2$）的乘積來計算：
 
 $$DO_2 = CI \times CaO_2$$
 
-A decrease in O₂ delivery is the culprit in three of the four types of clinical shock (i.e., hypovolemic, cardiogenic, and obstructive shock). The $DO_2$ is normally 520–600 mL/min/m², and a $DO_2$ of 300 mL/min/m² has been identified as the threshold for inadequate tissue oxygenation.
+O₂ 輸送減少是四種臨床休克類型中三種（即 hypovolemic、cardiogenic 和 obstructive shock）的罪魁禍首。$DO_2$ 通常為 520–600 mL/min/m²，300 mL/min/m² 的 $DO_2$ 被確定為組織氧合不足的閾值。
 
 ### Oxygen Uptake
 
-The rate of oxygen uptake into tissues ($VO_2$) is calculated as the product of the cardiac index and the difference in O₂ concentration between arterial and venous blood:
+組織攝取 O₂ 的速率（$VO_2$）作為 cardiac index 與動靜脈血 O₂ 濃度差的乘積計算：
 
 $$VO_2 = CO \times (CaO_2 - CvO_2)$$
 
-The $VO_2$ is normally 110–160 mL/min/m².
+$VO_2$ 通常為 110–160 mL/min/m²。
 
 ### Oxygen Extraction
 
-Oxygen extraction is the ratio of O₂ uptake to O₂ delivery:
+Oxygen extraction 是 O₂ 摄取與 O₂ 輸送的比值：
 
 $$O_2\ Extraction = \frac{VO_2}{DO_2}$$
 
-The O₂ extraction is normally 0.2–0.3 (20–30%), and it can increase to about 0.5 (50%) in response to a decrease in $DO_2$. Therefore, an O₂ extraction of ≥50% indicates that O₂ delivery is low enough to threaten aerobic metabolism.
+O₂ extraction 通常為 0.2–0.3（20–30%），並且在 $DO_2$ 減少的情況下可增加至約 0.5（50%）。因此，≥50% 的 O₂ extraction 表示 O₂ 輸送低到足以威脅有氧代謝。
 
 ### Central Venous O₂ Saturation
 
-When the $SaO_2$ is constant, or is close to 100%, the O₂ extraction can be expressed as:
+當 $SaO_2$ 恆定或接近 100% 時，O₂ extraction 可表示為：
 
 $$O_2\ Extraction = (1 - ScvO_2)$$
 
-The normal $ScvO_2$ is about 65–75%, and an $ScvO_2$ of ≤50% can be used as a marker of threatened or impaired tissue oxygenation.
+正常的 $ScvO_2$ 約為 65–75%，≤50% 的 $ScvO_2$ 可用作組織氧合受威脅或受損的指標。
 
-**Table 14.3** Global Measures of Tissue Perfusion and Oxygenation
+**Table 14.3** 組織灌注和氧合的全身測量指標
 
-| Measure | Critical Range | Interpretation |
+| 測量指標 | 危急範圍 | 解釋 |
 |---|---|---|
-| Cardiac Index (CI) | <2.5 L/min/m² | Inadequate Perfusion |
-| Oxygen Delivery ($DO_2$) | ≤300 mL/min/m² | Inadequate O₂ Delivery |
-| Oxygen Uptake ($VO_2$) | ≤110 mL/min/m² | Inadequate O₂ Utilization |
-| Oxygen Extraction | ≥50% | Inadequate O₂ Delivery |
-| Central Venous O₂ Saturation ($ScvO_2$) | <50% or >80% | Inadequate O₂ Delivery or Extraction |
-| PCO₂ Gap | >6 mm Hg (>0.8 kPa) | Inadequate Perfusion |
-| Plasma Lactate | >2 mmol/L | Inadequate O₂ Utilization |
+| Cardiac Index（CI） | <2.5 L/min/m² | 灌注不足 |
+| Oxygen Delivery（$DO_2$） | ≤300 mL/min/m² | O₂ 輸送不足 |
+| Oxygen Uptake（$VO_2$） | ≤110 mL/min/m² | O₂ 利用不足 |
+| Oxygen Extraction | ≥50% | O₂ 輸送不足 |
+| Central Venous O₂ Saturation（$ScvO_2$） | <50% 或 >80% | O₂ 輸送不足或 extraction 不足 |
+| PCO₂ Gap | >6 mm Hg（>0.8 kPa） | 灌注不足 |
+| 血漿乳酸 | >2 mmol/L | O₂ 利用不足 |
 
 ### The PCO₂ Gap
 
-The venoarterial PCO₂ difference, also known as the PCO₂ gap, is an indirect measure of CO₂ washout from tissues. The PCO₂ gap is normally 2–5 mm Hg, and an increase to >6 mm Hg is evidence of tissue hypoperfusion. Unlike the $ScvO_2$, the PCO₂ gap is dependent only on tissue perfusion.
+動靜脈 PCO₂ 差異，也稱為 PCO₂ gap，是 CO₂ 從組織清除的間接測量。PCO₂ gap 通常為 2–5 mm Hg，增加至 >6 mm Hg 是組織灌注不足的證據。與 $ScvO_2$ 不同，PCO₂ gap 僅取決於組織灌注。
 
 ### Plasma Lactate
 
-A plasma lactate >2 mmol/L is considered evidence of inadequate cellular O₂ utilization. If shock is the cause of an elevated lactate level, then failure to normalize the level within 24 hours has negative implications for a satisfactory outcome.
+血漿乳酸 >2 mmol/L 被認為是細胞 O₂ 利用不足的證據。如果休克是高乳酸水平的原因，那麼 24 小時內不能使水平正常化對良好結局有負面影響。
 
 ## General Management
 
-The management of clinical shock has two components: treating the condition responsible for the shock, and generalized hemodynamic management.
+臨床休克的管理有兩個組成部分：治療休克負責的狀況，以及廣泛的血流動力學管理。
 
 ### Volume Resuscitation
 
-The infusion of intravenous fluids is the very first step in the management of shock, regardless of the type of shock. Crystalloid fluids are preferred, even though about 75% of infused crystalloid fluids expand the interstitial volume, not the plasma volume.
+靜脈輸液是休克管理的第一步，無論休克類型如何。首選晶體液，即使約 75% 的輸注晶體液擴張的是間質量而非血漿容積。
 
 #### Infused Volume
 
-For the most common shock syndrome (septic shock), the recommended resuscitation volume is ≥30 mL/kg, using ideal body weight, in the first 3 hours.
+對於最常見的休克症候群（膿毒症休克），建議在最初 3 小時內使用理想體重 ≥30 mL/kg 的復甦容積。
 
-The following are some recommendations for the initial fluid resuscitation:
+以下是初始液體復甦的一些建議：
 
-1. The initial resuscitation volume should take into account the type of shock and the type of patient, and should probably not exceed 2 liters (crystalloid fluid) over 1–2 hours.
+1. 初始復甦容積應考慮休克類型和病人類型，並且可能在 1–2 小時內不超過 2 升（晶體液）。
 
-2. The immediate goal is restoration of the baseline blood pressure.
+2. 直接目標是恢復基線血壓。
 
-3. If the blood pressure goal is not achieved and there is other evidence of circulatory compromise, then infusion of a vasoconstrictor agent should be initiated.
+3. 如果未達到血壓目標並有其他循環損害的證據，則應開始輸注血管收縮劑。
 
-4. Volume resuscitation beyond the initial period should be guided by the assessment of fluid responsiveness.
+4. 初始期後的容積復甦應以液體反應性的評估為指導。
 
 ### Vasopressor Infusions
 
-The first issue that surfaces for vasopressor infusions is the traditional recommendation that vasopressor agents should be infused through a central venous catheter. Fortunately, at least 16 clinical studies have shown that vasopressors can be infused safely through peripheral catheters (in the upper arm) for up to 48 hours.
+Vasopressor 輸注浮現的第一個問題是傳統建議，即 vasopressor 製劑應通過中心靜脈導管輸注。幸運的是，至少 16 項臨床研究表明，vasopressors 可以通過外周導管（在臂部）安全輸注最多 48 小時。
 
 #### Drug Extravasation
 
-Extravasation of a vasoconstrictor drug should be managed as follows:
+血管收縮藥物的外滲應按如下方式處理：
 
-1. When extravasation is first evident, stop the infusion immediately, disconnect the IV line and attach it to a syringe and gently aspirate the remaining solution. Then remove the catheter. Do not flush the line prior to removal.
+1. 當首次發現外滲時，立即停止輸注，斷開靜脈管路並連接到注射器上，輕輕抽吸剩餘溶液。然後移除導管。移除前不要沖洗管路。
 
-2. The drug that is used in this situation is phentolamine, a long-acting alpha blocker. The dose is 5–10 mg in 10 mL isotonic saline, which is injected directly into the area of extravasation.
+2. 在這種情況下使用的藥物是 phentolamine，一種長效 α 阻斷劑。劑量為 5–10 mg 溶於 10 mL 等滲鹽水中，直接注射到外滲區域。
 
-3. Phentolamine must be used within 12 hours of the event to be successful.
+3. 必須在事件發生後 12 小時內使用 phentolamine 才能成功。
 
 #### Target Blood Pressure
 
-The consensus recommendation is that vasopressor infusions should be titrated to maintain a mean arterial pressure (MAP) of at least 65 mm Hg.
+共識建議是 vasopressor 輸注應滴定以維持 mean arterial pressure（MAP）至少 65 mm Hg。
 
 ## Vasopressor Agents
 
-A variety of vasopressors are available, and are used primarily in vasodilatory (septic) shock. Most are catecholamines that promote vasoconstriction by stimulating α₁-type adrenergic receptors.
+有多種 vasopressors 可用，主要用於血管舒張性（膿毒症）休克。大多數是兒茶酚胺，通過刺激 α₁ 型腎上腺素能受體促進血管收縮。
 
-**Table 14.4** Parenteral Vasopressor Agents
+**Table 14.4** 胃腸外 Vasopressor 製劑
 
-| Agent | Dose Range | Comments |
+| 製劑 | 劑量範圍 | 評論 |
 |---|---|---|
-| Norepinephrine | 5–40 μg/min | The most widely used vasopressor in clinical shock |
-| Epinephrine | 0.1–0.5 μg/kg/min | Drug of choice for anaphylactic shock; promotes lactate production |
-| Dopamine | 5–50 μg/kg/min | Once popular, but hampered by undesirable cardiac stimulation |
-| Phenylephrine | 0.5–6 μg/kg/min | A pure α agonist used mostly for anesthesia-related hypotension |
-| Vasopressin | 0.01–0.04 Units/hr | Used as a second agent in cases of septic shock resistant to norepinephrine |
-| Angiotensin II | 0.02–0.08 μg/kg/min initially | Used for norepinephrine-resistant vasodilatory shock |
+| Norepinephrine | 5–40 μg/min | 臨床休克中使用最廣泛的 vasopressor |
+| Epinephrine | 0.1–0.5 μg/kg/min | 過敏性休克的首選藥物；促進乳酸產生 |
+| Dopamine | 5–50 μg/kg/min | 曾經流行，但受到不良心臟刺激的阻礙 |
+| Phenylephrine | 0.5–6 μg/kg/min | 純 α 激動劑，主要用於麻醉相關的低血壓 |
+| Vasopressin | 0.01–0.04 Units/hr | 在對 norepinephrine 耐藥的膿毒症休克病例中用作第二製劑 |
+| Angiotensin II | 初始 0.02–0.08 μg/kg/min | 用於 norepinephrine 耐藥的血管舒張性休克 |
 
 ### Norepinephrine
 
-Norepinephrine is the most widely used vasopressor, and is the preferred vasopressor in septic shock. Its principal action is α₁-receptor-mediated vasoconstriction, but it is also a weak β-receptor agonist, which produces some degree of cardiac stimulation.
+Norepinephrine 是使用最廣泛的 vasopressor，是膿毒症休克的首選 vasopressor。其主要作用是 α₁ 受體介導的血管收縮，但它也是一種弱 β 受體激動劑，可產生一定程度的心臟刺激。
 
-**Dosing:** Norepinephrine infusions are usually started at a rate of 5–10 μg/min, which is titrated upward as needed. The β-receptor stimulation can increase the cardiac output in the low-dose range (<10 μg/min), while vasoconstriction from α-receptor stimulation begins to predominate at dose rates above 10 μg/min.
+**劑量：** Norepinephrine 輸注通常以 5–10 μg/min 的速率開始，根據需要向上滴定。β 受體刺激可在低劑量範圍（<10 μg/min）增加 cardiac output，而 α 受體刺激引起的血管收縮在劑量率高於 10 μg/min 時開始佔主導地位。
 
-**Adverse Effects:** Serious adverse events include ischemic events (myocardial, cerebral, or limb ischemia) and troublesome arrhythmias.
+**不良反應：** 嚴重不良事件包括缺血事件（心肌、腦或肢體缺血）和麻煩的心律不整。
 
 ### Epinephrine
 
-Epinephrine is a potent β-receptor agonist that produces dose-dependent increases in heart rate, stroke volume, and blood pressure. It has an important role in cardiopulmonary resuscitation and in the resuscitation of anaphylactic shock, but it is a second-line vasopressor in septic shock.
+Epinephrine 是一種強效 β 受體激動劑，可產生劑量依賴性的心率、stroke volume 和血壓增加。它在心肺復甦和過敏性休克復甦中起重要作用，但在膿毒症休克中是二線 vasopressor。
 
-**Adverse Effects:** Adverse effects include unwanted cardiac stimulation, splanchnic hypoperfusion from α-mediated vasoconstriction, hyperglycemia, and an increase in plasma lactate levels.
+**不良反應：** 不良反應包括不良心臟刺激、α 介導血管收縮引起的內臟灌注不足、高血糖和血漿乳酸水平增加。
 
 ### Dopamine
 
-Dopamine is an endogenous catecholamine that serves as a precursor for norepinephrine. It was once the preferred vasopressor in septic shock, but its tendency to produce troublesome tachycardia and arrhythmias led to a fall from grace.
+Dopamine 是一種內源性兒茶酚胺，是 norepinephrine 的前體。它曾是膿毒症休克的首選 vasopressor，但產生麻煩的心搏過速和心律不整的傾向使其聲譽下降。
 
-**Dose-dependent effects:**
-- At low infusion rates (≤3 μg/kg/min): selectively activates dopamine-specific receptors in the renal and splanchnic circulations.
-- At moderate infusion rates (3–10 μg/kg/min): stimulates β-receptors in the heart.
-- At high infusion rates (>10 μg/kg/min): produces dose-dependent activation of α-receptors.
+**劑量依賴性效應：**
+- 在低輸注速率（≤3 μg/kg/min）時：選擇性激活腎和內臟循環中的多巴胺特異性受體。
+- 在中等輸注速率（3–10 μg/kg/min）時：刺激心臟中的 β 受體。
+- 在高輸注速率（>10 μg/kg/min）時：產生劑量依賴性的 α 受體激活。
 
 ### Phenylephrine
 
-Phenylephrine is a pure α-receptor agonist that produces widespread vasoconstriction. The principal use of phenylephrine is for hypotension produced by anesthesia. Phenylephrine is not recommended for any of the shock syndromes.
+Phenylephrine 是一種純 α 受體激動劑，可產生廣泛的血管收縮。Phenylephrine 的主要用途是治療麻醉引起的 hypotension。Phenylephrine 不推薦用於任何休克症候群。
 
-**Dosing:** For treating hypotension during anesthesia, phenylephrine can be given as a bolus dose of 50–100 μg.
+**劑量：** 對於麻醉期間低血壓的治療，phenylephrine 可以 50–100 μg 的 bolus 劑量給予。
 
 ### Vasopressin
 
-Vasopressin, also known as antidiuretic hormone, produces vasoconstriction as a result of specialized vasopressin (V₁) receptors on vascular smooth muscle. Vasopressin does not increase blood pressure in healthy volunteers, but it can produce significant increases in blood pressure in patients with vasodilatory shock.
+Vasopressin，也稱為抗利尿激素，通過血管平滑肌上的特化 vasopressin（V₁）受體產生血管收縮。Vasopressin 不會增加健康志願者的血壓，但可以在血管舒張性休克病人中產生顯著的血壓升高。
 
-**Use:** In cases of septic shock that are resistant to hemodynamic support with norepinephrine, the addition of vasopressin is recommended, as this can raise the blood pressure and reduce the catecholamine requirement.
+**用途：** 在對 norepinephrine 血流動力學支持耐藥的膿毒症休克病例中，建議添加 vasopressin，因為這可以升高血壓並減少兒茶酚胺的需求。
 
-**Dosing:** For septic shock, vasopressin is given as a continuous infusion at 0.03–0.04 Units/hr. This dose rate is not titrated.
+**劑量：** 對於膿毒症休克，vasopressin 以 0.03–0.04 Units/hr 的連續輸注給予。此劑量率不進行滴定。
 
 ### Angiotensin II
 
-Angiotensin II is a synthetic analogue of human angiotensin that acts on vascular smooth muscle to promote systemic vasoconstriction. It was approved for use in vasodilatory shock in 2018, and has been used primarily in cases of norepinephrine resistance.
+Angiotensin II 是人類血管緊張素的合成類似物，作用於血管平滑肌以促進全身血管收縮。它於 2018 年被批准用於血管舒張性休克，主要用於 norepinephrine 耐藥病例。
 
-**Dosing:** The initial dose is 20 ng/kg/min, which can be increased every 10–15 minutes if needed, to 80 ng/kg/min in the first 3 hours. Thereafter, the maintenance dose should not exceed 40 ng/kg/min.
+**劑量：** 初始劑量為 20 ng/kg/min，必要時每 10–15 分鐘增加一次，在最初 3 小時內可達 80 ng/kg/min。此後，維持劑量不應超過 40 ng/kg/min。
 
-**Adverse Effects:** The major risk with angiotensin II is venous thrombosis.
+**不良反應：** Angiotensin II 的主要風險是靜脈血栓形成。
 
 ### Midodrine
 
-Midodrine is an orally administered α-receptor agonist that was FDA-approved in 1996 for the treatment of orthostatic hypotension. Despite its appeal as a vasopressor that is easy to administer, midodrine offers no advantage for the management of shock.
+Midodrine 是一種口服給藥的 α 受體激動劑，於 1996 年獲 FDA 批准用於治療姿態性低血壓。儘管作為易於給藥的 vasopressor 有吸引力，但 midodrine 在休克管理中沒有優勢。
 
 ## Goals of Resuscitation
 
-The goals of resuscitation for clinical shock are summarized in Table 14.5.
+臨床休克復甦的目標總結在表 14.5 中。
 
-**Table 14.5** Goals of Resuscitation for Shock
+**Table 14.5** 休克復甦的目標
 
-| Category | Goals |
+| 類別 | 目標 |
 |---|---|
-| **Tissue Perfusion** | MAP ≥65 mm Hg; CI ≥2.5 L/min/m²; PCO₂ Gap <6 mm Hg; Urine Output >0.5 mL/kg/hr |
-| **Oxygen Transport** | $DO_2$ >300 mL/min/m²; $VO_2$ >110 mL/min/m²; O₂ Extraction <50%; $ScvO_2$ >50%; Lactate <2 mmol/L |
+| **組織灌注** | MAP ≥65 mm Hg；CI ≥2.5 L/min/m²；PCO₂ Gap <6 mm Hg；尿量 >0.5 mL/kg/hr |
+| **氧合傳輸** | $DO_2$ >300 mL/min/m²；$VO_2$ >110 mL/min/m²；O₂ Extraction <50%；$ScvO_2$ >50%；乳酸 <2 mmol/L |
 
 ### Tissue Perfusion
 
-One of the very first goals in shock resuscitation is to obtain accurate measurements of the mean arterial pressure (MAP), which requires direct intra-arterial pressure recordings from an arterial catheter. Once this is achieved, the MAP should be maintained at ≥65 mm Hg.
+休克復甦中最重要的目標之一是獲得 mean arterial pressure（MAP）的準確測量，這需要從动脉導管獲得直接动脉內壓力記錄。一旦實現，MAP 應保持在 ≥65 mm Hg。
 
-Monitoring the cardiac output with pulmonary artery (PA) catheters was once a staple of critical care management, but this practice diminished because of evidence that PA catheters do not improve survival in critically ill patients.
+使用肺动脉（PA）導管監測 cardiac output 曾是重症監護管理的支柱，但這種做法減少了，因為有證據表明 PA 導管不能提高危重症病人的生存率。
 
 ### Oxygen Transport
 
-Three of the major shock syndromes (i.e., hypovolemic, cardiogenic, and obstructive shock) are the result of inadequate O₂ delivery to tissues. Septic shock is NOT the result of inadequate O₂ delivery, but instead is the result of a defect in oxidative phosphorylation in dysfunctional mitochondria. This condition is known as cytopathic hypoxia.
+三種主要休克症候群（即 hypovolemic、cardiogenic 和 obstructive shock）是組織 O₂ 輸送不足的結果。膿毒症休克 NOT 是 O₂ 輸送不足的結果，而是功能障礙線粒體中氧化磷酸化缺陷的結果。這種狀況被稱為細胞病性缺氧。
 
-The universal goal of resuscitation in all forms of shock is normalization of the plasma lactate level (<2 mmol/L).
+所有形式休克復甦的普遍目標是使血漿乳酸水平正常化（<2 mmol/L）。
 
 ## A Final Word
 
 ### Hypotension as a Consequence, not a Cause, of Shock
 
-The resuscitation of shock is dominated by the desire to raise the blood pressure, which is based on the assumption that the low blood pressure is responsible for the shock. However:
+休克的復甦以升高血壓的願望為主導，這基於低血壓負責休克的假設。然而：
 
-1. Shock is defined as a derangement in cellular O₂ utilization, not a derangement in blood pressure.
+1. 休克被定義為細胞 O₂ 利用的障礙，而不是血壓的障礙。
 
-2. Relieving hypotension has been the major focus of shock management for over 70 years, yet the mortality rate in shock remains unacceptably high, and the use of two and even three vasopressors offers no survival benefit.
+2. 緩解 hypotension 一直是休克管理 70 多年來的主要焦點，然而休克的死亡率仍然高得令人無法接受，使用兩種甚至三種 vasopressors 沒有提供生存益處。
 
-3. Low blood pressures occur in conditions other than shock, and they do not produce anoxic organ injury or elevated lactate levels.
+3. 低血壓發生在非休克的狀況中，它們不會產生缺氧性器官損傷或乳酸水平升高。
 
-One possible explanation for these observations is that hypotension does not cause shock, but instead is a consequence of shock. Shock is well known for causing multiorgan dysfunction, and one of the dysfunctional organs could be the blood vessels.
+這些觀察的一個可能解釋是，hypotension 不是休克的原因，而是休克的後果。休克以引起多器官功能障礙而聞名，其中一個功能障礙的器官可能是血管。
 
 ---
 

@@ -9,169 +9,169 @@ title: "Hemorrhagic Shock"
 >
 > — Hippocrates, Aphorisms, 400 B.C.
 
-Trauma is the leading cause of death globally in the 25–49 year age group, and the most treatable cause of death in these cases is hemorrhagic shock. The design of the circulatory system creates an intolerance to blood loss: loss of as little as 30% of the blood volume can be fatal. This chapter describes the physiology and classification of acute blood loss, and presents the relevant features and strategies involved in the resuscitation of hemorrhagic shock.
+創傷是全球 25–49 歲年齡組的主要死亡原因，而在這些病例中最可治療的死亡原因是 hemorrhagic shock。循環系統的設計造成對失血的耐受性差：僅失血量 30% 就可能致命。本章描述了急性失血的生理學和分類，並介紹了 hemorrhagic shock 復甦的相關特徵和策略。
 
 ## Acute Blood Loss
 
-The normal blood volume in adults is estimated at 66 mL/kg (lean body weight) for males, and 60 mL/kg for females. For an adult male with a lean body weight of 75 kg, the estimated blood volume is 66 × 75 = 5 liters.
+成年人正常血容量估算為男性 66 mL/kg（瘦肉體重），女性 60 mL/kg。對於瘦肉體重 75 kg 的成年男性，估計血容量為 66 × 75 = 5 升。
 
 ### Compensatory Responses
 
-Acute blood loss triggers the following compensatory responses:
+急性失血觸發以下代償性反應：
 
-1. The decrease in blood pressure promotes the movement of interstitial fluid into the bloodstream (transcapillary refill), which can add as much as one liter to the plasma volume.
+1. 血壓下降促進間質液進入血流（經毛細血管補充），這可使血漿容積增加多達一升。
 
-2. There is a physiological stress response involving activation of the sympathetic nervous system, which promotes tachycardia and peripheral vasoconstriction.
+2. 存在涉及交感神經系統激活的生理應激反應，促進心搏過速和外周血管收縮。
 
-3. The stress response stimulates the release of antidiuretic hormone (ADH) from the posterior pituitary gland.
+3. 應激反應刺激腦下垂體後葉釋放抗利尿激素（ADH）。
 
-4. Decreased renal perfusion activates the renin-angiotensin-aldosterone system.
+4. 腎灌注減少激活腎素-血管緊張素-醛固酮系統。
 
 ### Classification of Blood Loss
 
-**Table 15.1** Classification System for Acute Blood Loss
+**Table 15.1** 急性失血的分類系統
 
-| Class | Blood Volume Loss | Clinical Features |
+| 等級 | 血容量損失 | 臨床特徵 |
 |---|---|---|
-| **Class I** | <15% (<10 mL/kg) | Typically less than one liter. Fully restored by transcapillary refill. Volume resuscitation not necessary. |
-| **Class II** | 15–30% (10–20 mL/kg) | Compensated phase. Blood pressure maintained by vasoconstriction. Urine output may begin to fall. Splanchnic hypoperfusion can occur. |
-| **Class III** | 31–40% (21–30 mL/kg) | Decompensated blood loss/hemorrhagic shock. Hypotension, signs of impaired organ perfusion, lactate accumulation. |
-| **Class IV** | >40% (>30 mL/kg) | Profound hemorrhagic shock, possibly irreversible. Multiorgan failure and severe lactic acidosis. |
+| **Class I** | <15%（<10 mL/kg） | 通常少於一升。完全由經毛細血管補充恢復。不需要 volume resuscitation。 |
+| **Class II** | 15–30%（10–20 mL/kg） | 代償期。血壓由血管收縮維持。尿量可能開始下降。可能發生內臟灌注不足。 |
+| **Class III** | 31–40%（21–30 mL/kg） | 失代償性失血/hemorrhagic shock。Hypotension、器官灌注受損的跡象、乳酸積累。 |
+| **Class IV** | >40%（>30 mL/kg） | 極度 hemorrhagic shock，可能不可逆。多器官衰竭和嚴重乳酸性酸中毒。 |
 
 ### Hemoglobin and Hematocrit
 
-The use of the hemoglobin concentration and hematocrit (H & H) to evaluate the presence and severity of acute blood loss is both common and inappropriate. Changes in hematocrit show a poor correlation with blood volume deficits in acute hemorrhage.
+使用血紅蛋白濃度和 hematocrit（H & H）來評估急性失血的存在和嚴重程度是常見且不適當的。在急性出血中，hematocrit 的變化與血容量虧損的相關性很差。
 
-Acute blood loss involves the loss of whole blood, which results in proportional decreases in the volume of plasma and erythrocytes. The H & H will eventually decline as a result of transcapillary refill, but this effect is not apparent for 8–12 hours.
+急性失血涉及全血的流失，導致血漿和紅細胞容積成比例減少。H & H 最终会因經毛細血管補充而下降，但這種效果在 8–12 小時內不明顯。
 
 ## Resuscitation Basics
 
 ### The Catheters
 
-The determinants of flow through vascular catheters are described by the Hagen-Poiseuille equation:
+通過血管導管流動的決定因素由 Hagen-Poiseuille 方程式描述：
 
 $$Q = \Delta P \times \frac{\pi r^4}{8 \mu L}$$
 
-Short, large-bore peripheral vein catheters are much better suited for rapid infusions than longer central venous catheters. Increasing the bore size of a catheter from 18 gauge to 16 gauge results in a two-fold increase in flow rate.
+短而大口徑的外周靜脈導管比長的中心靜脈導管更適合快速輸注。將導管口徑從 18 gauge 增加到 16 gauge 可使流速增加一倍。
 
 #### Rapid Infusion Catheters
 
-Very large bore peripheral catheters are available in 7 French and 9 French sizes and can deliver up to one liter per minute when used with pressurized infusion systems.
+非常大的口徑外周導管有 7 French 和 9 French 尺寸可供選擇，與加壓輸注系統一起使用時可提供多達每分鐘一升的流量。
 
 #### Introducer Catheters
 
-Large-bore introducer catheters are available in 8.5 French and 9 French sizes and can deliver up to one liter per minute when used with pressurized infusion systems.
+大口徑 introducer 導管有 8.5 French 和 9 French 尺寸可供選擇，與加壓輸注系統一起使用時可提供多達每分鐘一升的流量。
 
 ### Resuscitation Fluids
 
-**Table 15.2** Resuscitation Fluids for Blood Loss
+**Table 15.2** 失血的復甦液體
 
-| Category | Products | Principal Effect |
+| 類別 | 產品 | 主要作用 |
 |---|---|---|
-| **Colloid Fluid** | Albumin (5%, 25%), Hydroxyethyl Starches, Dextrans | Expands the plasma volume |
-| **Crystalloid Fluid** | Isotonic Saline, Ringer's lactate, Normosol, Plasma-Lyte | Expands the extracellular volume |
-| **RBC Concentrate** | Packed RBCs | Increases the O₂ content of blood |
-| **Plasma** | Fresh Frozen Plasma, Liquid Plasma | Provides procoagulant proteins |
-| **Plasma Precipitate** | Cryoprecipitate, Fibrinogen Concentrate | Increases fibrinogen levels |
-| **Platelet Concentrate** | Multiple-Donor Platelets, Single-Donor Platelets | Increases circulating platelets |
-| **Whole Blood** | Type-Specific Blood, Group O Blood | All of the above |
+| **膠體液** | 白蛋白（5%、25%）、羥乙基澱粉、右旋糖酐 | 擴張血漿容積 |
+| **晶體液** | 等滲鹽水、乳酸林格氏液、Normosol、Plasma-Lyte | 擴張細胞外液容積 |
+| **RBC 濃縮物** | Packed RBCs | 增加血液的 O₂ 含量 |
+| **血漿** | 新鮮冰凍血漿、液體血漿 | 提供促凝血蛋白 |
+| **血漿沉澱物** | 冷沉澱物、纖維蛋白原濃縮物 | 增加纖維蛋白原水平 |
+| **血小板濃縮物** | 多供體血小板、單供體血小板 | 增加循環血小板 |
+| **全血** | 型特異性血液、O 型血液 | 以上全部 |
 
 #### Erythrocyte Concentrates
 
-Erythrocyte concentrates (packed red blood cells) are produced by centrifugation of donor blood. Each unit has a hematocrit of about 60% and a volume of about 350 mL.
+紅細胞濃縮物（packed red blood cells）通過離心捐獻血液產生。每單位的 hematocrit 約為 60%，容積約為 350 mL。
 
 #### Whole Blood
 
-Whole blood is considered the ideal replacement fluid for acute blood loss, and can be stored at 1°–6°C for up to 35 days. Cold-stored whole blood has shown a survival benefit in military studies when combined with component therapy.
+全血被認為是急性失血的理想替代液體，可在 1°–6°C 下儲存最多 35 天。冷儲存全血在軍事研究中顯示與成分治療相結合有生存益處。
 
-**Low-Titer Group O Blood:** "Low-titer" Group O blood has low levels of anti-A and anti-B antibodies, and is considered a safer alternative to Group O blood for emergency transfusion.
+**Low-Titer Group O Blood：**「低滴度」O 型血液具有低水平的抗 A 和抗 B 抗體，被認為是緊急輸血的比 O 型血液更安全的替代品。
 
 ### Rapid Infusion Systems
 
-Rapid blood replacement is often necessary in massive hemorrhage, and rapid infusion systems are available that can deliver warmed blood products at rates up to 1 liter per minute. These systems use a roller pump to create pressures up to 300 mm Hg.
+大量出血中通常需要快速血液置換，有可用的快速輸注系統，能夠以每分鐘多達一升的速度提供加溫的血液製品。這些系統使用滾輪泵產生高達 300 mm Hg 的壓力。
 
-**Table 15.3** Infusion of Packed RBCs: Influence of Dilution, Pressure, and Catheter Size
+**Table 15.3** Packed RBCs 的輸注：稀釋、壓力和導管尺寸的影響
 
-| Formulation | 18-G, 1.2 in | 16-G, 1.2 in | 7-Fr RIC, 2.0 in |
+| 製劑 | 18-G，1.2 英寸 | 16-G，1.2 英寸 | 7-Fr RIC，2.0 英寸 |
 |---|---|---|---|
-| 1 Unit PRBCs – No Dilution (Gravity) | 5 mL/min | 39 mL/min | — |
-| 1 Unit + 100 mL Saline (Gravity) | 7 mL/min | 49 mL/min | — |
-| 1 Unit + 1 Unit FFP (Pressurized 300 mm Hg) | 183 mL/min | 448 mL/min | 1,000 mL/min |
+| 1 單位 PRBCs – 未稀釋（重力） | 5 mL/min | 39 mL/min | — |
+| 1 單位 + 100 mL 鹽水（重力） | 7 mL/min | 49 mL/min | — |
+| 1 單位 + 1 單位 FFP（加壓 300 mm Hg） | 183 mL/min | 448 mL/min | 1,000 mL/min |
 
 ## Resuscitation Strategies
 
-There are two fundamental goals in the bleeding patient:
+出血病人有兩個基本目標：
 
-1. Support the delivery of oxygen to tissues by promoting cardiac output and maintaining an adequate hemoglobin concentration.
+1. 通過促進 cardiac output 和維持足夠的血紅蛋白濃度來支持向組織的氧氣輸送。
 
-2. "Source control" to stop the bleeding, as continued bleeding increases the risk of a life-threatening coagulopathy.
+2. 「源頭控制」以停止出血，因為持續出血會增加危及生命的凝血病的風險。
 
 ### Permissive Hypotension
 
-The impetus for permissive hypotension comes from studies of trauma-related hemorrhage, which have shown that aggressive fluid resuscitation can exacerbate bleeding before the hemorrhage is controlled. This strategy has been shown to reduce transfusion requirements and the risk of a dilutional coagulopathy. The major issue is ensuring that the low blood pressure is not promoting dangerous tissue hypoperfusion, so monitoring plasma lactate levels and urine output is essential.
+允許性低血壓的推動力來自創傷相關出血的研究，這些研究表明，在出血得到控制之前積極的液體復甦可能會加劇出血。這種策略已被證明可以減少輸血需求和稀釋性凝血病的風險。主要問題是確保低血壓不會促進危險的組織灌注不足，因此監測血漿乳酸水平和尿量是必不可少的。
 
 ### Coagulopathy
 
-One of the principal fears in the bleeding patient is persistent blood loss from inadequate source control and/or a coagulopathy. Trauma-induced coagulopathy (TIC) is a condition that is independent of the traditional sources (acidosis, hypothermia, dilution) and has a negative impact on outcomes.
+出血病人最擔心的問題之一是由於源頭控制不足和/或凝血病引起的持續失血。創傷誘發凝血病（TIC）是一種獨立於傳統原因（酸中毒、低體溫、稀釋）的狀況，對結局有負面影響。
 
-The major culprit in TIC is activation of protein C as a result of endothelial injury. The activated protein C not only deactivates factors V and VIII, but also triggers fibrinolysis.
+TIC 中的主要罪魁禍首是由於內皮損傷激活的蛋白質 C。激活的蛋白質 C 不僅使因子 V 和 VIII 失活，還觸發纖溶作用。
 
 ### Hemostatic Resuscitation
 
-The basic elements of hemostatic resuscitation include the infusion of RBCs, plasma, and platelets in proportions that mimic whole blood replacement. This 1:1:1 replacement strategy can be achieved by infusing one unit of FFP for every unit of packed RBCs, and adding one platelet pack for every 5 units of PRBCs and FFP.
+止血復甦的基本要素包括以與全血置換相似的比例輸注 RBC、血漿和血小板。這種 1:1:1 置換策略可以通過每输注一單位 packed RBCs 就输注一單位 FFP，並且每 5 單位 PRBCs 和 FFP 添加一包血小板來實現。
 
-**Adjunctive Measures:**
-- Calcium ionization to maintain ionized calcium of 1.2–1.3 mmol/L
-- Cryoprecipitate (two units) for plasma fibrinogen level <100 mg/dL
-- Empiric treatment for fibrinolysis with tranexamic acid (1 gram IV bolus, then 1 gram over 8 hours)
+**輔助措施：**
+- 鈣離子化以維持離子鈣為 1.2–1.3 mmol/L
+- 對於血漿纖維蛋白原水平 <100 mg/dL，使用冷沉澱物（兩單位）
+- 經驗性治療纖溶，使用 tranexamic acid（1 克 IV bolus，然後 1 克超過 8 小時）
 
-**End-Points:**
-- Plasma fibrinogen level >100 mg/dL
+**終點：**
+- 血漿纖維蛋白原水平 >100 mg/dL
 - INR <1.5
-- Activated PTT <1.5 times normal
-- Platelet count ≥100,000/μL
+- 活化 PTT <正常的 1.5 倍
+- 血小板計數 ≥100,000/μL
 
 ### Thromboelastography
 
-Thromboelastography (TEG) provides information on clot initiation, progression, strength, and lysis from whole blood samples at body temperature.
+血栓彈性圖（TEG）從全身血液樣本在體溫下提供關於血塊起始、進展、強度和溶解的信息。
 
-**Table 15.5** Interventions Based on Thromboelastography
+**Table 15.5** 基於血栓彈性圖的干預措施
 
-| Abnormal Value | Intervention |
+| 異常值 | 干預措施 |
 |---|---|
-| Reaction (R) Time >9 min | Transfuse plasma, or reverse anticoagulants (except warfarin) |
-| Kinetic (k) Time >2.5 min | Transfuse plasma |
-| Alpha (α) Angle <65° | Cryoprecipitate or fibrinogen concentrate |
-| MA (max amplitude) <55 mm | Transfuse platelets |
-| LY30 (lysis in 30 min) >3% | Tranexamic acid |
+| 反應（R）時間 >9 分鐘 | 輸注血漿，或逆轉抗凝劑（除 warfarin 外） |
+| 動力學（k）時間 >2.5 分鐘 | 輸注血漿 |
+| Alpha（α）角度 <65° | 冷沉澱物或纖維蛋白原濃縮物 |
+| MA（最大振幅）<55 mm | 輸注血小板 |
+| LY30（30 分鐘後溶解）>3% | Tranexamic acid |
 
 ## Postresuscitation Injury
 
-An apparent successful resuscitation of hemorrhagic shock can be followed in 48–72 hours by progressive multiorgan failure. The earliest manifestation is progressive respiratory dysfunction, followed within days by progressive dysfunction of the kidneys, liver, heart, and central nervous system. The mortality rate averages 50–60%.
+看似成功的 hemorrhagic shock 復甦後，可能會在 48–72 小時內出現進行性多器官衰竭。最早的表現是進行性呼吸功能障礙，隨後在數天內出現腎臟、肝臟、心臟和中樞神經系統的進行性功能障礙。死亡率平均為 50–60%。
 
 ### Pathophysiology
 
-Postresuscitation injury is a form of reperfusion injury that is believed to originate in the splanchnic circulation, where reperfusion of ischemic bowel releases proinflammatory cytokines that incite a systemic inflammatory response.
+復甦後損傷是一種再灌注損傷形式，被認為起源於內臟循環，在那裡缺血腸道的再灌注釋放促炎細胞因子，引發全身性炎症反應。
 
 ### Management
 
-There is no specific therapy for postresuscitation injury. Preventive measures such as rapid reversal of the shock state, and limiting the infusion of crystalloid fluids and RBC products may be helpful. In late-onset multiorgan failure, recognition and prompt treatment of underlying sepsis is essential.
+復甦後損傷沒有特定治療方法。預防措施（如快速逆轉休克狀態，以及限制晶體液和 RBC 產品的輸注）可能有所幫助。在遲發性多器官衰竭中，識別和及時治療潛在的敗血症是必不可少的。
 
 ## A Final Word
 
 ### A Summation
 
-The resuscitation of hemorrhagic shock should incorporate the following elements:
+Hemorrhagic shock 的復甦應包含以下要素：
 
-1. Use short, large-bore catheters, and avoid hypothermia by warming infusates to 37°C.
+1. 使用短而大口徑的導管，並通過將輸注液加溫至 37°C 來避免低體溫。
 
-2. Restrict the use of crystalloid fluids to 1 or 2 liters before using blood products if possible.
+2. 如果可能的話，限制晶體液的使用在 1 或 2 升，然後再使用血液製品。
 
-3. Replace blood components in a ratio that will mimic whole blood replacement, and consider the adjunctive measures.
+3. 以與全血置換相似的比例替換血液成分，並考慮輔助措施。
 
-4. Consider "permissive hypotension" until the bleeding is controlled. The target BP is a systolic pressure of 80–90 mm Hg or a mean pressure of 50 mm Hg.
+4. 在出血得到控制之前考慮「允許性低血壓」。目標血壓是收縮壓 80–90 mm Hg 或平均壓 50 mm Hg。
 
-5. Consider thromboelastography to guide hemostatic management.
+5. 考慮使用血栓彈性圖來指導止血管理。
 
 ---
 
