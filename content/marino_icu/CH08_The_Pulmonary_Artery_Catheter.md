@@ -21,23 +21,23 @@ title: "The Pulmonary Artery Catheter"
 
 ### Basic Features
 
-The **PA catheter** is 110 cm long and has an outside diameter of 2.3 mm (about 7 French). There are two internal channels:
-- **Distal (PA) lumen:** Emerges at the tip of the catheter
-- **Proximal (RA) lumen:** Emerges 30 cm proximal to the catheter tip (should be in the right atrium)
+**PA catheter** 全長 110 cm，外徑 2.3 mm（約 7 French）。導管內有兩條管腔：
+- **遠端（PA）管腔：** 開口於導管尖端
+- **近端（RA）管腔：** 開口於導管尖端近端 30 cm 處（應位於右心房）
 
-The tip has a small inflatable balloon (1.5 mL capacity) that helps carry the catheter to its final destination. A thermistor near the tip measures **cardiac output** using the **thermodilution** technique.
+導管尖端有一個小型可充氣氣球（容量 1.5 mL），可幫助導管到達最終位置。尖端附近的 thermistor 可用 **thermodilution** 技術測量 **cardiac output**。
 
 ### Catheter Placement
 
-The **PA catheter** is inserted through a large bore (8–9 French) introducer sheath placed in the subclavian vein or internal jugular vein. The distal lumen is attached to a pressure transducer to monitor vascular pressures as the catheter is advanced.
+**PA catheter** 經由置入鎖骨下靜脈或頸內靜脈的大型口徑（8–9 French）導引鞘插入。近端管腔連接壓力換能器，在導管前進過程中監測血管壓力。
 
-**Pressure Waveform Progression:**
-1. **Superior vena cava:** Venous pressure waveform appears (small amplitude oscillations)
-2. **Right ventricle:** Pulsatile waveform appears; peak = systolic pressure, lowest = mean right atrial pressure
-3. **Pulmonary artery:** Sudden rise in diastolic pressure with no change in systolic pressure
-4. **Wedge position:** Nonpulsatile pressure at same level as **pulmonary artery** diastolic pressure
+**壓力波形演進：**
+1. **上腔靜脈：** 出現靜脈壓力波形（小幅振盪）
+2. **右心室：** 出現脈動波形；峰值 = systolic pressure，最低值 = 平均右心房壓力
+3. **肺動脈：** diastolic pressure 突然上升，systolic pressure 不變
+4. **楔入位置：** 出現非脈動壓力，與 **pulmonary artery** diastolic pressure 相同
 
-When the **wedge pressure** tracing appears, the balloon is deflated, and the catheter is secured in place.
+當 **wedge pressure** 波形出現後，將氣球排空並固定導管。
 
 ---
 
@@ -45,36 +45,36 @@ When the **wedge pressure** tracing appears, the balloon is deflated, and the ca
 
 ### Wedge Pressure Tracing
 
-The **wedge pressure** represents venous pressure on the left side of the heart. The components are:
-- **a wave:** Produced by left atrial contraction
-- **c wave:** Produced by closure of the mitral valve
-- **v wave:** Produced by systolic contraction of the left ventricle against a closed mitral valve
+**wedge pressure** 代表心臟左側的靜脈壓力。組成包括：
+- **a 波：** 由左心房收縮產生
+- **c 波：** 由 mitral valve 關閉產生
+- **v 波：** 由左心室對關閉的 mitral valve 收縮產生
 
 ### Wedge Pressure Principle
 
-When the balloon on the **PA catheter** is inflated to obstruct flow (Q = 0), there is a static column of blood between the tip of the catheter and the left atrium:
+當 **PA catheter** 上的氣球充氣阻塞血流（Q = 0）時，導管尖端與左心房之間存在一段靜止的血液柱：
 
 $$P_W = P_C = P_{LA}$$
 
-If the mitral valve is functioning normally, the **wedge pressure** (left atrial pressure) is equivalent to left ventricular end-diastolic pressure.
+若 mitral valve 功能正常，**wedge pressure**（左心房壓力）等於左心室 end-diastolic pressure。
 
 ### Respiratory Variations
 
-Changes in intrathoracic pressure can be transmitted into intrathoracic blood vessels. When respiratory variations occur, the **wedge pressure** should be measured at the end of expiration, when intrathoracic pressure is zero.
+胸內壓的變化可傳導至胸內血管。當呼吸變化出現時，**wedge pressure** 應在呼氣末測量，此時胸內壓為零。
 
-**Positive End-Expiratory Pressure (PEEP):** PEEP can falsely elevate the **wedge pressure** at end-expiration because intrathoracic pressure is higher than atmospheric pressure.
+**Positive End-Expiratory Pressure (PEEP)：** PEEP 可錯誤地升高呼氣末的 **wedge pressure**，因為此時胸內壓高於大氣壓。
 
 ### Spontaneous Variations
 
-The **wedge pressure** can vary spontaneously by 4–7 mm Hg. A change in **wedge pressure** of greater than 4 mm Hg is considered clinically significant.
+**wedge pressure** 可自行變化 4–7 mm Hg。**wedge pressure** 變化大於 4 mm Hg 被視為具有臨床意義。
 
 ### Wedge vs Hydrostatic Pressure
 
-The **wedge pressure** is often mistaken for hydrostatic pressure in pulmonary capillaries. However, when flow resumes, the pulmonary capillary pressure (PC) will be higher than the **wedge pressure**:
+**wedge pressure** 常被誤認為肺微血管的 hydrostatic pressure。然而，當血流恢復時，肺微血管壓力（PC）會高於 **wedge pressure**：
 
 $$P_C - P_W = Q \times R_V$$
 
-The difference is magnified by conditions promoting pulmonary venoconstriction, such as hypoxemia, endotoxemia, vasopressor infusions, and ARDS.
+差值在促進肺靜脈收縮的條件下會放大，如低氧血症、內毒素血症、血管加壓劑輸注及 ARDS。
 
 ---
 
@@ -82,22 +82,22 @@ The difference is magnified by conditions promoting pulmonary venoconstriction, 
 
 ### The Method
 
-The **thermodilution** method employs temperature as an indicator. A bolus (usually 10 mL) of cold saline is injected through the proximal port. The thermistor on the distal end records the change in blood temperature with time. The area under this curve is inversely proportional to flow rate, which equals **cardiac output**.
+**thermodilution** 方法以溫度作為指示劑。經由近端端口注入一劑（通常 10 mL）冰冷鹽水。遠端的 thermistor 記錄血液溫度隨時間的變化。此曲線下面積與流率成反比，即等於 **cardiac output**。
 
 ### Thermodilution Curves
 
-- **Low **cardiac output**:** Gradual rise and fall
-- **High **cardiac output**:** Rapid rise, abbreviated peak, steep downslope
+- **Low **cardiac output**：** 緩慢上升與下降
+- **High **cardiac output**：** 快速上升、峰值縮短、下降支陡峭
 
 ### Sources of Error
 
-- **Operator error:** Low-volume or inappropriately warm injectates
-- **Tricuspid regurgitation:** Prolonged, low amplitude curve; falsely low measurement
-- **Intracardiac shunts:** Falsely elevated measurements
+- **操作者錯誤：** 注射液體積過少或溫度過高
+- **Tricuspid regurgitation：** 曲線延長、振幅低；測量值錯誤偏低
+- **Intracardiac shunts：** 測量值錯誤偏高
 
 ### Continuous Cardiac Output Measurements
 
-Automated continuous **thermodilution** uses a heating filament near the proximal port that creates brief temperature changes. The technique averages temperature-time curves over 3 minutes and updates every 20–30 seconds.
+自動連續 **thermodilution** 使用近端端口附近的加熱絲產生短暫溫度變化。該技術平均 3 分鐘內的溫度—時間曲線，並每 20–30 秒更新一次。
 
 ---
 
@@ -105,15 +105,15 @@ Automated continuous **thermodilution** uses a heating filament near the proxima
 
 ### Body Size
 
-Hemodynamic parameters are often expressed in relation to **body surface area** (**BSA**). The average adult has a **BSA** of 1.7 m².
+Hemodynamic 參數常以 **body surface area**（**BSA**）表示。成人平均 **BSA** 為 1.7 m²。
 
 $$\text{BSA (m}^2\text{)} = \frac{\text{Ht (cm)} + \text{Wt (kg)} - 60}{100}$$
 
-Measurements expressed in relation to **BSA** are called "indices" (e.g., **cardiac index**).
+以 **BSA** 表示的測量值稱為「指標」（例如 **cardiac index**）。
 
 ### Hemodynamic Parameters Available with PA Catheters
 
-| Parameter | Abbreviation | Normal Range |
+| 參數 | 縮寫 | 正常範圍 |
 |:----------|:-------------|:------------|
 | **Central Venous Pressure** | **CVP** | 0–5 mm Hg |
 | Pulmonary Artery Wedge Pressure | **PAWP** | 6–12 mm Hg |
@@ -130,35 +130,35 @@ Measurements expressed in relation to **BSA** are called "indices" (e.g., **card
 
 #### **Central Venous Pressure** (**CVP**)
 
-When properly placed, the proximal port is in the right atrium, and the recorded pressure is the right atrial pressure:
+當導管放置正確時，近端端口位於右心房，所記錄的壓力即為右心房壓力：
 
 $$\text{CVP} = P_{RA} = \text{RVEDP}$$
 
-The **CVP** measures the filling pressure for the right side of the heart.
+**CVP** 測量心臟右側的填充壓力。
 
 #### Wedge Pressure (**PAWP**)
 
 $$P_{AWP} = P_{LA} = \text{LVEDP}$$
 
-The **wedge pressure** measures the filling pressure for the left side of the heart.
+**wedge pressure** 測量心臟左側的填充壓力。
 
 #### Cardiac Index
 
 $$\text{CI} = \frac{\text{CO}}{\text{BSA}}$$
 
-Normal range: 2.4–4.0 L/min/m²
+正常範圍：2.4–4.0 L/min/m²
 
 #### Stroke Index
 
 $$\text{SI} = \frac{\text{CI}}{\text{HR}}$$
 
-Normal range: 20–40 mL/m²
+正常範圍：20–40 mL/m²
 
 #### Systemic Vascular Resistance Index (**SVRI**)
 
 $$\text{SVRI} = \frac{\text{MAP} - \text{CVP}}{\text{CI}}$$
 
-Normal range: 25–30 Wood Units (mm Hg/L/min/m²)
+正常範圍：25–30 Wood Units（mm Hg/L/min/m²）
 
 ### Oxygen Transport Parameters
 
@@ -166,45 +166,45 @@ Normal range: 25–30 Wood Units (mm Hg/L/min/m²)
 
 $$D O_2 = CO \times CaO_2 \times 10$$
 
-Normal range: 520–570 mL/min/m²
+正常範圍：520–570 mL/min/m²
 
 #### Oxygen Uptake (VO₂)
 
 $$V O_2 = CO \times (CaO_2 - CvO_2) \times 10$$
 
-Normal range: 110–160 mL/min/m²
+正常範圍：110–160 mL/min/m²
 
 #### Oxygen Extraction Ratio (O₂ER)
 
 $$O_2ER = \frac{VO_2}{DO_2}$$
 
-Normal range: 0.2–0.3 (20–30%)
+正常範圍：0.2–0.3（20–30%）
 
-Only 25% of O₂ delivered to capillaries is normally taken up into tissues. This increases to 50% or higher to compensate for decreased O₂ delivery.
+正常情況下僅有 25% 輸送至微血管的 O₂ 被組織攝取。當 O₂ 輸送減少時，此比例可升高至 50% 或更高。
 
 ---
 
 ## Clinical Applications
 
-**PA catheter**-derived measurements are useful in:
+**PA catheter** 測量結果可用於：
 
-1. Management of acute, decompensated heart failure
-2. Perioperative management of cardiac surgery patients
-3. Management of circulatory shock (especially cardiogenic shock)
-4. Identifying responsiveness to volume infusion
-5. Determining need for and response to erythrocyte transfusions
-6. Identifying occult cardiac dysfunction in patients weaning from mechanical ventilation
+1. 急性失代償性心衰竭的管理
+2. 心臟手術病人的術後管理
+3. 循環性休克的處理（尤其是 cardiogenic shock）
+4. 評估液體輸注的反應性
+5. 決定紅血球輸注的需求及反應
+6. 辨識脫離呼吸器病人中潛在的心臟功能障礙
 
 ---
 
 ## Key Takeaways
 
-1. The **PA catheter** provides comprehensive hemodynamic and oxygen transport data.
-2. Wedge pressure reflects left atrial pressure and left ventricular filling pressure.
-3. Thermodilution is the gold standard for **cardiac output** measurement at the bedside.
-4. Measurements should be expressed as indices (adjusted for body size).
-5. SvO₂ reflects the balance between O₂ delivery and consumption.
-6. The **PA catheter** is a monitoring tool, not a therapy; outcomes should not be used to evaluate the device itself.
+1. **PA catheter** 提供全面的 hemodynamic 及氧氣運輸數據。
+2. Wedge pressure 反映左心房壓力及左心室填充壓力。
+3. Thermodilution 是床旁 **cardiac output** 測量的黃金標準。
+4. 測量值應以指標表示（依體型調整）。
+5. SvO₂ 反映 O₂ 輸送與消耗之間的平衡。
+6. **PA catheter** 是一種監測工具，而非治療方法；不應以治療結果來評估此裝置本身。
 
 ---
 

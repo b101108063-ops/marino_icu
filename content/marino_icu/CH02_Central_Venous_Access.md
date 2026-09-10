@@ -103,7 +103,7 @@ Central venous access 最受歡迎的部位是頸底部的 **internal jugular ve
 
 **Anterior Approach:** 對於前方入路，操作者首先識別由胸鎖乳突肌兩個頭分開形成的頸底三角形區域。 操作者首先在這個三角形中找到 **carotid artery** 脈搏；一旦透過觸摸找到动脉，將其輕輕向中線拉回，遠離 **IJV**。 然後在三角形頂點插入穿刺針（斜面朝上），以與皮膚成 45° 角向同側乳頭方向推進。 如果靜脈在 5 cm 深度仍未進入，應將針拉回並以更側向的方向重新推進。
 
-**Posterior Approach:** 對於後方入路，穿刺針的插入點在胸鎖乳突肌外側緣與頸外靜脈交叉點上方 1 cm 處。 穿刺針在此插入（斜面朝向 3 點鐘方向），然後沿肌肉下方朝向胸骨上切跡方向推進。 **internal jugular vein** 應在距插入點 5 至 6 cm 處遇到。
+**Posterior Approach:** 對於後方入路，穿刺針的插入點在胸鎖乳突肌外側緣與頸外靜脈交叉點上方 1 cm 處。 穿刺針在此插入（斜面朝向 3 點鐘方向），然後沿肌肉下方朝向胸骨上切迹方向推進。 **internal jugular vein** 應在距插入點 5 至 6 cm 處遇到。
 
 ### Complications
 
@@ -129,158 +129,158 @@ Central venous access 最受歡迎的部位是頸底部的 **internal jugular ve
 
 ## Subclavian Vein
 
-The **subclavian vein** was once the favored site for central venous access, but the emergence of **ultrasound guidance** has eroded its popularity because of interference from the overlying clavicle.
+**subclavian vein**（鎖骨下靜脈）曾經是 central venous access 的首選部位，但 **ultrasound guidance**（超聲引導）的出現削弱了它的受歡迎程度，因為覆蓋其上的鎖骨會造成干擾。
 
 ### Anatomy
 
-The **subclavian vein** is a continuation of the axillary vein as it passes over the first rib. It runs most of its course along the underside of the clavicle (sandwiched between the clavicle and the first rib), and at some points is only 5 mm above the apical pleura of the lungs. The underside of the vein sits on the anterior scalene muscle along with the phrenic nerve, which comes in contact with the vein along its posteroinferior side. Situated just deep to the vein, on the underside of the anterior scalene muscle, is the subclavian artery and brachial plexus. At the thoracic inlet, the **subclavian vein** meets the **internal jugular vein** to form the innominate vein.
+**subclavian vein** 是腋靜脈越過第一肋骨後的延續。 它沿著鎖骨下方（夾在鎖骨和第一肋骨之間）走行大部分路程，在某些點距離肺尖胸膜僅 5 mm。 靜脈的下方沿著前斜角肌走行，膈神經也與靜脈伴行，沿著靜脈的後下方與靜脈接觸。 位於靜脈深層、前斜角肌下方的，是鎖骨下動脈和臂神經叢。 在胸廓入口，**subclavian vein** 與 **internal jugular vein** 會合形成無名靜脈。
 
-The **subclavian vein** is 3–4 cm in length, and the diameter is 7–12 mm in the supine position. The diameter of the vein does not vary with respiration (unlike the **IJV**), which is attributed to strong fascial attachments that fix the vein to surrounding structures and hold it open.
+**subclavian vein** 長 3–4 cm，臥位時直徑為 7–12 mm。 靜脈直徑不隨呼吸變化（與 **IJV** 不同），這是因為堅強的筋膜附著將靜脈固定在周圍結構上並使其保持開放。
 
 ### Cannulation Techniques
 
 #### Positioning
 
-The head-down body tilt (**Trendelenburg** position) to 15° increases the diameter of the **subclavian vein** by about 10%, with no further effect from greater degrees of tilt. Despite this minimal effect, the increase in venous pressure in the **Trendelenburg** position (which reduces risk of **air embolism**) has justified the recommendation for the head-down body tilt during **subclavian vein** cannulation. Other popular maneuvers (such as turning the head or placing a rolled towel under the shoulder) are not advised because they decrease the cross-sectional area of the vein.
+頭低腳高的身體傾斜（**Trendelenburg** 位置）至 15° 可使 **subclavian vein** 直徑增加約 10%，更大的傾斜角度則沒有進一步效果。 儘管效果微乎其微，**Trendelenburg** 位置中靜脈壓的增加（可減少 **air embolism** 空氣栓塞的風險）已證明在 **subclavian vein** 插管期間推薦頭低腳高身體傾斜是合理的。 其他常用手法（如轉頭或在肩下放置捲起的毛巾）不被建議，因為它們會減少靜脈的橫截面積。
 
 #### Ultrasound Guidance
 
-The use of real time ultrasound improves the success rate of **subclavian vein** cannulation (from 82% to 97%) and decreases the complication rate (from 30% to 11%). However, ultrasound imaging is a challenge for the **subclavian vein** because of interference from the overlying clavicle. The vein can be visualized from above or below the clavicle, but the infraclavicular approach is the popular choice.
+即時超聲的使用可提高 **subclavian vein** 插管的成功率（從 82% 提高到 97%），並降低併發癥發生率（從 30% 降至 11%）。 然而，超聲成像對 **subclavian vein** 是一項挑戰，因為覆蓋其上的鎖骨會造成干擾。 靜脈可以從鎖骨上方或下方顯像，但鎖骨下入路是常用的選擇。
 
-**Infraclavicular Approach:** This approach begins by identifying the clavicular head of the sternocleidomastoid muscle and its insertion on the clavicle; this marks the portion of the clavicle that overlies the **subclavian vein**. Orient the ultrasound probe so it transects the clavicle (with the orientation marker pointing cephalad) and place the probe just below the lower edge of the clavicle in this region. This should produce a short-axis view that includes the **subclavian vein** and artery, as well as the apical pleura. Note the proximity of the **subclavian vein** to the apical pleura, highlighting the risk of **pneumothorax** during the cannulation procedure.
+**Infraclavicular Approach（鎖骨下入路）:** 此入路首先識別胸鎖乳突肌鎖骨頭及其在鎖骨上的附著點；這標誌著覆蓋 **subclavian vein** 的鎖骨部分。 將超聲探頭定位使其橫切鎖骨（定向標記指向頭側），並將探頭放置在該區域鎖骨下緣下方。 這應產生一個短軸視圖，包含 **subclavian vein** 和動脈以及尖部胸膜。 注意 **subclavian vein** 與尖部胸膜的接近程度，突顯了插管過程中 **pneumothorax** 氣胸的風險。
 
-Identifying the **subclavian vein** by compression may not be possible because of the overlying clavicle, and color Doppler imaging may be necessary.
+由於覆蓋的鎖骨，通過加壓可能無法識別 **subclavian vein**，可能需要彩色都卜勒成像。
 
 #### Landmark Method
 
-**Infraclavicular Approach:** At the lateral edge of the marked area, insert the probe needle (with the bevel at 12 o'clock) just below the clavicle and advance the needle along the underside of the clavicle in the direction of the suprasternal notch. The needle should enter the **subclavian vein** within a few centimeters. When the vein is punctured, turn the bevel to 3 o'clock to help direct the guidewire into the **superior vena cava**. It is important to keep the needle on the underside of the clavicle to avoid puncturing the subclavian artery (which lies deep to the **subclavian vein**) and the apical pleura.
+**Infraclavicular Approach（鎖骨下入路）:** 在標記區域的外側邊緣，將穿刺針（斜面朝向 12 點鐘方向）插入鎖骨下方，沿著鎖骨下方朝向胸骨上切迹方向推進。 針頭應在幾厘米內進入 **subclavian vein**。 當穿刺到靜脈時，將斜面轉向 3 點鐘方向，以幫助引導導絲進入 **superior vena cava**。 重要的是保持針頭在鎖骨下方，以避免穿刺鎖骨下动脉（位於 **subclavian vein** 的深層）和尖部胸膜。
 
-In obese patients, the **subclavian vein** can be more deeply situated, and a deeper trajectory for the probe needle may be needed. This creates the risk for puncture of the subclavian artery or apical pleura. In morbidly obese patients, the depth of the **subclavian vein** can exceed the reach of the probe needle. For these reasons, the landmark approach to **subclavian vein** cannulation should be avoided in morbidly obese patients.
+在肥胖患者中，**subclavian vein** 可能位於更深處，可能需要穿刺針更深的軌跡。 這會增加鎖骨下动脉或尖部胸膜穿刺的風險。 在病態肥胖患者中，**subclavian vein** 的深度可能超過穿刺針的觸及範圍。 由於這些原因，在病態肥胖患者中應避免使用體表標誌法進行 **subclavian vein** 插管。
 
 ### Complications
 
-The acute complications of **subclavian vein** cannulation include:
+**subclavian vein** 插管的急性併發癥包括：
 
-- Puncture of the subclavian artery: 1% to 6%
-- Pneumothorax: 1% to 4%
-- Brachial plexus injury: 0% to 3%
-- Phrenic nerve injury: 0% to 2%
-- Catheter malposition: 8% to 9%
+- 鎖骨下动脉穿刺：1% 至 6%
+- 氣胸（**Pneumothorax**）：1% 至 4%
+- 臂神經叢損傷：0% 至 3%
+- 膈神經損傷：0% 至 2%
+- 導管錯位：8% 至 9%
 
-Complications associated with indwelling catheters include septicemia, thrombosis, and **subclavian vein** stenosis. The latter complication appears days or months after catheter removal and has a reported incidence of 15–50%. The risk of stenosis is the principal reason to avoid cannulation of the **subclavian vein** in patients who might require long-term hemodialysis access in the ipsilateral arm.
+留置導管相關的併發癥包括敗血癥、血栓形成和 **subclavian vein** 狹窄。 後者併發癥出現在導管移除後數天或數月，報告發生率為 15–50%。 狹窄的風險是在同側手臂可能需要長期血液透析通路患者中避免 **subclavian vein** 插管的主要原因。
 
 ---
 
 ## Femoral Vein
 
-The **femoral vein** is considered the least desirable site for central venous access, although the unfavorable reputation is mostly undeserved.
+**femoral vein**（股靜脈）被認為是 central venous access 最不可取的部位，儘管這不好的名聲大多是不應得的。
 
 ### Anatomy
 
-The **femoral vein** is a continuation of the long saphenous vein in the groin and is the main conduit for venous drainage of the legs. It is located in the femoral triangle along with the femoral artery and nerve. The superior border of the femoral triangle is formed by the inguinal ligament, which runs from the anterior superior iliac spine to the pubic symphysis, just beneath the inguinal crease on the skin. At the level of the inguinal ligament (crease), the **femoral vein** lies just medial to the femoral artery and is only a few centimeters from the skin. The vein is easier to locate and cannulate when the leg is placed in abduction.
+**femoral vein** 是腹股溝處大隱靜脈的延續，是腿部靜脈回流的主要通道。 它與股动脉和神經一起位於股三角中。 股三角的上界是腹股溝韌帶，該韌帶從髂前上棘延伸到恥骨聯合，正好位於皮膚腹股溝皺褶下方。 在腹股溝韌帶（皺褶）水平，**femoral vein** 正好位於股动脉的內側，距離皮膚僅幾厘米。 當腿部處於外展位置時，靜脈更容易定位和插管。
 
 ### Cannulation Techniques
 
-Real-time ultrasound is recommended for **femoral vein** cannulation, although there is little evidence of benefit with ultrasound at this site.
+建議對 **femoral vein** 插管使用即時超聲，但超聲在此部位獲益的證據很少。
 
 #### Positioning
 
-Elevation of the upper body to 15° above horizontal (the "reverse" **Trendelenburg** position) can increase the cross-sectional area of the **femoral vein** by about 50%, so mild upper body elevation should be advantageous, especially for the landmark approach. Placing the leg in abduction is also recommended to facilitate the cannulation procedure.
+將上半身抬高至水平面上方 15°（「反向」**Trendelenburg** 位置）可使 **femoral vein** 橫截面積增加約 50%，因此輕度上半身抬高應是有利的，特別是對於體表標誌法。 也建議將腿部外展以方便插管操作。
 
 #### Ultrasound Guidance
 
-Ultrasound visualization of the femoral artery and vein is possible by placing the ultrasound probe over the femoral artery pulse, which is typically located just below and medial to the midpoint of the inguinal crease. Note that the vein lies a little deeper than the artery.
+可通過將超聲探頭放置在股动脉搏動上來實現股动脉和靜脈的超聲顯像，股动脉通常位於腹股溝皺褶中點下方和內側。 注意靜脈比动脉位置略深。
 
 #### Landmark Method
 
-To cannulate the **femoral vein** without ultrasound imaging, begin by locating the femoral artery pulse just below the inguinal crease. Then insert the probe needle (with the bevel at 12 o'clock) 1–2 cm medial to the pulse, and the vein should be entered at a depth of 2 to 4 cm from the skin. If the femoral artery pulse is not palpable, draw an imaginary line from the anterior superior iliac crest to the pubic tubercle and divide the line into three equal segments. The femoral artery should be just underneath the junction between the middle and medial segments, and the **femoral vein** should be 1–2 cm medial to this point. This approach has a reported success rate of greater than 90%.
+要在沒有超聲成像的情況下對 **femoral vein** 進行插管，首先在腹股溝皺褶下方找到股动脉搏動。 然後在搏動內側 1–2 cm 處插入穿刺針（斜面朝向 12 點鐘方向），靜脈應在距皮膚 2 至 4 cm 深度處進入。 如果股动脉搏動無法觸及，沿髂前上棘到恥骨結節畫一條想像線，將線分成三等分。 股动脉應位於中段和內側段交界處正下方，**femoral vein** 應在此點內側 1–2 cm 處。 該方法的報告成功率超過 90%。
 
 ### Complications
 
-The principal concerns at the femoral site are thrombosis and septicemia. However, study results are not as foreboding as advertised. In a multicenter study that included 2,532 **central venous catheter**s, the risk of catheter-related septicemia at the femoral site was actually lower than the risk at the **internal jugular vein** site. The femoral site did have the highest risk of symptomatic deep vein thrombosis (DVT), but the overall risk was minor (1.5%). These results demonstrate the safety of the **femoral vein** site for central venous access.
+股部位的主要關注是血栓形成和敗血癥。 然而，研究結果並不像宣傳的那樣可怕。 在一項包含 2,532 個 **central venous catheter** 的多中心研究中，股部位的導管相關敗血癥風險實際上低於 **internal jugular vein** 部位的風險。 股部位確實有癥狀性深靜脈血栓（DVT）的最高風險，但整體風險很小（1.5%）。 這些結果表明 **femoral vein** 部位用於 central venous access 的安全性。
 
 ---
 
 ## Immediate Concerns
 
-### Venous Air Embolism
+### Venous Air Embolism（靜脈空氣栓塞）
 
-Air entry into the venous circulation is an uncommon but potentially lethal complication of central venous cannulation.
+空氣進入靜脈循環是 central venous cannulation 的一種罕見但可能致命的併發癥。
 
-#### Pathophysiology
+#### Pathophysiology（病理生理學）
 
-Pressure gradients that favor the movement of air into the venous circulation are created by the negative intrathoracic pressure generated during spontaneous breathing. A pressure gradient of only 5 mm Hg across a 14 gauge catheter (internal diameter = 1.8 mm) can entrain air at a rate of 100 mL per second, and this is enough to produce a fatal venous **air embolism**.
+自發呼吸產生的胸腔內負壓創造了有利於空氣進入靜脈循環的壓力梯度。 僅 5 mm Hg 的壓力梯度穿過 14 gauge 導管（內徑 = 1.8 mm）就能以每秒 100 mL 的速度吸入空氣，而這足以產生致命的靜脈 **空氣栓塞（air embolism）**。
 
-The impact of air entry into the venous circulation is determined by the volume of air and the rate of entry. The outcome can be fatal when air entry reaches 200–300 mL (3–5 mL/kg) over a few seconds. Entrained air can produce an air lock in the right ventricle, leading to acute right heart failure and cardiogenic shock, while air reaching the pulmonary circulation can produce leaky-capillary pulmonary edema. Finally, air can pass through a patent foramen ovale and produce an acute embolic stroke.
+空氣進入靜脈循環的影響取決於空氣量和進入速度。 當空氣進入量在幾秒鐘內達到 200–300 mL（3–5 mL/kg）時可能是致命的。 摻入的空氣可在右心室產生空氣鎖，導致急性右心衰竭和心源性休克，而到達肺循環的空氣可產生毛細血管漏出性肺水腫。 最後，空氣可通過未閉合的卵圓孔並產生急性栓塞性中風。
 
-#### Prevention
+#### Prevention（預防）
 
-The standard preventive measure for **air embolism** is the head-down body tilt (the **Trendelenburg** position) to increase venous pressure during cannulation of the internal jugular and **subclavian vein**s. Elevation of the upper body (the reverse **Trendelenburg** position) is not necessary as a preventive measure during **femoral vein** cannulation because **femoral vein** catheters do not enter the thorax and thus are not exposed to negative pressures.
+**空氣栓塞（air embolism）** 的標準預防措施是頭低腳高的身體傾斜（**Trendelenburg** 位置），以在 **internal jugular vein** 和 **subclavian vein** 插管時增加靜脈壓。 在 **femoral vein** 插管期間不需要將上半身抬高（反向 **Trendelenburg** 位置）作為預防措施，因為 **femoral vein** 導管不進入胸腔，因此不會暴露於負壓。
 
-#### Clinical Presentation
+#### Clinical Presentation（臨床表現）
 
-Venous air entry can be clinically silent. In symptomatic cases, the earliest manifestation is sudden onset of dyspnea, which may be accompanied by a distressing cough. This can progress rapidly to acute respiratory failure and circulatory shock. In the most advanced cases, the mixing of air and blood in the right ventricle can produce a splashing auscultatory sound called a "mill wheel" murmur.
+靜脈進氣可能在臨床上無癥狀。 在有癥狀的病例中，最早的表現是突然發生的呼吸困難，可能伴有令人痛苦的咳嗽。 這可迅速進展為急性呼吸衰竭和循環休克。 在最嚴重的病例中，空氣和血液在右心室混合可產生稱為「磨坊輪」雜音（"mill wheel" murmur）的撞擊性聽診聲音。
 
-Venous **air embolism** is usually a clinical diagnosis. Transesophageal echocardiography is considered the most sensitive method of detecting air in the right heart (capable of detecting as little as 0.02 mL/kg), but this procedure is often not readily available. Precordial Doppler ultrasound can be useful, but the Doppler signal can lack specificity.
+靜脈 **空氣栓塞（air embolism）** 通常是臨床診斷。 經食道超聲心動圖被認為是檢測右心空氣最敏感的方法（能夠檢測到少至 0.02 mL/kg），但此操作通常不容易獲得。 心前區都卜勒超聲可能有幫助，但都卜勒信號可能缺乏特異性。
 
-#### Management
+#### Management（處理）
 
-The following measures are recommended for the management of venous **air embolism**:
+以下措施被推薦用於靜脈 **空氣栓塞（air embolism）** 的處理：
 
-1. If air entrainment is suspected through an indwelling catheter, attach a syringe to the catheter and attempt to aspirate air from the bloodstream.
-2. Place the patient on 100% oxygen (to promote the movement of nitrogen out of the air bubbles in the bloodstream and thereby decrease the volume of entrained air).
-3. Place the patient in the left lateral decubitus position (to move an air pocket that is blocking the outflow of the right ventricle).
-4. For patients with cardiovascular collapse, consider extracorporeal support.
+1. 如果通過留置導管懷疑有空氣摻入，連接注射器到導管並嘗試從血液中吸出空氣。
+2. 將病人置於 100% 氧氣（以促進血液中空氣氣泡的氮氣移出，從而減少摻入空氣的量）。
+3. 將病人置於左側臥位（以移動阻塞右心室出口的空氣囊）。
+4. 對於心血管衰竭的病人，考慮體外支持。
 
-### Pneumothorax
+### Pneumothorax（氣胸）
 
-Pneumothorax is a feared but infrequent complication of central venous access, and most cases are associated with **subclavian vein** cannulation (where the incidence is 1% using ultrasound and 4% otherwise).
+氣胸是 central venous access 的一種令人擔憂但罕見的併發癥，大多數病例與 **subclavian vein** 插管相關（使用超聲時發生率為 1%，否則為 4%）。
 
-#### Portable Chest Radiography
+#### Portable Chest Radiography（床邊胸部 X 光）
 
-The portable chest x-ray has been the standard method for detecting **pneumothorax** after central venous cannulation, but clinical studies have shown that portable chest x-rays fail to detect as many as 50% of pneumothoraces in critically ill patients. This lack of sensitivity is attributed to the supine position, because pleural air does not collect at the apex of the lungs in the supine position but instead collects in the anterior region of the pleural cavity.
+床邊胸部 X 光一直是 central venous cannulation 後檢測 **氣胸（pneumothorax）** 的標準方法，但臨床研究顯示床邊胸部 X 光在重癥病人中漏檢多達 50% 的氣胸。 這種敏感性缺乏歸因於仰臥位，因為胸膜空氣在仰臥位不會積聚在肺尖，而是積聚在胸膜腔的前部。
 
-#### Ultrasound
+#### Ultrasound（超聲）
 
-The pleura can be visualized on ultrasound imaging using a high-frequency, linear array probe that is placed across the intercostal spaces. The normal movement of the pleural surfaces creates a shimmering effect on the pleural image that is known as "lung sliding." The absence of lung sliding suggests the presence of a **pneumothorax**. Other conditions (e.g., blebs, pleurodesis) can be accompanied by the absence of lung sliding, so this sign is not pathognomonic of **pneumothorax**.
+可使用高頻線性陣列探頭跨肋間隙放置，在超聲成像上顯示胸膜。 胸膜表面的正常運動在胸膜圖像上產生稱為「肺滑動」的閃爍效果。 肺滑動的缺失提示存在 **氣胸（pneumothorax）**。 其他情況（如肺大皰、胸膜固定術）也可伴有肺滑動缺失，因此該體徵不是 **氣胸（pneumothorax）** 的特異性病徵。
 
-Several clinical studies have shown that ultrasound has a higher sensitivity than portable chest x-rays for the detection of pneumothoraces, including those associated with central venous cannulation. As a result, ultrasound has been recommended as a replacement for chest radiography after central venous cannulation.
+多項臨床研究顯示，超聲對包括 central venous cannulation 相關氣胸在內的氣胸檢測比床邊胸部 X 光具有更高的敏感性。 因此，超聲已被推薦作為 central venous cannulation 後胸部 X 光檢查的替代方法。
 
-### Catheter Position
+### Catheter Position（導管位置）
 
-#### Chest Radiography
+#### Chest Radiography（胸部 X 光）
 
-The standard practice is to evaluate catheter placement with a portable chest x-ray. The catheter should follow a straight course down the mediastinum, and the tip of the catheter should be just above the **carina** (i.e., the tracheal bifurcation). The **carina** is located just above the junction between the **superior vena cava** and the **right atrium**, so a catheter tip that is at the level of the **carina**, or slightly above it, is in the appropriate position. The **carina** is thus a useful landmark for evaluating catheter position.
+標準做法是通過床邊胸部 X 光評估導管位置。 導管應沿縱隔直線下行，導管尖端應正好位於 **carina**（氣管分叉處）上方。 **carina** 正好位於 **superior vena cava** 和 **right atrium** 交界處上方，因此位於 **carina** 水平或其略上方的導管尖端處於適當位置。 因此，**carina** 是評估導管位置的有用標誌。
 
-Catheters inserted via the internal jugular and **subclavian vein**s should be in the **superior vena cava**, with the tip 1–2 cm above the **right atrium**. Misplacement of catheters is reported in 15–18% of cannulations, mostly those involving the **subclavian vein**.
+經 **internal jugular vein** 和 **subclavian vein** 插入的導管應位於 **superior vena cava**，尖端在 **right atrium** 上方 1–2 cm。 導管錯位報告發生於 15–18% 的插管中，主要涉及 **subclavian vein**。
 
-#### Ultrasound
+#### Ultrasound（超聲）
 
-Ultrasound has been recommended as a replacement for chest radiography to evaluate catheter placement. There are two aspects of the ultrasound examination:
+超聲已被推薦作為評估導管位置的床邊胸部 X 光的替代方法。 超聲檢查有兩個方面：
 
-1. **Subclavian vein catheters:** Imaging the **internal jugular vein** on both sides to identify cephalad misplacement of the catheter (which must be corrected). This can be done during the catheterization procedure to save time in repositioning the catheter.
+1. **Subclavian vein catheters（鎖骨下靜脈導管）:** 對兩側 **internal jugular vein** 成像以識別導管的頭側錯位（必須糾正）。 這可在導管操作過程中進行，以節省重新定位導管的時間。
 
-2. **Phased array transducer examination:** Uses a phased array transducer in the subcostal window to visualize the catheter in the **right atrium**. If the catheter is not in the **right atrium**, then a "bubble study" is performed. This involves the rapid injection of 10 mL of saline through the distal port of the catheter and observing for the appearance of microbubbles in the **right atrium**. A positive test confirms that the catheter is in the venous system, while the appearance of the bubbles within 2 seconds of injection is evidence that the catheter tip is in the **superior vena cava**.
+2. **Phased array transducer examination（相控陣傳感器檢查）:** 在肋下窗口使用相控陣傳感器可視化導管在 **right atrium** 中的位置。 如果導管不在 **right atrium** 中，則進行「泡泡研究」。 這包括通過導管遠端快速注射 10 mL 生理鹽水並觀察 **right atrium** 中是否出現微氣泡。 陽性測試確認導管在靜脈系統中，而注射後 2 秒內出現氣泡是導管尖端在 **superior vena cava** 中的證據。
 
-### Catheter Tip in Right Atrium
+### Catheter Tip in Right Atrium（導管尖端位於右心房）
 
-Catheters that have been advanced into the **right atrium** have traditionally been repositioned because of the perceived risk of right atrial perforation and **cardiac tamponade**. However, this practice is being questioned because of the rarity of this complication. In one study that included 2,348 patients with a catheter tip that remained in the **right atrium**, there were no cases of cardiac perforation or troublesome cardiac arrythmias. As a result of studies like this, the practice of repositioning catheters that enter the **right atrium** is being abandoned.
+傳統上，重新定位已進入 **right atrium** 的導管，因為人們認為有右心房穿孔和 **cardiac tamponade** 心包填塞的風險。 然而，由於此併發癥的罕見性，這一做法正在受到質疑。 在一項包含 2,348 名導管尖端留在 **right atrium** 中的病人的研究中，沒有心臟穿孔或麻煩的心律失常病例。 由於此類研究，將進入 **right atrium** 的導管重新定位的做法正在被放棄。
 
 ---
 
 ## Key Takeaways
 
-The following points related to central venous access deserve emphasis:
+以下與 central venous access 相關的要点值得强调：
 
-1. **The indications for central venous access are shrinking**, thanks to the emergence of safer alternatives like **midline catheters** and **PICCs**.
+1. **由於更安全的替代方案（如 **midline catheters** 和 **PICCs**）的出現，central venous access 的適應症正在縮小。**
 
-2. **The use of real-time ultrasound improves the success rate and reduces the complication rate** at all sites of central venous access.
+2. **即時超聲的使用提高了所有 central venous access 部位的成功率並降低了併發癥發生率。**
 
-3. **The perception that **femoral vein** catheters are particularly risky is not supported by clinical studies.**
+3. **認為 **femoral vein** 導管特別危險的看法沒有得到臨床研究的支持。**
 
-4. **Ultrasound is superior to portable chest radiography for detecting post-insertion pneumothoraces** and is a suitable alternative to chest radiography for evaluating catheter position.
+4. **超聲在檢測插管後氣胸方面優於床邊胸部 X 光，並且是評估導管位置的合適替代方法。**
 
-5. **Catheters that have been advanced into the **right atrium** pose no great danger of cardiac perforation** and can be left in place.
+5. **進入 **right atrium** 的導管不會造成心臟穿孔的重大危險，可以留在原位。**
 
 ---
 
