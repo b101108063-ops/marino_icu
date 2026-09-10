@@ -11,13 +11,13 @@ title: "Metabolic Alkalosis"
 > The first step in the scientific method consists in being curious about the world.
 > — Linus Pauling
 
-Although the spotlight usually falls on metabolic acidosis, the most common acid-base disturbance in hospitalized patients is metabolic alkalosis (1). The prevalence of metabolic alkalosis can be attributed to three factors:
+雖然鎂光燈通常落在 metabolic acidosis（代謝性酸中毒）上，但住院病人最常見的酸鹼失衡其實是 metabolic alkalosis（代謝性鹼中毒）（1）。Metabolic alkalosis 的高盛行率可歸因於三個因素：
 
-- **(a)** Common predisposing conditions
-- **(b)** The ability of alkalosis to sustain itself
-- **(c)** The tendency for the condition to go unnoticed and untreated
+- **(a)** 常見的易感條件
+- **(b)** 鹼中毒具有自我維持的能力
+- **(c)** 此病症容易被忽略且未獲治療
 
-This chapter begins with an attempt to simplify the rather complex electrolyte involvement in metabolic alkalosis, and then describes an organized approach to the evaluation and management of metabolic alkalosis.
+本章首先嘗試簡化 metabolic alkalosis 中相當複雜的電解質參與機制，接著說明一套有系統的 metabolic alkalosis 評估與治療方法。
 
 ## 導讀摘要
 
@@ -37,114 +37,114 @@ This chapter begins with an attempt to simplify the rather complex electrolyte i
 
 ---
 
-## Pathogenesis
+## Pathogenesis（致病機制）
 
-Metabolic alkalosis is defined as an increase in the bicarbonate (HCO₃⁻) concentration in venous blood to > 30 mEq/L (2). The generation and maintenance of this condition involves several factors:
+Metabolic alkalosis 的定義是靜脈血漿中 bicarbonate（HCO₃⁻）濃度上升至 > 30 mEq/L（2）。此病症的生成與維持涉及多種因素：
 
-- State of the extracellular volume
-- Activity of aldosterone
-- Function of the kidneys
-- Plasma chloride and potassium concentrations
+- 細胞外液體積狀態
+- Aldosterone（醛固酮）活性
+- 腎臟功能
+- 血漿 chloride（氯離子）與 potassium（鉀離子）濃度
 
-### Bicarbonate Homeostasis
+### Bicarbonate（碳酸氫根）恆定
 
-Under normal steady-state conditions, the concentration of bicarbonate in extracellular fluid is kept constant by the actions of the kidneys.
+在正常穩態下，細胞外液中的 bicarbonate 濃度透過腎臟的作用維持恆定。
 
-#### Bicarbonate Reabsorption
+#### Bicarbonate（碳酸氫根）再吸收
 
-About 4,000–4,500 mEq of bicarbonate (HCO₃⁻) is filtered daily in the kidneys (2), and all of it is reclaimed by the renal tubules. Most (85–90%) of the filtered HCO₃⁻ is reabsorbed in the proximal tubules, which is also the major site for sodium reabsorption. The remaining 10–15% of the filtered HCO₃⁻ is reabsorbed by specialized cells in the collecting ducts (see the middle cell in Figure 33.1). These cells also secrete H⁺ into the tubular lumen, which is then excreted as ammonium.
+腎臟每日約過濾 4,000–4,500 mEq 的 bicarbonate（HCO₃⁻）（2），並全部由腎小管回收。其中大部分（85–90%）的過濾 HCO₃⁻ 在近端腎小管被再吸收，這也是鈉離子再吸收的主要位置。剩餘 10–15% 的過濾 HCO₃⁻ 由集合管中的特化細胞所再吸收（見圖 33.1 中的中央細胞）。這些細胞也會將 H⁺ 分泌至腎小管腔內，隨後以銨的形式排出。
 
-#### Bicarbonate Secretion
+#### Bicarbonate（碳酸氫根）分泌
 
-There are other specialized cells in the collecting ducts involved in HCO₃⁻ secretion via a chloride-bicarbonate exchange protein (called pendrin) on the luminal surface of the cells (see the lower cell in Figure 33.1). This process is only minimally active under normal conditions, but the pendrin gene is up-regulated in metabolic alkalosis to help clear the excess HCO₃⁻ (4).
+集合管中還有其他特化細胞，負責透過位於細胞管腔面的 chloride-bicarbonate 交換蛋白（稱為 **pendrin**）分泌 HCO₃⁻（見圖 33.1 中的下方細胞）。此過程在正常情況下活性極低，但當發生 metabolic alkalosis 時，pendrin 基因會被上調，以幫助清除過剩的 HCO₃⁻（4）。
 
-> **Figure 33.1** — Specialized cells in the collecting ducts of the kidneys involved in acid-base balance. See text for explanation.
+> **Figure 33.1** — 腎臟集合管中參與酸鹼平衡的特化細胞。說明見正文。
 
-### Conditions That Promote Metabolic Alkalosis
+### 促進 Metabolic Alkalosis 的條件
 
-#### Loss of Gastric Acid
+#### 胃酸流失
 
-Gastric secretions are rich in:
+胃分泌物的特徵包括：
 
-- Hydrogen ions: **50–100 mEq/L**
-- Chloride: **120–160 mEq/L**
-- Potassium: 10–15 mEq/L (to a lesser degree) (5)
+- Hydrogen ions（H⁺，氫離子）：**50–100 mEq/L**
+- Chloride（Cl⁻，氯離子）：**120–160 mEq/L**
+- Potassium（K⁺，鉀離子）：10–15 mEq/L（程度較輕）（5）
 
-Loss of H⁺ in gastric secretions generates an equimolar addition of HCO₃⁻ to the extracellular fluid, which creates a metabolic alkalosis. Loss of chloride and potassium will help to sustain the alkalosis by mechanisms described next.
+胃分泌物中 H⁺ 的流失會在細胞外液中產生等莫耳的 HCO₃⁻ 增加，從而造成 metabolic alkalosis。Chloride 與 potassium 的流失則會透過下文所述的機制協助維持鹼中毒。
 
-#### Hypovolemia
+#### 低血容量（Hypovolemia）
 
-Many causes of metabolic alkalosis are associated with a decrease in extracellular (plasma) volume. This condition promotes metabolic alkalosis in two ways:
+許多造成 metabolic alkalosis 的原因都與細胞外（血漿）體積減少有關。此情況透過以下兩種方式促進 metabolic alkalosis：
 
-1. **Decrease in glomerular filtration rate** — results in a decrease in filtered HCO₃⁻.
-2. **Decrease in renal perfusion** — stimulates the renin-angiotensin-aldosterone system, and aldosterone promotes metabolic alkalosis.
+1. **腎絲球過濾率下降** — 導致過濾的 HCO₃⁻ 減少。
+2. **腎臟灌注減少** — 刺激 renin-angiotensin-aldosterone system（腎素-血管張力素-醛固酮系統），而 aldosterone 會促進 metabolic alkalosis。
 
-> **Note:** The metabolic alkalosis associated with hypovolemia is often called "contraction alkalosis," but this is a misnomer because it implies that the problem is a decrease in free water rather than an excess of HCO₃⁻.
+> **Note：** 與低血容量相關的 metabolic alkalosis 常被稱為「收縮性鹼中毒」（contraction alkalosis），但這是個用詞不當的名稱，因為它暗示問題是自由水減少而非 HCO₃⁻ 過剩。
 
-#### Aldosterone
+#### Aldosterone（醛固酮）
 
-Aldosterone is a mineralocorticoid produced in the adrenal cortex that stimulates a sodium-potassium exchange pump in the renal collecting ducts (see the uppermost cell in Figure 33.1) to promote Na⁺ reabsorption and K⁺ secretion. This can lead to K⁺ depletion, which promotes metabolic alkalosis. Aldosterone also stimulates the membrane ATPase pump responsible for H⁺ secretion into the renal tubules (see the middle cell in Figure 33.1) (6).
+Aldosterone 是腎上腺皮質產生的 mineralocorticoid（礦物皮質素），可刺激腎臟集合管中的鈉-鉀交換泵（見圖 33.1 中最上方的細胞），促進 Na⁺ 再吸收與 K⁺ 分泌。這可能導致 K⁺ 耗竭，進而促進 metabolic alkalosis。Aldosterone 也會刺激負責將 H⁺ 分泌至腎小管的細胞膜 ATPase 泵（見圖 33.1 中的中央細胞）（6）。
 
-#### Chloride Depletion
+#### Chloride（氯離子）耗竭
 
-Chloride depletion plays a major role in promoting metabolic alkalosis by:
+Chloride depletion 在促進 metabolic alkalosis 中扮演核心角色，透過以下機制：
 
-1. **Increasing HCO₃⁻ reabsorption** in the renal collecting ducts
-2. **Inhibiting HCO₃⁻ secretion** in the renal collecting ducts
+1. **增加腎臟集合管中 HCO₃⁻ 的再吸收**
+2. **抑制腎臟集合管中 HCO₃⁻ 的分泌**
 
-Both effects are mediated by a decrease in luminal chloride concentration. The inhibition of HCO₃⁻ secretion is due to inhibition of the anion exchange protein, pendrin, which is the principal mechanism for the ability of chloride depletion to promote metabolic alkalosis (7).
+這兩種效應都由管腔內 chloride 濃度下降所中介。HCO₃⁻ 分泌的抑制是因為 anion exchange protein（陰離子交換蛋白）pendrin 被抑制，這是 chloride depletion 能促進 metabolic alkalosis 的主要機制（7）。
 
-#### Hypokalemia
+#### 低血鉀（Hypokalemia）
 
-Hypokalemia promotes metabolic alkalosis via a transcellular shift of H⁺ into cells (in exchange for a shift of K⁺ out of cells). The resulting decrease in intracellular pH in renal tubular cells also promotes HCO₃⁻ reabsorption (8).
+Hypokalemia 透過 H⁺ 轉入細胞內（以交換 K⁺ 轉出細胞）來促進 metabolic alkalosis。腎小管細胞內細胞內 pH 隨之下降，也會促進 HCO₃⁻ 的再吸收（8）。
 
-#### Diuretics
+#### Diuretics（利尿劑）
 
-Thiazide diuretics and "loop" diuretics like furosemide promote metabolic alkalosis via chloride and K⁺ depletion. The principal action of these diuretics is to increase sodium loss in the urine, and urinary chloride excretion usually matches sodium excretion, so this can lead to chloride depletion. The increased Na⁺ delivery to the distal tubules also promotes K⁺ loss via a Na⁺–K⁺ exchange pump (see the cell at the top in Figure 33.1).
+Thiazide（噻嗪類）利尿劑與如 furosemide（呋塞米）等「強效」利尿劑透過 chloride 與 K⁺ 耗竭來促進 metabolic alkalosis。這些利尿劑的主要作用是增加尿液中的鈉流失，而尿 chloride 排泄通常與鈉排泄相匹配，因此可能導致 chloride 耗竭。Na⁺ 送至遠端腎小管的量增加，也會透過 Na⁺–K⁺ 交換泵促進 K⁺ 流失（見圖 33.1 最上方的細胞）。
 
 ---
 
-## Clinical Consequences
+## Clinical Consequences（臨床後果）
 
-Metabolic alkalosis is clinically silent in most patients. Severe alkalosis can be accompanied by neurologic manifestations and hypoventilation, but these are rarely life-threatening. In one remarkable case report, an elderly patient with protracted vomiting and a plasma [HCO₃⁻] of **151 mEq/L** was hemodynamically stable and recovered uneventfully after volume and electrolyte replacement (9).
+Metabolic alkalosis 在大多數病人中臨床上無症狀。嚴重鹼中毒可能伴隨神經學表現與低通氣，但這些很少危及生命。在一份值得注意的病例報告中，一位長期嘔吐且血漿 [HCO₃⁻] 為 **151 mEq/L** 的老年病人，血流動力學穩定，在補充液體與電解質後順利康復（9）。
 
-### Neurologic Manifestations
+### 神經學表現（Neurologic Manifestations）
 
-The neurologic manifestations attributed to alkalosis include:
+歸因於鹼中毒的神經學表現包括：
 
-- Depressed consciousness
-- Generalized seizures
-- Paresthesias
-- Carpopedal spasms
+- 意識障礙（Depressed consciousness）
+- 全身性癲癇發作（Generalized seizures）
+- 感覺異常（Paresthesias）
+- 手足痙攣（Carpopedal spasms）
 
-These are usually associated with respiratory alkalosis, not metabolic alkalosis.
+這些通常與 respiratory alkalosis（呼吸性鹼中毒）相關，而非 metabolic alkalosis。
 
-### Hypoventilation
+### 低通氣（Hypoventilation）
 
-The ventilatory response to metabolic alkalosis is hypoventilation, with a subsequent rise in arterial PCO₂. However, this is not a vigorous response, and a considerable rise in plasma HCO₃⁻ may be necessary to produce significant CO₂ retention (10).
+Metabolic alkalosis 的通氣反應是低通氣，隨後动脉 PCO₂ 會上升。然而，這並非劇烈的反應，可能需要血漿 HCO₃⁻ 大幅上升才會產生顯著的 CO₂ 瀦留（10）。
 
-The ventilatory response to metabolic alkalosis is described by the following equation (11):
+Metabolic alkalosis 的通氣反應可用以下方程式描述（11）：
 
 ```
 Δ PaCO₂ = 0.7 × Δ HCO₃⁻
 ```
 
-where PaCO₂ is the arterial PCO₂ and HCO₃⁻ is the plasma (usually venous) HCO₃⁻ concentration.
+其中 PaCO₂ 為动脉 PCO₂，HCO₃⁻ 為血漿（通常為靜脈）HCO₃⁻ 濃度。
 
-This equation was used to construct the curve in Figure 33.2 showing the relationship between PaCO₂ and plasma HCO₃⁻ in progressive metabolic alkalosis. Note that:
+此方程式可用來繪製圖 33.2 中所示之曲線，顯示進行性 metabolic alkalosis 中 PaCO₂ 與血漿 HCO₃⁻ 的關係。請注意：
 
-- **Hypercapnia** (PaCO₂ > 46 mm Hg) does not occur until the plasma HCO₃⁻ increases almost 10 mEq/L (which represents a 40% increase in plasma HCO₃⁻)
-- **Worrisome hypercapnia** (PaCO₂ > 50 mm Hg) does not occur until the metabolic alkalosis is severe
+- **高碳酸血症**（PaCO₂ > 46 mm Hg）須等到血漿 HCO₃⁻ 增加近 10 mEq/L（相當於血漿 HCO₃⁻ 增加 40%）才會發生
+- **令人擔憂的高碳酸血症**（PaCO₂ > 50 mm Hg）須等到 metabolic alkalosis 已相當嚴重才會出現
 
-> **Figure 33.2** — The relationship between plasma bicarbonate (HCO₃⁻) and arterial PCO₂ (PaCO₂) in metabolic alkalosis.
+> **Figure 33.2** — Metabolic alkalosis 中血漿 bicarbonate（HCO₃⁻）與动脉 PCO₂（PaCO₂）的關係。
 
-### Oxyhemoglobin Dissociation Curve
+### 氧合血紅素解離曲線（Oxyhemoglobin Dissociation Curve）
 
-Alkalosis shifts the oxyhemoglobin dissociation curve to the left (Bohr effect), which results in a decreased tendency for hemoglobin to release oxygen into the tissues. When the O₂ extraction from capillary blood is constant, a leftward shift of the oxyhemoglobin dissociation curve results in a decrease in venous PO₂, which typically indicates a decrease in tissue PO₂. However, there is no evidence of inadequate tissue oxygenation from this effect.
+鹼中毒使氧合血紅素解離曲線左移（Bohr effect），導致血紅素釋放氧氣至組織的趨勢下降。當毛細血管血液中 O₂ 抽取率恆定時，氧合血紅素解離曲線左移會導致靜脈 PO₂ 下降，這通常表示組織 PO₂ 下降。然而，並無證據顯示此效應會造成組織氧合不足。
 
 ---
 
-## Evaluation
+## Evaluation（評估）
 
 促進 metabolic alkalosis 的狀況可以根據細胞外液體積狀態與尿液 chloride 濃度來組織，如表 33.1（2,3）所示。
 
@@ -157,10 +157,10 @@ Alkalosis shifts the oxyhemoglobin dissociation curve to the left (Bohr effect),
 | 高 / 不固定 | > 20 mEq/L | 原發性 hyperaldosteronism、外源性 mineralocorticoids、甘草攝取 |
 | 高 / 不固定 | > 20 mEq/L | K⁺ depletion、 Mg²⁺ depletion |
 
-### Saline Infusions for Metabolic Alkalosis
+### Saline（生理食鹽水）輸注治療 Metabolic Alkalosis
 
 *（表 33.2 內容來源未完整提供）*
 
-### Hydrochloric Acid Infusions
+### Hydrochloric Acid（鹽酸）輸注
 
 *（表 33.3 內容來源未完整提供）*

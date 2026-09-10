@@ -6,16 +6,16 @@ chapter: "CH21"
 title: "Cardiac Arrest"
 ---
 
-## Chapter 21: Cardiac Arrest
+## Chapter 21: Cardiac Arrest（心臟驟停）
 
-> "When we all think alike, then no one is thinking."
+> 「當所有人都想法一致時，就沒有人在真正思考了。」
 > — Walter Lippmann
 
-In 1960, a report appeared in the Journal of the American Medical Association that would eventually change the way clinicians approach the dying process. The report was titled "Closed Chest Cardiac Massage" (1), and it described 5 cases of cardiorespiratory arrest that were successfully managed with chest compressions, electrical shocks, and assisted ventilation. That same year—without any validation studies—the American Heart Association launched a program to educate physicians about closed-chest cardiac resuscitation, which eventually evolved into cardiopulmonary resuscitation (CPR).
+1960 年，一份報告發表於《美國醫學會期刊》（JAMA），這份報告最終改變了臨床醫師面對死亡過程的方式。報告標題為「閉胸心臟按摩」（Closed Chest Cardiac Massage）(1)，描述了 5 例心肺驟停（cardiorespiratory arrest）病例，這些病例透過胸外按壓（chest compressions）、電擊（electrical shocks）與輔助通氣（assisted ventilation）成功搶救。同一年，在沒有任何驗證研究的情況下，美國心臟協會（American Heart Association）推出了一項教育計畫，向醫師推廣閉胸心臟復甦（closed-chest cardiac resuscitation），這項技術後來演變為心肺復甦術（cardiopulmonary resuscitation, CPR）。
 
-Since its inception, CPR has become a universally mandated practice that is withheld only upon request, and practitioners must recertify every 2 years to ensure competence. Despite its widespread adoption, CPR fails in most cases, as documented in the literature (2).
+自從 CPR 問世以來，它已成為一項普遍強制執行的措施，只有在患者主動要求放棄時才會中止，且從業人員必須每 2 年重新認證以確保其能力。儘管 CPR 被廣泛採用，大多數情況下仍然失敗，如文獻所述 (2)。
 
-This chapter describes the practical aspects of CPR and the management that follows a successful resuscitation effort. The recommendations are drawn from the most recent and relevant guidelines and instruction manuals on CPR, which are listed in the bibliography at the end of the chapter (3–8).
+本章描述 CPR 的實務層面，以及成功復甦後的管理。建議取自最新且最相關的 CPR 指南與操作手冊，列於本章末尾的參考文獻中 (3–8)。
 
 ## 導讀摘要
 
@@ -25,14 +25,13 @@ This chapter describes the practical aspects of CPR and the management that foll
 - 復甦後需維持 **MAP ≥75 mm Hg**，首選 **norepinephrine**；氧合控制在 **SpO₂ <90%** 才給予氧氣
 - 預後評估：第 4 天仍無瞳孔反射、角膜反射，或腦波顯示非痙攣性癲癇持續狀態，提示不良神經學預後
 
+## 心臟驟停（Cardiac Arrest）流行病學
 
-### 心臟驟停的流行病學
+ Cardiac arrest 的預後會因環境（院內與院外）、 underlying rhythm（基礎心律）以及復甦品質而有顯著差異。存活率普遍偏低，強調高品質 CPR 和在有適應症時快速 defibrillation（體外電擊）的重要性。
 
-Cardiac arrest 的預後會因環境（院內與院外）、 underlying rhythm 以及復甦品質而有顯著差異。存活率普遍偏低，強調高品質 CPR 和在有適應症時快速 defibrillation 的重要性。
+## 生存鏈（Chain of Survival）
 
-### 生存鏈
-
-「生存鏈」的概念強調了優化 cardiac arrest 預後所需的關鍵步驟：
+ 「生存鏈」的概念強調了優化 cardiac arrest 預後所需的關鍵步驟：
 
 1. **立即辨識** cardiac arrest 並啟動緊急反應系統
 2. **盡早高品質 CPR**，盡量減少中斷
@@ -40,9 +39,9 @@ Cardiac arrest 的預後會因環境（院內與院外）、 underlying rhythm �
 4. **受訓人員提供有效的 advanced life support**
 5. **心臟驟停後照護**，包括目標體溫管理
 
-### 基本生命支持的必要要素
+## 基本生命支持（Basic Life Support, BLS）必要要素
 
-Basic life support (BLS) 是 cardiac arrest 處置的基礎。其必要要素如下表所示。
+ Basic life support (BLS) 是 cardiac arrest 處置的基礎。其必要要素如下表所示。
 
 | # | Element | Description |
 |---|---|---|
@@ -54,22 +53,22 @@ Basic life support (BLS) 是 cardiac arrest 處置的基礎。其必要要素如
 | 6 | Defibrillator Application | 胸外按壓應持續不中斷，直到心臟電擊器連接至患者身上。 |
 | 7 | Operator Rotation | 執行胸外按壓的人員應盡可能在 2 分鐘後更換。 |
 
-### Advanced Life Support
+## 高級心臟生命支持（Advanced Life Support, ALS）
 
-Advanced life support (ALS) 在高品質 BLS 的基礎上加入額外處置。
+ Advanced life support (ALS) 在高品質 BLS 的基礎上加入額外處置。
 
-#### Defibrillation Sequence
+### 電擊序列（Defibrillation Sequence）
 
-處置包括一系列最多 3 次電擊（必要時）：
+ 處置包括一系列最多 3 次電擊（必要時）：
 
-1. 一旦確認為可電擊 rhythm，即刻給予首次電擊。
+1. 一旦確認為可電擊 rhythm（心律），即刻給予首次電擊。
 2. 電擊時暫停胸外按壓，電擊後立即恢復按壓。
 3. 若需要第二次 defibrillation，開始使用 **epinephrine** 靜脈注射負荷劑量 **1 mg**。
 4. 若需要第三次 defibrillation，給予 **amiodarone** 靜脈注射或骨內注射負荷劑量 **300 mg**。
 
-#### 心臟驟停後症候群
+### 心臟驟停後症候群（Post-Cardiac Arrest Syndrome）
 
-復甦成功後，患者進入一個以數種病理生理過程為特徵的獨特階段：
+ 復甦成功後，患者進入一個以數種病理生理過程為特徵的獨特階段：
 
 | # | Manifestation | Description |
 |---|---|---|
@@ -77,9 +76,9 @@ Advanced life support (ALS) 在高品質 BLS 的基礎上加入額外處置。
 | 2 | Cardiac Dysfunction | 心臟驟停後心臟功能障礙是收縮與舒張功能障礙的組合，可能持續數天。 |
 | 3 | Systemic Inflammatory Response | 心臟驟停後幾乎普遍出現全身性發炎反應（包括發燒和白血球增多）。 |
 
-### 目標體溫管理
+## 目標體溫管理（Targeted Temperature Management, TTM）
 
-Targeted temperature management (TTM) 是符合條件患者心臟驟停後照護的核心要素。
+ Targeted temperature management (TTM) 是符合條件患者心臟驟停後照護的核心要素。
 
 | Feature | Recommendation |
 |---|---|
@@ -88,7 +87,7 @@ Targeted temperature management (TTM) 是符合條件患者心臟驟停後照護
 | **Monitoring** | 持續核心體溫監測（例如：附帶熱敏電阻的膀胱導管） |
 | **Treatment Plan** | 1. ROSC 後輕度低溫（32–36°C）：不要主動加溫。 2. 以 acetaminophen 與降低室溫將體溫維持在 **≤37.5**°C。 3. 若體溫超過 37.7°C：開始主動降溫，目标為 37.5°C。 4. 表面降溫可以接受。 5. 除非患者甦醒，否則繼續維持 **≤37.5**°C 達 72 小時。 |
 
-### 心臟驟停後處置的其他考量
+## 心臟驟停後處置的其他考量
 
 | Intervention | Comment |
 |---|---|
@@ -97,9 +96,9 @@ Targeted temperature management (TTM) 是符合條件患者心臟驟停後照護
 | **Vasopressor Agent** | **norepinephrine** 優於 **epinephrine**。 |
 | **Glycemic Control** | 高血糖會加重神經損傷；避免過度嚴格控制，因為低血糖同樣有害。 |
 
-### 心臟驟停後的預後評估
+## 心臟驟停後的預後評估
 
-以下為可高度確定地預測不良神經學預後的指標：
+ 以下為可高度確定地預測不良神經學預後的指標：
 
 | # | Predictor |
 |---|---|
@@ -111,7 +110,7 @@ Targeted temperature management (TTM) 是符合條件患者心臟驟停後照護
 | 6 | 腦波顯示非痙攣性癲癇持續狀態，或伴有週期性放電的背景抑制。 |
 | 7 | CT 顯示瀰漫性腦水腫。 |
 
-### Bibliography
+## Bibliography
 
 1. Kouwenhoven WB, Ing, Jude JR, Knickerbocker GG. Closed-chest cardiac massage. JAMA 1960; 173:1064–1067.
 2. Tsao CW, Aday AW, Almarzoog ZI, et al. Heart disease and stroke statistics—2023 update: A report from the American Heart Association. Circulation 2023; 147:e93–e621.
