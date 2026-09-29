@@ -109,19 +109,78 @@ ICU 相關 AF 的報告發病率從 2% 到 44% 不等，更可能出現在有冠
 | **Edoxaban** | 每天一次 60 mg | CrCL <30 mL/min、體重 ≤60 kg 或同時使用紅黴素/酮康唑時每天一次 30 mg |
 | **Warfarin** | 每天一次 5 mg | 調整至達到 INR 2–3 |
 
-## Paroxysmal Supraventricular Tachycardia (PSVT)
+## Multifocal Atrial Tachycardia
 
-AVNRT 的特徵是突然開始和終止。Adenosine 用於急性終止。
+多源性心房頻脈（Multifocal Atrial Tachycardia, MAT）是一種不規則的窄QRS複合波頻脈，其特徵為至少3種不同的P波形態（見圖19.5）以及可變的PR間期。此心律不整最常見於患有慢性阻塞性肺疾病（Chronic Obstructive Pulmonary Disease, COPD）的老年患者（盛行率 = 10–20%），但也可見於嚴重敗血症、茶鹼中毒及代謝失衡的患者。
 
-**Table 19.4** 靜脈注射 Adenosine 治療陣發性 SVT
+MAT的心電圖診斷標準為：
+1. 至少3種不同的P波形態。
+2. 至少3種不同的PR間期。
+3. 可變的PP間期（心律不規則）。
 
-| 特徵 | 建議 |
-|---|---|
-| **劑量** | 1. 通過外周靜脈給予。2. 以快速 IV 注射給予 6 mg 並用鹽水冲注。3. 如果 2 分鐘後無反應，給予 12 mg 快速 IV。4. 如果仍然不足，可再給予 12 mg。 |
-| **劑量調整** | 減少 50% 劑量：用於至上腔靜脈的給予；病人正在服用鈣通道阻斷劑、β-受體阻斷劑或 dipyridamole。 |
-| **藥物相互作用** | Dipyridamole（阻斷 adenosine 攝取）；Theophylline（阻斷 adenosine 受體）。 |
-| **不良反應** | 心搏過緩、AV 傳導阻滯（50%）；面部潮紅（20%）；呼吸困難（12%）；胸部壓力（7%）。 |
-| **禁忌症** | 氣喘；2 級或 3 級 AV 傳導阻滯；病態竇房結症候群。 |
+茶鹼（Theophylline）中毒是需要特別注意的因素，因為茶鹼經由肝臟代謝，在肝功能障礙或充血性心衰竭（Congestive Heart Failure, CHF）患者體內會累積。在這些情況下，茶鹼的半衰期會延長，導致血清濃度升高，進而產生易被誤診為心房顫動（Atrial Fibrillation）的心律不整。
+
+**治療** MAT的治療主要針對潛在的肺部疾病，當肺部狀況改善時，心律不整通常會隨之緩解。Verapamil（5–10 mg靜脈注射）可用於減慢心室率，但鈣離子通道阻斷劑可能加重支氣管痙攣，用於COPD患者時應謹慎。β-受體阻斷劑在此情況下為禁忌。
+
+## Paroxysmal Supraventricular Tachycardias
+
+房室結摺返性心搏過速（AV Nodal Reentrant Tachycardia, AVNRT）是最常見的陣發性室上性心搏過速（Paroxysmal Supraventricular Tachycardia, PSVT），由一個利用房室結（Atrioventricular Node, AV node）的摺返迴路所引起（見圖19.6）。此心律不整的特徵為突然發作與終止，心電圖通常顯示窄QRS複合波，心律規則，心率為140–220次/分鐘。P波通常不可見，因為它們與QRS複合波同時發生。
+
+**急性治療** AVNRT的第一線治療是Adenosine，這是一種天然存在的核苷，能減慢房室結傳導並可中斷摺返迴路。給藥方案如下：
+
+1. 以6 mg快速靜脈注射，隨後給予生理食鹽水沖洗。
+2. 若2分鐘後無反應，給予12 mg快速靜脈注射。
+3. 若仍無效，可給予第二次12 mg劑量。
+
+Adenosine的半衰期極短（小於10秒)，其作用短暫。重要注意事項包括：
+
+**劑量調整**：中央靜脈注射、或患者正在服用鈣離子通道阻斷劑、β-受體阻斷劑或Dipyridamole時，劑量應減少50%。
+
+**藥物交互作用**：Dipyridamole會阻斷Adenosine的攝取，可能增強其效果；Theophylline會阻斷Adenosine受體，可能拮抗其效果。
+
+**不良反應**：心搏過緩性反應及房室傳導阻滯（50%）；面部潮紅（20%）；呼吸困難（12%）；胸悶（7%）。
+
+**禁忌症**：氣喘；第二度或第三度房室傳導阻滯；病態竇房結症候群（Sick Sinus Syndrome）。
+
+**AVNRT的其他藥物**：當Adenosine無效或禁忌時，Verapamil（5–10 mg靜脈注射，超過2分鐘）及Diltiazem（0.25 mg/kg靜脈注射，超過2分鐘）可作為替代選擇。
+
+**長期管理** 復發性AVNRT患者可能需要長期使用減慢房室結傳導的藥物，如β-受體阻斷劑、鈣離子通道阻斷劑或Digoxin。導管燒灼術（Catheter Ablation）可根治，對於發作頻繁或症狀嚴重的患者為首選。
+
+**房室折返性心搏過速（AV Reentrant Tachycardia, AVRT）** AVRT使用一條繞過房室結的副傳導路徑（繞道束，bypass tract），使心房的衝動得以直接傳至心室。最常見的類型是Wolff-Parkinson-White（WPW）症候群，其特徵為心電圖上PR間期縮短及Delta波。在WPW患者中，AVRT可由一個過早收縮所引發，該過早收縮可順向通過房室結並逆向通過副傳導路徑（正向性AVRT），或反向進行（逆向性AVRT）。
+
+**重要警告**：對於患有心房顫動的WPW患者，禁用房室結阻斷劑（Digoxin、Verapamil、Diltiazem、β-受體阻斷劑、Adenosine），因為這些藥物可能加速副傳導路徑的傳導，引發心室顫動（Ventricular Fibrillation）。
+
+## Ventricular Tachycardia
+
+心室頻脈（Ventricular Tachycardia, VT）是一種寬QRS複合波頻脈，起源於房室傳導系統以下的部位（即心室肌）。其定義為連續3次或以上的心室搏動，心率大於100次/分鐘。VT可分為以下類型：
+
+**單形性心室頻脈（Monomorphic VT）**：所有QRS複合波具有相同形態（一致），表示單一起源點。
+
+**多形性心室頻脈（Polymorphic VT）**：QRS複合波形態各異，常與QT間期延長相關（Torsade de Pointes，尖端扭轉型心室頻脈）。
+
+**持續性與非持續性**：持續性VT持續時間 >30秒或需要醫療介入；非持續性VT在30秒內自行終止。
+
+**心電圖辨識** 以下心電圖發現提示為VT而非伴有功能性傳導異常的室上性心搏過速（Supraventricular Tachycardia, SVT）：
+- 房室分離（AV dissociation）（P波獨立於QRS複合波之外規律出現）。
+- 融合波（Fusion beats）（正常傳導與VT傳導的混合形態）。
+- 奪獲波（Capture beats）（干擾VT節律的正常傳導搏動）。
+- 右束支傳導阻滯（RBBB）型態的VT中，QRS波寬度 >0.14秒。
+- 極端軸偏移（例如：西北軸向）。
+- 胸前導聯QRS複合波的一致性（全部正向或全部負向）。
+
+**血流動力學穩定的單形性心室頻脈**：對於意識清楚且灌注適當的患者：
+- Amiodarone 150 mg靜脈注射超過10分鐘，可追加至總劑量450–900 mg；隨後以1 mg/分鐘維持6小時。
+- Procainamide 15–18 mg/kg靜脈注射超過20–30分鐘（若有充血性心衰竭或結構性心臟病則避免使用）。
+- 若藥物治療失敗，則進行同步電擊復律（Synchronized Cardioversion）。
+
+**血流動力學不穩定的VT或心室顫動**：立即進行不同步電擊（去顫，Defibrillation）。請勿為了建立靜脈通路或給藥而延遲電擊。
+
+**尖端扭轉型心室頻脈（Torsade de Pointes，伴有長QT間期的多形性VT）**：
+- 辨識並移除致病藥物（見表19.5）。
+- 靜脈注射Magnesium 1–2克（首選於血鎂正常的患者）。
+- 糾正低血鉀（靜脈注射鉀離子）。
+- 暫時性心臟節律器設定為100–120次/分鐘，以超速抑制心律不整。
+- Isoproterenol靜脈輸注作為節律器之替代方案。
 
 ## Drugs That Can Induce Torsade de Pointes
 
