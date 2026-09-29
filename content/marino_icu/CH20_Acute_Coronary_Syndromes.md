@@ -6,143 +6,548 @@ chapter: "CH20"
 title: "Acute Coronary Syndromes"
 ---
 
-> The study of the causes of things must be preceded by the study of things caused.
->
-> — John Hughlings Jackson
+## 第 20 章：急性冠狀動脈症候群
 
-心臟重症監護的一個重要時刻是發現（1980 年）透壁性心肌梗塞是由於冠狀动脉中的閉塞性血栓。再灌注治療的進步改善了結局，並在過去十年中貢獻了冠狀动脉疾病年死亡率 20% 的下降。然而，冠狀动脉疾病仍然是美國的主要死亡原因。
+研究事物的原因之前，必須先研究由此造成的事物。
 
-本章描述急性心肌梗塞和不穩定心絞痛（急性冠狀動脈症候群）的診斷和早期管理。
+John Hughlings Jackson（1835–1911）
 
-## Coronary Thrombosis
+心臟重症照護領域的一個開創性時刻，是在 1980 年發現透壁性心肌梗塞（myocardial infarction, MI）乃由冠狀動脈內的閉塞性血栓所致。此一發現促成了血栓溶解治療（於 1980 年代中期）的引進，之後又被球囊血管成形術及支架置放等技術所取代。再灌流治療的進展改善了臨床結果，並促成過去十年（2010 至 2020 年）冠狀動脈疾病年死亡率下降 20%（1）。然而，冠狀動脈疾病仍是美國的首要死因（1），因此仍有更多工作有待完成。
 
-### Pathogenesis
+本章說明急性心肌梗塞與不穩定型心絞痛（即急性冠狀動脈症候群）的診斷及早期處置，重點著眼於就診後最初 24–36 小時內的處置。本章亦納入急性主動脈剝離一節，因其臨床表現可能與急性冠狀動脈症候群混淆。本章許多建議源自章末參考書目所列的臨床實務指引（2–7）。
 
-急性心肌梗塞是由於一根或多根冠狀动脉中的閉塞性血栓。血栓形成的觸發因素是粥樣硬化斑塊的破裂，釋放血栓源性脂質。斑塊破裂歸因於炎症。
+### 冠狀動脈血栓形成（Coronary Thrombosis）
 
-### Role of Oxidative Injury
+發病機制
+如前所述，急性心肌梗塞是由一條或多條冠狀動脈內的閉塞性血栓所致。血栓形成的誘因是動脈粥樣硬化斑塊破裂，釋放具促血栓性的脂質（見圖 20.1）。斑塊破裂被歸因於發炎（8），但流體剪應力也可能發揮作用，因為破裂斑塊通常位於冠狀循環的分支點（9）。
 
-炎症在粥樣硬化斑块的生成和破裂中都起主要作用。炎症的有害影響主要由活性氧種的氧化作用引起。髓過氧化物酶（MPO），一種由白細胞釋放的酶，在粥樣硬化斑块中產生次氯酸鹽並氧化脂蛋白。
+氧化性損傷的作用
+發炎在動脈粥樣硬化斑塊的形成與破裂中均扮演重要角色（10）。發炎的破壞效應主要源自「活性氧物種」（reactive oxygen species）的氧化作用，如第 17 章所述（見圖 17.1），這表示氧化性損傷是冠狀動脈疾病的重要參與因素。在此情境中，主要元凶似乎是髓過氧化物酶（myeloperoxidase, MPO）；這是一種由白血球釋放的酶，能產生次氯酸鹽（家用漂白水的活性成分），並氧化動脈粥樣硬化斑塊內的脂蛋白（11）。臨床研究顯示，血漿 MPO 濃度與冠狀動脈疾病的存在及嚴重程度呈直接相關（12,13）；人體屍體解剖研究亦顯示，冠狀動脈斑塊破裂處有廣泛的 MPO 染色（13）。這些觀察結果提示，抑制 MPO 可能是冠狀動脈疾病的一種潛在治療方式。
 
-### Clinical Syndromes
+圖 20.1　急性冠狀動脈症候群的發病機制。動脈粥樣硬化斑塊破裂會釋放具促血栓性的脂質，進而活化血小板與凝血因子（上圖），最終形成閉塞性血栓（下圖）。
 
-急性冠狀血栓產生三種不同的臨床症候群：
+臨床症候群
+急性冠狀動脈血栓形成會產生三種不同的臨床症候群（即急性冠狀動脈症候群，acute coronary syndromes, ACS），依據 12 導程心電圖（electrocardiogram, ECG）上是否出現 ST 節段抬高加以分類：
 
-1. **ST 抬高型心肌梗塞（STEMI）：** 由閉塞相關动脉的完全閉塞引起的透壁性梗塞。
+1. ST 節段抬高型心肌梗塞（ST-elevation myocardial infarction, STEMI），即因梗塞相關動脈完全閉塞所致的透壁性梗塞。
 
-2. **非 ST 抬高型心肌梗塞（NSTEMI）：** 由閉塞相關动脉的不完全或部分閉塞引起。
+2. 非 ST 節段抬高型心肌梗塞（non-ST-elevation myocardial infarction, NSTEMI），由梗塞相關動脈不完全或部分閉塞所致。
 
-3. **不穩定心絞痛（UA）：** 與心電圖上的 ST 抬高無關；由冠狀動脈反覆開-關閉合引起的。
+3. 不穩定型心絞痛（unstable angina, UA），其 ECG 上不伴隨 ST 節段抬高，且由冠狀動脈反覆、時通時閉的閉塞事件所致。
 
-NSTEMI 和 UA 通常被歸為「非 ST 抬高型急性冠狀症候群」（NSTE-ACS）。
+NSTEMI 與 UA 通常合併歸類為「非 ST 節段抬高型急性冠狀動脈症候群」（non-ST-elevation acute coronary syndromes, NSTE-ACS）。
 
-## Diagnostic Evaluation
+診斷評估
+ACS 治療的成功與否取決於時間，因此必須儘快完成診斷評估。評估包含三個部分：臨床表現、12 導程 ECG，以及高敏感度肌鈣蛋白檢測。
 
-### Clinical Presentation
+臨床表現：ACS 的臨床表現可能有很大差異，但約 80% 的患者會有某種胸部不適（例如疼痛、壓迫感、緊繃感等）（3,4）。症狀突然發作，且持續超過 15 分鐘。這種不適是一種深部感覺，無法定位於某個明確點位，且可能涉及肩部、頸部、手臂及腹部。患者常顯得憂慮，並可能主訴噁心、嘔吐及呼吸困難。
 
-約 80% 的病人有某種胸部不適（疼痛、壓力、緊迫）。發作突然，持續超過 15 分鐘。病人常常焦慮，可以投訴惡心、嘔吐和呼吸困難。
+若胸痛尖銳或轉瞬即逝，或可精確定位於某一點，且若疼痛發生於吸氣時，或可由身體動作或叩擊胸部誘發，則 ACS 的可能性不高。尤其值得注意的是，經硝酸甘油緩解的胸痛並不能證明存在心肌缺血，因為硝酸甘油也可緩解食道痙攣所致的胸痛（14）。
 
-### Electrocardiogram
+初始評估也可能發現急性心臟衰竭或心因性休克的證據。這些併發症不在本章討論範圍內，但第 16 章與第 18 章有詳細說明。
 
-在首次接觸病人後 10 分鐘內應獲得 12 導聯心電圖（ECG）。
+心電圖：應在首次接觸患者後 10 分鐘內取得 12 導程心電圖（ECG）（2）。ACS 的部分 ECG 變化列於表 20.1。出現 ST 節段抬高型心肌梗塞（STEMI）的 ECG 證據時，應進行緊急再灌流治療（稍後說明）。NSTEMI 與 UA（NSTE-ACS）可能伴隨 ST 節段壓低或 T 波倒置，但在這些情況下 ECG 也可能正常。最後，ST 節段的缺血性變化可能被束支傳導阻滯或起搏心律所掩蓋；若懷疑冠狀動脈缺血，出現這些 ECG 異常時應比照 STEMI 處置（亦即進行緊急再灌流治療）。
 
-**Table 20.1** 急性冠狀症候群中的 ECG 變化
+肌鈣蛋白檢測：心肌肌鈣蛋白（cardiac troponin, cTn）的血漿濃度用於偵測心肌細胞損傷，而高敏感度檢測（high-sensitivity cardiac troponin, hs-cTn）最早可在症狀發作後 3 小時偵測到血漿 cTn 升高（15）。市面上有數種 hs-cTn 檢測，各種檢測的正常值或參考值不同，不同醫院也可能有所差異。hs-cTn 濃度建議依下列流程處理（2–6）。
 
-| 狀況 | 模式 | 標準 |
-|---|---|---|
-| **STEMI** | ST 抬高 | 女性 V2–V3 ≥1.5 mm 或男性 ≥2.0 mm；其他導聯 ≥1 mm |
-| **後壁 STEMI** | V1–V3 ST 壓低 + 正向 T 波 | V1–V3 中 ST 壓低伴有直立 T 波 |
-| **NSTE-ACS** | ST 壓低 ≥0.5 mm | 水平或下斜型 ST 壓低；≥5 個導聯中 T 波倒置 >1 mm |
+1. 就診時測量血漿 hs-cTn 濃度，並於 1 小時後再次測量。
 
-### Troponin Assay
+2. 若初次 hs-cTn 濃度升高（通常高於該檢測法參考值上限的第 99 百分位數），且自症狀發作起已至少 3 小時，則很可能存在心肌壞死。缺血以外的情況也可能造成心肌損傷，因此在 1 小時後複測 hs-cTn，以判斷心肌損傷是否源於缺血（見下一項）。
 
-血漿 cardiac troponin（cTn）水平用於檢測心肌細胞損傷。高敏感性測定（hs-cTn）可在症狀發作後最早 3 小時檢測到升高。
+3. 第二次 hs-cTn 濃度若有顯著變化（通常 >10%），即為急性缺血（亦即急性 MI）的證據。
 
-**Protocol:**
-1. 在就診時測量血漿 hs-cTn 水平，然後 1 小時後再次測量。
-2. 如果初始 hs-cTn 水平升高且症狀發作後至少已有 3 小時，則心肌壞死可能。
-3. 第二個 hs-cTn 水平的顯著變化（>10%）是急性缺血的證據（急性心肌梗塞）。
+hs-cTn 濃度升高有數種非缺血性原因（例如心肌病變、持續性心搏過速、心臟衰竭、肺高壓，甚至敗血症）（2,3），但這些情況不應造成 hs-cTn 濃度的急性變化。然而，hs-cTn 濃度明顯升高的患者通常會住院接受進一步檢查。
 
-## Reperfusion Therapy
+表 20.1
 
-### Thrombolytic Therapy
+急性冠狀動脈症候群的 ECG 變化
 
-**Table 20.2** 急性冠狀閉塞的溶血栓治療
+狀況
 
-| 製劑 | 劑量方案 | 90 分鐘時通暢率 |
-|---|---|---|
-| Alteplase（tPA） | 15 mg IV bolus，然後 0.75 mg/kg 超過 30 分鐘，然後 0.5 mg/kg 超過 60 分鐘（總量最大 100 mg） | 73–84% |
-| Reteplase（rPA） | 10 Units IV bolus，30 分鐘後重複 | 84% |
-| Tenecteplase（TNK-tPA） | 基於體重的單次 IV bolus：30–50 mg | 85% |
+型態
 
-## Cardioprotective Measures
+標準
 
-**Table 20.3** 心臟保護措施
+### STEMI
 
-| 製劑 | 劑量方案和評論 |
-|---|---|
-| **氧氣** | 維持 SaO₂ ≥90% 所需的任何劑量。慎重使用補充 O₂ — 促進冠狀动脉血管收縮。 |
-| **Nitroglycerin** | 胸痛：0.4 mg 舌下或噴霧每 5 分鐘 × 3。反覆疼痛/高血壓/CHF：開始以 5 μg/min 輸注，向上滴定。避免用於 RV 梗塞、主動脈瓣狹窄和在磷酸二酯酶抑制劑使用後 24–48 小時內。 |
-| **Morphine** | 4–8 mg IV，然後每 5–15 分鐘 PRN 2–8 mg IV。可能減少 P2Y12 抑制劑的抗血小板作用。 |
-| **Metoprolol** | 5 mg IV bolus，如果耐受每 5 分鐘重複 × 2。在急性心臟衰竭、心搏過緩、心臟傳導阻滯中慎用。 |
+後壁
+STEMI
 
-## Antiplatelet Measures
+NSTE-
+ACS
 
-**Table 20.4** 急性冠狀血栓形成的抗血小板措施
+NSTE-
+ACS
 
-| 製劑 | 劑量方案 |
-|---|---|
-| **Aspirin** | 首次接觸時 162–325 mg 咀嚼片，然後每天 81 mg（或每天 325 mg）。如果有 aspirin 過敏，使用 clopidogrel。 |
-| **Clopidogrel**（P2Y12 抑制劑） | 300–600 mg 負荷劑量 PO，然後每天 75 mg |
-| **Ticagrelor**（P2Y12 抑制劑） | 180 mg 負荷劑量 PO，然後每天 90 mg BID |
-| **Prasugrel**（P2Y12 抑制劑） | 60 mg 負荷劑量 PO，然後每天 10 mg |
-| **Eptifibatide**（GP IIb-IIIa） | 180 μg/kg bolus，然後 2 μg/kg/min（如果 CrCL <50 mL/min 減少 50%） |
-| **Tirofiban**（GP IIb-IIIa） | 25 μg/kg bolus，然後 0.15 μg/kg/min（如果 CrCL <30 mL/min 減少 50%） |
+### V1–V3
 
-## Acute Aortic Dissection
+≥2 個相鄰導程的 J 點 ST 抬高：V2–V₃ 中女性 ≥1.5 mm 或男性 ≥2.0 mm；其他導程則 ≥1 mm。
 
-急性主動脈夾層的臨床表現可能與急性冠狀症候群混淆。它需要積極的抗高血壓治療。
+V1–V3 出現 ST 壓低並伴隨正向 T 波。
 
-### Antihypertensive Therapy
+V2–V₃ 的 J 點壓低 ≥0.5 mm，或所有其他導程壓低 ≥1 mm。ST 節段可呈水平型或下斜型。
 
-**Table 20.5** 急性主動脈夾層的抗高血壓治療
+≥5 個導程出現 >1 mm 的 T 波倒置，包括 I、II、aVL 及 V2–V6。
 
-| 藥物 | 劑量方案和評論 |
-|---|---|
-| **Esmolol** | 500 μg/kg IV bolus，然後 50 μg/kg/min 輸注；增加 25 μg/kg/min 至期望的血壓或最大 200 μg/kg/min。超快速 β-受體阻斷劑；避免用於急性心臟衰竭。 |
-| **Labetalol** | 20 mg IV 超過 2 分鐘，然後 PRN 每 10 分鐘 20–40 mg IV，或輸注 1–2 mg/min 並滴定。Combined α- 和 β-阻斷劑；用作單一療法。避免用於急性心臟衰竭。 |
-| **Metoprolol** | 5 mg IV bolus，如果耐受每 5 分鐘重複 × 2。在急性心臟衰竭、心搏過緩、心臟傳導阻滯中慎用。 |
+引自參考文獻 5。
+
+### 再灌流策略（Reperfusion Strategies）
+
+依據上述評估判定急性冠狀動脈閉塞的可能性極高時，下一步便是決定恢復閉塞動脈血流的適當策略。冠狀動脈再灌流有三種可用方法：
+
+1. 經皮冠狀動脈介入治療（percutaneous coronary intervention, PCI），包括冠狀動脈攝影（以辨識阻塞位置）、球囊血管成形術（以恢復通暢），以及支架置放（以防止再次閉塞）。這是標準的再灌流方法。
+
+2. 血栓溶解藥物治療；當無法進行 PCI 時，這是一種效果較差的替代方案。
+
+3. 冠狀動脈繞道手術，保留用於不適合 PCI 或 PCI 未成功的病例。
+
+策略
+ACS 的再灌流策略取決於 ECG 上是否出現 ST 節段抬高，以及是否可進行 PCI。以下建議來自最新的臨床實務指引（2,3,5–7）。
+
+ST 節段抬高型心肌梗塞
+以下處置適用於 ECG 顯示 STEMI 的患者，以及很可能有心肌缺血且 ECG 顯示束支傳導阻滯的病例。
+
+1. 最佳處置為緊急 PCI，應在到院後 90–120 分鐘內完成（亦即「到院至球囊時間」，door-to-balloon time）（2,6）。
+
+2. 若無法進行 PCI，應立即將患者轉送至具 PCI 能力的醫院，目標到院至球囊時間為 120 分鐘。若預期轉送時間將超過 120 分鐘，可在轉送前給予血栓溶解治療，且應於到院後 30 分鐘內開始（亦即「到院至進針時間」，door-to-needle time）（6）。
+
+3. 冠狀動脈繞道手術保留用於 PCI 未能建立再灌流且仍持續缺血的病例。
+
+到院至球囊時間：延遲施行球囊血管成形術所帶來的負面影響如圖 20.2 所示（16）。請注意，從到院至冠狀動脈血管成形術的時間（「到院至球囊時間」）超過 120 分鐘時，死亡率顯著增加。美國心臟協會建議以 90 分鐘作為到院至球囊時間的目標（6），以保留 30 分鐘的緩衝時間。
+
+院際轉送：美國能執行 PCI 的醫院不到 30%（17），而約每 4 名 STEMI 患者中就有 1 名被送至無 PCI 能力的醫院（18）。發生此情況時，只要總到院至球囊時間不超過 120 分鐘，轉送至具 PCI 能力的醫院可帶來存活效益（19）。若預期會有長時間延誤，可使用血栓溶解治療作為銜接 PCI 的橋接措施（2,6）。
+
+圖 20.2　STEMI 患者的死亡率與從到院至接受冠狀動脈血管成形術之時間的關係。星號表示與最初時段（0–60 分鐘）相比有顯著差異。改編自參考文獻 16 的資料。
+
+非 ST 節段抬高型 ACS
+
+1. 對於併發血流動力學不穩定、心因性休克、急性心臟衰竭或持續性胸痛的非 ST 節段抬高型心肌梗塞（NSTEMI）病例，建議緊急（儘快）施行 PCI（2,5）。其餘情況可在就診後 24–72 小時施行 PCI（5）。
+
+2. 血栓溶解治療對 NSTEMI 並無存活效益，因此不作為 PCI 的替代方案。
+
+3. 血流動力學穩定且無疼痛的不穩定型心絞痛患者，在住院期間可能不需要接受 PCI。
+
+血栓溶解治療
+血栓溶解治療的效果不如 PCI（19），其使用限於無法立即進行 PCI 的單純 STEMI 病例。以下是限制血栓溶解治療使用的其他因素。
+
+1. 血栓溶解治療的存活效益取決於時間；亦即，在症狀發作後最初數小時內效益最大，之後逐漸下降，並於 12 小時後消失（20）。此情形如圖 20.3 所示，亦是建議症狀發作已超過 12 小時者不應接受血栓溶解治療的依據（6）。
+
+2. 除了時間限制外，血栓溶解治療的使用亦受出血風險所限。血栓溶解治療的絕對與相對禁忌症列於第 47 章。
+
+血栓溶解藥物（Thrombolytic Agents）
+
+血栓溶解劑（thrombolytic agents）藉由將纖溶酶原（plasminogen）轉化為纖溶酶（plasmin）而發揮作用，後者接著將纖維蛋白絲分解成較小的亞單位。獲准用於臨床的血栓溶解劑列於表 20.2。這些藥物作用於血凝塊中與纖維蛋白絲結合的纖溶酶原，因此可限制全身性纖維蛋白溶解（systemic fibrinolysis）的程度，並降低棘手出血的風險。表 20.2 中的溶栓劑在恢復阻塞冠狀動脈通暢方面，效果相當（6）。
+
+圖 20.3 血栓溶解治療的存活效益與胸痛發作後經過時間之間的關係。資料來自參考文獻 20 中 45,000 名患有 STEMI 或左束支傳導阻滯（left bundle branch block）的患者。
+
+1. 阿替普酶（Alteplase；Activase）是一種重組組織纖溶酶原活化劑（tissue plasminogen activator, tPA），也是第一個獲准用於臨床的血凝塊特異性纖維蛋白溶解劑。然而，由於其作用相對較慢（21），且完成給藥方案需要 90 分鐘，因此目前已不再受到青睞。
+
+2. 瑞替普酶（Reteplase；Retavase）是 tPA 的重組變異體，以兩次推注劑量於 30 分鐘內給予。其血凝塊溶解速度比阿替普酶更快（21），但臨床試驗顯示其不具存活優勢（22）。
+
+3. 替奈普酶（Tenecteplase；TNK-tPA）是另一種 tPA 變異體，以單次 IV 推注給予，溶解血凝塊的速度比瑞替普酶更快（23）。它目前是最常用的血栓溶解劑，但尚無經證實的存活優勢（24）。
+
+表 20.2
+
+急性冠狀動脈阻塞的血栓溶解治療
+
+給藥方案
+
+15 mg IV 推注，接著在 30 min 內給予 0.75 mg/kg（不超過 50 mg），再於 60 min 內給予 0.5 mg/kg（不超過 35 mg）。最大劑量：90 min 內共 100 mg。
+
+90 min 時的
+通暢率
+
+73–84%
+
+10 Units，以 IV 推注給予，並於 30 min 後重複一次。
+
+84%
+
+藥物
+
+阿替普酶（Alteplase）
+（tPA）
+
+瑞替普酶（Reteplase）
+（rPA）
+替奈普酶（Tenecteplase）
+（TNK-tPA）
+
+單次 IV 推注：體重 <60 kg 者 30 mg，60–69 kg 者 35 mg，70–79 kg 者 40 mg，80–89 kg 者 45 mg，≥90 kg 者 50 mg。
+
+85%
+
+引自參考文獻 6。
+
+嚴重出血（Major Bleeding）
+血栓溶解治療用於 ACS 時，約 10% 的病例會併發顯著出血（即需要輸血），約 1% 的病例會發生危及生命的出血（休克或顱內出血）（25）。這種出血與低血漿纖維蛋白原濃度（通常 <100 mg/dL）相關，可使用濃縮纖維蛋白原製品治療，例如冷沉澱物（cryoprecipitate）或纖維蛋白原濃縮製劑（見第 13 章最後一節）。由於有血栓形成的風險，不建議使用傳明酸（tranexamic acid）等抗纖維蛋白溶解劑（antifibrinolytic agents）（26）。
+
+### 心臟保護措施（Cardioprotective Measures）
+
+下列措施旨在改善心肌 O2 供應與 O2 需求之間的平衡，並在首次懷疑心肌缺血時開始施行（有時在到院前即開始）。這些措施彙整於表 20.3。
+
+氧氣（Oxygen）
+儘管長久以來一直在 ACS 中常規使用補充 O2，但對動脈 O2 飽和度正常（即 SaO2 ≥90%）的 ACS 患者而言，補充 O2 並無益處（27）。因此，目前的建議是僅對低氧血症患者使用補充氧氣；亦即 SaO2 <90% 者（2,5,6）。更有力地支持避免在 ACS 中不必要使用氧氣的理由如下：
+
+1. 氧氣會促進冠狀動脈血管收縮，並可能降低冠狀動脈疾病患者的冠狀動脈血流量（28）。
+
+2. 活性氧物種（reactive oxygen species）與冠狀動脈再灌流後發生的心肌損傷有關（29）。
+
+（欲進一步了解氧氣的黑暗面，請見第 25 章。）
+
+表 20.3
+
+心臟保護措施
+
+藥物
+
+氧氣（Oxygen）
+
+給藥方案與註解
+
+給藥：依維持 SaO2 ≥90% 所需給予。
+
+註解：應審慎使用補充 O2，因其會促進冠狀動脈血管收縮。
+
+硝酸甘油（Nitroglycerin）
+
+給藥：胸痛時：視需要每 5 min 舌下給予或口腔噴霧 0.4 mg，共 3 次。若有復發性疼痛、高 BP 或 CHF：起始以 5 µg/min 輸注，之後向上滴定至所需終點。
+
+註解：右心室（RV）梗塞、主動脈瓣狹窄，以及使用一劑磷酸二酯酶抑制劑後 24–48 hrs 內應避免使用。長時間（>24 hrs）輸注時常見快速耐受性（tachyphylaxis）。
+
+嗎啡（Morphine）
+
+給藥：4–8 mg IV，之後視需要每 5–15 min 給予 2–8 mg IV。
+
+註解：會降低 P2Y12 抑制劑的抗血小板作用，但其臨床意義尚不確定。
+
+美托洛爾（Metoprolol）
+
+給藥：4–8 mg IV，之後視需要每 5–15 min 給予 2–8 mg IV。
+
+註解：急性心臟衰竭時應避免早期使用 β 阻斷劑，但病況穩定後則不需避免。
+
+古柯鹼相關缺血禁用 β 阻斷劑。
+
+緩解胸痛（Relieving Chest Pain）
+緩解胸痛有助於減輕焦慮誘發的腎上腺素能過度活化對心臟造成的不必要刺激。
+
+硝酸甘油（Nitroglycerin）
+硝酸甘油以舌下錠或氣霧噴劑給予以緩解胸痛，必要時可每隔 5 分鐘給藥一次，總共 3 劑。（硝酸甘油緩解疼痛的機制尚不清楚；亦即，這通常被歸因於其血管擴張作用，但其他血管擴張劑並不能緩解缺血性胸痛。）若疼痛復發，可依表 20.2 的給藥方案開始硝酸甘油輸注。對伴隨高血壓或失代償性心臟衰竭的 ACS 病例，硝酸甘油輸注亦可能有益。
+
+注意事項（CONCERNS）：不建議對右心室梗塞患者（因為硝酸甘油的靜脈擴張作用在此情況下可能適得其反）、重度主動脈瓣狹窄患者，或過去 24–48 小時內曾因勃起功能障礙而使用磷酸二酯酶抑制劑的患者使用硝酸甘油（因有低血壓風險）（2,5,6）。（硝酸甘油輸注的併發症見第 18 章。）
+
+嗎啡（Morphine）
+對硝酸甘油治療無效的胸痛，嗎啡是首選藥物。嗎啡亦具有鎮靜作用，但有時需要加用苯二氮平類藥物（benzodiazepine；例如咪達唑侖 [midazolam]，0.01 mg/kg IV）以緩解焦慮。
+
+注意事項（CONCERNS）：鴉片類藥物（opioids）的併發症見第 6 章。嗎啡（以及芬太尼 [fentanyl]）亦可能削弱 ACS 中所用 P2Y12 抑制劑的抗血小板作用（見後文），但此作用的臨床意義尚未獲證實（2）。
+
+β 受體拮抗劑（β-Receptor Antagonists）
+β 阻斷劑具有數種可降低心肌 O2 需求的作用，通常在診斷 ACS 後最初 24 小時內開始使用。ACS 中最常被研究的藥物是美托洛爾，其給藥建議列於表 20.3。對有棘手心搏過速或高血壓的患者，或在 STEMI 患者接受 PCI 前，靜脈注射美托洛爾可能有用（30）。
+
+何時應避免使用（When to Avoid）
+β 阻斷劑的傳統禁忌症包括心搏過緩、低血壓及高度 AV 傳導阻滯。ACS 的其他注意事項如下：
+
+1. 對伴隨急性心臟衰竭的 ACS，不建議早期使用 β 阻斷劑（2,5,6）；但病況穩定後，建議以 β 阻斷劑長期治療射出分率降低的心臟衰竭（見表 18.5）。
+
+2. 當收縮壓（BP）<120 mm Hg 時，β 阻斷劑會增加心因性休克的風險（31）。
+
+3. 古柯鹼誘發的心肌缺血禁用 β 阻斷劑，因為它們會促進未受拮抗的 α 腎上腺素能血管收縮（32）。
+
+### 抗血栓措施（Antithrombotic Measures）
+
+抗血栓措施用於防止現有血栓繼續增長（再灌流之前），並降低復發風險（再灌流之後）。
+
+抗血小板藥物（Antiplatelet Agents）
+在冠狀動脈血栓形成中，抗血小板治療所扮演的角色比在其他血栓性病況中更為重要（可能是因冠狀動脈血管成形術涉及血管操作）。用於 ACS 的抗血小板藥物及建議給藥方案列於表 20.4。
+
+阿斯匹靈（Aspirin）
+阿斯匹靈藉由抑制血栓素（thromboxane）生成，對血小板聚集產生不可逆的抑制作用。它在 ACS 中具有已證實的存活效益（每治療 42 人可挽救 1 條生命）（33），因此所有疑似缺血患者在首次與醫療人員接觸後都應儘快給予。初始劑量採可咀嚼（非腸溶包衣）劑型給予，目的在於經頰黏膜吸收（亦即不應吞下）。無法經口給藥時，建議使用直腸用阿斯匹靈。在 ACS 病例中，阿斯匹靈應無限期持續使用，且常與第二種抗血小板藥物併用（見下一節）。對阿斯匹靈過敏的患者，氯吡格雷（clopidogrel）是合適的替代藥物。
+
+表 20.4
+
+急性冠狀動脈血栓形成的抗血小板措施
+
+給藥方案
+
+首次與患者接觸時給予 162–325 mg（可咀嚼劑型），之後每日給予 81 mg（用於雙重抗血小板治療 [dual antiplatelet Rx]）或 325 mg。若對阿斯匹靈過敏，使用氯吡格雷。
+
+PO：初始 300–600 mg，之後每日 75 mg
+
+PO：初始 180 mg，之後每日兩次、每次 90 mg
+
+PO：初始 60 mg，之後每日 10 mg
+
+藥物
+
+阿斯匹靈（Aspirin）
+
+P2Y12
+抑制劑（Inhibitors）
+氯吡格雷（Clopidogrel）
+（Plavix）
+
+替格瑞洛（Ticagrelor）
+（Brilinta）
+
+普拉格雷（Prasugrel）
+（Effient）
+
+GP IIb-IIIa
+
+IV：推注 180 μg/kg（最大 22.6 mg），接著以 2 μg/kg/min（最大 15 mg/hr）輸注，並於第一次推注 10 min 後給予第二次推注。
+
+抑制劑（Inhibitors）
+
+Cr CL <50 mL/min 時，將輸注速率降低 50%。
+
+IV：25 μg/kg（推注），接著以 0.15 μg/kg/min 輸注。CrCL <30 mL/min 時，將輸注速率降低 50%。
+
+依替巴肽（Eptifibatide）
+
+（Integrilin）
+
+替羅非班（Tirofiban）
+（Aggrastat）
+
+摘自參考文獻 2、5 與 6 的臨床實務指引。
+
+P2Y12 抑制劑
+
+P2Y12 抑制劑會阻斷血小板表面介導腺苷二磷酸（ADP）誘導之血小板聚集的受體。可用藥物包括氯吡格雷（clopidogrel）、普拉格雷（prasugrel）及替格瑞洛（ticagrelor），其給藥方案見表 20.4。（坎格瑞洛〔cangrelor〕是一種靜脈注射的 P2Y12 抑制劑，極少使用，故此處不予列入。）所有急性冠狀動脈症候群（ACS）患者均應在阿斯匹靈治療的基礎上加用一種 P2Y12 抑制劑（雙重抗血小板治療），且第一劑應於經皮冠狀動脈介入治療（PCI）前給予（2,5,6）。
+
+氯吡格雷（CLOPIDOGREL；PLAVIX）：氯吡格雷是一種前驅藥物，於肝臟轉化為活性形式，因此其抗血小板作用具有個體差異。其在肝臟中的活化也會受到質子幫浦抑制劑（proton pump inhibitors）的阻斷（34），但此作用的臨床重要性仍有爭議。氯吡格雷一旦活化，會造成不可逆的血小板抑制，因此在重大手術前至少應停藥 5 天。這種持久作用也是冠狀動脈繞道手術即將進行時應避免使用氯吡格雷的原因。
+
+替格瑞洛（TICAGRELOR；BRILINTA）：替格瑞洛是一種直接作用型藥物，與氯吡格雷相比，可提供更強效且更一致的 P2Y12 抑制作用；在改善 ACS 患者的臨床結局（死亡率、再次梗塞）方面也優於氯吡格雷（35）。然而，替格瑞洛會增加顱內出血（intracranial hemorrhage, ICH）的風險（35），曾發生 ICH 的患者禁用本藥。
+
+普拉格雷（PRASUGREL；EFFIENT）：普拉格雷與氯吡格雷相同，亦為前驅藥物，但其抗血小板作用更強，且在預防支架血栓形成與復發性缺血方面優於氯吡格雷（36）。然而，普拉格雷的出血風險較高（36），近期曾發生中風或暫時性腦缺血發作（transient ischemic attack, TIA）的患者禁用本藥（2,5,6）。
+
+醣蛋白受體拮抗劑
+
+血小板活化時，血小板表面稱為 IIb 與 IIIa 的特殊醣蛋白受體會改變構形，並開始與纖維蛋白原結合。這使纖維蛋白原分子可在相鄰血小板之間形成橋接，進而促進血小板聚集。醣蛋白受體拮抗劑（亦稱 IIb/IIIa 抑制劑）會阻斷纖維蛋白原與已活化血小板的結合，並抑制血小板聚集。這些藥物是目前可用的最強效抗血小板藥物，有時被稱為「超級阿斯匹靈」（superaspirins）。
+
+IIb/IIIa 抑制劑包括依替巴肽（eptifibatide；Integrilin）與替羅非班（tirofiban；Aggrastat）。依表 20.4 所示給藥方案，以靜脈輸注方式給藥。這些藥物用於接受緊急 PCI 的高風險患者，並在程序開始前不久或開始時給予。此類藥物主要由介入性心臟科醫師管理，故此處不再進一步說明。
+
+抗凝血治療
+
+建議所有 ACS 患者均接受肝素抗凝治療，並於診斷時開始。可選方案如下：
+
+1. 對接受緊急 PCI 或血栓溶解治療的患者，首選未分餾肝素（unfractionated heparin）。建議劑量為靜脈推注 60 Units（最高 4,000 Units），隨後起始以 12 Units/kg/hr 輸注（最高 1,000 Units/hr），再調整劑量，使活化部分凝血活酶時間（activated PTT, aPTT）達對照值的 1.5–2 倍（3,5）。一般持續 24–48 hrs。
+
+2. 當 PCI 並非緊急或延後進行時，可使用低分子量肝素（low-molecular-weight heparin）。依諾肝素（enoxaparin）的給藥方案為先靜脈推注 30 mg，15 分鐘後再以皮下注射給予 1 mg/kg，此後每 12 hrs 一次（3,5）。（不建議對年齡超過 75 歲的患者給予推注劑量。）當肌酸酐清除率 <30 mL/min 時，劑量減少 50%（例如每 24 小時給予 1 mg/kg）。
+
+3. 對有肝素誘發血小板減少症（heparin-induced thrombocytopenia；見第 19 章）病史的患者，可採用下列替代方案（6）：
+
+   a. 用於 PCI：比伐盧定（bivalirudin，一種直接凝血酶抑制劑），先靜脈推注 0.75 mg/kg，隨後以 1.75 mg/kg/hr 輸注。肌酸酐清除率 <30 mL/min 時，將輸注速率降至 1 mg/kg/hr。PCI 成功後停藥。
+
+   b. 用於血栓溶解治療：磺達肝癸鈉（fondaparinux，第 Xa 因子抑制劑），先靜脈推注 2.5 mg，次日起每日皮下注射 2.5 mg，持續至心導管檢查。肌酸酐清除率 <30 mL/min 時禁用。
+
+### 長期治療
+
+此處概述的治療在患者臨床狀況穩定時（例如緊急 PCI 後）開始，並在可耐受的情況下無限期持續。
+
+1. 已證實使用阿托伐他汀（atorvastatin）每日 80 mg 的高強度 statin（他汀類）治療，可降低 ACS 後重大心血管事件的風險（37），因此建議所有 ACS 患者使用（5,6）。
+
+2. 建議所有 ACS 患者均抑制腎素－血管張力素－醛固酮（renin-angiotensin-aldosterone, RAA）系統，尤其是有高血壓、前壁 STEMI，或合併射出分率降低之心衰竭的患者（6）。目前此用途的首選藥物為沙庫巴曲／纈沙坦（sacubitril/valsartan；Entresto）（38）；此複方藥物包含一種血管張力素受體阻斷劑，以及一種可抑制 neprilysin（腦啡肽酶；一種會降解利鈉胜肽的酵素）的藥物沙庫巴曲（sacubitril）。本藥的給藥方式見表 18.5。任何原因所致之血管性水腫病史患者均禁用 RAA 抑制劑；容易發生高血鉀的腎功能不全患者則應慎用。
+
+3. 建議所有 ACS 患者長期使用 β 阻斷劑，尤其是合併射出分率降低之心衰竭者（見第 18 章）。美托洛爾（metoprolol）是此情況最常使用的 β 阻斷劑，建議劑量見表 20.3。
+
+### 急性主動脈剝離
+
+首先，下列關於急性升主動脈剝離的要點值得強調：
+
+1. 其臨床表現可能模仿 ACS，亦可能同時包含 ACS。
+
+2. 此病況屬外科急症；若未迅速進行手術介入，約 60% 的患者將死亡（39）。
+
+3. 每三例中即有一例遭漏診（40）。
+
+病理生理學
+
+當主動脈內膜裂口使血液得以在主動脈壁的內膜層與中膜層之間剝離，形成假腔時，即發生主動脈剝離。此過程可能源於動脈粥樣硬化性損傷，或遺傳性疾病（例如 Marfan syndrome〔馬凡氏症候群〕）造成主動脈壁加速退化。剝離可起源於升主動脈或降主動脈，並可向順行及逆行方向延伸。當剝離累及主動脈瓣與頭臂動脈之間的升主動脈（A 型剝離）時，逆行延伸可導致主動脈瓣閉鎖不全、冠狀動脈阻塞及心包填塞；順行延伸則可因主動脈弓血管阻塞而造成神經功能缺損。
+
+臨床表現
+
+最常見的主訴是突發性銳利胸痛，可被描述為「撕裂樣」或「扯裂樣」，疼痛可位於胸骨後（升主動脈剝離）或背部（降主動脈剝離）。急性主動脈剝離患者中僅 5% 無疼痛（41）。最重要的是，胸痛可自發緩解數小時至數天（42,43），而胸痛再度出現通常是主動脈即將破裂的徵兆。胸痛自發消退是造成漏診的重要原因。
+
+臨床發現
+
+最常見的臨床發現為高血壓（50% 的患者）與主動脈瓣閉鎖不全（50% 的患者）（42,44）。上肢脈搏不對稱（由左鎖骨下動脈阻塞所致）是典型但不常見的發現（15% 的病例）（42）。胸部 X 光可顯示縱隔增寬（60% 的病例）（42），但多達 20% 的病例據報胸部 X 光正常（41）。ECG 可顯示缺血性變化（15% 的病例），但 30% 的病例 ECG 正常（41）。由於臨床發現的敏感度有限，診斷需進行額外的影像學檢查。
+
+診斷影像
+
+主動脈剝離的診斷需要採用四種影像學方法之一（43）：磁振造影（magnetic resonance imaging, MRI；敏感度與特異度均為 98%）、經食道心臟超音波（敏感度 98%，特異度 77%）、顯影劑增強電腦斷層掃描（敏感度 94%，特異度 87%），以及主動脈攝影（敏感度 88%，特異度 94%）。如上述數據所示，MRI 是診斷主動脈剝離最敏感且最具特異性的影像學方法，但 CT 血管攝影亦可接受。
+
+圖 20.4 的 CT 影像顯示升主動脈剝離。小箭頭指向內膜瓣（intimal flap）；此瓣膜樣結構將主動脈壁內的剝離血液（假腔）與主動脈真腔內的血液分隔開來。此內膜瓣的存在可用以區分主動脈剝離與主動脈囊狀動脈瘤。
+
+圖 20.4 顯影劑增強 CT 影像，顯示升主動脈急性剝離。分隔真腔與假腔的內膜瓣（小箭頭所示）可用以區分主動脈剝離與囊狀動脈瘤。PA＝肺動脈，DA＝降主動脈。
+
+處置
+
+急性 A 型主動脈剝離的處置目標包括控制高血壓（以防止主動脈破裂）、緩解疼痛（以協助血壓控制），以及迅速進行手術介入（首選治療）。
+
+表 20.5
+
+急性主動脈剝離的降血壓治療
+
+藥物
+
+艾司洛爾（Esmolol）
+
+給藥方案與說明
+
+給藥：先靜脈推注 500 μg/kg，之後以 50 μg/kg/min 輸注，並每次增加 25 μg/kg/min，直至達到所需血壓或最高 200 μg/kg/min。每次提高輸注速率前，均再給予一次推注劑量。
+
+說明：超短效 β 阻斷劑，可快速調整劑量以達到所需血壓。存在急性心衰竭時不建議使用。
+
+拉貝洛爾（Labetalol）
+
+給藥：20 mg 靜脈注射，歷時 2 min；其後視需要每 10 min 靜脈注射 20–40 mg，或以 1–2 mg/min 輸注並調整至所需血壓。最大累積劑量為 300 mg。
+
+說明：兼具 α 與 β 阻斷作用，可作為單一藥物治療。急性心衰竭時避免使用。
+
+美托洛爾（Metoprolol）
+
+給藥：靜脈推注 5 mg；如有需要，每隔 5 min 重複一次，共 2 次。其後視需要每 4–6 hrs 靜脈注射 5–10 mg。
+
+說明：使用血管擴張劑時，最適合作為初始 β 阻斷治療。
+
+尼卡地平（Nicardipine）
+
+給藥：以 5 mg/hr 輸注，並視需要每 5 min 增加 2.5 mg/hr，最高輸注速率為 15 mg/hr。
+
+說明：與 β 阻斷劑合併使用。
+
+硝普鈉（Nitroprusside）
+
+給藥：以 0.2 µg/kg/min 輸注，並每 5 min 向上調整至所需效果。有效劑量通常為 2–5 µg/kg/min，但應避免以 >3 µg/kg/min 長時間輸注，以降低氰化物毒性的風險。可在輸注液中加入硫代硫酸鹽（thiosulfate，500 mg；可結合硝普鈉所釋放的氰化物）。
+
+說明：與 β 阻斷劑合併使用。肝衰竭或腎衰竭患者，或存在冠狀動脈缺血時，不得使用。
+
+給藥方案為製造商的建議。
+
+降血壓治療
+
+主動脈剝離的血壓控制有一項重要注意事項：亦即，降低血壓時不得伴隨心搏過速或心輸出量增加，因為這些狀況會增強促使剝離進展的剪切力。因此，主動脈剝離的血壓控制首選 β 阻斷劑，而血管擴張劑（例如尼卡地平）僅應與 β 阻斷劑合併使用（39）。主動脈剝離所用的藥物方案見表 20.5。艾司洛爾是首選 β 阻斷劑，因其可快速調整劑量。主動脈剝離降血壓處置的目標收縮壓為 120 mm Hg，但通常可耐受低至 90 mm Hg 的血壓（39）。
+
+疼痛緩解
+
+疼痛會活化交感神經系統，使心率、心輸出量及血壓升高，因而可能加重急性主動脈剝離。因此，以靜脈注射 opioid（鴉片類藥物）緩解疼痛，是早期處置目標之一（39）。
+
+手術介入
+
+升主動脈開放式手術修復是急性 A 型主動脈剝離患者的標準治療；及時介入至關重要，因為症狀發作後，死亡率每小時增加 1–2%（39）。若患者所在醫院無法提供急性心臟手術，則必須將其轉送至另一家醫院接受手術介入。手術修復可將死亡率降至低至 10%（30）。
+
+### 結語
+
+### 氧供需教條（O₂ Supply-Demand Dogma）
+
+傳統上認為心肌梗塞（myocardial infarction）是 O₂ 供應與 O₂ 需求失衡的結果，這種觀念具有誤導性，因為它暗示貧血（anemia）和低氧血症（hypoxemia）等情況可以引起心肌梗塞。然而，心肌梗塞是由阻塞冠狀動脈的血栓所造成，而不是由導致心肌 O₂ 輸送整體下降的情況所造成。
+
+是否曾想過，為什麼進行性循環性休克（此時 O₂ 輸送嚴重受損）的患者不會發生急性心肌梗塞（acute MI）？現在你知道答案了。
+
+### 參考文獻
+
+1. Tsao CW, Aday AW, Almarzoog ZI, et al. 心臟病與中風統計——2023 年更新：美國心臟協會報告。Circulation 2023; 147:e93–e621.
+
+#### 臨床實務指引
+
+2. Byrne RA, Rosello X, Coughlan JJ, et al. 2023 ESC 急性冠狀動脈症候群處置指引。由歐洲心臟病學會（European Society of Cardiology, ESC）急性冠狀動脈症候群處置工作小組制定。Eur Heart J 2023; 44:3720–3826.
+
+3. Byrne RA, Rosello X, Coughlan JJ, et al. 2023 ESC 急性冠狀動脈症候群處置指引。補充資料。Eur Heart J 2023; 00:1–52.
+
+4. Gulati M, Levy PD, Mukherjee D, et al. AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR 胸痛評估與診斷指引：美國心臟病學院／美國心臟協會臨床實務指引聯合委員會報告。Circulation 2021; 144:e368–e454.
+
+5. Amsterdam EA, Wenger NK, Brindis RG, et al. 2014 AHA/ACC 非 ST 段上升型急性冠狀動脈症候群患者處置指引：美國心臟病學院／美國心臟協會實務指引工作小組報告。J Am Coll Cardiol 2014; 64:e139–228.
+
+6. O’Gara PT, Kushner FG, Ascheim DD, et al. 2013 ACCF/AHA ST 段上升型心肌梗塞處置指引：美國心臟病學院基金會／美國心臟協會實務指引工作小組報告。J Am Coll Cardiol 2013; 61:e78–140.
+
+7. Lawton JS, Tamis-Holland JE, Bangalore S, et al. 2021 ACC/AHA/SCAI 冠狀動脈血運重建指引：美國心臟病學院／美國心臟協會臨床實務指引聯合委員會報告。J Am Coll Cardiol 2022; 79:e21–e129.
+
+#### 冠狀動脈血栓形成（Coronary Thrombosis）
+
+8. Van der Wal AC, Becker AE, van der Loos CM, Das PK. 不論主要斑塊形態為何，血栓性冠狀動脈粥樣硬化斑塊的內膜破裂或糜爛部位均以發炎過程為特徵。Circulation 1994; 89:36–44.
+
+9. Malek AM, Alper SL, Izumo S. 血流動力學剪切應力及其在動脈粥樣硬化中的作用。JAMA 1999; 282:2035–2042.
+
+10. Swirski FK, Nahrendorf M. 白血球在動脈粥樣硬化、心肌梗塞及心臟衰竭中的行為。Science 2013; 339:161–166.
+
+11. Daugherty A, Dunn JL, Rateri DL, Heinecke JW. 髓過氧化物酶（myeloperoxidase）：脂蛋白氧化的催化劑，表現於人類動脈粥樣硬化病灶中。J Clin Invest 1994; 94:437–444.
+
+12. Teng N, Maghzal GJ, Talib J, et al. 髓過氧化物酶在冠狀動脈疾病中的作用及其對斑塊破裂的潛在意義。Redox Report 2017; 22:51–73.
+
+13. Ndrepepa G. 髓過氧化物酶——連結發炎、氧化壓力與心血管疾病的橋樑。Clin Chim Acta 2019; 493:36–51.
+
+14. Swamy N. 食道痙攣：對硝化甘油及長效型硝酸鹽的臨床與壓力測定反應。Gastroenterology 1977; 72:23–27.
+
+15. Thygesen K, Mair J, Giannitsis E, et al. ESC 急性心臟照護工作小組之心臟病學生物標誌研究組。如何在急性心臟照護中使用高敏感度心肌肌鈣蛋白（high-sensitivity cardiac troponins）。Eur Heart J 2012; 33:2252–2257.
+
+#### 再灌流策略（Reperfusion Strategies）
+
+16. Cannon CP, Gibson CM, Lambrew CT, et al. 接受急性心肌梗塞血管成形術患者之症狀發作至球囊擴張時間、到院至球囊擴張時間與死亡率的關係。JAMA 2000; 283:2941–2947.
+
+17. Concannon TW, Nelson J, Goetz J, Griffith JL. 每家醫院均設置經皮冠狀動脈介入治療實驗室。Circ Cardiovasc Qual Outcomes 2012; 5:14–29.
+
+18. Wang TY, Peterson ED, Ou FS, et al. 因接受初級經皮冠狀動脈介入治療（primary percutaneous coronary intervention）而需院際轉送之 ST 段上升型心肌梗塞患者的到院至球囊擴張時間：國家心血管資料登錄報告。Am Heart J 2011; 161:76–83.
+
+19. Keeley EC, Boura JA, Grines CL. 急性心肌梗塞的初級血管成形術與靜脈血栓溶解治療比較：23 項隨機試驗的定量綜述。Lancet 2003; 361:13–20.
+
+20. Fibrinolytic Therapy Trialists Collaborative Group. 疑似急性心肌梗塞使用纖維蛋白溶解治療的適應症：所有納入超過 1,000 名患者之隨機試驗的早期死亡率與重大罹病結果合作概述。Lancet 1994; 343:311–322.
+
+21. Smalling RW, Bode C, Kalbfleisch J, et al. 急性心肌梗塞中，與阿替普酶（alteplase）輸注相比，推注瑞替普酶（reteplase）可達成更迅速、完全且穩定的冠狀動脈血栓溶解。Circulation 1995; 91:2725–2732.
+
+22. GUSTO-III Investigators. 急性心肌梗塞中瑞替普酶與阿替普酶的國際多中心隨機比較。N Engl J Med 1997; 337:1118–1123.
+
+23. Llevadot J, Giugliano RP, Antman EM. 急性心肌梗塞的推注式纖維蛋白溶解治療。JAMA 2001; 286:442–449.
+
+24. Assessment of the Safety and Efficacy of a New Thrombolytic (ASSENT-2) Investigators. 急性心肌梗塞中，單次推注替奈普酶（tenecteplase）與前端負荷式阿替普酶的比較。Lancet 1999; 354:716–722.
+
+25. Berkowitz SD, Granger CB, Pieper KS, et al. 當代心肌梗塞血栓溶解治療後出血的發生率及預測因子。Circulation 1997; 95:2508–2516.
+
+26. Young GP, Hoffman JR. 血栓溶解治療。Emerg Med Clin 1995; 13:735–759.
+
+#### 心臟保護措施（Cardioprotective Measures）
+
+27. Hofmann R, James SK, Jernberg T, et al. 疑似急性心肌梗塞的氧氣治療。N Engl J Med 2017; 377:1240–1249.
+
+28. Farquhar H, Weatherall M, Wijesinghe M, et al. 高氧血症（hyperoxia）對冠狀動脈血流影響之研究的系統性回顧。Am Heart J 2009; 158:371–377.
+
+29. Bulkley GB. 活性氧代謝物與再灌流損傷：網狀內皮系統功能的異常觸發。Lancet 1994; 344:934–936.
+
+30. Roolvink V, Ibáñez B, Ottervanger JP, et al. ST 段上升型心肌梗塞患者在初級經皮冠狀動脈介入治療前早期靜脈注射 β 阻斷劑（beta-blockers）。J Am Coll Cardiol 2016; 67:2705–2715.
+
+31. Chen ZM, Pan HC, Chen YP, et al. 45,852 名急性心肌梗塞患者早期靜脈注射、繼而口服美托洛爾（metoprolol）：隨機安慰劑對照試驗。Lancet 2005; 366:1622–1632.
+
+32. McCord J, Kneid H, Hollander JE, et al. 古柯鹼相關胸痛與心肌梗塞的處置。美國心臟協會急性心臟照護委員會及臨床心臟病學委員會科學聲明。Circulation 2008; 117:1897–1907.
+
+#### 抗血栓措施（Antithrombotic Measures）
+
+33. ISIS-2 Collaborative Group. 17,187 例疑似急性心肌梗塞患者接受靜脈注射鏈激酶、口服阿斯匹靈、兩者併用或皆不使用的隨機試驗：ISIS-2。Lancet 1988; 2:349–360.
+
+34. Bhatt DL, Cryer BL, Contant CF, et al. 冠狀動脈疾病中氯吡格雷（clopidogrel）併用或不併用奧美拉唑（omeprazole）。N Engl J Med. 2010; 363:1909–1917.
+
+35. Wallentin L, Becker RC, Budjai A, et al; for the PLATO Investigators. 急性冠狀動脈症候群患者使用替格瑞洛（ticagrelor）與氯吡格雷的比較。N Engl J Med 2009; 361:1045–1057.
+
+36. Wiviott SD, Braunwald E, McCabe CH, et al. 急性冠狀動脈症候群患者使用普拉格雷（prasugrel）與氯吡格雷的比較。N Engl J Med 2007; 357:2001–2015.
+
+#### 長期治療（Long-Term Therapies）
+
+37. Cannon C, Braunwald E, McCabe CH, et al. 急性冠狀動脈症候群後以 statins（他汀類藥物）進行高強度與中等強度降血脂治療之比較。N Engl J Med 2004; 350:1495–1504.
+
+38. Velazquez EJ, Morrow DA, DeVore AD, et al. 急性失代償性心臟衰竭中的血管張力素－腦啡肽酶抑制（angiotensin-neprilysin inhibition）。N Engl J Med 2019; 380:539–548.
+
+#### 主動脈剝離（Aortic Dissection）
+
+39. Malaisrie SC, Szeto WY, Halas M, et al. 2021 年美國胸腔外科學會專家共識文件：急性 A 型主動脈剝離的外科治療。J Thorac Cardiovasc Surg 2021; 162:735–758.
+
+40. Lovatt S, Wong CW, Schwarz K, et al. 主動脈剝離的誤診：文獻系統性回顧。Am J Emerg Med 2022; 53:16–22.
+
+41. Tsai TT, Nienaber CA, Eagle KA. 急性主動脈症候群。Circulation 2005; 112:3802–3813.
+
+42. Knaut AL, Cleveland JC. 主動脈急症。Emerg Med Clin N Am 2003; 21:817–845.
+
+43. Zegel HG, Chmielewski S, Freiman DB. 胸主動脈剝離的影像評估。Appl Radiol 1995; (June):15–25.
+
+44. Khan IA, Nair CK. 主動脈剝離的臨床、診斷與處置觀點。Chest 2002; 122:311–328.
 
 ---
-
-## References
-
-1. Benjamin EJ, Muntner P, Alonso A, et al. Heart disease and stroke statistics — 2019 update. Circulation 2019; 139:e56–e528.
-
-2. O'Gara PT, Kushner FG, Ascheim DD, et al. 2013 ACCF/AHA guideline for the management of ST-elevation myocardial infarction. Circulation 2013; 127:e362–e425.
-
-3. Amsterdam EA, Wenger NK, Brindis RG, et al. 2014 AHA/ACC guideline for the management of patients with non-ST-elevation acute coronary syndromes. Circulation 2014; 130:e344–e426.
-
-4. Ibanez B, James S, Agewall S, et al. 2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation. Eur Heart J 2018; 39:119–177.
-
-5. Collet J-P, Thiele H, Barbato E, et al. 2020 ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation. Eur Heart J 2021; 42:1289–1367.
-
-6. Thygesen K, Alpert JS, Jaffe AS, et al. Fourth universal definition of myocardial infarction. Circulation 2018; 138:e618–e651.
-
-7. Windecker S, Kolh P, Alfonso F, et al. 2014 ESC/EACTS Guidelines on myocardial revascularization. Eur Heart J 2014; 35:2541–2619.
-
-8. Libby P. Mechanisms of acute coronary syndromes and their implications for therapy. N Engl J Med 2013; 368:2004–2013.
-
-9. Nicholls SJ, Hazen SL. Myeloperoxidase and cardiovascular disease. Arterioscler Thromb Vasc Biol 2005; 25:1102–1111.
-
-10. Brennan M-L, Penn MS, Van Lente F, et al. Prognostic value of myeloperoxidase in patients with chest pain. N Engl J Med 2003; 349:1595–1604.
-
-11. Awol MA, Nguyen CD, Niu C, et al. Myeloperoxidase and coronary artery disease. J Am Coll Cardiol 2020; 76:1057–1069.
-
-12. Pepine CJ, Ferdinand KC, Shaw LJ, et al. African American women: cardiovascular disease. Circulation 2015; 132:2180–2189.
-
-13. Lange RA, Hillis LD. Should nitroglycerin be used to relieve chest pain in patients with angina? Am J Cardiol 2013; 112:281–282.
-
-14. Reichelt ME, Mellor KM, Bell JR, et al. Myocardial acidosis and arrhythmias. J Mol Cell Cardiol 2013; 55:32–39.
-
-15. Anderson JL, Adams CD, Antman EM, et al. 2012 ACCF/AHA focused update incorporated into the ACC/AHA 2007 guidelines. Circulation 2013; 127:e523–e555.
